@@ -1,0 +1,1606 @@
+,Player,Age,League,Club,Position,Value,Overall,Shooting,Passing,Dribbling,Defending,Physical
+0,Bruno Fernandes,27,Premier League,Manchester United,midfield,74900000.0,93.14,86.99,93.91,96.9,60.92,94.78
+1,Randal Kolo Muani,23,Bundesliga,Eintracht Frankfurt,Attack,64000000.0,79.55,81.78,69.47,85.58,38.54,81.39
+2,Victor Osimhen,23,Serie A,SSC Napoli,Attack,55000000.0,76.58,84.69,63.15,77.83,38.28,80.64
+3,Bukayo Saka,20,Premier League,Arsenal FC,Attack,55000000.0,93.19,93.15,84.07,97.95,57.02,97.58
+4,Vinicius Junior,22,La Liga,Real Madrid,Attack,50000000.0,84.88,81.44,80.43,91.92,46.79,85.72
+5,Alejandro Balde,18,La Liga,FC Barcelona,Defender,46000000.0,76.28,59.96,69.68,71.57,79.68,84.17
+6,Jamal Musiala,19,Bundesliga,Bayern Munich,midfield,45000000.0,84.96,83.75,81.57,90.51,46.78,84.02
+7,Martin Odegaard,23,Premier League,Arsenal FC,midfield,45000000.0,91.38,92.24,85.48,93.58,49.53,94.21
+8,Rodrygo,21,La Liga,Real Madrid,Attack,40000000.0,85.66,81.01,81.01,94.95,41.72,85.68
+9,Alexander Isak,22,Premier League,Newcastle United,Attack,40000000.0,9.69,21.61,9.03,4.89,3.23,2.82
+10,Josko Gvardiol,20,Bundesliga,RB Leipzig,Defender,40000000.0,76.32,55.37,77.71,61.59,90.71,75.27
+11,Jude Bellingham,19,La Liga,Real Madrid,midfield,40000000.0,78.1,75.36,72.96,83.03,72.51,81.05
+12,Vitinha,22,Ligue 1,Paris Saint-Germain,midfield,36000000.0,45.73,46.95,46.53,46.39,28.25,43.06
+13,Goncalo Ramos,21,Primeira Liga,SL Benfica,Attack,36000000.0,70.57,79.27,53.64,72.77,39.52,76.61
+14,William Saliba,21,Premier League,Arsenal FC,Defender,35000000.0,72.02,60.52,64.51,54.13,74.51,88.55
+15,Amadou Onana,20,Premier League,Everton FC,midfield,35000000.0,76.68,74.03,58.56,76.1,70.71,85.88
+16,Gavi,17,La Liga,FC Barcelona,midfield,30000000.0,82.91,82.96,69.43,86.27,53.93,92.97
+17,Bruno Guimaraes,24,Premier League,Newcastle United,midfield,30000000.0,78.18,77.79,70.96,79.61,71.56,83.76
+18,Giorgio Scalvini,18,Serie A,Atalanta BC,Defender,30000000.0,75.59,61.08,71.8,66.21,81.8,82.55
+19,Erling Haaland,22,Premier League,Manchester City,Attack,30000000.0,83.32,95.93,65.11,84.18,41.95,88.06
+20,Ousmane Dembele,25,La Liga,FC Barcelona,Attack,30000000.0,67.0,60.85,71.23,73.07,32.1,62.84
+21,Eduardo Camavinga,19,La Liga,Real Madrid,midfield,30000000.0,85.11,81.27,74.91,89.65,56.14,94.61
+22,Federico Valverde,24,La Liga,Real Madrid,midfield,30000000.0,79.85,81.68,68.91,83.2,50.0,85.62
+23,Nicolas Jackson,21,Premier League,Chelsea FC,Attack,29000000.0,66.41,74.07,53.75,71.27,32.3,66.55
+24,Morgan Gibbs-White,22,Premier League,Nottingham Forest,midfield,29000000.0,83.2,80.67,75.44,87.54,47.1,89.13
+25,Nicolo Fagioli,21,Serie A,Juventus FC,midfield,28500000.0,62.54,68.82,52.97,62.9,35.79,65.49
+26,Lois Openda,22,Ligue 1,RC Lens,Attack,27500000.0,88.59,97.09,69.09,92.82,45.55,95.36
+27,Folarin Balogun,21,Premier League,Arsenal FC,Attack,26000000.0,85.56,91.73,67.39,89.88,44.37,93.23
+28,Nuno Mendes,20,Ligue 1,Paris Saint-Germain,Defender,25000000.0,64.19,44.18,52.53,51.75,73.02,79.45
+29,Aurelien Tchouameni,22,La Liga,Real Madrid,midfield,25000000.0,75.59,72.39,65.94,79.88,60.27,84.16
+30,Antony,20,Premier League,Manchester United,Attack,25000000.0,77.03,79.6,61.92,82.43,50.15,84.19
+31,Cody Gakpo,23,Premier League,Liverpool FC,Attack,25000000.0,52.93,56.31,48.64,53.61,35.54,53.17
+32,Gabriel Jesus,25,Premier League,Arsenal FC,Attack,25000000.0,65.79,66.36,60.47,68.98,44.86,67.35
+33,Dango Ouattara,20,Premier League,AFC Bournemouth,Attack,24100000.0,50.76,47.22,49.53,56.64,44.02,49.64
+34,Khephren Thuram,21,Ligue 1,OGC Nice,midfield,23000000.0,81.6,79.75,70.72,86.51,53.83,89.42
+35,Elye Wahi,19,Ligue 1,Montpellier HSC,Attack,23000000.0,78.27,90.69,58.54,79.38,41.87,84.49
+36,Brennan Johnson,21,Premier League,Nottingham Forest,midfield,23000000.0,85.98,91.74,66.34,89.44,48.28,96.41
+37,Adrien Rabiot,27,Serie A,Juventus FC,midfield,23000000.0,76.48,80.42,64.49,77.69,62.18,83.33
+38,Nayef Aguerd,26,Premier League,West Ham United,Defender,23000000.0,75.6,37.98,80.1,36.06,93.1,91.22
+39,Joelinton,25,Premier League,Newcastle United,midfield,22000000.0,76.16,77.52,64.08,79.5,55.79,83.56
+40,Dominik Szoboszlai,21,Premier League,Liverpool FC,midfield,22000000.0,80.28,74.49,82.5,83.07,48.31,81.08
+41,Diogo Dalot,23,Premier League,Manchester United,Defender,20000000.0,73.78,47.52,75.89,55.44,75.89,87.89
+42,Stanislav Lobotka,27,Serie A,SSC Napoli,midfield,20000000.0,87.93,88.19,68.62,88.72,76.97,97.85
+43,Rafael Leao,23,Serie A,AC Milan,Attack,20000000.0,87.64,87.62,79.43,94.39,45.26,89.1
+44,Marcus Rashford,24,Premier League,Manchester United,Attack,20000000.0,83.74,88.8,69.29,88.8,46.49,88.08
+45,Cheick Doucoure,22,Premier League,Crystal Palace,midfield,20000000.0,77.17,74.68,62.56,79.67,64.35,90.0
+46,Kylian Mbappe,23,Ligue 1,Paris Saint-Germain,Attack,20000000.0,86.3,90.13,77.61,91.75,42.61,85.7
+47,Sofyan Amrabat,25,Serie A,ACF Fiorentina,midfield,20000000.0,65.67,63.31,54.99,68.05,49.49,76.34
+48,Pedri,19,La Liga,FC Barcelona,midfield,20000000.0,66.95,71.36,63.61,66.85,38.56,65.97
+49,Phil Foden,22,Premier League,Manchester City,Attack,20000000.0,81.59,84.35,76.61,85.38,43.35,80.01
+50,Ronald Araujo,23,La Liga,FC Barcelona,Defender,20000000.0,69.15,37.92,70.69,45.2,83.69,77.01
+51,Dayot Upamecano,23,Bundesliga,Bayern Munich,Defender,20000000.0,74.86,50.54,73.65,58.85,91.15,75.79
+52,Jeremie Frimpong,21,Bundesliga,Bayer 04 Leverkusen,Defender,20000000.0,80.36,69.36,67.64,80.37,85.14,86.58
+53,Lisandro Martinez,24,Premier League,Manchester United,Defender,18000000.0,71.25,51.07,70.22,54.38,70.22,90.19
+54,Piero Hincapie,20,Bundesliga,Bayer 04 Leverkusen,Defender,18000000.0,76.23,55.05,72.76,60.8,90.26,81.08
+55,Eberechi Eze,24,Premier League,Crystal Palace,midfield,18000000.0,92.2,92.29,82.02,97.95,56.03,96.56
+56,Nico Williams,20,La Liga,Athletic Bilbao,Attack,18000000.0,85.41,85.41,73.74,91.27,54.63,91.21
+57,Perr Schuurs,22,Serie A,Torino FC,Defender,18000000.0,79.57,52.38,83.78,61.02,96.78,76.72
+58,Kevin Schade,20,Premier League,Brentford FC,Attack,18000000.0,44.81,38.63,45.98,49.89,28.5,44.73
+59,Mathys Tel,17,Bundesliga,Bayern Munich,Attack,18000000.0,56.39,61.54,52.3,57.41,28.5,54.32
+60,Anthony Gordon,21,Premier League,Newcastle United,Attack,18000000.0,39.26,42.05,33.69,38.33,28.52,42.98
+61,Takefusa Kubo,21,La Liga,Real Sociedad,Attack,17500000.0,83.67,85.5,72.26,87.84,51.11,89.07
+62,Jacob Ramsey,21,Premier League,Aston Villa,midfield,17000000.0,82.91,86.92,69.74,85.02,62.5,89.95
+63,Alex Baena,21,La Liga,Villarreal CF,midfield,17000000.0,83.93,83.32,74.77,86.99,48.57,90.62
+64,Federico Dimarco,24,Serie A,Inter Milan,Defender,17000000.0,83.3,61.97,80.91,75.49,93.91,82.88
+65,Bradley Barcola,19,Ligue 1,Olympique Lyon,Attack,17000000.0,62.7,67.4,53.3,64.41,34.9,65.7
+66,Nathan Ake,27,Premier League,Manchester City,Defender,17000000.0,78.66,49.72,81.37,53.28,94.37,85.63
+67,Oleksandr Zinchenko,25,Premier League,Arsenal FC,Defender,17000000.0,70.48,48.91,62.48,57.96,72.48,88.98
+68,Michael Olise,20,Premier League,Crystal Palace,Attack,16000000.0,89.23,84.07,83.46,94.85,58.06,94.53
+69,Joe Willock,22,Premier League,Newcastle United,midfield,16000000.0,81.47,80.15,71.1,85.78,57.02,88.86
+70,Miguel Almiron,28,Premier League,Newcastle United,Attack,16000000.0,81.39,84.59,67.92,87.04,51.64,86.0
+71,Marcus Edwards,23,Primeira Liga,Sporting CP,Attack,15000000.0,83.14,80.29,79.41,89.73,40.6,83.14
+72,Florian Wirtz,19,Bundesliga,Bayer 04 Leverkusen,midfield,15000000.0,49.99,43.67,60.68,52.38,31.97,43.25
+73,Joao Palhinha,27,Premier League,Fulham FC,midfield,15000000.0,86.94,81.38,56.21,78.56,93.54,94.29
+74,Pedro Porro,22,Premier League,Tottenham Hotspur,Defender,15000000.0,71.42,26.16,75.4,38.61,88.4,83.28
+75,Sven Botman,22,Premier League,Newcastle United,Defender,15000000.0,81.56,63.34,76.38,72.45,86.38,91.03
+76,Nahuel Molina,24,La Liga,Atlético de Madrid,Defender,15000000.0,78.96,65.95,74.02,71.48,84.02,86.32
+77,Beto,24,Serie A,Udinese Calcio,Attack,15000000.0,75.7,81.83,59.37,79.01,40.93,82.58
+78,Youssoufa Moukoko,17,Bundesliga,Borussia Dortmund,Attack,15000000.0,62.49,68.54,51.21,65.89,33.89,64.35
+79,Jonathan David,22,Ligue 1,LOSC Lille,Attack,15000000.0,87.85,93.5,73.5,90.39,48.95,94.02
+80,Ben White,24,Premier League,Arsenal FC,Defender,15000000.0,82.79,75.0,76.98,79.85,76.98,97.34
+81,Oihan Sancet,22,La Liga,Athletic Bilbao,midfield,15000000.0,85.62,87.92,74.47,88.0,47.14,92.08
+82,Salis Abdul Samed,22,Ligue 1,RC Lens,midfield,15000000.0,75.27,76.45,58.07,75.96,63.2,85.49
+83,Julian Brandt,26,Bundesliga,Borussia Dortmund,midfield,15000000.0,82.16,82.75,80.37,84.75,43.51,80.75
+84,Desire Doue,17,Ligue 1,Stade Rennais FC,midfield,14600000.0,62.64,64.19,55.85,63.67,41.12,66.85
+85,Mats Wieffer,22,Eredivisie,Feyenoord Rotterdam,midfield,14600000.0,61.28,56.45,59.67,63.6,48.23,65.39
+86,Nicolo Casale,24,Serie A,SS Lazio,Defender,14500000.0,74.75,55.91,68.33,58.07,78.33,94.3
+87,Milos Kerkez,18,Eredivisie,AZ Alkmaar,Defender,14300000.0,71.49,63.14,65.0,71.24,64.73,84.98
+88,Tommaso Baldanzi,19,Serie A,FC Empoli,midfield,14200000.0,62.75,63.67,57.11,65.05,34.21,65.16
+89,Max Kilman,25,Premier League,Wolverhampton Wanderers,Defender,14000000.0,77.53,64.93,66.1,74.41,76.1,93.5
+90,Enzo Le Fee,22,Ligue 1,Stade Rennais FC,midfield,14000000.0,83.98,83.66,75.14,86.27,64.97,90.85
+91,Andre Silva,26,Bundesliga,RB Leipzig,Attack,13800000.0,72.96,72.66,64.51,77.06,38.72,77.59
+92,Orkun Kokcu,21,Primeira Liga,SL Benfica,midfield,13000000.0,83.98,76.32,89.83,88.23,48.01,81.51
+93,Bryan Mbeumo,22,Premier League,Brentford FC,Attack,13000000.0,88.39,91.15,73.6,92.85,47.45,95.96
+94,Edson Alvarez,24,Eredivisie,Ajax Amsterdam,midfield,13000000.0,76.09,71.35,58.74,73.1,78.75,81.15
+95,Danilho Doekhi,24,Bundesliga,1.FC Union Berlin,Defender,13000000.0,78.19,56.0,80.5,50.7,93.5,82.77
+96,Malo Gusto,19,Premier League,Chelsea FC,Defender,13000000.0,75.61,36.23,84.3,47.37,97.3,73.49
+97,Kevin Danso,23,Ligue 1,RC Lens,Defender,13000000.0,75.03,66.74,62.7,75.79,60.36,94.87
+98,Axel Disasi,24,Ligue 1,AS Monaco,Defender,13000000.0,76.48,71.68,61.3,76.87,54.23,96.06
+99,Boulaye Dia,25,Serie A,US Salernitana 1919,Attack,13000000.0,78.71,91.17,61.68,79.2,40.23,82.79
+100,Lutsharel Geertruida,22,Eredivisie,Feyenoord Rotterdam,Defender,13000000.0,65.51,57.75,60.08,64.84,61.2,75.93
+101,Felix Nmecha,21,Bundesliga,Borussia Dortmund,midfield,13000000.0,69.79,70.23,60.11,72.32,48.41,76.51
+102,Ben Davies,29,Premier League,Tottenham Hotspur,Defender,12500000.0,80.95,60.12,83.94,64.52,96.94,78.39
+103,Tijjani Reijnders,24,Eredivisie,AZ Alkmaar,midfield,12500000.0,83.6,77.72,80.53,88.12,47.9,88.03
+104,Nathan Collins,21,Premier League,Brentford FC,Defender,12000000.0,79.94,45.09,84.15,51.98,97.15,86.49
+105,Rayan Cherki,18,Ligue 1,Olympique Lyon,midfield,12000000.0,87.22,79.32,90.49,93.71,44.31,85.37
+106,Marcus Thuram,24,Serie A,Inter Milan,Attack,12000000.0,71.27,76.24,57.92,74.98,40.41,75.95
+107,Cristian Romero,24,Premier League,Tottenham Hotspur,Defender,12000000.0,77.13,46.97,75.6,54.96,85.6,92.36
+108,John Stones,28,Premier League,Manchester City,Defender,12000000.0,71.09,47.34,73.21,46.83,86.21,77.59
+109,Mathias Jensen,26,Premier League,Brentford FC,midfield,12000000.0,88.61,93.12,76.21,89.89,60.09,95.23
+110,Noni Madueke,20,Premier League,Chelsea FC,Attack,12000000.0,32.69,29.85,37.39,34.35,26.19,29.18
+111,Mattia Zaccagni,27,Serie A,SS Lazio,Attack,12000000.0,82.41,86.86,68.01,85.13,49.25,89.64
+112,Sean Longstaff,24,Premier League,Newcastle United,midfield,12000000.0,74.59,74.07,62.84,77.99,50.89,83.49
+113,Cole Palmer,20,Premier League,Manchester City,midfield,12000000.0,39.32,29.6,51.72,41.91,23.02,34.06
+114,Rodrigo Bentancur,25,Premier League,Tottenham Hotspur,midfield,12000000.0,49.55,56.75,39.5,44.03,47.0,50.44
+115,Neco Williams,21,Premier League,Nottingham Forest,Defender,12000000.0,78.6,56.11,78.9,65.42,88.9,81.18
+116,Sael Kumbedi,17,Ligue 1,Olympique Lyon,Defender,11800000.0,51.62,34.38,40.46,42.96,49.63,73.41
+117,Kenny Tete,26,Premier League,Fulham FC,Defender,11000000.0,77.78,57.61,82.21,65.42,82.21,81.3
+118,Armand Lauriente,23,Serie A,US Sassuolo,Attack,11000000.0,72.26,68.82,70.02,76.79,39.03,73.42
+119,Angel Gomes,21,Ligue 1,LOSC Lille,midfield,11000000.0,83.21,80.93,71.72,88.13,51.72,92.07
+120,Terem Moffi,23,Ligue 1,OGC Nice,Attack,11000000.0,43.54,43.96,44.78,45.38,20.54,40.05
+121,Ibrahim Sangare,24,Eredivisie,PSV Eindhoven,midfield,11000000.0,68.36,70.94,58.4,69.49,57.05,74.61
+122,Jesper Lindstrom,22,Bundesliga,Eintracht Frankfurt,midfield,11000000.0,66.54,68.82,58.31,71.06,36.62,67.97
+123,Facundo Medina,23,Ligue 1,RC Lens,Defender,11000000.0,66.62,60.68,58.02,66.37,46.03,81.43
+124,Lazar Samardzic,20,Serie A,Udinese Calcio,midfield,10500000.0,90.33,87.57,85.42,94.02,52.7,94.32
+125,Andreas Pereira,26,Premier League,Fulham FC,midfield,10500000.0,79.25,76.42,74.48,82.39,42.29,83.73
+126,Kiliann Sildillia,20,Bundesliga,SC Freiburg,Defender,10500000.0,71.85,46.89,61.8,56.72,79.3,89.59
+127,Alex Iwobi,26,Premier League,Everton FC,midfield,10000000.0,88.31,86.69,77.08,92.27,66.61,97.19
+128,Sheraldo Becker,27,Bundesliga,1.FC Union Berlin,Attack,10000000.0,80.69,84.84,68.87,83.68,40.99,85.37
+129,Jamie Bynoe-Gittens,17,Bundesliga,Borussia Dortmund,Attack,10000000.0,41.64,39.94,43.15,46.89,20.04,36.6
+130,Lautaro Martinez,24,Serie A,Inter Milan,Attack,10000000.0,90.04,95.65,75.05,93.38,48.15,96.08
+131,Benoit Badiashile,21,Premier League,Chelsea FC,Defender,10000000.0,60.53,35.01,60.55,21.14,73.55,73.0
+132,Fabio Miretti,18,Serie A,Juventus FC,midfield,10000000.0,64.41,58.87,62.08,68.85,41.19,67.84
+133,Fran Navarro,24,Primeira Liga,FC Porto,Attack,10000000.0,77.6,86.41,57.57,80.53,43.56,85.89
+134,Jacob Murphy,27,Premier League,Newcastle United,Attack,10000000.0,84.73,86.78,73.11,88.55,47.09,90.47
+135,Martin Zubimendi,23,La Liga,Real Sociedad,midfield,10000000.0,80.36,83.12,62.49,82.74,60.39,93.11
+136,Benjamin Pavard,26,Bundesliga,Bayern Munich,Defender,10000000.0,75.07,58.01,79.37,62.46,79.37,79.06
+137,Dejan Kulusevski,22,Premier League,Tottenham Hotspur,Attack,10000000.0,73.5,68.63,70.05,79.31,45.28,76.02
+138,Declan Rice,23,Premier League,West Ham United,midfield,10000000.0,85.65,87.46,71.87,87.87,69.73,95.43
+139,Rodri,26,Premier League,Manchester City,midfield,10000000.0,83.14,81.68,71.97,86.68,60.76,92.22
+140,Arnau Martinez,19,La Liga,Girona FC,Defender,10000000.0,78.96,64.14,74.48,70.93,84.48,85.95
+141,Jean-Clair Todibo,22,Ligue 1,OGC Nice,Defender,10000000.0,75.06,59.65,54.85,68.52,83.11,88.96
+142,Matheus Nunes,23,Premier League,Wolverhampton Wanderers,midfield,10000000.0,28.05,30.14,27.73,26.56,27.75,6.3
+143,Lucas Paqueta,24,Premier League,West Ham United,midfield,10000000.0,68.0,65.26,62.5,71.08,53.28,73.17
+144,Eder Militao,24,La Liga,Real Madrid,Defender,10000000.0,80.4,67.73,79.91,66.71,89.91,84.07
+145,Darwin Nunez,23,Premier League,Liverpool FC,Attack,10000000.0,68.62,71.61,59.18,70.66,36.24,73.04
+146,Niclas Fullkrug,29,Bundesliga,SV Werder Bremen,Attack,10000000.0,67.09,72.67,57.1,68.44,34.76,70.14
+147,Valentin Rongier,27,Ligue 1,Olympique Marseille,midfield,10000000.0,83.26,81.69,66.54,84.5,72.68,94.16
+148,Luis Diaz,25,Premier League,Liverpool FC,Attack,10000000.0,46.36,45.24,47.43,50.21,32.68,42.58
+149,Ritsu Doan,24,Bundesliga,SC Freiburg,Attack,10000000.0,77.02,78.42,63.84,81.27,56.42,84.57
+150,Fares Chaibi,19,Ligue 1,FC Toulouse,Attack,9950000.0,82.68,84.5,68.87,86.54,50.96,90.79
+151,Leny Yoro,16,Ligue 1,LOSC Lille,Defender,9850000.0,36.88,21.64,22.36,25.52,23.17,76.46
+152,James Garner,21,Premier League,Everton FC,midfield,9000000.0,37.7,34.12,36.68,39.52,32.61,40.49
+153,Julian Ryerson,24,Bundesliga,Borussia Dortmund,Defender,9000000.0,72.87,22.07,84.44,30.75,97.44,78.84
+154,Eddie Nketiah,23,Premier League,Arsenal FC,Attack,9000000.0,69.07,71.6,57.2,72.44,36.63,75.04
+155,Edoardo Bove,20,Serie A,AS Roma,midfield,8900000.0,50.72,54.69,41.28,50.76,40.95,56.14
+156,Mike Eerdhuijzen,22,Eredivisie,Sparta Rotterdam,Defender,8675000.0,57.74,43.29,46.34,52.37,48.39,83.85
+157,Shawn Adewoye,22,Eredivisie,RKC Waalwijk,Defender,8550000.0,68.16,61.5,52.39,66.43,59.68,85.03
+158,Youri Baas,19,Eredivisie,NEC Nijmegen,Defender,8550000.0,34.58,9.02,23.67,16.2,39.29,59.17
+159,Morten Hjulmand,23,Serie A,US Lecce,midfield,8500000.0,80.07,76.81,63.15,81.21,70.72,91.53
+160,Naouirou Ahamada,20,Premier League,Crystal Palace,midfield,8500000.0,43.26,43.5,40.65,43.73,30.03,45.15
+161,Amine Adli,22,Bundesliga,Bayer 04 Leverkusen,Attack,8000000.0,65.12,65.13,59.02,69.16,34.24,67.18
+162,Nicola Zalewski,20,Serie A,AS Roma,midfield,8000000.0,76.12,76.31,64.42,79.54,49.84,84.22
+163,Samuele Ricci,20,Serie A,Torino FC,midfield,8000000.0,65.14,66.53,51.25,65.0,57.54,71.5
+164,Nicolo Rovella,20,Serie A,Juventus FC,midfield,8000000.0,59.81,57.15,54.35,61.46,40.07,66.26
+165,Jose Fontan,22,La Liga,Celta de Vigo,Defender,8000000.0,70.16,41.96,75.0,43.97,88.0,73.64
+166,Aleksandar Mitrovic,27,Premier League,Fulham FC,Attack,8000000.0,58.47,62.15,49.12,61.33,33.16,61.27
+167,Issa Diop,25,Premier League,Fulham FC,Defender,8000000.0,79.84,56.76,83.24,49.48,96.24,83.12
+168,Nathan Patterson,20,Premier League,Everton FC,Defender,8000000.0,66.45,32.52,73.13,39.34,83.13,70.21
+169,Vedat Muriqi,28,La Liga,RCD Mallorca,Attack,8000000.0,78.99,87.15,58.76,80.62,43.05,89.4
+170,Rico Henry,25,Premier League,Brentford FC,Defender,8000000.0,80.13,65.05,69.83,76.36,79.83,94.52
+171,Jeremy Doku,20,Ligue 1,Stade Rennais FC,Attack,8000000.0,77.96,76.11,76.8,86.16,44.48,72.78
+172,Harrison Reed,27,Premier League,Fulham FC,midfield,8000000.0,85.06,89.29,69.31,87.74,51.38,93.91
+173,Galeno,24,Primeira Liga,FC Porto,Attack,8000000.0,77.67,75.12,73.97,82.94,48.12,78.64
+174,Fredrik Aursnes,26,Primeira Liga,SL Benfica,midfield,8000000.0,67.15,66.13,61.72,68.95,57.75,71.8
+175,Manuel Akanji,27,Premier League,Manchester City,Defender,8000000.0,75.04,50.58,69.04,58.61,79.04,93.47
+176,Noussair Mazraoui,24,Bundesliga,Bayern Munich,Defender,8000000.0,78.32,37.98,81.76,43.19,94.76,93.56
+177,Vangelis Pavlidis,23,Eredivisie,AZ Alkmaar,Attack,8000000.0,63.29,66.37,58.23,65.54,33.01,63.03
+178,Josip Stanisic,22,Bundesliga,Bayern Munich,Defender,8000000.0,71.34,23.45,80.51,30.55,93.51,80.78
+179,Joe Worrall,25,Premier League,Nottingham Forest,Defender,8000000.0,74.17,58.11,74.75,60.12,84.75,77.06
+180,Diogo Leite,23,Bundesliga,1.FC Union Berlin,Defender,8000000.0,74.87,48.7,66.17,56.79,83.67,92.84
+181,Youssouf Ndayishimiye,23,Ligue 1,OGC Nice,Defender,8000000.0,35.93,22.23,22.35,21.68,28.73,70.4
+182,Oguzhan Ozyakup,29,Eredivisie,Fortuna Sittard,midfield,8000000.0,54.57,61.82,47.82,52.94,33.31,55.71
+183,Aiman Maurer,17,Ligue 1,Clermont Foot 63,midfield,7900000.0,25.02,21.06,29.29,26.51,12.99,23.23
+184,Elliot Anderson,19,Premier League,Newcastle United,midfield,7800000.0,56.06,47.59,63.16,59.2,33.0,54.27
+185,Julian Baas,20,Eredivisie,Excelsior Rotterdam,midfield,7650000.0,75.67,79.36,62.1,77.31,49.68,83.93
+186,Nicolas Pallois,34,Ligue 1,FC Nantes,Defender,7500000.0,67.17,49.76,40.76,51.7,78.11,89.1
+187,Kenneth Taylor,20,Eredivisie,Ajax Amsterdam,midfield,7500000.0,75.83,80.16,63.87,77.54,60.32,81.74
+188,Aleix Garcia,25,La Liga,Girona FC,midfield,7500000.0,74.93,67.77,75.93,79.08,47.29,76.93
+189,Kik Pierie,22,Eredivisie,Excelsior Rotterdam,Defender,7500000.0,31.07,19.65,18.4,15.04,24.61,61.6
+190,Moussa Diarra,21,Ligue 1,FC Toulouse,Defender,7400000.0,51.46,39.68,41.45,47.56,39.32,77.14
+191,Magnus Mattsson,23,Eredivisie,NEC Nijmegen,Attack,7350000.0,61.19,61.18,55.49,64.27,45.55,63.82
+192,Calvin Verdonk,25,Eredivisie,NEC Nijmegen,Defender,7300000.0,50.88,28.92,40.22,38.49,36.4,88.4
+193,Tijjani Noslin,23,Eredivisie,Fortuna Sittard,Attack,7250000.0,73.71,75.46,61.78,78.77,54.1,78.85
+194,Maxime Gonalons,33,Ligue 1,Clermont Foot 63,midfield,7200000.0,59.33,62.92,44.34,57.38,52.84,64.16
+195,Isac Lidberg,23,Eredivisie,Go Ahead Eagles,Attack,7100000.0,75.48,78.63,61.06,79.61,41.69,82.63
+196,Youssouf Fofana,23,Ligue 1,AS Monaco,midfield,7000000.0,82.95,82.05,67.31,85.71,69.54,94.5
+197,Antonee Robinson,24,Premier League,Fulham FC,Defender,7000000.0,82.42,61.32,82.73,73.55,82.73,90.66
+198,Seko Fofana,27,Ligue 1,RC Lens,midfield,7000000.0,81.5,81.92,69.51,85.96,49.73,88.59
+199,Johan Bakayoko,19,Eredivisie,PSV Eindhoven,Attack,7000000.0,61.33,57.17,63.95,65.48,33.44,58.71
+200,Ismael Bennacer,24,Serie A,AC Milan,midfield,7000000.0,69.41,67.93,66.33,70.25,63.75,73.13
+201,Vaclav Cerny,24,Bundesliga,VfL Wolfsburg,Attack,7000000.0,82.83,79.51,83.55,86.76,44.11,81.52
+202,Aaron Hickey,20,Premier League,Brentford FC,Defender,7000000.0,67.51,45.17,60.07,53.0,70.07,86.9
+203,Brais Mendez,25,La Liga,Real Sociedad,midfield,7000000.0,82.26,82.97,73.85,85.21,53.42,87.0
+204,Marc Cucurella,24,Premier League,Chelsea FC,Defender,7000000.0,70.15,41.48,69.07,50.01,79.07,82.46
+205,Stephen Eustaquio,25,Primeira Liga,FC Porto,midfield,7000000.0,70.34,67.82,64.81,72.19,62.44,76.53
+206,Vitaliy Mykolenko,23,Premier League,Everton FC,Defender,7000000.0,78.37,59.61,73.17,70.33,83.17,86.8
+207,Bafode Diakite,21,Ligue 1,LOSC Lille,Defender,7000000.0,70.68,64.65,56.8,67.48,65.65,84.94
+208,Federico Gatti,24,Serie A,Juventus FC,Defender,7000000.0,71.06,30.91,71.87,36.85,84.87,90.65
+209,Exequiel Palacios,23,Bundesliga,Bayer 04 Leverkusen,midfield,7000000.0,62.21,58.21,54.55,61.28,64.04,65.3
+210,Jurrien Timber,21,Eredivisie,Ajax Amsterdam,Defender,7000000.0,70.78,62.82,62.21,71.39,61.92,86.68
+211,Nico Schlotterbeck,22,Bundesliga,Borussia Dortmund,Defender,7000000.0,76.85,58.25,77.84,58.4,77.84,93.33
+212,Roger Ibanez,23,Serie A,AS Roma,Defender,7000000.0,73.9,62.37,71.03,66.81,71.03,86.73
+213,Goncalo Inacio,20,Primeira Liga,Sporting CP,Defender,7000000.0,69.3,60.76,62.58,69.55,58.53,84.32
+214,Ryan Yates,24,Premier League,Nottingham Forest,midfield,7000000.0,57.56,56.63,45.3,59.41,47.87,66.32
+215,Giacomo Raspadori,22,Serie A,SSC Napoli,Attack,7000000.0,61.71,57.93,62.23,64.68,33.09,62.0
+216,Arthur Theate,22,Ligue 1,Stade Rennais FC,Defender,7000000.0,70.71,67.24,56.22,70.44,55.36,88.92
+217,Jon Pacheco,21,La Liga,Real Sociedad,Defender,7000000.0,66.51,28.86,66.17,33.27,79.17,87.43
+218,Jarrad Branthwaite,20,Premier League,Everton FC,Defender,7000000.0,80.37,51.72,83.12,54.34,96.12,87.9
+219,Zakaria Aboukhlal,22,Ligue 1,FC Toulouse,Attack,7000000.0,86.22,89.43,71.14,90.33,50.03,93.96
+220,Anastasios Douvikas,22,Eredivisie,FC Utrecht,Attack,7000000.0,75.14,84.58,58.42,77.05,43.02,80.5
+221,Abel Ruiz,22,Primeira Liga,SC Braga,Attack,7000000.0,79.97,84.23,66.2,83.79,42.47,85.65
+222,Conor Gallagher,22,Premier League,Chelsea FC,midfield,7000000.0,81.35,82.97,67.75,84.06,46.15,90.62
+223,Sergio Camello,21,La Liga,Atlético de Madrid,Attack,7000000.0,85.83,88.78,68.74,90.61,47.05,95.17
+224,Joao Victor,24,Primeira Liga,SL Benfica,Defender,6900000.0,43.34,21.64,25.93,26.78,40.56,80.08
+225,Anthony Musaba,21,Ligue 1,AS Monaco,Attack,6800000.0,41.11,39.11,44.13,42.61,21.0,38.61
+226,Ramon Hendriks,21,Eredivisie,Feyenoord Rotterdam,Defender,6700000.0,28.93,5.41,16.92,11.95,32.5,54.35
+227,Abner,22,Jupiler Pro League,RWD Molenbeek,Defender,6600000.0,39.72,21.73,26.16,27.45,27.71,77.57
+228,Benaissa Benamar,25,Eredivisie,FC Volendam,Defender,6575000.0,65.45,59.68,48.81,59.13,47.37,94.17
+229,Mats Deijl,25,Eredivisie,Go Ahead Eagles,Defender,6575000.0,67.5,61.88,58.59,66.65,59.29,82.17
+230,Scott McKenna,25,Premier League,Nottingham Forest,Defender,6500000.0,65.03,34.27,68.48,39.84,81.48,70.32
+231,Tibor Halilovic,27,Eredivisie,SC Heerenveen,midfield,6500000.0,43.9,40.94,40.62,45.27,26.51,48.75
+232,Raphael Framberger,26,Bundesliga,FC Augsburg,Defender,6500000.0,51.99,3.61,68.5,5.08,81.5,52.87
+233,Peer Koopmeiners,22,Eredivisie,AZ Alkmaar,midfield,6400000.0,48.0,40.65,36.22,43.75,58.58,49.03
+234,Bas Kuipers,27,Eredivisie,Go Ahead Eagles,Defender,6350000.0,56.03,45.51,49.85,49.83,46.3,78.14
+235,Jens Toornstra,33,Eredivisie,FC Utrecht,midfield,6300000.0,68.17,63.86,65.98,70.99,47.4,71.86
+236,Pelle Clement,26,Eredivisie,Sparta Rotterdam,midfield,6300000.0,76.6,76.24,65.6,80.47,50.46,84.09
+237,Couhaib Driouech,20,Eredivisie,Excelsior Rotterdam,Attack,6275000.0,74.42,76.37,59.33,77.71,55.32,84.28
+238,Calvin Twigt,19,Eredivisie,FC Volendam,midfield,6250000.0,40.92,42.7,35.38,38.81,39.09,43.1
+239,Nicolai Rapp,25,Bundesliga,SV Werder Bremen,midfield,6200000.0,12.89,13.53,8.92,13.52,8.82,15.57
+240,Daan Rots,21,Eredivisie,Twente Enschede FC,Attack,6200000.0,51.39,47.41,48.88,54.45,39.37,54.81
+241,Johan Gastien,34,Ligue 1,Clermont Foot 63,midfield,6200000.0,73.66,79.14,61.11,73.86,57.69,80.53
+242,Fredrik Oppegard,19,Eredivisie,PSV Eindhoven,Defender,6100000.0,37.15,12.76,16.81,16.58,50.29,64.91
+243,Dirk Abels,25,Eredivisie,Sparta Rotterdam,Defender,6100000.0,60.64,49.32,52.01,55.52,48.09,85.73
+244,Siebe Horemans,24,Eredivisie,Excelsior Rotterdam,Defender,6100000.0,73.61,64.86,61.83,71.04,71.17,87.36
+245,Antoine Colassin,21,Jupiler Pro League,RSC Anderlecht,Attack,6050000.0,54.15,55.01,50.28,55.78,40.71,55.53
+246,Arthur Zagre,20,Eredivisie,Excelsior Rotterdam,Defender,6000000.0,33.91,14.43,15.17,17.11,35.81,67.56
+247,Santiago Bueno,23,La Liga,Girona FC,Defender,6000000.0,78.52,59.61,73.64,68.82,83.64,87.98
+248,Vitaly Janelt,24,Premier League,Brentford FC,midfield,6000000.0,80.47,87.75,63.18,81.64,54.48,89.31
+249,Lloyd Kelly,23,Premier League,AFC Bournemouth,Defender,6000000.0,75.44,39.68,82.08,46.28,95.08,78.32
+250,Mergim Berisha,24,Bundesliga,FC Augsburg,Attack,6000000.0,55.01,58.47,44.25,57.04,30.19,60.27
+251,Ermedin Demirovic,24,Bundesliga,FC Augsburg,Attack,6000000.0,69.79,73.13,56.31,71.74,42.22,77.98
+252,Nuno Santos,27,Primeira Liga,Sporting CP,Attack,6000000.0,75.15,77.57,67.4,76.83,51.0,78.81
+253,Josh Dasilva,23,Premier League,Brentford FC,midfield,6000000.0,84.52,90.65,70.07,87.22,45.88,90.14
+254,Alessandro Buongiorno,23,Serie A,Torino FC,Defender,6000000.0,73.16,61.66,63.34,68.74,73.34,87.22
+255,Cameron Archer,21,Premier League,Aston Villa,Attack,6000000.0,10.73,11.27,7.19,11.27,7.57,12.79
+256,Amin Sarr,21,Ligue 1,Olympique Lyon,Attack,6000000.0,31.58,36.44,27.36,31.39,16.93,31.14
+257,Adrien Truffert,20,Ligue 1,Stade Rennais FC,Defender,6000000.0,69.98,48.81,58.03,60.94,69.38,91.56
+258,Anthony Rouault,21,Ligue 1,FC Toulouse,Defender,6000000.0,76.01,69.83,57.18,73.79,65.07,95.35
+259,Yoane Wissa,25,Premier League,Brentford FC,Attack,6000000.0,86.81,95.78,66.5,89.02,48.68,95.94
+260,Mohamed Sankoh,18,Bundesliga,VfB Stuttgart,Attack,6000000.0,49.77,50.97,43.59,52.96,25.58,51.56
+261,Habib Diallo,27,Ligue 1,RC Strasbourg Alsace,Attack,6000000.0,85.07,94.46,64.48,87.54,47.13,93.8
+262,Joris Kramer,25,Eredivisie,Go Ahead Eagles,Defender,5850000.0,49.06,37.92,38.65,45.09,35.01,74.57
+263,Lorenzo Pirola,20,Serie A,US Salernitana 1919,Defender,5800000.0,70.42,51.46,66.82,51.86,76.82,86.21
+264,Yunis Abdelhamid,34,Ligue 1,Stade Reims,Defender,5800000.0,80.44,66.31,62.76,77.02,82.79,95.63
+265,Joan Gonzalez,20,Serie A,US Lecce,midfield,5750000.0,78.08,79.94,61.68,80.77,49.97,89.93
+266,Yassin Oukili,21,Eredivisie,RKC Waalwijk,midfield,5750000.0,70.35,73.13,52.55,70.99,56.66,80.61
+267,Thierry Lutonda,21,Eredivisie,RKC Waalwijk,Defender,5750000.0,70.66,60.39,57.71,68.08,69.7,84.46
+268,Arianit Ferati,24,Eredivisie,Fortuna Sittard,midfield,5700000.0,62.85,61.89,54.89,65.11,51.33,69.53
+269,Nick Viergever,32,Eredivisie,FC Utrecht,Defender,5700000.0,61.48,59.85,32.34,38.25,53.58,94.25
+270,Brian Plat,22,Eredivisie,FC Volendam,Defender,5675000.0,65.65,50.61,47.86,58.59,77.26,76.12
+271,Mimoun Mahi,28,Eredivisie,FC Utrecht,Attack,5600000.0,32.82,30.08,38.21,33.93,17.27,29.07
+272,Reiss Nelson,22,Premier League,Arsenal FC,Attack,5500000.0,44.59,37.19,67.03,48.19,17.81,25.96
+273,El Bilal Toure,20,Ligue 1,UD Almería,Attack,5500000.0,52.35,59.45,45.66,52.99,25.41,51.27
+274,Erhan Masovic,23,Bundesliga,VfL Bochum,Defender,5500000.0,80.35,61.0,74.24,58.27,91.74,94.42
+275,Hiroki Ito,23,Bundesliga,VfB Stuttgart,Defender,5500000.0,70.08,54.72,61.76,62.64,79.26,76.67
+276,Fabiano Parisi,21,Serie A,FC Empoli,Defender,5500000.0,76.17,62.0,68.6,70.99,78.6,86.47
+277,Deroy Duarte,23,Eredivisie,Fortuna Sittard,midfield,5250000.0,59.8,65.16,48.42,60.28,39.6,65.35
+278,Dante,38,Ligue 1,OGC Nice,Defender,5200000.0,77.55,66.77,61.37,75.09,73.18,95.18
+279,Thomas Buitink,22,Eredivisie,Vitesse Arnhem,Attack,5200000.0,30.77,27.69,31.2,32.29,16.57,31.9
+280,Enzo Cornelisse,19,Eredivisie,Vitesse Arnhem,Defender,5100000.0,46.17,34.41,32.48,39.8,40.44,70.05
+281,Kingsley Coman,26,Bundesliga,Bayern Munich,Attack,5000000.0,65.23,62.26,69.08,68.68,34.67,60.89
+282,Sead Kolasinac,29,Serie A,Atalanta BC,Defender,5000000.0,76.74,65.65,72.35,68.3,82.35,83.93
+283,Leroy Sane,26,Bundesliga,Bayern Munich,Attack,5000000.0,78.45,77.35,72.57,82.24,51.45,81.67
+284,Otavio,27,Primeira Liga,FC Porto,midfield,5000000.0,71.8,67.09,75.41,73.54,58.66,71.17
+285,Alidu Seidu,22,Ligue 1,Clermont Foot 63,Defender,5000000.0,66.58,48.77,46.65,56.71,66.28,94.57
+286,Nicolas Gonzalez,24,Serie A,ACF Fiorentina,Attack,5000000.0,60.03,57.56,59.7,62.44,32.11,60.43
+287,Enzo Millot,20,Bundesliga,VfB Stuttgart,midfield,5000000.0,56.01,50.05,55.45,59.81,43.61,58.71
+288,Borja Iglesias,29,La Liga,Real Betis Balompié,Attack,5000000.0,79.01,88.05,59.07,80.71,42.07,88.21
+289,Maghnes Akliouche,20,Ligue 1,AS Monaco,midfield,5000000.0,26.37,22.79,28.1,27.02,15.89,27.58
+290,Ruben Dias,25,Premier League,Manchester City,Defender,5000000.0,77.13,45.17,78.94,52.2,91.94,85.45
+291,David Neres,25,Primeira Liga,SL Benfica,Attack,5000000.0,78.03,75.34,75.32,83.65,42.6,77.79
+292,Tyrell Malacia,22,Premier League,Manchester United,Defender,5000000.0,73.46,37.97,79.43,45.04,92.43,76.95
+293,Boubacar Kamara,22,Premier League,Aston Villa,midfield,5000000.0,56.3,51.91,42.19,56.04,55.1,62.16
+294,Taiwo Awoniyi,24,Premier League,Nottingham Forest,Attack,5000000.0,63.76,75.49,47.79,64.01,38.84,67.76
+295,Theo Hernandez,24,Serie A,AC Milan,Defender,5000000.0,74.33,59.26,67.49,70.18,77.49,82.15
+296,Moritz Jenz,23,Bundesliga,VfL Wolfsburg,Defender,5000000.0,59.43,18.34,63.29,22.57,76.29,75.56
+297,Jack Grealish,26,Premier League,Manchester City,Attack,5000000.0,70.98,68.38,69.46,74.67,46.61,71.41
+298,Robin Le Normand,25,La Liga,Real Sociedad,Defender,5000000.0,70.28,57.78,60.66,65.94,70.66,83.87
+299,Marcel Sabitzer,28,Bundesliga,Bayern Munich,midfield,5000000.0,36.9,35.82,31.68,35.49,37.12,39.17
+300,Marcos Senesi,25,Premier League,AFC Bournemouth,Defender,5000000.0,72.1,64.44,67.2,62.3,77.2,79.58
+301,Ollie Watkins,26,Premier League,Aston Villa,Attack,5000000.0,85.68,93.11,67.16,89.21,49.02,93.24
+302,Teun Koopmeiners,24,Serie A,Atalanta BC,midfield,5000000.0,81.63,82.15,75.72,84.03,60.21,84.62
+303,Castello Lukeba,19,Ligue 1,Olympique Lyon,Defender,5000000.0,70.92,65.9,53.65,68.19,61.75,87.85
+304,Aurelio Buta,25,Bundesliga,Eintracht Frankfurt,Defender,5000000.0,76.91,44.72,79.35,39.46,92.35,91.21
+305,Ivan Ilic,21,Serie A,Torino FC,midfield,5000000.0,40.25,50.19,38.05,36.4,34.26,36.37
+306,Hakan Calhanoglu,28,Serie A,Inter Milan,midfield,5000000.0,81.35,75.49,81.55,84.49,48.49,83.85
+307,Ruben Loftus-Cheek,26,Serie A,AC Milan,midfield,5000000.0,56.68,54.22,49.82,60.07,43.27,62.64
+308,Junior Dina Ebimbe,21,Bundesliga,Eintracht Frankfurt,midfield,5000000.0,46.0,47.99,36.54,44.27,42.86,48.88
+309,Joachim Andersen,26,Premier League,Crystal Palace,Defender,5000000.0,69.77,58.35,61.2,64.58,71.2,82.11
+310,Nicolo Barella,25,Serie A,Inter Milan,midfield,5000000.0,86.17,86.94,79.0,89.06,61.84,89.69
+311,Martin Terrier,25,Ligue 1,Stade Rennais FC,Attack,5000000.0,45.65,48.03,47.55,46.26,40.76,40.5
+312,Breel Embolo,25,Ligue 1,AS Monaco,Attack,5000000.0,77.97,87.38,64.41,79.61,41.96,80.47
+313,Danilo Cataldi,27,Serie A,SS Lazio,midfield,5000000.0,64.11,63.2,52.68,67.02,43.31,73.52
+314,Jefferson Lerma,27,Premier League,Crystal Palace,midfield,5000000.0,82.42,89.13,62.04,84.11,56.4,94.39
+315,Andreas Christensen,26,La Liga,FC Barcelona,Defender,5000000.0,72.37,44.08,76.2,46.43,89.2,77.66
+316,El Chadaille Bitshiabu,17,Ligue 1,Paris Saint-Germain,Defender,5000000.0,36.38,21.64,21.43,25.26,18.94,77.17
+317,Davide Frattesi,22,Serie A,Inter Milan,midfield,5000000.0,83.07,86.16,68.17,85.73,61.95,92.2
+318,Reece James,22,Premier League,Chelsea FC,Defender,5000000.0,66.34,30.03,65.0,38.67,75.0,86.7
+319,Emmanuel Agbadou,25,Ligue 1,Stade Reims,Defender,5000000.0,67.04,50.61,51.05,59.43,79.71,77.95
+320,Samuel Chukwueze,23,La Liga,Villarreal CF,Attack,5000000.0,89.51,87.49,79.6,98.08,46.86,92.86
+321,Damon Mirani,26,Eredivisie,FC Volendam,Defender,4950000.0,66.18,62.28,55.62,64.27,59.62,78.57
+322,Nathan Tjoe-A-On,20,Eredivisie,Excelsior Rotterdam,Defender,4875000.0,68.01,58.69,51.71,59.92,59.28,94.14
+323,Carlos Baleba,18,Ligue 1,LOSC Lille,midfield,4850000.0,44.18,40.72,40.34,46.57,37.24,49.09
+324,Evert Linthorst,22,Eredivisie,Go Ahead Eagles,midfield,4600000.0,54.51,55.36,46.2,55.07,47.77,59.84
+325,Gijs Smal,24,Eredivisie,Twente Enschede FC,Defender,4600000.0,79.85,62.32,77.36,76.78,77.78,87.48
+326,Enric Llansana,21,Eredivisie,Go Ahead Eagles,midfield,4600000.0,48.8,45.29,43.7,50.65,45.42,53.84
+327,Paul Gladon,30,Eredivisie,Fortuna Sittard,Attack,4550000.0,62.54,66.95,51.82,64.4,33.77,67.0
+328,Fran Garcia,22,La Liga,Real Madrid,Defender,4500000.0,87.24,70.04,85.23,80.26,85.23,98.24
+329,Andre Amaro,19,Primeira Liga,Vitória Guimarães SC,Defender,4500000.0,66.08,50.39,44.35,54.33,67.89,91.72
+330,Mitchell Weiser,28,Bundesliga,SV Werder Bremen,Defender,4500000.0,79.52,55.63,77.12,68.34,94.62,77.99
+331,Ramiz Zerrouki,24,Eredivisie,Feyenoord Rotterdam,midfield,4500000.0,75.65,71.87,68.99,78.35,68.43,83.4
+332,Ismael Doukoure,19,Ligue 1,RC Strasbourg Alsace,Defender,4500000.0,63.95,53.31,46.41,56.7,54.13,91.67
+333,Ivo Pinto,32,Eredivisie,Fortuna Sittard,Defender,4500000.0,66.12,50.58,55.84,62.32,52.98,93.34
+334,Gerrit Nauber,30,Eredivisie,Go Ahead Eagles,Defender,4450000.0,48.67,32.52,32.18,37.95,30.53,92.02
+335,Andri Fannar Baldursson,20,Serie A,Bologna FC 1909,midfield,4400000.0,24.93,22.67,20.44,24.43,25.31,27.32
+336,Rasmus Nicolaisen,25,Ligue 1,FC Toulouse,Defender,4200000.0,70.71,59.74,52.88,67.89,67.3,87.91
+337,Bart Vriends,31,Eredivisie,Sparta Rotterdam,Defender,4150000.0,61.54,62.64,47.76,60.03,46.56,75.74
+338,Jurien Gaari,28,Eredivisie,RKC Waalwijk,Defender,4100000.0,73.72,57.78,56.24,67.4,84.0,85.69
+339,Henk Veerman,29,Eredivisie,FC Volendam,Attack,4100000.0,65.32,70.3,50.33,68.74,34.85,71.9
+340,Finn Stokkers,26,Eredivisie,Go Ahead Eagles,Attack,4050000.0,59.04,57.0,57.7,61.63,32.78,59.84
+341,Joe Scally,19,Bundesliga,Borussia Mönchengladbach,Defender,4000000.0,79.12,48.74,74.97,58.11,92.47,90.93
+342,Stefan Posch,25,Serie A,Bologna FC 1909,Defender,4000000.0,74.37,61.8,77.5,64.06,77.5,78.44
+343,Marshall Munetsi,26,Ligue 1,Stade Reims,midfield,4000000.0,78.92,81.21,65.9,81.44,52.83,87.11
+344,Sinaly Diomande,21,Ligue 1,Olympique Lyon,Defender,4000000.0,60.31,41.57,39.11,48.17,68.59,82.91
+345,Juan Miranda,22,La Liga,Real Betis Balompié,Defender,4000000.0,71.44,42.68,76.5,45.86,89.5,73.89
+346,Dominic Solanke,24,Premier League,AFC Bournemouth,Attack,4000000.0,74.91,78.09,59.47,79.26,41.35,82.83
+347,Quinten Timber,21,Eredivisie,Feyenoord Rotterdam,midfield,4000000.0,60.5,56.85,60.99,62.26,44.18,61.88
+348,Fabio Carvalho,19,Bundesliga,RB Leipzig,midfield,4000000.0,33.84,37.16,33.14,33.79,21.74,31.26
+349,Nicolas Dominguez,24,Serie A,Bologna FC 1909,midfield,4000000.0,74.16,72.31,63.3,74.88,68.09,81.37
+350,Arnaud Kalimuendo,20,Ligue 1,Stade Rennais FC,Attack,4000000.0,68.38,75.35,53.13,70.17,37.9,74.89
+351,Stijn Spierings,26,Ligue 1,RC Lens,midfield,4000000.0,82.4,83.35,63.52,84.04,68.32,93.9
+352,Tiago Djalo,22,Ligue 1,LOSC Lille,Defender,4000000.0,57.42,48.95,39.66,49.92,46.69,84.1
+353,Luke Shaw,27,Premier League,Manchester United,Defender,4000000.0,72.98,57.19,72.54,66.68,72.54,80.14
+354,Jens Odgaard,23,Eredivisie,AZ Alkmaar,Attack,4000000.0,70.16,71.36,61.78,73.62,48.7,73.88
+355,Taylor Booth,21,Eredivisie,FC Utrecht,midfield,4000000.0,58.41,56.46,54.94,61.0,42.33,61.23
+356,Jesper Karlsson,24,Eredivisie,AZ Alkmaar,Attack,4000000.0,59.49,61.15,57.98,60.62,32.17,58.21
+357,Nehuen Perez,22,Serie A,Udinese Calcio,Defender,4000000.0,79.35,65.2,79.86,68.79,79.86,88.87
+358,Ludovic Blas,24,Ligue 1,Stade Rennais FC,midfield,4000000.0,88.42,85.83,79.87,93.86,52.03,94.12
+359,Brandon Soppy,20,Serie A,Atalanta BC,Defender,4000000.0,61.38,25.4,56.7,37.1,69.7,82.03
+360,Steven Bergwijn,24,Eredivisie,Ajax Amsterdam,Attack,4000000.0,79.94,80.04,75.57,83.97,41.49,80.2
+361,Miguel Gutierrez,21,La Liga,Girona FC,Defender,4000000.0,77.65,64.66,70.67,72.54,80.67,86.71
+362,Rodrigo Becao,26,Serie A,Udinese Calcio,Defender,4000000.0,75.61,53.55,85.02,56.97,85.02,75.43
+363,Joe Gomez,25,Premier League,Liverpool FC,Defender,4000000.0,70.14,36.18,75.53,42.95,88.53,73.54
+364,Rani Khedira,28,Bundesliga,1.FC Union Berlin,midfield,4000000.0,73.98,76.54,54.45,74.89,58.14,86.35
+365,Chris Mepham,24,Premier League,AFC Bournemouth,Defender,4000000.0,69.38,45.26,64.54,51.36,74.54,87.07
+366,Said Bakari,27,Eredivisie,Sparta Rotterdam,Defender,3950000.0,59.01,45.13,50.98,55.5,34.79,84.42
+367,Florent Ogier,33,Ligue 1,Clermont Foot 63,Defender,3800000.0,59.48,45.09,42.05,52.29,54.19,86.33
+368,Aitor Paredes,22,La Liga,Athletic Bilbao,Defender,3800000.0,64.74,27.26,64.74,31.46,77.74,85.01
+369,Nikolas Agrafiotis,22,Eredivisie,Excelsior Rotterdam,Attack,3750000.0,41.2,43.5,37.26,42.27,20.8,41.79
+370,Robson,22,Primeira Liga,SC Farense,Defender,3675000.0,21.32,9.02,7.63,10.14,8.15,57.97
+371,Michiel Kramer,33,Eredivisie,RKC Waalwijk,Attack,3625000.0,64.5,73.75,51.47,64.61,33.1,68.19
+372,Nordine Kandil,20,Ligue 1,RC Strasbourg Alsace,midfield,3600000.0,30.48,13.53,56.7,36.14,9.05,15.57
+373,Mads Roerslev,23,Premier League,Brentford FC,Defender,3500000.0,69.9,34.27,77.87,40.88,90.87,70.01
+374,Marvin Ducksch,28,Bundesliga,SV Werder Bremen,Attack,3500000.0,81.6,84.47,70.48,86.15,41.44,85.29
+375,Janik Haberer,28,Bundesliga,1.FC Union Berlin,midfield,3500000.0,74.61,79.18,62.38,76.15,47.57,80.74
+376,Vitor Carvalho,25,Primeira Liga,SC Braga,midfield,3500000.0,76.04,72.96,57.42,72.16,75.93,83.12
+377,Santi Comesana,25,La Liga,Villarreal CF,midfield,3500000.0,82.91,83.31,71.88,85.69,66.18,90.74
+378,Andreas Hanche-Olsen,25,Bundesliga,1.FSV Mainz 05,Defender,3500000.0,68.89,34.81,66.44,33.73,83.94,90.38
+379,Julian Chabot,24,Bundesliga,1.FC Köln,Defender,3500000.0,64.9,36.23,62.8,42.33,80.3,74.18
+380,Facundo Pellistri,20,Premier League,Manchester United,Attack,3500000.0,10.5,6.76,13.34,14.1,5.43,7.81
+381,Sergio Akieme,24,Ligue 1,UD Almería,Defender,3500000.0,64.77,52.49,51.88,60.69,45.8,94.01
+382,Domagoj Bradaric,22,Serie A,US Salernitana 1919,Defender,3500000.0,77.78,54.13,77.33,64.89,90.33,78.55
+383,Ismael Gharbi,18,Ligue 1,Paris Saint-Germain,midfield,3500000.0,18.01,11.5,27.84,19.01,7.92,13.7
+384,Alexis Flips,22,Ligue 1,Stade Reims,Attack,3500000.0,80.39,77.72,74.74,83.38,56.27,85.7
+385,Edimilson Fernandes,26,Bundesliga,1.FSV Mainz 05,midfield,3500000.0,70.07,70.12,55.36,73.67,53.49,81.14
+386,Yukinari Sugawara,22,Eredivisie,AZ Alkmaar,Defender,3500000.0,70.15,59.33,64.18,68.12,68.55,79.76
+387,Marius Wolf,27,Bundesliga,Borussia Dortmund,Defender,3500000.0,79.58,45.29,82.4,57.22,95.4,83.32
+388,Michael Gregoritsch,28,Bundesliga,SC Freiburg,Attack,3500000.0,71.33,76.08,60.34,73.17,36.82,75.72
+389,Sam Beukema,23,Serie A,Bologna FC 1909,Defender,3500000.0,68.02,52.75,61.75,52.19,71.75,85.85
+390,Patrick Ciurria,27,Serie A,AC Monza,Attack,3400000.0,81.93,86.51,65.23,84.69,54.54,91.3
+391,Patrick Vroegh,22,Eredivisie,RKC Waalwijk,midfield,3350000.0,39.24,33.82,41.4,41.56,34.54,39.48
+392,Pasquale Mazzocchi,27,Serie A,US Salernitana 1919,Defender,3300000.0,81.37,51.83,81.13,61.75,94.13,88.47
+393,Bilal Ould-Chikh,25,Eredivisie,FC Volendam,Attack,3250000.0,44.08,42.49,43.75,46.75,22.32,43.34
+394,Oskar Buur,24,Eredivisie,FC Volendam,Defender,3250000.0,47.74,37.37,34.51,34.54,30.07,84.54
+395,Jacopo Fazzini,19,Serie A,FC Empoli,midfield,3250000.0,49.86,45.19,46.9,51.71,46.99,53.85
+396,Robert Muhren,33,Eredivisie,FC Volendam,Attack,3200000.0,64.21,67.05,53.64,66.52,34.75,69.61
+397,Boubacar Traore,20,Premier League,Wolverhampton Wanderers,midfield,3200000.0,23.13,20.29,22.67,24.53,18.91,25.04
+398,Sven Mijnans,22,Eredivisie,AZ Alkmaar,midfield,3150000.0,41.14,42.04,43.01,41.17,31.02,38.34
+399,Patrick Osterhage,22,Bundesliga,VfL Bochum,midfield,3100000.0,50.81,49.6,38.92,51.72,43.64,58.27
+400,Million Manhoef,20,Eredivisie,Vitesse Arnhem,Attack,3050000.0,79.83,80.88,70.93,84.94,42.9,82.58
+401,Jordan Zemura,22,Serie A,Udinese Calcio,Defender,3000000.0,68.81,32.46,64.51,42.59,74.51,93.65
+402,Fabian Schar,30,Premier League,Newcastle United,Defender,3000000.0,81.25,64.5,73.37,75.15,83.37,93.13
+403,Christopher Wooh,20,Ligue 1,Stade Rennais FC,Defender,3000000.0,42.28,21.64,20.86,25.54,43.23,78.72
+404,Andras Schafer,23,Bundesliga,1.FC Union Berlin,midfield,3000000.0,34.82,33.9,29.18,36.77,27.42,39.44
+405,Reinildo Mandava,28,La Liga,Atlético de Madrid,Defender,3000000.0,76.18,37.87,90.67,44.97,90.67,78.39
+406,Simon Banza,25,Primeira Liga,SC Braga,Attack,3000000.0,70.46,79.43,55.91,71.28,39.63,75.24
+407,Edon Zhegrova,23,Ligue 1,LOSC Lille,Attack,3000000.0,62.12,52.34,73.77,66.73,41.88,55.65
+408,Nuno Tavares,22,Premier League,Arsenal FC,Defender,3000000.0,74.36,58.97,69.2,68.55,79.2,80.49
+409,Diego Coppola,18,Serie A,Hellas Verona,Defender,3000000.0,71.96,32.46,71.39,37.89,84.39,94.16
+410,Faitout Maouassa,24,Jupiler Pro League,Club Brugge KV,Defender,3000000.0,71.85,64.67,67.09,72.17,51.32,83.48
+411,Alex Berenguer,27,La Liga,Athletic Bilbao,Attack,3000000.0,87.19,85.92,76.49,91.89,55.75,94.47
+412,Pablo Maffeo,25,La Liga,RCD Mallorca,Defender,3000000.0,79.86,65.66,77.41,73.51,77.41,91.08
+413,Chancel Mbemba,27,Ligue 1,Olympique Marseille,Defender,3000000.0,75.02,71.5,60.71,73.35,64.14,91.1
+414,Ezri Konsa,24,Premier League,Aston Villa,Defender,3000000.0,81.31,66.73,71.33,76.0,81.33,96.59
+415,Morato,21,Primeira Liga,SL Benfica,Defender,3000000.0,33.74,28.3,17.09,17.61,21.5,67.54
+416,Lucas Robertone,25,Ligue 1,UD Almería,midfield,3000000.0,86.78,84.24,77.26,90.78,60.59,94.82
+417,Brian Brobbey,20,Eredivisie,Ajax Amsterdam,Attack,3000000.0,74.58,82.96,59.71,75.93,41.42,79.73
+418,Jaidon Anthony,22,Premier League,AFC Bournemouth,Attack,3000000.0,70.49,73.48,59.29,73.58,40.55,75.61
+419,Jhon Lucumi,24,Serie A,Bologna FC 1909,Defender,3000000.0,75.41,57.78,69.68,67.27,79.68,85.0
+420,Mikel Vesga,29,La Liga,Athletic Bilbao,midfield,3000000.0,80.61,81.47,64.94,83.71,55.71,92.32
+421,Ramy Bensebaini,27,Bundesliga,Borussia Dortmund,Defender,3000000.0,79.13,54.07,73.84,58.41,91.34,92.93
+422,Denzel Dumfries,26,Serie A,Inter Milan,midfield,3000000.0,78.48,76.55,68.6,82.27,60.53,86.5
+423,Cenk Ozkacar,21,La Liga,Valencia CF,Defender,3000000.0,76.25,28.99,84.63,34.84,97.63,87.93
+424,Guido Rodriguez,28,La Liga,Real Betis Balompié,midfield,3000000.0,81.38,77.27,56.74,77.13,82.03,89.09
+425,Leon Bailey,24,Premier League,Aston Villa,Attack,3000000.0,76.53,77.32,64.84,81.05,41.21,82.91
+426,Sergio Gomez,21,Premier League,Manchester City,Defender,3000000.0,59.39,19.84,61.98,26.64,74.98,73.96
+427,Jerdy Schouten,25,Serie A,Bologna FC 1909,midfield,3000000.0,73.88,72.23,61.18,77.25,61.61,84.43
+428,Mathias Olivera,24,Serie A,SSC Napoli,Defender,3000000.0,69.65,61.51,64.13,64.11,74.13,76.24
+429,Lucas Torro,28,La Liga,CA Osasuna,midfield,3000000.0,71.67,74.44,53.24,74.17,51.4,84.84
+430,Andrea Cambiaso,22,Serie A,Juventus FC,Defender,3000000.0,73.38,56.08,66.62,68.78,76.62,81.48
+431,Edgar Gonzalez,25,Ligue 1,UD Almería,Defender,3000000.0,56.0,43.42,38.84,49.53,44.71,86.33
+432,Marc Guehi,22,Premier League,Crystal Palace,Defender,3000000.0,82.68,68.01,75.56,74.66,85.56,94.94
+433,Vitinho,22,Premier League,Burnley FC,Defender,3000000.0,50.02,14.81,46.5,27.84,59.5,66.25
+434,Christian Kouame,24,Serie A,ACF Fiorentina,Attack,3000000.0,68.9,67.16,65.31,72.34,39.76,70.81
+435,Aleksandr Golovin,26,Ligue 1,AS Monaco,midfield,3000000.0,84.95,84.47,79.26,88.59,56.42,87.47
+436,Tomas Araujo,20,Primeira Liga,SL Benfica,Defender,3000000.0,57.03,41.39,42.31,45.61,63.0,77.19
+437,Mohamed Simakan,22,Bundesliga,RB Leipzig,Defender,3000000.0,77.44,44.97,82.79,50.84,95.79,80.35
+438,Mattias Svanberg,23,Bundesliga,VfL Wolfsburg,midfield,3000000.0,74.98,77.47,64.13,77.58,43.62,80.72
+439,Ramon Terrats,21,La Liga,Villarreal CF,midfield,3000000.0,17.9,15.78,18.78,18.61,14.14,18.43
+440,Yunus Musah,19,La Liga,Valencia CF,midfield,3000000.0,74.27,72.27,61.02,77.88,58.64,85.9
+441,Serano Seymor,20,Eredivisie,Excelsior Rotterdam,Defender,2975000.0,52.58,56.42,32.98,41.36,40.1,72.41
+442,Max Bruns,19,Eredivisie,Twente Enschede FC,Defender,2925000.0,29.33,14.43,17.83,18.45,14.99,66.04
+443,Josh Flint,21,Eredivisie,FC Volendam,Defender,2900000.0,38.97,19.93,21.5,23.94,34.99,75.42
+444,Filipe Relvas,22,Primeira Liga,Portimonense SC,Defender,2900000.0,67.99,57.85,57.46,67.73,61.96,84.43
+445,Sven Nieuwpoort,29,Eredivisie,Excelsior Rotterdam,Defender,2875000.0,51.58,39.68,35.15,45.29,43.91,77.42
+446,Leonardo Lelo,22,Primeira Liga,Casa Pia AC,Defender,2800000.0,63.48,47.11,53.99,57.93,52.27,89.72
+447,Romaric Yapi,22,Eredivisie,Vitesse Arnhem,Defender,2800000.0,43.82,27.33,31.11,32.95,20.32,83.88
+448,Joshua Eijgenraam,21,Eredivisie,Excelsior Rotterdam,midfield,2750000.0,30.17,27.05,23.76,29.88,30.98,32.77
+449,Joshua Brenet,28,Eredivisie,Twente Enschede FC,Defender,2700000.0,72.05,65.56,69.63,71.57,62.36,81.44
+450,Alex Sola,23,La Liga,Real Sociedad,Defender,2700000.0,62.01,16.34,71.05,22.71,84.05,70.22
+451,Theo Le Bris,19,Ligue 1,FC Lorient,midfield,2600000.0,62.75,69.17,49.2,64.93,44.85,67.69
+452,Antonio Sanabria,26,Serie A,Torino FC,Attack,2500000.0,75.45,82.75,58.53,77.55,39.55,82.97
+453,Dejan Ljubicic,24,Bundesliga,1.FC Köln,midfield,2500000.0,64.74,66.19,58.2,66.49,39.95,68.1
+454,Marcus Pedersen,22,Eredivisie,Feyenoord Rotterdam,Defender,2500000.0,71.42,52.78,59.68,63.75,68.22,94.05
+455,Chris Richards,22,Premier League,Crystal Palace,Defender,2500000.0,57.14,14.43,65.98,17.03,78.98,66.56
+456,Junya Ito,29,Ligue 1,Stade Reims,Attack,2500000.0,85.66,85.07,77.57,90.64,46.27,89.38
+457,Tom Bischof,17,Bundesliga,TSG 1899 Hoffenheim,midfield,2500000.0,29.16,22.79,28.01,27.0,34.68,26.95
+458,Maxime Esteve,20,Ligue 1,Montpellier HSC,Defender,2500000.0,52.37,39.68,35.92,45.38,46.35,78.08
+459,Pedro Malheiro,21,Primeira Liga,Boavista FC,Defender,2500000.0,72.37,56.01,58.11,66.35,81.01,84.01
+460,Kenneth Schmidt,20,Bundesliga,SC Freiburg,Defender,2500000.0,60.64,7.21,80.65,10.28,93.65,57.97
+461,Kristian Thorstvedt,23,Serie A,US Sassuolo,midfield,2500000.0,70.97,73.28,59.18,73.09,40.52,78.35
+462,Jean-Victor Makengo,24,Ligue 1,FC Lorient,midfield,2500000.0,35.76,31.75,34.28,37.31,24.36,39.7
+463,Mario Gila,21,Serie A,SS Lazio,Defender,2500000.0,38.43,5.41,40.78,6.08,53.78,53.06
+464,Bamo Meite,21,Ligue 1,FC Lorient,Defender,2400000.0,48.7,42.38,26.92,33.33,30.6,88.51
+465,Noah Weisshaupt,20,Bundesliga,SC Freiburg,Attack,2300000.0,42.51,38.4,42.15,45.55,23.49,43.93
+466,Valentin Gendrey,22,Serie A,US Lecce,Defender,2300000.0,79.87,64.93,73.86,76.3,73.86,95.45
+467,Enzo Tchato,19,Ligue 1,Montpellier HSC,Defender,2250000.0,51.79,46.38,42.12,44.66,43.04,73.07
+468,Deiver Machado,28,Ligue 1,RC Lens,Defender,2200000.0,70.66,67.21,60.54,69.31,58.31,85.58
+469,Sikou Niakate,23,Primeira Liga,SC Braga,Defender,2200000.0,60.9,57.7,41.77,52.99,44.79,88.12
+470,Lasse Schone,36,Eredivisie,NEC Nijmegen,midfield,2200000.0,74.39,72.83,65.86,76.91,63.31,81.96
+471,Ivan Martin,23,La Liga,Villarreal CF,midfield,2200000.0,56.54,61.37,47.59,57.35,34.51,59.84
+472,Cristian Volpato,18,Serie A,US Sassuolo,midfield,2100000.0,21.98,26.88,25.46,20.02,9.09,15.57
+473,Jean-Ricner Bellegarde,24,Ligue 1,RC Strasbourg Alsace,midfield,2000000.0,72.62,69.06,69.23,75.89,44.24,76.29
+474,Alessandro Zanoli,21,Serie A,SSC Napoli,Defender,2000000.0,69.56,43.75,70.25,49.39,83.25,75.36
+475,Moi Gomez,28,La Liga,CA Osasuna,Attack,2000000.0,78.44,80.93,68.62,80.61,49.49,83.58
+476,Maximilian Eggestein,25,Bundesliga,SC Freiburg,midfield,2000000.0,69.96,70.96,56.99,72.4,50.6,79.47
+477,Antonio Raillo,30,La Liga,RCD Mallorca,Defender,2000000.0,80.66,60.53,83.5,62.23,96.5,80.4
+478,Felipe Anderson,29,Serie A,SS Lazio,Attack,2000000.0,90.23,96.29,72.83,94.78,59.83,97.03
+479,Philipp Lienhart,26,Bundesliga,SC Freiburg,Defender,2000000.0,81.7,53.14,81.02,58.57,94.02,93.18
+480,Vanderson,21,Ligue 1,AS Monaco,Defender,2000000.0,72.68,56.11,63.16,68.61,77.3,81.63
+481,Alexander Sorloth,26,Bundesliga,RB Leipzig,Attack,2000000.0,34.14,0.0,95.92,33.46,1.73,5.43
+482,Philip Billing,26,Premier League,AFC Bournemouth,midfield,2000000.0,82.2,89.56,63.65,84.08,47.95,91.53
+483,Mees Hilgers,21,Eredivisie,Twente Enschede FC,Defender,2000000.0,67.99,54.48,46.94,56.77,68.61,92.09
+484,Largie Ramazani,21,Ligue 1,UD Almería,Attack,2000000.0,76.34,77.31,63.4,80.84,42.92,83.81
+485,Kristjan Asllani,20,Serie A,Inter Milan,midfield,2000000.0,48.52,42.91,50.37,51.0,35.62,49.8
+486,Christian Eriksen,30,Premier League,Manchester United,midfield,2000000.0,66.31,63.18,62.44,69.17,39.22,70.44
+487,Matteo Cancellieri,20,Serie A,SS Lazio,Attack,2000000.0,46.95,42.9,45.32,49.35,30.57,50.22
+488,Danilo,31,Serie A,Juventus FC,Defender,2000000.0,89.2,68.98,92.21,76.82,92.21,95.58
+489,Steffen Tigges,24,Bundesliga,1.FC Köln,Attack,2000000.0,68.6,75.26,54.13,70.3,37.82,74.73
+490,Walace,27,Serie A,Udinese Calcio,midfield,2000000.0,82.67,81.38,63.5,84.95,68.88,95.48
+491,Ilia Gruev,22,Bundesliga,SV Werder Bremen,midfield,2000000.0,67.68,67.68,53.46,71.14,53.41,78.44
+492,Djed Spence,21,Premier League,Tottenham Hotspur,Defender,2000000.0,53.84,12.76,60.11,19.9,70.11,65.23
+493,Tiago Gouveia,21,Primeira Liga,SL Benfica,Attack,2000000.0,69.09,70.03,57.89,73.51,55.75,74.9
+494,Marco Friedl,24,Bundesliga,SV Werder Bremen,Defender,2000000.0,73.11,52.34,76.38,60.71,76.38,78.97
+495,Quentin Merlin,20,Ligue 1,FC Nantes,Defender,2000000.0,58.93,44.64,55.06,53.47,46.44,80.74
+496,Oscar Valentin,27,La Liga,Rayo Vallecano,midfield,2000000.0,77.19,74.44,60.13,78.34,66.09,89.88
+497,Douglas Luiz,24,Premier League,Aston Villa,midfield,2000000.0,87.84,91.47,73.88,89.34,63.01,96.66
+498,Ivan Balliu,30,La Liga,Rayo Vallecano,Defender,2000000.0,79.43,64.96,68.41,76.7,78.41,94.22
+499,Eric Maxim Choupo-Moting,33,Bundesliga,Bayern Munich,Attack,2000000.0,51.46,60.44,48.24,50.38,24.31,46.78
+500,Pedro Goncalves,24,Primeira Liga,Sporting CP,Attack,2000000.0,82.01,80.43,77.11,85.22,54.16,85.3
+501,Yeray Alvarez,27,La Liga,Athletic Bilbao,Defender,2000000.0,78.03,54.08,75.92,57.14,85.92,93.13
+502,Timothy Weah,22,Serie A,Juventus FC,Attack,2000000.0,65.24,63.65,55.22,69.1,49.42,73.01
+503,Amine Harit,25,Ligue 1,Olympique Marseille,midfield,2000000.0,31.86,20.7,48.03,34.52,18.03,24.19
+504,Christoph Baumgartner,22,Bundesliga,RB Leipzig,midfield,2000000.0,78.77,79.35,68.51,83.13,42.38,84.1
+505,Tuta,23,Bundesliga,Eintracht Frankfurt,Defender,2000000.0,78.87,59.25,77.53,62.54,95.03,80.38
+506,Mario Gotze,30,Bundesliga,Eintracht Frankfurt,midfield,2000000.0,76.34,76.61,68.12,78.94,44.83,81.7
+507,Eray Comert,24,La Liga,Valencia CF,Defender,2000000.0,75.7,44.13,81.77,46.12,94.77,80.12
+508,Samu Castillejo,27,La Liga,Valencia CF,Attack,2000000.0,62.89,60.91,61.18,65.16,33.41,64.3
+509,Matteo Ruggeri,20,Serie A,Atalanta BC,Defender,2000000.0,65.42,25.32,66.62,32.4,79.62,83.04
+510,Christian Norgaard,28,Premier League,Brentford FC,midfield,2000000.0,50.71,50.54,42.78,52.25,42.37,57.28
+511,Pierre Kalulu,22,Serie A,AC Milan,Defender,2000000.0,80.34,63.3,77.38,69.57,87.38,87.01
+512,Aitor Ruibal,26,La Liga,Real Betis Balompié,Defender,2000000.0,74.54,45.34,71.8,56.32,81.8,88.23
+513,Florian Lejeune,31,La Liga,Deportivo Alavés,Defender,2000000.0,71.09,59.42,65.29,62.5,75.29,81.29
+514,Petar Musa,24,Primeira Liga,SL Benfica,Attack,2000000.0,75.46,76.08,72.27,78.25,38.16,75.23
+515,Anton Stach,23,Bundesliga,1.FSV Mainz 05,midfield,2000000.0,69.52,67.59,60.66,73.13,47.38,76.7
+516,Brahim Diaz,22,La Liga,Real Madrid,midfield,2000000.0,83.45,82.13,78.23,89.9,41.88,83.55
+517,Lassana Coulibaly,26,Serie A,US Salernitana 1919,midfield,2000000.0,80.44,86.79,62.42,81.56,59.09,90.98
+518,Luka Romero,17,Serie A,AC Milan,Attack,2000000.0,18.52,22.24,22.46,16.58,8.06,12.79
+519,Joey Veerman,23,Eredivisie,PSV Eindhoven,midfield,2000000.0,85.33,77.15,90.37,88.8,58.54,85.0
+520,Raul Garcia,36,La Liga,Athletic Bilbao,Attack,2000000.0,80.75,79.45,68.95,86.23,43.99,88.38
+521,Dwight McNeil,22,Premier League,Everton FC,Attack,2000000.0,86.98,87.85,75.71,91.66,59.22,92.68
+522,Krepin Diatta,23,Ligue 1,AS Monaco,Attack,2000000.0,73.0,73.99,62.41,76.35,45.59,79.26
+523,Toni Martinez,25,Primeira Liga,FC Porto,Attack,2000000.0,72.14,74.35,60.5,75.84,45.08,77.87
+524,Youssouf Sabaly,29,La Liga,Real Betis Balompié,Defender,2000000.0,69.2,43.18,68.57,50.57,78.57,79.09
+525,Ethan Pinnock,29,Premier League,Brentford FC,Defender,2000000.0,71.0,60.97,68.65,60.94,78.65,75.72
+526,Samuel Moutoussamy,25,Ligue 1,FC Nantes,midfield,2000000.0,78.18,76.85,63.66,81.81,54.24,90.38
+527,Riccardo Orsolini,25,Serie A,Bologna FC 1909,Attack,2000000.0,78.47,77.36,71.93,81.08,48.93,83.53
+528,Aaron Martin,25,Serie A,Genoa CFC,Defender,2000000.0,71.94,61.0,62.61,61.32,72.61,91.21
+529,Achraf Douiri,22,Eredivisie,FC Volendam,Attack,1900000.0,30.06,18.04,22.06,22.37,51.5,24.31
+530,Manfred Ugalde,20,Eredivisie,Twente Enschede FC,Attack,1900000.0,59.04,63.59,53.04,60.15,30.49,59.4
+531,Ismael Saibari,21,Eredivisie,PSV Eindhoven,midfield,1850000.0,47.58,36.56,61.49,50.48,33.02,41.82
+532,Jose Marsa,20,Primeira Liga,Sporting CP,Defender,1800000.0,13.88,1.8,1.92,2.03,4.01,47.56
+533,Koni De Winter,20,Serie A,Juventus FC,Defender,1800000.0,59.98,23.45,59.68,27.25,72.68,80.31
+534,Aaron Meijers,34,Eredivisie,RKC Waalwijk,Defender,1750000.0,43.25,21.73,34.58,30.07,31.48,76.89
+535,Arno Verschueren,25,Eredivisie,Sparta Rotterdam,midfield,1700000.0,74.32,78.23,63.61,75.63,51.35,79.82
+536,Ardian Ismajli,25,Serie A,FC Empoli,Defender,1700000.0,69.44,43.37,67.1,49.62,77.1,83.93
+537,Niklas Schmidt,24,Bundesliga,SV Werder Bremen,midfield,1700000.0,61.17,59.99,61.42,62.63,40.74,60.62
+538,Thiago Silva,37,Premier League,Chelsea FC,Defender,1700000.0,72.41,46.97,68.4,54.33,78.4,88.51
+539,Maximiliano Caufriez,25,Ligue 1,Clermont Foot 63,Defender,1600000.0,61.72,48.28,41.27,51.79,58.19,88.62
+540,Andrea Colpani,23,Serie A,AC Monza,midfield,1600000.0,66.31,67.78,62.44,67.74,41.68,67.3
+541,Marouan Azarkan,20,Eredivisie,FC Utrecht,Attack,1525000.0,67.02,65.09,63.61,70.58,46.36,68.8
+542,Florian Sotoca,31,Ligue 1,RC Lens,Attack,1500000.0,90.04,88.79,80.11,94.49,52.92,96.78
+543,Milos Veljkovic,26,Bundesliga,SV Werder Bremen,Defender,1500000.0,74.83,60.73,63.95,58.93,81.45,93.19
+544,Alessio Zerbin,23,Serie A,SSC Napoli,Attack,1500000.0,22.36,20.7,18.83,22.33,21.92,24.5
+545,Riccieli,23,Primeira Liga,FC Famalicão,Defender,1500000.0,61.42,52.34,47.32,59.98,56.31,77.07
+546,Mads Pedersen,25,Bundesliga,FC Augsburg,Defender,1500000.0,76.74,48.72,68.78,60.01,86.28,91.87
+547,Anthony Caci,25,Bundesliga,1.FSV Mainz 05,Defender,1500000.0,78.95,62.5,76.46,66.01,93.96,79.36
+548,Evann Guessand,21,Ligue 1,OGC Nice,Attack,1500000.0,68.92,73.38,54.83,72.3,40.83,75.18
+549,Gaius Makouta,25,Primeira Liga,Boavista FC,midfield,1500000.0,72.24,73.63,57.56,75.6,48.22,82.16
+550,Hicham Boudaoui,22,Ligue 1,OGC Nice,midfield,1500000.0,67.89,61.74,56.2,65.67,73.44,70.71
+551,Armando Obispo,23,Eredivisie,PSV Eindhoven,Defender,1500000.0,51.74,42.83,38.68,44.9,42.61,76.62
+552,Matthis Abline,19,Ligue 1,Stade Rennais FC,Attack,1500000.0,43.64,43.7,36.83,47.58,22.94,46.45
+553,Chiquinho,27,Primeira Liga,SL Benfica,midfield,1500000.0,60.48,58.46,57.38,62.38,56.42,63.7
+554,Matias Soule,19,Serie A,Juventus FC,Attack,1500000.0,36.24,32.93,43.38,37.29,28.95,31.38
+555,Oussama Idrissi,26,La Liga,Sevilla FC,Attack,1500000.0,72.23,65.46,77.43,76.68,41.7,69.36
+556,Xavier Mbuyamba,20,Eredivisie,FC Volendam,Defender,1500000.0,67.74,59.73,47.49,56.94,61.82,92.48
+557,Jeremy Le Douaron,24,Ligue 1,Stade Brestois 29,Attack,1500000.0,73.76,81.22,57.86,75.4,39.13,80.54
+558,Antonino Gallo,22,Serie A,US Lecce,Defender,1500000.0,75.8,55.98,76.04,68.05,76.04,83.08
+559,Dion Lopy,20,Ligue 1,Stade Reims,midfield,1500000.0,66.49,63.31,57.24,69.28,49.19,76.13
+560,Florian Kainz,29,Bundesliga,1.FC Köln,Attack,1500000.0,79.49,74.81,77.59,83.58,42.47,81.96
+561,Kamory Doumbia,19,Ligue 1,Stade Reims,midfield,1500000.0,61.91,59.23,58.53,64.52,38.61,65.35
+562,Angel Algobia,23,La Liga,Getafe CF,midfield,1400000.0,57.86,56.41,45.44,59.6,49.44,66.0
+563,Kevin Stoger,28,Bundesliga,VfL Bochum,midfield,1400000.0,79.07,73.35,78.14,82.11,54.07,82.66
+564,Conor Coventry,22,Premier League,West Ham United,midfield,1300000.0,0.43,0.0,0.0,0.0,1.73,0.0
+565,Hugo Novoa,19,Bundesliga,RB Leipzig,Attack,1300000.0,21.89,31.09,14.88,15.68,24.27,16.53
+566,Grejohn Kyei,26,Ligue 1,Clermont Foot 63,Attack,1300000.0,84.33,88.7,65.87,89.19,45.69,93.56
+567,Milutin Osmajic,23,La Liga,Cádiz CF,Attack,1300000.0,71.3,78.23,55.18,72.99,38.04,78.81
+568,Filippo Terracciano,19,Serie A,Hellas Verona,midfield,1250000.0,47.9,43.04,38.55,47.38,50.74,50.45
+569,Rodrigo Guth,21,Eredivisie,Fortuna Sittard,Defender,1250000.0,69.21,62.96,54.47,68.38,59.06,86.43
+570,Robin Propper,28,Eredivisie,Twente Enschede FC,Defender,1200000.0,61.75,52.12,52.79,59.99,58.96,75.24
+571,Thom Haye,27,Eredivisie,SC Heerenveen,midfield,1200000.0,76.75,70.97,66.94,75.67,78.97,81.4
+572,Kingsley Ehizibue,27,Serie A,Udinese Calcio,Defender,1200000.0,34.31,1.1,38.13,2.97,51.13,45.0
+573,Christopher Antwi-Adjei,28,Bundesliga,VfL Bochum,Attack,1200000.0,70.26,68.96,64.42,74.88,40.53,72.78
+574,Melle Meulensteen,23,Eredivisie,Vitesse Arnhem,midfield,1200000.0,72.26,71.83,60.84,75.45,54.48,80.94
+575,Rafa Mujica,23,Primeira Liga,FC Arouca,Attack,1200000.0,62.14,68.31,48.29,64.17,33.49,67.81
+576,Dirk Proper,20,Eredivisie,NEC Nijmegen,midfield,1100000.0,72.75,72.66,59.86,76.05,58.24,82.44
+577,Kevin Behrens,31,Bundesliga,1.FC Union Berlin,Attack,1100000.0,78.71,85.29,64.51,81.67,40.8,83.39
+578,Costinha,29,Primeira Liga,Rio Ave FC,Defender,1100000.0,41.01,21.95,34.31,29.85,19.85,77.93
+579,Hans Nicolussi Caviglia,22,Serie A,Juventus FC,midfield,1100000.0,32.71,35.31,25.47,28.28,36.14,31.1
+580,Maxim Dekker,18,Eredivisie,AZ Alkmaar,Defender,1100000.0,41.71,42.07,22.65,25.92,17.48,76.22
+581,Bruno Langa,24,Primeira Liga,GD Chaves,Defender,1050000.0,67.23,50.6,59.62,64.29,50.16,94.41
+582,Kike Barja,25,La Liga,CA Osasuna,Attack,1000000.0,64.62,62.09,60.13,68.64,37.0,67.6
+583,Axel Witsel,33,La Liga,Atlético de Madrid,midfield,1000000.0,71.12,72.14,53.64,74.64,53.31,84.07
+584,Paul Wanner,16,Bundesliga,Bayern Munich,midfield,1000000.0,17.11,2.25,25.21,10.28,26.38,6.56
+585,Lewis Cook,25,Premier League,AFC Bournemouth,midfield,1000000.0,63.31,60.93,53.92,66.02,47.28,72.36
+586,Dario Essugo,17,Primeira Liga,Sporting CP,midfield,1000000.0,27.14,6.76,22.31,12.76,52.83,20.64
+587,Chrislain Matsima,20,Ligue 1,AS Monaco,Defender,1000000.0,31.42,12.9,16.93,20.16,24.46,64.14
+588,Benjamin Henrichs,25,Bundesliga,RB Leipzig,Defender,1000000.0,76.14,55.08,80.91,64.36,80.91,78.38
+589,Timo Hubers,26,Bundesliga,1.FC Köln,Defender,1000000.0,75.09,59.15,64.48,57.82,81.98,94.76
+590,Stefano Sensi,26,Serie A,Inter Milan,midfield,1000000.0,69.02,70.31,63.48,69.96,45.36,72.33
+591,Joselu,32,La Liga,Real Madrid,Attack,1000000.0,77.55,84.52,60.5,80.1,42.22,85.08
+592,Ben Johnson,22,Premier League,West Ham United,Defender,1000000.0,72.77,28.92,78.21,34.38,91.21,87.27
+593,Orel Mangala,24,Premier League,Nottingham Forest,midfield,1000000.0,59.2,64.45,43.76,60.46,41.69,68.12
+594,Jordan Lotomba,23,Ligue 1,OGC Nice,Defender,1000000.0,71.44,57.88,62.4,69.57,68.8,84.98
+595,Andre Horta,25,Primeira Liga,SC Braga,midfield,1000000.0,78.35,72.04,77.98,82.09,51.67,81.3
+596,Antonio Sanchez,25,La Liga,RCD Mallorca,midfield,1000000.0,70.03,70.1,55.84,73.38,42.83,80.8
+597,Isaac Success,26,Serie A,Udinese Calcio,Attack,1000000.0,72.16,67.25,68.53,77.43,37.69,75.42
+598,Unai Garcia,30,La Liga,CA Osasuna,Defender,1000000.0,72.48,36.18,80.06,41.34,93.06,75.45
+599,Joseph Aidoo,26,La Liga,Celta de Vigo,Defender,1000000.0,76.24,70.14,65.18,69.54,75.18,90.09
+600,Emirhan Ilkhan,18,Serie A,Torino FC,midfield,1000000.0,21.71,6.76,38.55,21.36,17.5,9.42
+601,Quaresma,25,Primeira Liga,FC Arouca,Defender,1000000.0,70.61,59.33,58.91,67.54,71.84,83.74
+602,Daniel Maldini,20,Serie A,FC Empoli,midfield,1000000.0,45.73,45.82,45.99,46.73,25.72,44.37
+603,Oliver Torres,27,La Liga,Sevilla FC,midfield,1000000.0,75.88,77.61,66.75,77.56,46.67,81.58
+604,Alessio Romagnoli,27,Serie A,SS Lazio,Defender,1000000.0,83.92,65.9,84.21,68.03,97.21,86.23
+605,Toni Lato,24,La Liga,RCD Mallorca,Defender,1000000.0,72.59,46.11,71.59,53.89,84.59,80.27
+606,Romano Schmid,22,Bundesliga,SV Werder Bremen,midfield,1000000.0,63.6,61.94,58.33,66.14,40.6,67.97
+607,Kanya Fujimoto,23,Primeira Liga,Gil Vicente FC,midfield,1000000.0,78.07,74.56,70.02,81.91,50.65,85.79
+608,Tosin Adarabioyo,24,Premier League,Fulham FC,Defender,1000000.0,66.96,46.03,62.03,50.24,72.03,83.56
+609,Przemyslaw Frankowski,27,Ligue 1,RC Lens,midfield,1000000.0,88.0,85.64,79.73,91.38,69.15,95.27
+610,Lilian Brassier,22,Ligue 1,Stade Brestois 29,Defender,1000000.0,73.46,63.22,58.71,72.83,65.77,92.04
+611,Jean Onana,22,Ligue 1,RC Lens,midfield,1000000.0,46.32,45.29,38.46,48.04,36.25,53.49
+612,Robert Gumny,24,Bundesliga,FC Augsburg,Defender,1000000.0,76.03,55.15,77.82,59.9,90.82,75.56
+613,Matias Vecino,30,Serie A,SS Lazio,midfield,1000000.0,71.57,74.38,56.15,73.92,54.96,81.84
+614,Jens Cajuste,22,Ligue 1,Stade Reims,midfield,1000000.0,74.03,73.87,64.44,76.25,57.31,81.56
+615,Arne Maier,23,Bundesliga,FC Augsburg,midfield,1000000.0,69.64,75.65,55.88,70.34,45.08,76.7
+616,Warmed Omari,22,Ligue 1,Stade Rennais FC,Defender,1000000.0,47.42,27.12,28.86,32.33,40.84,87.66
+617,Fredrik Jensen,24,Bundesliga,FC Augsburg,midfield,1000000.0,47.69,52.5,41.29,47.46,30.31,49.53
+618,Oday Dabbagh,23,Jupiler Pro League,RSC Charleroi,Attack,1000000.0,39.08,47.84,36.38,38.12,18.45,33.99
+619,Mario Lemina,28,Premier League,Wolverhampton Wanderers,midfield,1000000.0,36.28,29.6,28.01,32.5,44.94,38.07
+620,Rodrigo Ely,28,Ligue 1,UD Almería,Defender,1000000.0,72.35,63.17,57.24,72.47,61.05,92.71
+621,Ryan Christie,27,Premier League,AFC Bournemouth,midfield,1000000.0,74.62,71.91,67.46,78.45,44.67,80.66
+622,Albert Sambi Lokonga,22,Premier League,Arsenal FC,midfield,1000000.0,25.54,18.19,18.66,20.28,39.87,23.34
+623,Pathe Ciss,28,La Liga,Rayo Vallecano,midfield,1000000.0,70.68,72.74,55.71,73.16,48.62,81.11
+624,Massadio Haidara,29,Ligue 1,RC Lens,Defender,1000000.0,71.92,63.12,59.6,73.48,51.34,91.47
+625,Rade Krunic,28,Serie A,AC Milan,midfield,1000000.0,53.27,49.72,47.71,55.53,39.18,60.12
+626,Fabio Cardoso,28,Primeira Liga,FC Porto,Defender,1000000.0,46.8,36.68,28.88,34.02,24.84,87.61
+627,Takuma Asano,27,Bundesliga,VfL Bochum,Attack,1000000.0,59.54,58.61,53.98,63.05,36.03,62.51
+628,Stephane Diarra,23,Ligue 1,FC Lorient,Attack,1000000.0,66.48,66.58,57.67,70.92,41.0,70.76
+629,Ole Romeny,22,Eredivisie,FC Utrecht,Attack,925000.0,76.67,85.67,59.57,77.94,52.67,83.48
+630,Saviour Godwin,25,Primeira Liga,Casa Pia AC,Attack,900000.0,70.64,69.01,60.94,75.51,43.53,77.1
+631,Pedro Alvaro,22,Primeira Liga,GD Estoril Praia,Defender,900000.0,61.53,56.21,48.32,60.08,53.05,76.78
+632,Antoine Mendy,18,Ligue 1,OGC Nice,Defender,850000.0,43.26,18.24,35.58,27.14,37.14,73.15
+633,Mathias Olesen,21,Bundesliga,1.FC Köln,midfield,850000.0,30.58,29.31,24.22,30.97,27.67,34.39
+634,Bernardo Vital,21,Primeira Liga,GD Estoril Praia,Defender,800000.0,58.51,45.09,40.74,51.5,51.42,86.04
+635,Pawel Bochniewicz,26,Eredivisie,SC Heerenveen,Defender,800000.0,70.14,62.2,53.16,66.44,67.52,84.41
+636,Logan Costa,21,Ligue 1,FC Toulouse,Defender,800000.0,32.63,9.38,18.03,13.19,39.71,59.6
+637,Jota Silva,22,Primeira Liga,Vitória Guimarães SC,Attack,750000.0,69.42,68.67,58.3,73.31,45.89,77.39
+638,Kenzo Goudmijn,20,Eredivisie,AZ Alkmaar,midfield,700000.0,78.28,80.96,64.53,80.58,57.04,87.06
+639,Issiaga Sylla,28,Ligue 1,Montpellier HSC,Defender,700000.0,50.72,29.56,42.09,35.26,42.71,82.81
+640,Mikkel Desler,27,Ligue 1,FC Toulouse,Defender,700000.0,70.86,50.8,53.15,57.53,81.3,91.47
+641,Rafael Ratao,26,Ligue 1,FC Toulouse,Attack,700000.0,71.08,74.62,60.54,72.54,52.31,76.64
+642,Bruno Amione,20,Serie A,Hellas Verona,Defender,700000.0,79.68,48.52,82.47,51.99,95.47,88.77
+643,Lilian Egloff,19,Bundesliga,VfB Stuttgart,midfield,700000.0,29.67,20.29,38.03,30.88,25.18,24.6
+644,Nadir Zortea,23,Serie A,Atalanta BC,Defender,600000.0,55.36,25.21,58.12,24.88,71.12,66.99
+645,Joao Mendes,27,Primeira Liga,Vitória Guimarães SC,midfield,600000.0,74.83,70.63,70.89,77.94,47.89,79.86
+646,Matias Vina,24,Serie A,AS Roma,Defender,500000.0,67.6,29.79,76.01,26.88,89.01,75.61
+647,Michel Aebischer,25,Serie A,Bologna FC 1909,midfield,500000.0,72.19,73.64,59.38,75.25,38.63,80.49
+648,Aleksa Terzic,22,Serie A,ACF Fiorentina,Defender,500000.0,72.27,42.14,73.99,52.98,86.99,75.12
+649,Martin Valjent,26,La Liga,RCD Mallorca,Defender,500000.0,70.28,52.38,67.4,59.4,77.4,76.9
+650,Fede San Emeterio,25,La Liga,Cádiz CF,midfield,500000.0,71.79,72.18,53.39,74.37,54.88,85.74
+651,Jonathan Gradit,29,Ligue 1,RC Lens,Defender,500000.0,71.69,65.88,59.71,68.83,66.39,85.66
+652,Adam Marusic,29,Serie A,SS Lazio,Defender,500000.0,77.36,57.95,72.95,67.45,82.95,86.07
+653,Patrik Walemark,20,Eredivisie,Feyenoord Rotterdam,Attack,500000.0,42.9,37.15,51.98,44.86,37.5,37.25
+654,Alireza Jahanbakhsh,28,Eredivisie,Feyenoord Rotterdam,Attack,500000.0,74.09,66.95,80.37,78.6,37.19,70.43
+655,Filippo Bandinelli,27,Serie A,FC Empoli,midfield,500000.0,80.08,81.18,66.36,82.25,50.95,90.51
+656,Cristhian Stuani,35,La Liga,Girona FC,Attack,500000.0,71.91,79.0,53.98,73.39,40.77,81.29
+657,Jordy Clasie,31,Eredivisie,AZ Alkmaar,midfield,500000.0,77.18,79.8,64.48,79.38,64.09,85.06
+658,Giovanni Gonzalez,27,La Liga,RCD Mallorca,Defender,500000.0,64.72,25.25,65.28,31.52,78.28,83.8
+659,Azor Matusiwa,24,Ligue 1,Stade Reims,midfield,500000.0,71.17,65.56,59.44,71.16,70.39,77.55
+660,Anthony Jung,30,Bundesliga,SV Werder Bremen,Defender,500000.0,80.61,64.73,74.04,70.47,91.54,86.39
+661,Norbert Gyomber,30,Serie A,US Salernitana 1919,Defender,500000.0,69.45,46.89,62.24,54.28,72.24,89.03
+662,Yohann Magnin,25,Ligue 1,Clermont Foot 63,midfield,500000.0,87.56,83.45,66.5,87.76,80.03,99.0
+663,Anas Tahiri,27,Eredivisie,SC Heerenveen,midfield,500000.0,73.43,74.21,62.19,76.05,57.56,81.25
+664,Olivier Giroud,35,Serie A,AC Milan,Attack,500000.0,75.95,81.83,60.27,77.54,39.98,84.15
+665,Rodrigo Conceicao,22,Primeira Liga,FC Porto,Defender,500000.0,49.44,27.05,38.24,35.34,39.61,84.57
+666,Fabio Chiarodia,17,Bundesliga,Borussia Mönchengladbach,Defender,500000.0,36.62,3.61,39.66,4.06,52.66,50.12
+667,Tim Ream,34,Premier League,Fulham FC,Defender,500000.0,84.28,71.14,84.83,66.4,97.83,83.31
+668,Arnau Puigmal,21,Ligue 1,UD Almería,midfield,500000.0,53.33,50.92,51.19,54.71,44.78,56.49
+669,Luca Caldirola,31,Serie A,AC Monza,Defender,500000.0,79.86,62.5,82.63,61.87,95.63,78.68
+670,Inigo Eguaras,30,Ligue 1,UD Almería,midfield,400000.0,58.86,60.97,51.2,59.84,32.79,63.45
+671,Felix Lemarechal,18,Ligue 1,AS Monaco,midfield,400000.0,34.27,27.05,42.48,35.79,16.13,31.74
+672,Yanis Begraoui,21,Ligue 1,FC Toulouse,Attack,400000.0,12.27,4.51,20.61,10.69,11.96,5.8
+673,Serdar Saatci,19,Primeira Liga,SC Braga,Defender,400000.0,18.83,3.61,6.13,4.9,10.97,53.34
+674,Tiago Esgaio,26,Primeira Liga,FC Arouca,Defender,400000.0,65.7,45.17,45.59,53.34,75.59,88.28
+675,Philippe Rommens,24,Eredivisie,Go Ahead Eagles,midfield,400000.0,68.56,65.62,66.59,70.57,55.34,71.46
+676,Gaetano Oristanio,19,Serie A,Inter Milan,midfield,350000.0,64.15,60.8,57.47,68.58,37.0,69.74
+677,Burak Yilmaz,37,Super Lig ,Hatayspor,Defender,300000.0,63.44,49.21,58.84,59.86,31.47,85.84
+678,Giorgi Aburjania,27,Super Lig ,Hatayspor,midfield,300000.0,61.29,58.72,53.56,63.74,45.82,69.15
+679,Philipp Forster,27,Bundesliga,VfL Bochum,midfield,300000.0,61.83,64.04,57.18,62.68,37.22,63.41
+680,Alexis Blin,25,Serie A,US Lecce,midfield,300000.0,79.88,79.44,60.89,80.28,69.42,90.37
+681,Eren Dinkci,20,Bundesliga,1.FC Heidenheim 1846,Attack,300000.0,41.24,36.07,42.93,44.76,22.42,41.21
+682,Grigoris Kastanos,24,Serie A,US Salernitana 1919,midfield,300000.0,65.2,65.13,56.84,67.68,44.64,71.17
+683,Denis Genreau,23,Ligue 1,FC Toulouse,midfield,300000.0,47.13,42.97,44.66,49.11,37.36,51.76
+684,Bernardo Folha,20,Primeira Liga,FC Porto,midfield,250000.0,20.88,9.02,26.04,15.82,23.27,18.4
+685,Soumaila Coulibaly,18,Bundesliga,Borussia Dortmund,Defender,250000.0,33.0,0.0,35.0,4.02,48.0,45.0
+686,Aymen Barkok,24,Bundesliga,1.FSV Mainz 05,midfield,200000.0,53.57,49.72,51.01,56.39,32.84,57.16
+687,Armando Izzo,30,Serie A,AC Monza,Defender,200000.0,75.7,54.97,76.6,60.83,86.6,78.77
+688,Loreintz Rosier,23,Primeira Liga,GD Estoril Praia,midfield,200000.0,33.24,25.03,25.55,27.96,47.47,31.98
+689,Pablo,18,Primeira Liga,FC Famalicão,Attack,200000.0,37.84,38.92,36.45,38.61,22.06,37.37
+690,Can Bozdogan,21,Eredivisie,FC Utrecht,midfield,200000.0,56.64,54.52,51.74,59.35,39.37,60.97
+691,Luis Hernandez,33,La Liga,Cádiz CF,Defender,200000.0,78.27,61.35,70.74,71.26,80.74,90.31
+692,Stefan Mitrovic,32,La Liga,Getafe CF,Defender,200000.0,68.74,37.87,71.66,43.01,84.66,75.62
+693,Tim Skarke,25,Bundesliga,1.FC Union Berlin,Attack,200000.0,32.39,23.72,36.93,27.26,41.64,22.97
+694,Lukas Kubler,29,Bundesliga,SC Freiburg,Defender,200000.0,65.5,47.22,60.8,44.71,78.3,75.69
+695,Bruno Lourenco,24,Primeira Liga,Boavista FC,Attack,200000.0,68.08,69.62,57.97,70.24,45.21,74.48
+696,Jordi Osei-Tutu,23,Bundesliga,VfL Bochum,Defender,200000.0,68.86,34.54,74.33,43.14,87.33,70.64
+697,Luuk Brouwers,24,Eredivisie,FC Utrecht,midfield,200000.0,53.98,52.08,46.52,56.24,39.65,61.1
+698,Victor Jensen,22,Eredivisie,FC Utrecht,midfield,200000.0,29.43,30.9,27.91,30.2,15.27,28.71
+699,Joao Graca,27,Primeira Liga,Rio Ave FC,midfield,200000.0,44.95,45.11,39.9,45.65,29.8,49.14
+700,Renato Pantalon,24,Primeira Liga,Rio Ave FC,Defender,125000.0,54.18,46.16,35.63,43.69,48.81,78.06
+701,Ricardo Rodriguez,29,Serie A,Torino FC,Defender,100000.0,81.86,61.46,77.62,73.12,87.62,89.08
+702,Adrian Butzke,23,Primeira Liga,Vitória Guimarães SC,Attack,100000.0,59.58,62.76,48.69,61.09,31.5,65.79
+703,Bilel Aouacheria,28,Primeira Liga,Gil Vicente FC,Attack,100000.0,57.19,54.44,52.6,60.46,39.37,61.28
+704,Anderson Jesus,27,Primeira Liga,FC Vizela,Defender,100000.0,61.42,61.37,46.9,59.88,44.77,77.52
+705,Thorir Johann Helgason,21,Serie A,US Lecce,midfield,100000.0,30.15,24.87,35.0,32.34,20.05,28.4
+706,Andre Pereira,27,Primeira Liga,Rio Ave FC,Attack,100000.0,49.95,45.7,47.36,53.75,28.03,52.98
+707,Samu,26,Primeira Liga,FC Vizela,midfield,100000.0,77.61,75.2,69.01,80.76,60.85,85.48
+708,Joao Queiros,24,Primeira Liga,GD Chaves,Defender,75000.0,27.99,7.21,8.45,8.79,36.64,58.07
+709,Vasco Fernandes,35,Primeira Liga,Casa Pia AC,Defender,25000.0,59.34,52.34,48.91,60.28,45.34,75.85
+710,Nwankwo Obiora,31,Primeira Liga,GD Chaves,midfield,25000.0,31.45,35.31,23.07,27.04,33.18,30.25
+711,Joel Voelkerling Persson,19,Serie A,US Lecce,Attack,0.0,22.91,18.04,28.95,24.12,11.16,20.53
+712,Ricardo Mangas,24,Primeira Liga,Vitória Guimarães SC,Defender,0.0,63.75,53.93,53.55,58.7,37.04,88.82
+713,Djibril Sow,25,Bundesliga,Eintracht Frankfurt,midfield,0.0,73.12,77.87,57.14,74.79,54.96,82.69
+714,Ukra,34,Primeira Liga,Rio Ave FC,Attack,0.0,39.33,31.65,46.16,42.56,22.63,36.96
+715,Matteo Guendouzi,23,Ligue 1,Olympique Marseille,midfield,0.0,76.59,74.66,67.09,80.22,47.07,84.4
+716,Pape Matar Sarr,19,Premier League,Tottenham Hotspur,midfield,0.0,26.07,22.54,26.26,28.68,22.5,26.78
+717,Keven Schlotterbeck,25,Bundesliga,SC Freiburg,Defender,0.0,70.26,32.54,78.57,25.56,91.57,78.34
+718,Francesco Antonucci,23,Eredivisie,Feyenoord Rotterdam,midfield,0.0,42.64,41.21,43.2,44.29,22.69,41.88
+719,Sebastiano Luperto,25,Serie A,FC Empoli,Defender,0.0,86.59,67.85,84.62,71.83,97.62,92.3
+720,Alessandro Bastoni,23,Serie A,Inter Milan,Defender,0.0,80.94,50.61,77.79,61.86,90.79,93.33
+721,Michel Vlap,25,Eredivisie,Twente Enschede FC,midfield,0.0,76.03,73.62,69.78,79.53,51.14,81.19
+722,Cristhian Mosquera,18,La Liga,Valencia CF,Defender,0.0,49.03,3.61,64.33,5.3,74.33,52.18
+723,Allan Saint-Maximin,25,Premier League,Newcastle United,Attack,0.0,64.87,56.89,69.04,71.62,30.65,61.92
+724,Leonardo Balerdi,23,Ligue 1,Olympique Marseille,Defender,0.0,74.0,61.32,54.68,70.15,73.64,90.9
+725,Takehiro Tomiyasu,23,Premier League,Arsenal FC,Defender,0.0,73.31,36.07,81.63,44.01,94.63,72.99
+726,Michal Sadilek,23,Eredivisie,Twente Enschede FC,midfield,0.0,38.57,36.83,41.52,37.01,38.91,35.92
+727,Luca Ranieri,23,Serie A,ACF Fiorentina,Defender,0.0,58.32,14.43,67.67,17.65,80.67,67.27
+728,Jacob Rasmussen,25,Serie A,ACF Fiorentina,Defender,0.0,53.61,36.76,48.25,20.82,61.25,68.18
+729,Fode Ballo-Toure,25,Serie A,AC Milan,Defender,0.0,62.48,24.93,70.88,23.65,83.88,70.23
+730,Richarlison,25,Premier League,Tottenham Hotspur,Attack,0.0,63.62,61.49,57.94,67.07,41.82,67.99
+731,Fabio Vieira,22,Premier League,Arsenal FC,midfield,0.0,55.43,51.17,58.19,58.34,30.31,54.01
+732,Francisco Conceicao,19,Eredivisie,Ajax Amsterdam,Attack,0.0,46.97,41.01,48.79,50.55,26.19,47.51
+733,Jonas Wind,23,Bundesliga,VfL Wolfsburg,Attack,0.0,58.0,64.02,49.57,58.83,33.81,59.59
+734,Valentin Antov,21,Serie A,AC Monza,Defender,0.0,48.45,14.43,47.74,18.19,60.74,67.13
+735,Filippo Ranocchia,21,Serie A,Juventus FC,midfield,0.0,36.38,33.19,40.6,37.36,21.83,34.35
+736,Devyne Rensch,19,Eredivisie,Ajax Amsterdam,Defender,0.0,67.21,54.84,51.7,56.38,70.02,87.6
+737,Fran Beltran,23,La Liga,Celta de Vigo,midfield,0.0,80.17,78.98,66.09,83.9,48.46,91.73
+738,Adam Ounas,25,Ligue 1,LOSC Lille,Attack,0.0,54.53,48.0,59.42,58.1,36.64,52.58
+739,Yayah Kallon,21,Serie A,Hellas Verona,Attack,0.0,52.74,50.42,50.52,55.4,35.42,54.64
+740,Joakim Maehle,25,Serie A,Atalanta BC,Defender,0.0,77.28,64.83,68.16,75.23,78.16,87.58
+741,Salih Ozcan,24,Bundesliga,Borussia Dortmund,midfield,0.0,57.3,56.41,46.44,59.57,43.78,66.76
+742,Dany Mota,24,Serie A,AC Monza,Attack,0.0,69.07,73.41,57.61,73.04,35.44,72.23
+743,Loic Bade,22,La Liga,Sevilla FC,Defender,0.0,79.0,42.8,83.18,37.05,96.18,93.85
+744,Yannik Keitel,22,Bundesliga,SC Freiburg,midfield,0.0,48.89,47.53,41.18,51.75,30.61,55.12
+745,Evanilson,22,Primeira Liga,FC Porto,Attack,0.0,55.34,62.19,45.91,56.13,33.58,57.13
+746,Bruno Ventura,21,Primeira Liga,Rio Ave FC,midfield,0.0,12.6,4.51,27.71,12.87,4.33,5.29
+747,Andre Franco,24,Primeira Liga,FC Porto,midfield,0.0,43.9,45.97,43.87,43.6,23.94,42.15
+748,Tomas Handel,21,Primeira Liga,Vitória Guimarães SC,midfield,0.0,28.39,28.7,30.43,24.68,28.82,25.62
+749,Manu Sanchez,21,La Liga,Celta de Vigo,Defender,0.0,76.08,54.21,73.92,66.76,83.92,79.72
+750,Jon Moncayola,24,La Liga,CA Osasuna,midfield,0.0,83.95,83.11,70.41,87.68,59.66,94.6
+751,Matheus Pereira,21,Primeira Liga,FC Vizela,Defender,0.0,57.6,50.99,38.4,39.14,48.78,91.49
+752,Lovro Majer,24,Ligue 1,Stade Rennais FC,midfield,0.0,77.23,72.31,74.97,80.78,41.94,80.87
+753,Mor Ndiaye,21,Primeira Liga,GD Estoril Praia,midfield,0.0,60.5,56.52,43.43,58.48,59.06,67.95
+754,Paul Jaeckel,24,Bundesliga,1.FC Union Berlin,Defender,0.0,77.02,47.49,79.71,32.09,92.71,88.19
+755,Dani Olmo,24,Bundesliga,RB Leipzig,midfield,0.0,59.7,53.43,63.56,64.43,33.17,57.37
+756,Konstantinos Mavropanos,24,Bundesliga,VfB Stuttgart,Defender,0.0,82.48,51.01,79.84,58.44,97.34,94.3
+757,Shandon Baptiste,24,Premier League,Brentford FC,midfield,0.0,54.05,49.66,50.17,57.6,33.76,58.75
+758,Samu Costa,21,Ligue 1,UD Almería,midfield,0.0,72.82,72.88,60.43,75.18,59.2,82.8
+759,Thierry Correia,23,La Liga,Valencia CF,Defender,0.0,76.51,46.89,74.34,57.01,84.34,90.35
+760,Alex Centelles,24,Ligue 1,UD Almería,Defender,0.0,52.13,33.65,35.0,33.7,55.43,84.36
+761,Achraf Hakimi,23,Ligue 1,Paris Saint-Germain,Defender,0.0,66.05,60.9,63.74,63.66,61.53,75.27
+762,Amir Rrahmani,28,Serie A,SSC Napoli,Defender,0.0,72.4,54.86,63.42,59.27,73.42,93.47
+763,Ryan Sessegnon,22,Premier League,Tottenham Hotspur,midfield,0.0,42.26,42.57,40.56,42.4,29.23,43.51
+764,Aihen Munoz,24,La Liga,Real Sociedad,Defender,0.0,77.49,39.77,84.4,49.55,97.4,78.6
+765,Carles Alena,24,La Liga,Getafe CF,midfield,0.0,78.69,80.3,63.03,81.43,42.85,89.99
+766,Elayis Tavsan,21,Eredivisie,NEC Nijmegen,Attack,0.0,74.54,73.03,63.74,80.69,46.87,80.72
+767,Flavius Daniliuc,21,Serie A,US Salernitana 1919,Defender,0.0,72.91,47.08,68.49,54.22,78.49,90.42
+768,Alex Kral,24,Bundesliga,1.FC Union Berlin,midfield,0.0,64.98,63.22,54.85,68.18,48.14,73.68
+769,Juan Foyth,24,La Liga,Villarreal CF,Defender,0.0,77.09,44.62,87.64,49.56,87.64,83.53
+770,Rolando Mandragora,25,Serie A,ACF Fiorentina,midfield,0.0,70.81,66.22,68.89,73.16,51.7,74.97
+771,Gianluca Gaetano,22,Serie A,SSC Napoli,midfield,0.0,32.9,24.19,54.71,34.47,10.17,18.23
+772,Kevin Paredes,19,Bundesliga,VfL Wolfsburg,midfield,0.0,58.5,60.21,59.81,59.03,40.96,54.95
+773,Rodrigo Gomes,19,Primeira Liga,SC Braga,Attack,0.0,38.31,40.56,37.26,38.33,21.62,37.1
+774,Jules Kounde,23,La Liga,FC Barcelona,Defender,0.0,75.08,53.47,68.19,60.53,78.19,93.42
+775,Alphonso Davies,21,Bundesliga,Bayern Munich,Defender,0.0,81.06,47.56,81.88,61.63,94.88,85.87
+776,Luca Netz,19,Bundesliga,Borussia Mönchengladbach,Defender,0.0,63.47,44.59,60.78,43.41,78.28,70.24
+777,Marco Bertini,19,Serie A,SS Lazio,midfield,0.0,0.43,0.0,0.0,0.0,1.73,0.0
+778,Ricardo Pepi,19,Eredivisie,PSV Eindhoven,Attack,0.0,67.94,75.31,53.77,69.6,37.19,73.06
+779,Enes Unal,25,La Liga,Getafe CF,Attack,0.0,79.79,85.67,62.53,82.21,44.6,88.73
+780,Maxime Lopez,24,Serie A,US Sassuolo,midfield,0.0,69.4,65.61,62.15,72.39,43.64,77.46
+781,Matty Cash,24,Premier League,Aston Villa,Defender,0.0,75.41,45.13,75.01,54.05,85.01,87.58
+782,Borja Mayoral,25,La Liga,Getafe CF,Attack,0.0,79.46,86.39,61.31,82.24,42.82,87.9
+783,Konrad Laimer,25,Bundesliga,Bayern Munich,midfield,0.0,56.8,53.87,46.37,52.08,63.54,57.72
+784,Hamed Junior Traore,22,Premier League,AFC Bournemouth,midfield,0.0,25.45,13.64,36.79,24.27,23.25,17.49
+785,Igor Zubeldia,25,La Liga,Real Sociedad,Defender,0.0,75.38,61.08,74.68,61.81,84.68,80.34
+786,Victor Chust,22,La Liga,Cádiz CF,Defender,0.0,64.57,43.93,60.66,27.31,73.66,80.05
+787,Umar Sadiq,25,La Liga,Real Sociedad,Attack,0.0,14.66,23.24,17.3,11.18,4.43,6.93
+788,Mattia Viti,20,Serie A,US Sassuolo,Defender,0.0,54.16,35.01,51.35,17.16,64.35,65.93
+789,Hugo Magnetti,24,Ligue 1,Stade Brestois 29,midfield,0.0,72.04,73.29,58.26,75.01,51.11,81.63
+790,Martin Satriano,21,Serie A,Inter Milan,Attack,0.0,68.83,70.86,54.09,72.49,40.92,77.88
+791,Maxence Caqueret,22,Ligue 1,Olympique Lyon,midfield,0.0,87.33,87.47,78.46,90.39,66.11,93.02
+792,Sandro Tonali,22,Premier League,Newcastle United,midfield,0.0,80.73,78.36,72.31,83.97,64.15,88.29
+793,Lucien Agoume,20,Serie A,Inter Milan,midfield,0.0,40.06,31.84,36.02,36.74,47.23,40.24
+794,Christopher Nkunku,24,Premier League,Chelsea FC,Attack,0.0,66.92,68.13,65.21,71.89,30.46,62.44
+795,Chris Fuhrich,24,Bundesliga,VfB Stuttgart,Attack,0.0,78.69,77.89,70.49,82.85,58.14,83.52
+796,Tiago Tomas,20,Bundesliga,VfL Wolfsburg,Attack,0.0,63.17,64.26,54.49,66.49,40.78,67.42
+797,Felix Passlack,24,Bundesliga,VfL Bochum,Defender,0.0,50.42,3.61,55.12,24.78,68.12,53.68
+798,Aaron Wan-Bissaka,24,Premier League,Manchester United,Defender,0.0,71.72,32.58,76.24,40.44,76.24,93.96
+799,Reggie Cannon,24,Primeira Liga,Boavista FC,Defender,0.0,63.37,52.3,46.6,59.6,61.78,79.78
+800,Nacho Vidal,27,La Liga,CA Osasuna,Defender,0.0,71.93,34.38,81.02,41.42,94.02,71.27
+801,Ruben Pena,31,La Liga,CA Osasuna,Defender,0.0,73.53,34.38,82.94,42.96,95.94,72.28
+802,Ruben Sobrino,30,La Liga,Cádiz CF,Attack,0.0,74.85,77.54,58.76,77.12,53.58,85.96
+803,Inigo Lekue,29,La Liga,Athletic Bilbao,Defender,0.0,70.41,34.32,77.56,43.39,90.56,70.12
+804,Pablo Fornals,26,Premier League,West Ham United,midfield,0.0,75.98,76.1,68.59,78.75,45.75,80.46
+805,Said Benrahma,26,Premier League,West Ham United,Attack,0.0,82.76,80.08,74.97,88.3,47.96,87.69
+806,Darko Brasanac,30,La Liga,CA Osasuna,midfield,0.0,57.37,59.01,48.31,58.59,42.19,63.59
+807,Mats Seuntjens,30,Eredivisie,FC Utrecht,Attack,0.0,32.51,25.39,37.9,33.12,21.02,33.64
+808,Robin Knoche,30,Bundesliga,1.FC Union Berlin,Defender,0.0,74.7,61.42,67.57,64.66,85.07,81.5
+809,Wendell,29,Primeira Liga,FC Porto,Defender,0.0,60.91,48.63,50.13,54.61,52.23,86.67
+810,Matthias Ginter,28,Bundesliga,SC Freiburg,Defender,0.0,80.64,67.9,74.87,68.97,92.37,86.36
+811,Baptiste Santamaria,27,Ligue 1,Stade Rennais FC,midfield,0.0,58.3,60.41,47.94,58.34,50.89,63.55
+812,Nathaniel Clyne,31,Premier League,Crystal Palace,Defender,0.0,73.58,37.87,80.49,44.58,93.49,75.76
+813,Casemiro,30,Premier League,Manchester United,midfield,0.0,72.23,68.03,59.82,68.28,76.94,75.66
+814,Koffi Djidji,29,Serie A,Torino FC,Defender,0.0,73.98,64.97,65.44,68.38,75.44,86.67
+815,Yannick Gerhardt,28,Bundesliga,VfL Wolfsburg,midfield,0.0,68.69,75.65,56.61,69.1,42.86,73.41
+816,Vitor Gomes,34,Primeira Liga,Rio Ave FC,midfield,0.0,46.17,42.9,43.37,48.55,27.76,49.87
+817,Daniel Podence,26,Premier League,Wolverhampton Wanderers,Attack,0.0,76.42,78.43,67.04,79.19,40.19,81.03
+818,Granit Xhaka,29,Bundesliga,Bayer 04 Leverkusen,midfield,0.0,88.12,91.58,76.38,90.69,52.47,93.83
+819,Mikel Merino,26,La Liga,Real Sociedad,midfield,0.0,78.77,75.57,71.27,81.15,62.35,87.08
+820,Jaume Costa,34,La Liga,RCD Mallorca,Defender,0.0,76.61,56.12,72.89,67.42,82.89,83.23
+821,Nemanja Radonjic,26,Serie A,Torino FC,Attack,0.0,65.95,64.01,58.6,71.86,33.37,69.32
+822,Tiago Silva,29,Primeira Liga,Vitória Guimarães SC,midfield,0.0,66.94,64.37,59.92,68.07,53.11,75.4
+823,Nicolas Hofler,32,Bundesliga,SC Freiburg,midfield,0.0,71.22,70.06,54.7,73.57,57.21,84.05
+824,Joaozinho,33,Primeira Liga,GD Estoril Praia,Defender,0.0,63.62,59.34,54.7,62.48,54.84,77.84
+825,Fred,29,Premier League,Manchester United,midfield,0.0,84.1,81.1,78.71,87.1,50.36,89.5
+826,Oscar Trejo,34,La Liga,Rayo Vallecano,midfield,0.0,82.96,79.58,78.08,86.42,43.6,87.77
+827,Ruben Lima,32,Primeira Liga,FC Famalicão,Defender,0.0,50.44,41.01,33.5,37.01,27.96,90.24
+828,David Simao,32,Primeira Liga,FC Arouca,midfield,0.0,69.7,67.77,58.75,72.41,57.79,79.87
+829,Elseid Hysaj,28,Serie A,SS Lazio,Defender,0.0,76.43,69.72,68.92,70.86,78.92,86.2
+830,Laurent Abergel,29,Ligue 1,FC Lorient,midfield,0.0,67.41,63.22,50.3,66.39,62.93,77.11
+831,Karol Linetty,27,Serie A,Torino FC,midfield,0.0,72.13,73.2,58.92,74.53,48.65,81.85
+832,Pascal Stenzel,26,Bundesliga,VfB Stuttgart,Defender,0.0,59.86,19.84,61.13,30.08,74.13,74.09
+833,Jordan Ferri,30,Ligue 1,Montpellier HSC,midfield,0.0,77.89,78.12,64.86,80.54,55.17,88.04
+834,Gernot Trauner,30,Eredivisie,Feyenoord Rotterdam,Defender,0.0,56.37,32.58,35.55,39.17,56.16,94.61
+835,David Silva,36,La Liga,Real Sociedad,midfield,0.0,68.26,65.35,64.77,71.29,44.67,71.62
+836,Harry Kane,29,Premier League,Tottenham Hotspur,Attack,0.0,91.64,99.0,75.81,95.22,48.26,96.52
+837,Bruma,27,Primeira Liga,SC Braga,Attack,0.0,47.95,42.68,52.56,55.22,36.86,41.32
+838,Vincent Le Goff,32,Ligue 1,FC Lorient,Defender,0.0,80.35,65.11,61.53,75.33,86.21,94.76
+839,Chris Smalling,32,Serie A,AS Roma,Defender,0.0,70.09,63.59,61.46,63.97,71.46,81.35
+840,Benjamin Bourigeaud,28,Ligue 1,Stade Rennais FC,midfield,0.0,90.76,86.48,87.26,94.21,53.47,95.1
+841,Ivan Alejo,27,La Liga,Cádiz CF,Attack,0.0,70.99,67.9,60.87,74.22,49.01,80.95
+842,Cassiano,33,Primeira Liga,GD Estoril Praia,Attack,0.0,34.81,40.11,25.87,33.89,27.23,38.01
+843,Vincenzo Grifo,29,Bundesliga,SC Freiburg,Attack,0.0,82.52,82.83,78.33,85.16,47.5,83.76
+844,Niklas Sule,26,Bundesliga,Borussia Dortmund,Defender,0.0,84.09,53.41,84.19,62.0,97.19,92.96
+845,Alvaro Garcia,29,La Liga,Rayo Vallecano,Attack,0.0,82.1,83.1,68.79,86.51,47.53,90.0
+846,Bryan Cristante,27,Serie A,AS Roma,midfield,0.0,86.42,81.22,60.7,82.37,87.45,94.66
+847,Christian Gross,33,Bundesliga,SV Werder Bremen,midfield,0.0,62.56,66.62,44.62,59.13,57.13,67.35
+848,Jim Allevinah,27,Ligue 1,Clermont Foot 63,midfield,0.0,80.09,80.83,64.73,83.83,50.97,90.96
+849,Matheus Reis,27,Primeira Liga,Sporting CP,Defender,0.0,70.13,61.16,65.08,70.47,60.71,83.83
+850,Ivan Marcano,35,Primeira Liga,FC Porto,Defender,0.0,57.5,54.84,40.23,49.84,37.63,85.08
+851,Benno Schmitz,27,Bundesliga,1.FC Köln,Defender,0.0,71.61,58.3,70.53,65.12,70.53,80.27
+852,Giovanni Di Lorenzo,28,Serie A,SSC Napoli,Defender,0.0,81.68,69.6,70.96,80.26,80.96,94.56
+853,Bernardo Espinosa,33,La Liga,Girona FC,Defender,0.0,61.94,38.33,62.11,40.26,75.11,70.28
+854,Javi Galan,27,La Liga,Atlético de Madrid,Defender,0.0,81.53,64.96,75.28,79.11,75.28,96.45
+855,Willi Orban,29,Bundesliga,RB Leipzig,Defender,0.0,78.52,64.5,73.03,66.52,90.53,83.98
+856,Moussa Niakhate,26,Premier League,Nottingham Forest,Defender,0.0,66.29,23.68,72.02,27.98,85.02,80.12
+857,Edin Dzeko,36,Super Lig ,Fenerbahce,Attack,0.0,77.76,80.31,66.72,81.58,39.43,82.42
+858,Luka Modric,36,La Liga,Real Madrid,midfield,0.0,80.55,77.95,77.04,83.57,45.18,83.64
+859,Alexander Hack,28,Bundesliga,1.FSV Mainz 05,Defender,0.0,68.14,32.46,61.0,38.25,78.5,94.8
+860,Ante Budimir,31,La Liga,CA Osasuna,Attack,0.0,70.35,76.68,53.96,72.5,37.76,78.27
+861,Radamel Falcao,36,La Liga,Rayo Vallecano,Attack,0.0,59.46,61.7,46.68,62.03,32.52,67.45
+862,Francesco Acerbi,34,Serie A,Inter Milan,Defender,0.0,73.26,54.18,70.33,63.7,80.33,78.68
+863,Iago,25,Bundesliga,FC Augsburg,Defender,0.0,70.53,37.87,71.3,48.83,84.3,77.68
+864,Ado Onaiwu,26,Ligue 1,FC Toulouse,Attack,0.0,75.39,80.33,58.19,78.3,43.08,84.76
+865,Nico Elvedi,25,Bundesliga,Borussia Mönchengladbach,Defender,0.0,78.36,63.36,75.31,64.03,92.81,81.27
+866,Franck Honorat,25,Bundesliga,Borussia Mönchengladbach,Attack,0.0,81.38,80.24,76.92,85.06,55.01,83.28
+867,Hamari Traore,30,La Liga,Real Sociedad,Defender,0.0,74.67,55.74,70.95,67.16,80.95,79.61
+868,Bernardo Silva,27,Premier League,Manchester City,midfield,0.0,80.81,83.29,70.05,83.23,51.09,86.67
+869,Adrian Marin,25,Primeira Liga,SC Braga,Defender,0.0,69.59,54.11,59.91,65.61,72.35,80.49
+870,Mario Rui,31,Serie A,SSC Napoli,Defender,0.0,77.57,38.13,82.91,53.58,95.91,77.89
+871,Ruben Fernandes,36,Primeira Liga,Gil Vicente FC,Defender,0.0,56.38,45.09,42.76,52.21,38.17,85.46
+872,David Garcia,28,La Liga,CA Osasuna,Defender,0.0,76.01,61.45,73.54,64.34,83.54,82.63
+873,Jesus Navas,36,La Liga,Sevilla FC,Defender,0.0,81.65,56.01,81.74,69.31,94.74,80.83
+874,Bruno Wilson,25,Primeira Liga,FC Vizela,Defender,0.0,54.2,41.62,38.99,48.22,46.29,80.68
+875,Thomas Foket,27,Ligue 1,Stade Reims,Defender,0.0,55.09,41.53,47.17,50.46,42.09,80.65
+876,Nemanja Gudelj,30,La Liga,Sevilla FC,midfield,0.0,75.36,79.22,55.67,76.82,58.41,86.97
+877,Phillipp Mwene,28,Eredivisie,PSV Eindhoven,Defender,0.0,61.84,43.42,50.97,53.24,59.3,83.83
+878,Christoph Kramer,31,Bundesliga,Borussia Mönchengladbach,midfield,0.0,64.09,63.17,52.04,67.2,49.85,73.96
+879,Juanpe,31,La Liga,Girona FC,Defender,0.0,74.76,40.73,76.14,38.65,89.14,93.03
+880,Makoto Hasebe,38,Bundesliga,Eintracht Frankfurt,Defender,0.0,66.39,30.66,63.78,35.3,76.78,89.72
+881,Pepe,39,Primeira Liga,FC Porto,Defender,0.0,59.11,41.57,40.62,48.61,64.51,81.75
+882,Ivan Toney,26,Premier League,Brentford FC,Attack,0.0,76.65,84.61,59.56,78.49,42.85,83.94
+883,Anthony Losilla,36,Bundesliga,VfL Bochum,midfield,0.0,72.92,71.77,53.84,71.23,66.8,81.89
+884,Nermin Zolotic,29,Primeira Liga,Casa Pia AC,Defender,0.0,64.64,50.58,49.38,59.09,54.09,94.79
+885,Joca,26,Primeira Liga,Rio Ave FC,Attack,0.0,16.5,11.27,19.29,16.61,15.79,14.3
+886,Ellyes Skhiri,27,Bundesliga,Eintracht Frankfurt,midfield,0.0,74.36,82.32,57.96,74.41,54.94,82.75
+887,Jonas Hofmann,30,Bundesliga,Bayer 04 Leverkusen,Attack,0.0,81.15,83.92,79.94,82.35,44.19,78.37
+888,Etienne Capoue,34,La Liga,Villarreal CF,midfield,0.0,64.92,67.96,54.1,66.46,43.16,71.16
+889,Romain Del Castillo,26,Ligue 1,Stade Brestois 29,midfield,0.0,67.75,62.01,68.24,71.9,45.08,68.85
+890,Kiko Bondoso,26,Primeira Liga,FC Vizela,Attack,0.0,78.84,78.26,67.25,83.75,52.09,86.09
+891,Bonke Innocent,26,Ligue 1,FC Lorient,midfield,0.0,55.06,54.11,44.42,57.87,37.24,63.83
+892,Dani Rodriguez,34,La Liga,RCD Mallorca,midfield,0.0,80.9,83.43,66.58,83.61,55.08,89.96
+893,Diego Rico,29,La Liga,Real Sociedad,Defender,0.0,68.17,34.43,72.73,42.52,85.73,71.71
+894,Karim Onisiwo,30,Bundesliga,1.FSV Mainz 05,Attack,0.0,74.09,77.94,62.74,77.53,38.35,78.16
+895,Ricardo Horta,27,Primeira Liga,SC Braga,Attack,0.0,77.61,76.48,77.04,79.92,47.77,77.0
+896,Simon Zoller,31,Bundesliga,VfL Bochum,Attack,0.0,60.02,64.56,45.71,61.9,34.83,67.89
+897,Ryan Fredericks,29,Premier League,AFC Bournemouth,Defender,0.0,53.48,19.84,51.13,24.82,64.13,73.81
+898,Bebe,32,La Liga,Rayo Vallecano,Attack,0.0,19.66,6.76,42.71,20.15,5.33,9.03
+899,Rodrigo Abascal,28,Primeira Liga,Boavista FC,Defender,0.0,64.36,47.0,47.42,55.47,63.66,90.89
+900,Andres Guardado,35,La Liga,Real Betis Balompié,midfield,0.0,60.86,63.24,51.23,62.0,45.53,66.96
+901,Falaye Sacko,27,Ligue 1,Montpellier HSC,Defender,0.0,74.96,68.31,60.89,72.52,69.43,89.57
+902,Brendan Chardonnet,27,Ligue 1,Stade Brestois 29,Defender,0.0,60.88,52.41,48.87,60.37,53.99,76.75
+903,Inaki Williams,28,La Liga,Athletic Bilbao,Attack,0.0,83.38,86.86,68.06,87.94,47.53,90.64
+904,Mario Hermoso,27,La Liga,Atlético de Madrid,Defender,0.0,74.8,53.72,71.92,53.88,84.92,88.46
+905,Pablo Mari,28,Serie A,AC Monza,Defender,0.0,68.54,56.51,64.08,59.84,74.08,76.15
+906,Steven Vitoria,35,Primeira Liga,GD Chaves,Defender,0.0,63.51,58.53,49.61,62.21,53.82,79.5
+907,German Pezzella,31,La Liga,Real Betis Balompié,Defender,0.0,76.14,54.11,75.33,62.18,85.33,81.7
+908,Andre Bukia,27,Primeira Liga,FC Arouca,Attack,-50000.0,35.19,36.22,32.13,37.51,24.9,34.89
+909,Henrique Jocu,20,Primeira Liga,Portimonense SC,midfield,-50000.0,31.58,29.31,28.4,32.97,21.03,35.65
+910,Tiago Araujo,21,Primeira Liga,GD Estoril Praia,Attack,-50000.0,58.03,58.06,50.91,60.49,35.81,62.66
+911,Mickael Tirpan,28,Super Lig ,Kasimpasa,midfield,-50000.0,15.33,9.02,12.31,11.11,24.63,13.28
+912,Ivanildo Fernandes,26,Primeira Liga,FC Vizela,Defender,-100000.0,44.06,34.32,29.65,38.77,31.77,71.37
+913,Miguel Baeza,22,La Liga,Celta de Vigo,midfield,-100000.0,51.11,47.57,48.47,54.31,28.68,54.11
+914,Ilija Vukotic,23,Primeira Liga,Boavista FC,midfield,-100000.0,30.27,27.22,29.53,32.32,16.4,32.02
+915,Christopher Trimmel,35,Bundesliga,1.FC Union Berlin,Defender,-100000.0,71.5,43.44,64.87,55.67,82.37,83.09
+916,Luquinha,21,Primeira Liga,Portimonense SC,midfield,-100000.0,45.78,40.0,53.01,47.09,30.9,43.03
+917,Leonardo Ruiz,26,Primeira Liga,Rio Ave FC,Attack,-100000.0,58.43,64.2,46.9,58.91,31.1,63.73
+918,Marcin Listkowski,24,Serie A,US Lecce,midfield,-100000.0,11.09,9.02,13.51,11.58,6.73,10.23
+919,Cristian Gamboa,32,Bundesliga,VfL Bochum,Defender,-100000.0,72.52,32.52,68.9,40.49,86.4,94.31
+920,Rafael Martins,33,Primeira Liga,Casa Pia AC,Attack,-100000.0,59.86,65.89,47.09,60.71,31.25,65.76
+921,Nino Galovic,30,Primeira Liga,FC Arouca,Defender,-150000.0,50.44,32.52,30.03,37.58,39.01,92.65
+922,Joao Carlos,27,Primeira Liga,GD Estoril Praia,Attack,-150000.0,51.11,54.61,39.97,53.01,28.08,56.85
+923,Filipe Ferreira,31,Primeira Liga,Boavista FC,Defender,-150000.0,34.68,10.82,25.9,18.49,30.61,63.71
+924,Federico Fazio,35,Serie A,US Salernitana 1919,Defender,-200000.0,60.16,27.46,58.78,28.37,71.78,81.7
+925,Clement Grenier,31,La Liga,RCD Mallorca,midfield,-200000.0,48.62,45.26,44.54,50.73,36.63,53.97
+926,Manuel Gulde,31,Bundesliga,SC Freiburg,Defender,-200000.0,64.11,45.63,57.31,30.45,70.31,83.18
+927,Federico Di Francesco,28,Serie A,US Lecce,Attack,-200000.0,80.94,82.28,64.49,85.58,48.61,91.39
+928,Philippe Sandler,25,Eredivisie,NEC Nijmegen,Defender,-200000.0,50.76,40.75,37.74,43.0,46.22,73.05
+929,Robert Bozenik,22,Primeira Liga,Boavista FC,Attack,-200000.0,54.7,56.45,47.91,56.65,29.36,57.81
+930,Matus Bero,26,Bundesliga,VfL Bochum,midfield,-200000.0,72.92,72.72,63.88,75.67,48.51,79.39
+931,Pedro Obiang,30,Serie A,US Sassuolo,midfield,-200000.0,38.7,36.07,31.61,39.16,36.59,42.97
+932,Pedro Sa,28,Primeira Liga,CF Estrela Amadora SAD,midfield,-200000.0,29.87,27.05,27.17,30.77,22.91,34.48
+933,Dyego Sousa,32,Ligue 1,UD Almería,Attack,-200000.0,46.12,43.11,42.87,49.15,31.66,49.35
+934,Jose Pozo,26,La Liga,Rayo Vallecano,midfield,-200000.0,31.53,15.78,57.53,34.78,10.09,18.04
+935,Carlos Dominguez,21,La Liga,Celta de Vigo,Defender,-200000.0,40.59,3.97,47.34,4.06,60.34,50.63
+936,Bruno Martins Indi,30,Eredivisie,AZ Alkmaar,Defender,-200000.0,21.23,5.41,10.8,7.81,11.77,54.55
+937,Tony Jantschke,32,Bundesliga,Borussia Mönchengladbach,Defender,-200000.0,48.12,12.62,51.06,14.2,64.06,63.17
+938,Kevin Zohi,25,Primeira Liga,FC Vizela,Attack,-200000.0,60.05,58.95,54.99,63.94,38.09,62.33
+939,Diogo Pinto,23,Primeira Liga,Casa Pia AC,midfield,-200000.0,41.97,36.39,44.92,44.74,28.25,41.8
+940,Inigo Cordoba,25,Eredivisie,Fortuna Sittard,Attack,-200000.0,73.24,74.04,58.24,74.31,64.66,79.93
+941,Andres Martin,23,La Liga,Rayo Vallecano,Attack,-200000.0,23.71,18.34,28.2,24.4,20.61,21.65
+942,Luis Santos,22,Primeira Liga,Boavista FC,Attack,-250000.0,19.44,18.65,17.61,20.15,11.53,21.36
+943,Sandro Cruz,21,Primeira Liga,GD Chaves,Defender,-250000.0,46.35,21.81,33.45,30.81,42.36,78.8
+944,Simone Romagnoli,32,Serie A,US Lecce,Defender,-250000.0,50.44,10.82,57.76,12.17,70.76,61.09
+945,Jo,27,Primeira Liga,GD Chaves,Attack,-275000.0,47.7,47.47,42.56,49.53,27.66,51.23
+946,Adam Smith,31,Premier League,AFC Bournemouth,Defender,-300000.0,81.34,64.96,72.5,74.96,82.5,95.42
+947,Sean Klaiber,28,Eredivisie,FC Utrecht,Defender,-300000.0,68.92,50.98,57.87,61.33,64.05,92.42
+948,Pedrao,25,Primeira Liga,Portimonense SC,Defender,-300000.0,61.03,54.57,50.98,59.6,54.34,75.61
+949,Carel Eiting,24,Eredivisie,FC Volendam,midfield,-300000.0,82.66,80.64,76.89,85.78,57.66,87.33
+950,Liam Henderson,26,Serie A,FC Empoli,midfield,-300000.0,58.68,54.41,55.27,60.93,31.72,64.1
+951,Luca Pfeiffer,25,Bundesliga,VfB Stuttgart,Attack,-300000.0,45.36,40.65,45.64,47.45,22.91,47.7
+952,Leo Leroy,22,Ligue 1,Montpellier HSC,midfield,-300000.0,64.3,58.95,53.95,65.57,62.28,70.41
+953,Nicolas Janvier,23,Super Lig ,Alanyaspor,midfield,-300000.0,45.83,44.04,44.59,47.02,30.1,47.67
+954,Abdon Prats,29,La Liga,RCD Mallorca,Attack,-300000.0,57.97,65.27,43.02,59.4,31.01,64.2
+955,Bruno Jordao,23,Premier League,Wolverhampton Wanderers,midfield,-300000.0,28.69,27.44,29.69,28.88,21.64,28.73
+956,Sven Michel,32,Bundesliga,FC Augsburg,Attack,-300000.0,50.07,52.43,44.09,51.64,29.72,52.11
+957,Angelo Ogbonna,34,Premier League,West Ham United,Defender,-300000.0,63.61,27.05,62.8,31.3,75.8,84.53
+958,Demba Seck,21,Serie A,Torino FC,Attack,-300000.0,43.79,40.8,41.35,46.73,26.15,46.3
+959,Martin Montoya,31,La Liga,Real Betis Balompié,Defender,-300000.0,55.42,9.02,73.6,12.93,73.6,61.53
+960,Nikolas Nartey,22,Bundesliga,VfB Stuttgart,midfield,-300000.0,23.75,18.04,23.34,22.98,26.41,22.28
+961,Abdou Harroui,24,Serie A,Frosinone Calcio,midfield,-300000.0,53.87,57.23,46.36,54.65,28.88,57.24
+962,Denso Kasius,19,Eredivisie,AZ Alkmaar,Defender,-300000.0,43.85,10.82,37.35,22.75,52.14,63.19
+963,Tolga Cigerci,30,Super Lig ,MKE Ankaragücü,midfield,-400000.0,32.78,22.99,32.25,29.04,40.86,28.95
+964,Johan Vasquez,23,Serie A,Genoa CFC,Defender,-400000.0,78.19,46.68,82.23,50.79,95.23,84.52
+965,Danilo Soares,30,Bundesliga,VfL Bochum,Defender,-400000.0,73.15,39.68,81.33,48.36,81.33,81.58
+966,Ashley Young,37,Premier League,Everton FC,Defender,-400000.0,74.23,53.54,80.44,60.89,80.44,75.16
+967,Carlinhos,28,Primeira Liga,Portimonense SC,midfield,-400000.0,27.17,18.58,26.88,23.8,34.88,23.11
+968,Marco D'Alessandro,31,Serie A,AC Monza,Attack,-400000.0,21.01,15.95,26.03,22.25,14.95,19.78
+969,Jeffrey Gouweleeuw,31,Bundesliga,FC Augsburg,Defender,-500000.0,75.07,56.05,66.95,65.82,84.45,83.04
+970,Asier Villalibre,24,La Liga,Athletic Bilbao,Attack,-500000.0,14.46,9.29,23.21,15.1,6.43,10.23
+971,Mattia Valoti,28,Serie A,AC Monza,midfield,-500000.0,35.68,33.9,31.38,36.9,24.47,40.54
+972,Ruben Alcaraz,31,La Liga,Cádiz CF,midfield,-500000.0,70.4,69.91,58.19,72.65,47.89,80.85
+973,Elvis Rexhbecaj,24,Bundesliga,FC Augsburg,midfield,-500000.0,69.4,67.86,53.66,70.7,59.4,79.62
+974,Grischa Promel,27,Bundesliga,TSG 1899 Hoffenheim,midfield,-500000.0,40.7,40.95,33.76,41.25,31.17,46.84
+975,Jean-Charles Castelletto,27,Ligue 1,FC Nantes,Defender,-500000.0,65.36,56.01,52.45,64.64,59.34,81.47
+976,Alberto Grassi,27,Serie A,FC Empoli,midfield,-500000.0,55.64,54.27,42.06,56.51,48.56,63.21
+977,Wesley Said,27,Ligue 1,RC Lens,Attack,-500000.0,53.72,56.28,49.28,57.42,26.69,51.89
+978,Liberato Cacace,21,Serie A,FC Empoli,Defender,-500000.0,65.69,19.93,71.57,30.54,84.57,76.08
+979,Jean-Eudes Aholou,28,Ligue 1,RC Strasbourg Alsace,midfield,-500000.0,69.19,73.19,55.95,70.09,43.79,77.53
+980,Roberto Piccoli,21,Serie A,FC Empoli,Attack,-500000.0,31.95,36.87,27.29,32.9,16.01,30.74
+981,Rogerio,24,Serie A,US Sassuolo,Defender,-500000.0,76.79,63.28,64.53,76.05,74.53,92.03
+982,Sebastian Rode,31,Bundesliga,Eintracht Frankfurt,midfield,-500000.0,66.58,81.54,52.28,63.53,40.52,68.99
+983,Maximilian Wittek,26,Eredivisie,Vitesse Arnhem,Defender,-500000.0,75.63,57.0,79.56,72.27,67.96,82.72
+984,Damian Suarez,34,La Liga,Getafe CF,Defender,-500000.0,74.47,55.68,68.03,59.51,78.03,92.3
+985,Oier Zarraga,23,Serie A,Udinese Calcio,midfield,-500000.0,59.82,56.63,54.49,62.25,37.09,65.9
+986,Paul Akouokou,24,La Liga,Real Betis Balompié,midfield,-500000.0,32.51,24.91,18.99,25.68,48.13,31.3
+987,Ben Mee,32,Premier League,Brentford FC,Defender,-500000.0,79.44,69.83,69.09,75.04,79.09,93.8
+988,Fali,28,La Liga,Cádiz CF,Defender,-500000.0,66.84,43.29,61.68,49.97,71.68,84.01
+989,Yann Karamoh,24,Serie A,Torino FC,Attack,-500000.0,52.49,56.72,46.46,54.91,25.59,51.86
+990,Julien Laporte,28,Ligue 1,FC Lorient,Defender,-500000.0,49.23,34.38,32.22,39.52,52.73,70.28
+991,Andre Ramalho,30,Eredivisie,PSV Eindhoven,Defender,-500000.0,61.61,48.77,46.04,56.38,50.7,90.58
+992,Rafael Brito,20,Primeira Liga,Casa Pia AC,midfield,-500000.0,35.76,27.05,32.77,32.08,43.08,35.11
+993,Juan Jesus,31,Serie A,SSC Napoli,Defender,-500000.0,70.07,33.58,75.24,31.17,88.24,83.22
+994,Unai Lopez,26,La Liga,Rayo Vallecano,midfield,-500000.0,79.37,76.98,71.95,82.69,47.05,85.86
+995,Jeremy Toljan,27,Serie A,US Sassuolo,Defender,-500000.0,73.07,54.11,69.85,63.94,79.85,78.62
+996,Youssef Maleh,23,Serie A,US Lecce,midfield,-500000.0,17.96,13.53,22.93,18.25,9.17,17.12
+997,Mats Hummels,33,Bundesliga,Borussia Dortmund,Defender,-500000.0,77.55,54.94,76.1,62.84,93.6,77.66
+998,Robert Skov,26,Bundesliga,TSG 1899 Hoffenheim,midfield,-500000.0,55.28,52.79,53.42,57.45,35.85,57.47
+999,Gonzalo Escalante,29,La Liga,Cádiz CF,midfield,-500000.0,40.98,45.66,33.04,36.57,44.46,37.24
+1000,Giacomo Bonaventura,32,Serie A,ACF Fiorentina,midfield,-500000.0,73.22,71.79,67.47,76.15,60.4,77.45
+1001,Javier Manquillo,28,Premier League,Newcastle United,Defender,-500000.0,54.02,5.41,63.89,17.47,76.89,57.85
+1002,Ibrahima Kone,23,Ligue 1,FC Lorient,Attack,-500000.0,84.2,91.56,65.35,86.42,47.02,93.44
+1003,Uros Racic,24,La Liga,Valencia CF,midfield,-500000.0,57.11,54.66,50.98,59.68,38.28,63.15
+1004,Atakan Karazor,25,Bundesliga,VfB Stuttgart,midfield,-500000.0,65.09,63.12,49.41,66.08,55.65,75.5
+1005,Aridane Hernandez,33,La Liga,Rayo Vallecano,Defender,-500000.0,72.08,39.73,75.84,46.09,88.84,77.54
+1006,Iddrisu Baba,26,La Liga,RCD Mallorca,midfield,-500000.0,62.1,63.22,45.93,64.74,46.5,73.93
+1007,Patric,29,Serie A,SS Lazio,Defender,-500000.0,73.16,30.72,77.23,35.24,90.23,89.92
+1008,Raul Albiol,36,La Liga,Villarreal CF,Defender,-500000.0,66.53,43.33,61.31,49.7,71.31,83.8
+1009,Alvaro Negredo,36,La Liga,Cádiz CF,Attack,-500000.0,49.71,48.26,45.2,53.64,29.71,51.76
+1010,Borja Garcia,31,La Liga,Girona FC,midfield,-500000.0,28.91,29.83,29.8,29.28,15.65,26.74
+1011,Stefan Bell,30,Bundesliga,1.FSV Mainz 05,Defender,-500000.0,71.17,52.38,64.72,60.39,82.22,77.33
+1012,Gabriel Vidovic,18,Bundesliga,Bayern Munich,Attack,-500000.0,60.86,64.37,53.89,63.24,32.18,61.96
+1013,Mostafa Mohamed,24,Ligue 1,FC Nantes,Attack,-500000.0,80.88,87.78,61.58,83.95,48.45,90.22
+1014,Delano Burgzorg,23,Bundesliga,1.FSV Mainz 05,Attack,-500000.0,30.47,27.26,29.44,33.35,20.68,31.82
+1015,Henrique Araujo,20,Primeira Liga,SL Benfica,Attack,-500000.0,14.12,9.29,22.19,14.75,6.43,10.23
+1016,Mihailo Ristic,26,Primeira Liga,SL Benfica,Defender,-500000.0,33.38,21.59,30.81,20.48,15.79,60.65
+1017,Jhonder Cadiz,27,Primeira Liga,FC Famalicão,Attack,-500000.0,56.62,58.22,49.88,58.25,29.77,60.12
+1018,Emil Bohinen,23,Serie A,US Salernitana 1919,midfield,-600000.0,53.5,51.85,46.3,55.96,41.74,59.9
+1019,Manu Vallejo,25,La Liga,Girona FC,Attack,-600000.0,23.85,13.72,37.42,28.47,10.13,15.79
+1020,Ondrej Duda,27,Serie A,Hellas Verona,midfield,-600000.0,35.54,31.98,31.99,36.15,34.88,39.15
+1021,Giangiacomo Magnani,26,Serie A,Hellas Verona,Defender,-600000.0,69.6,41.53,67.99,49.4,77.99,83.01
+1022,Petar Stojanovic,26,Serie A,FC Empoli,Defender,-700000.0,74.74,47.0,70.14,59.49,80.14,89.2
+1023,Leonardo Bittencourt,28,Bundesliga,SV Werder Bremen,midfield,-700000.0,59.6,61.19,50.66,59.91,49.38,66.62
+1024,Eduard Sobol,27,Ligue 1,RC Strasbourg Alsace,Defender,-700000.0,48.0,25.25,35.54,33.71,38.27,84.46
+1025,James Tomkins,33,Premier League,Crystal Palace,Defender,-700000.0,48.48,23.2,46.23,10.14,59.23,65.25
+1026,Rui Fonte,32,Primeira Liga,FC Famalicão,Attack,-700000.0,41.75,45.74,34.47,42.09,27.0,44.69
+1027,Ruben Lameiras,27,Primeira Liga,Vitória Guimarães SC,Attack,-700000.0,47.74,41.54,50.0,51.03,30.19,48.39
+1028,Hidde ter Avest,25,Eredivisie,FC Utrecht,Defender,-700000.0,52.0,34.43,43.38,43.68,50.84,70.11
+1029,Papa Ndiaga Yade,22,Ligue 1,FC Metz,Attack,-800000.0,35.96,29.6,39.79,38.1,25.08,36.34
+1030,Marcus Coco,26,Ligue 1,FC Nantes,Attack,-800000.0,61.14,63.61,53.0,62.67,41.02,65.3
+1031,Thomas Delaine,30,Ligue 1,RC Strasbourg Alsace,Defender,-800000.0,51.09,29.12,37.99,37.78,39.18,89.43
+1032,Siriki Dembele,25,Premier League,AFC Bournemouth,Attack,-800000.0,35.53,25.03,48.31,39.43,20.06,29.37
+1033,Lebo Mothiba,26,Ligue 1,RC Strasbourg Alsace,Attack,-800000.0,45.55,58.1,33.79,44.21,22.9,46.08
+1034,Ze Carlos,20,Primeira Liga,Gil Vicente FC,Defender,-800000.0,49.94,25.32,38.24,34.09,43.55,83.87
+1035,Joel Ward,32,Premier League,Crystal Palace,Defender,-800000.0,72.92,54.12,71.31,56.79,71.31,92.27
+1036,Matt Ritchie,32,Premier League,Newcastle United,midfield,-800000.0,17.97,13.53,24.11,18.67,11.08,15.57
+1037,Patrick Herrmann,31,Bundesliga,Borussia Mönchengladbach,Attack,-800000.0,52.06,53.96,49.9,52.45,27.43,51.94
+1038,Marco Benassi,27,Serie A,ACF Fiorentina,midfield,-900000.0,38.81,32.3,32.14,35.98,48.34,38.61
+1039,Luca Kilian,22,Bundesliga,1.FC Köln,Defender,-1000000.0,72.81,37.37,75.58,32.24,88.58,89.72
+1040,Alex Collado,23,La Liga,FC Barcelona,Attack,-1000000.0,42.96,37.61,49.87,44.27,34.24,40.07
+1041,Maxime Busi,22,Ligue 1,Stade Reims,Defender,-1000000.0,49.6,36.07,41.61,44.09,38.97,73.72
+1042,Adama Soumaoro,30,Serie A,Bologna FC 1909,Defender,-1000000.0,69.87,39.73,70.84,45.43,83.84,79.36
+1043,Cristian Borja,29,Primeira Liga,SC Braga,Defender,-1000000.0,46.56,23.45,34.95,30.9,40.28,80.12
+1044,Kevin Vogt,30,Bundesliga,TSG 1899 Hoffenheim,Defender,-1000000.0,68.67,37.87,70.42,44.35,83.42,76.48
+1045,Justin Kluivert,23,Premier League,AFC Bournemouth,Attack,-1000000.0,64.23,64.27,60.18,66.49,36.71,65.96
+1046,Kieffer Moore,29,Premier League,AFC Bournemouth,Attack,-1000000.0,60.7,68.18,45.42,62.0,35.25,67.19
+1047,Matteo Lovato,22,Serie A,US Salernitana 1919,Defender,-1000000.0,66.91,28.86,67.24,32.45,80.24,87.7
+1048,Simone Verdi,30,Serie A,Torino FC,midfield,-1000000.0,60.45,60.6,59.58,60.87,33.0,60.74
+1049,Ignatius Ganago,23,Ligue 1,FC Nantes,Attack,-1000000.0,64.04,69.84,50.4,65.9,37.41,70.01
+1050,Manu Morlanes,23,La Liga,RCD Mallorca,midfield,-1000000.0,33.55,32.41,22.24,27.52,42.72,31.56
+1051,Jeffrey Schlupp,29,Premier League,Crystal Palace,midfield,-1000000.0,76.64,80.65,59.37,78.82,57.07,87.73
+1052,Jere Uronen,28,Ligue 1,Stade Brestois 29,Defender,-1000000.0,39.81,18.04,31.33,25.48,29.62,72.79
+1053,Joao Mario,29,Primeira Liga,SL Benfica,midfield,-1000000.0,83.17,83.13,79.1,85.34,48.39,85.1
+1054,Eric Bailly,28,Premier League,Manchester United,Defender,-1000000.0,71.02,28.86,75.44,33.11,88.44,87.08
+1055,Sanjin Prcic,28,Ligue 1,RC Strasbourg Alsace,midfield,-1000000.0,65.82,65.64,55.27,68.14,54.01,74.23
+1056,Jordan Ayew,30,Premier League,Crystal Palace,Attack,-1000000.0,87.51,90.75,70.22,91.63,56.16,97.45
+1057,Jonathan Clauss,29,Ligue 1,Olympique Marseille,Defender,-1000000.0,74.9,61.71,75.11,75.83,55.26,86.94
+1058,Ismail Jakobs,22,Ligue 1,AS Monaco,Defender,-1000000.0,66.99,56.14,63.36,68.28,41.33,80.17
+1059,Houboulang Mendes,24,Ligue 1,UD Almería,Defender,-1000000.0,42.07,23.45,26.25,28.78,32.7,80.55
+1060,Matteo Gabbia,22,Serie A,AC Milan,Defender,-1000000.0,61.97,19.84,68.05,23.49,81.05,75.3
+1061,Martin Hongla,24,Serie A,Hellas Verona,midfield,-1000000.0,37.96,33.82,27.45,35.7,37.11,45.21
+1062,Kevin Vazquez,29,La Liga,Celta de Vigo,Defender,-1000000.0,62.31,16.23,72.68,20.3,85.68,70.61
+1063,David Carmo,23,Primeira Liga,FC Porto,Defender,-1000000.0,30.51,14.55,14.27,16.79,23.98,66.7
+1064,Riccardo Sottil,23,Serie A,ACF Fiorentina,Attack,-1000000.0,46.22,38.98,52.72,49.15,23.76,44.03
+1065,Sergi Roberto,30,La Liga,FC Barcelona,Defender,-1000000.0,69.41,49.39,68.73,49.2,81.73,77.81
+1066,Halil Dervisoglu,22,Premier League,Brentford FC,Attack,-1000000.0,33.06,0.0,71.93,58.56,1.73,0.0
+1067,Jordan Veretout,29,Ligue 1,Olympique Marseille,midfield,-1000000.0,87.65,89.27,72.52,90.86,60.43,97.93
+1068,Andoni Gorosabel,25,La Liga,Real Sociedad,Defender,-1000000.0,73.9,46.93,70.2,56.04,80.2,89.19
+1069,Goncalo Paciencia,27,La Liga,Celta de Vigo,Attack,-1000000.0,58.19,58.54,50.14,60.96,31.06,63.1
+1070,Marko Arnautovic,33,Serie A,Bologna FC 1909,Attack,-1000000.0,53.05,60.86,45.3,53.3,25.87,52.74
+1071,Arber Zeneli,27,Ligue 1,Stade Reims,Attack,-1000000.0,57.06,50.13,59.2,62.18,31.87,56.72
+1072,Will Hughes,27,Premier League,Crystal Palace,midfield,-1000000.0,62.38,67.51,50.71,62.98,43.27,68.3
+1073,Thomas Henry,27,Serie A,Hellas Verona,Attack,-1000000.0,38.13,40.29,33.85,38.39,20.15,39.96
+1074,Matteo Darmian,32,Serie A,Inter Milan,Defender,-1000000.0,77.89,59.87,78.64,64.8,88.64,79.49
+1075,Bartosz Bialek,20,Jupiler Pro League,KAS Eupen,Attack,-1000000.0,59.19,62.58,50.9,61.2,34.14,62.08
+1076,Kevin Bonifazi,26,Serie A,Bologna FC 1909,Defender,-1000000.0,60.57,21.64,62.81,26.14,75.81,77.53
+1077,Harry Wilson,25,Premier League,Fulham FC,Attack,-1000000.0,67.64,69.15,57.59,71.31,40.67,72.49
+1078,Eliot Matazo,20,Ligue 1,AS Monaco,midfield,-1000000.0,52.58,62.51,38.19,51.45,37.6,58.17
+1079,Sergi Guardiola,31,La Liga,Cádiz CF,Attack,-1000000.0,31.18,29.6,27.83,32.48,20.72,34.78
+1080,Jan Thielmann,20,Bundesliga,1.FC Köln,Attack,-1000000.0,56.69,57.91,51.3,59.81,28.77,57.76
+1081,Andrei Girotto,30,Ligue 1,FC Nantes,Defender,-1000000.0,82.98,65.04,59.36,73.18,99.0,94.68
+1082,Pedro Brazao,19,Primeira Liga,FC Famalicão,midfield,-1000000.0,22.13,11.27,36.73,23.65,14.57,13.57
+1083,Yan Couto,20,Premier League,Manchester City,Defender,-1000000.0,77.74,48.69,78.67,57.24,91.67,83.37
+1084,Matteo Pessina,25,Serie A,AC Monza,midfield,-1000000.0,79.97,81.65,65.08,83.19,57.38,89.97
+1085,Corentin Tolisso,27,Ligue 1,Olympique Lyon,midfield,-1000000.0,71.62,67.44,67.87,74.58,51.34,76.61
+1086,Luis Neto,34,Primeira Liga,Sporting CP,Defender,-1000000.0,28.41,9.02,10.08,10.8,32.85,59.9
+1087,Valentino Lazaro,26,Serie A,Inter Milan,Defender,-1000000.0,69.87,39.77,68.17,52.41,81.17,77.73
+1088,Anthony Martial,26,Premier League,Manchester United,Attack,-1000000.0,51.89,56.69,45.82,53.34,25.94,51.71
+1089,Joe Rodon,24,Premier League,Tottenham Hotspur,Defender,-1000000.0,63.06,33.02,59.99,30.8,72.99,86.25
+1090,Karim Rekik,27,La Liga,Sevilla FC,Defender,-1000000.0,64.86,32.55,64.4,32.97,77.4,84.67
+1091,Yuri Berchiche,32,La Liga,Athletic Bilbao,Defender,-1000000.0,76.73,52.49,79.39,61.72,89.39,76.44
+1092,Junior Sambia,25,Serie A,US Salernitana 1919,Defender,-1000000.0,69.01,38.27,69.27,49.45,82.27,75.04
+1093,Iago Aspas,34,La Liga,Celta de Vigo,Attack,-1000000.0,89.18,90.37,80.56,92.4,44.6,93.39
+1094,Joris Chotard,20,Ligue 1,Montpellier HSC,midfield,-1000000.0,79.51,76.69,61.07,80.88,70.09,90.39
+1095,Federico Bonazzoli,25,Serie A,US Salernitana 1919,Attack,-1000000.0,54.73,55.65,46.68,57.41,28.84,59.18
+1096,Paulo Oliveira,30,Primeira Liga,SC Braga,Defender,-1000000.0,48.44,34.38,31.45,39.28,47.74,72.37
+1097,Pietro Pellegri,21,Serie A,Torino FC,Attack,-1000000.0,43.1,49.22,34.27,44.21,25.2,44.69
+1098,Dani Garcia,32,La Liga,Athletic Bilbao,midfield,-1000000.0,60.39,54.11,45.27,57.9,64.11,65.46
+1099,Nemanja Matic,33,Serie A,AS Roma,midfield,-1000000.0,81.71,86.09,67.5,84.24,56.91,89.02
+1100,Frank Onyeka,24,Premier League,Brentford FC,midfield,-1000000.0,49.11,45.35,46.25,52.71,34.79,52.13
+1101,Benat Turrientes,20,La Liga,Real Sociedad,midfield,-1000000.0,18.29,11.27,29.83,18.85,9.51,13.22
+1102,Jesus Vallejo,25,La Liga,Real Madrid,Defender,-1000000.0,33.14,1.1,36.73,0.0,49.73,45.0
+1103,Riccardo Marchizza,24,Serie A,Frosinone Calcio,Defender,-1000000.0,52.96,16.23,52.23,25.51,65.23,68.88
+1104,Matheus Henrique,24,Serie A,US Sassuolo,midfield,-1000000.0,71.39,74.52,62.14,72.6,45.46,76.29
+1105,Alexandre Lacazette,31,Ligue 1,Olympique Lyon,Attack,-1000000.0,84.94,92.24,71.92,86.78,46.74,88.82
+1106,Mouctar Diakhaby,25,La Liga,Valencia CF,Defender,-1000000.0,83.56,56.74,84.22,58.0,97.22,94.82
+1107,Steve Cook,31,Premier League,Nottingham Forest,Defender,-1000000.0,60.53,19.84,64.97,23.43,77.97,75.73
+1108,Jonas Martin,32,Ligue 1,LOSC Lille,midfield,-1000000.0,28.23,24.8,29.15,29.12,22.12,29.87
+1109,Dennis Geiger,24,Bundesliga,TSG 1899 Hoffenheim,midfield,-1000000.0,65.58,68.97,56.61,65.77,56.99,70.6
+1110,Francesco Caputo,34,Serie A,FC Empoli,Attack,-1000000.0,34.95,34.81,32.24,36.33,18.17,36.43
+1111,Fernando,35,La Liga,Sevilla FC,midfield,-1000000.0,51.46,47.34,39.07,50.04,50.48,57.95
+1112,Nicolas Haas,26,Serie A,FC Empoli,midfield,-1000000.0,54.7,58.73,44.08,55.57,40.95,60.4
+1113,Carles Perez,24,La Liga,Celta de Vigo,Attack,-1000000.0,81.16,80.81,67.93,86.9,51.84,88.99
+1114,Pedro Chirivella,25,Ligue 1,FC Nantes,midfield,-1000000.0,59.16,56.63,52.15,62.06,43.71,65.8
+1115,Craig Dawson,32,Premier League,Wolverhampton Wanderers,Defender,-1000000.0,54.91,12.76,61.84,17.53,74.84,65.43
+1116,Rochinha,27,Primeira Liga,Sporting CP,Attack,-1000000.0,40.35,37.61,40.9,43.64,20.22,39.25
+1117,Luis Milla,27,La Liga,Getafe CF,midfield,-1000000.0,61.97,58.67,54.32,64.3,47.44,70.59
+1118,Edinson Cavani,35,La Liga,Valencia CF,Attack,-1000000.0,56.56,60.64,44.49,58.15,31.18,62.98
+1119,Kaj Sierhuis,24,Ligue 1,Stade Reims,Attack,-1100000.0,31.24,29.41,29.22,32.98,17.13,33.37
+1120,Lorenzo De Silvestri,34,Serie A,Bologna FC 1909,Defender,-1100000.0,60.81,33.73,57.52,31.34,70.52,81.49
+1121,Osama Rashid,30,Primeira Liga,FC Vizela,midfield,-1100000.0,45.49,43.97,47.27,45.78,22.31,44.94
+1122,Dominique Heintz,28,Bundesliga,1.FC Union Berlin,Defender,-1300000.0,56.55,18.14,58.92,22.4,71.92,72.94
+1123,Kaan Ayhan,27,Super Lig ,Galatasaray,Defender,-1300000.0,38.64,16.34,19.37,19.92,45.45,69.81
+1124,Gregoire Defrel,31,Serie A,US Sassuolo,Attack,-1500000.0,60.11,65.96,45.43,61.57,34.53,67.45
+1125,Dimitri Foulquier,29,La Liga,Valencia CF,Defender,-1500000.0,71.4,52.3,68.56,62.09,78.56,76.4
+1126,Thomas Meunier,30,Bundesliga,Borussia Dortmund,Defender,-1500000.0,64.71,16.23,75.68,23.51,88.68,70.97
+1127,Mergim Vojvoda,27,Serie A,Torino FC,Defender,-1500000.0,82.75,50.73,79.61,65.76,92.61,93.02
+1128,Ruben Vargas,23,Bundesliga,FC Augsburg,Attack,-1500000.0,55.22,57.57,48.42,57.11,32.4,57.8
+1129,Lucas Holer,28,Bundesliga,SC Freiburg,Attack,-1500000.0,61.52,66.5,52.06,62.72,34.64,64.79
+1130,Silvan Widmer,29,Bundesliga,1.FSV Mainz 05,Defender,-1500000.0,69.83,50.02,60.5,55.53,78.0,85.28
+1131,Daniele Rugani,28,Serie A,Juventus FC,Defender,-1500000.0,57.85,14.55,67.77,16.55,80.77,66.33
+1132,Romario Baro,22,Primeira Liga,FC Porto,midfield,-1500000.0,43.84,38.4,45.24,46.12,37.93,45.61
+1133,Kelvin Yeboah,22,Serie A,Genoa CFC,Attack,-1500000.0,35.17,31.6,40.5,36.9,18.98,31.69
+1134,Alexis Claude-Maurice,24,Ligue 1,OGC Nice,midfield,-1500000.0,51.63,62.58,43.71,50.58,29.49,49.67
+1135,Abdul Mumin,24,La Liga,Rayo Vallecano,Defender,-1500000.0,61.72,27.12,58.82,31.61,71.82,84.61
+1136,Remy Cabella,32,Ligue 1,LOSC Lille,midfield,-1500000.0,85.05,80.53,90.43,87.2,58.15,82.03
+1137,Jerome Roussillon,29,Bundesliga,1.FC Union Berlin,Defender,-1500000.0,68.9,27.19,70.4,36.71,83.4,85.09
+1138,Waldemar Anton,26,Bundesliga,VfB Stuttgart,Defender,-1500000.0,79.24,61.38,71.41,70.0,88.91,86.64
+1139,Gabriel Gudmundsson,23,Ligue 1,LOSC Lille,Defender,-1500000.0,52.98,30.72,41.68,40.27,39.31,90.63
+1140,Dominik Kohr,28,Bundesliga,1.FSV Mainz 05,midfield,-1500000.0,69.44,70.18,57.05,70.88,58.49,78.2
+1141,Stefan Lainer,29,Bundesliga,Borussia Mönchengladbach,Defender,-1500000.0,68.09,29.12,68.18,35.32,81.18,87.67
+1142,Guus Til,24,Eredivisie,PSV Eindhoven,midfield,-1500000.0,72.35,76.59,63.44,73.45,43.67,75.92
+1143,Tanguy Nianzou,20,La Liga,Sevilla FC,Defender,-1500000.0,73.06,39.53,72.84,37.83,85.84,94.05
+1144,Joseba Zaldua,30,La Liga,Cádiz CF,Defender,-1500000.0,62.14,16.23,71.24,20.62,84.24,72.45
+1145,Wataru Endo,29,Bundesliga,VfB Stuttgart,midfield,-1500000.0,77.27,78.93,65.34,79.17,64.53,85.63
+1146,Koray Gunter,27,Serie A,Hellas Verona,Defender,-1500000.0,59.34,16.23,67.57,18.96,80.57,70.25
+1147,Mark Uth,30,Bundesliga,1.FC Köln,Attack,-1500000.0,12.97,4.97,15.43,22.74,4.07,8.74
+1148,Ricardo Esgaio,29,Primeira Liga,Sporting CP,Defender,-1500000.0,62.6,46.99,53.6,54.52,57.7,84.57
+1149,Christopher Lenz,27,Bundesliga,Eintracht Frankfurt,Defender,-1500000.0,75.79,41.6,78.14,53.51,91.14,80.39
+1150,Nicolas Cozza,23,Bundesliga,VfL Wolfsburg,Defender,-1500000.0,67.91,41.16,70.44,35.64,70.44,89.62
+1151,Pedro,35,Serie A,SS Lazio,Attack,-1500000.0,82.3,85.0,66.95,86.3,48.32,90.94
+1152,Pawel Dawidowicz,27,Serie A,Hellas Verona,Defender,-1500000.0,69.72,43.54,70.56,46.54,80.56,81.2
+1153,Marcel Halstenberg,30,Bundesliga,RB Leipzig,Defender,-1500000.0,74.0,58.74,67.05,65.6,84.55,78.79
+1154,Felix Agu,22,Bundesliga,SV Werder Bremen,Defender,-1500000.0,40.04,3.61,39.19,18.51,52.19,50.29
+1155,Dylan Bronn,27,Serie A,US Salernitana 1919,Defender,-1500000.0,68.16,41.53,65.78,48.45,75.78,82.63
+1156,Darko Lazovic,31,Serie A,Hellas Verona,midfield,-1500000.0,70.37,71.2,61.69,72.77,45.29,75.82
+1157,Sebastiaan Bornauw,23,Bundesliga,VfL Wolfsburg,Defender,-1500000.0,71.54,55.39,63.21,51.6,80.71,86.85
+1158,Soualiho Meite,28,Primeira Liga,SL Benfica,midfield,-1500000.0,68.95,67.77,56.19,72.22,53.79,79.64
+1159,Junior Messias,31,Serie A,AC Milan,Attack,-1500000.0,60.65,63.62,52.66,63.24,33.06,63.07
+1160,Ronael Pierre-Gabriel,24,Bundesliga,1.FSV Mainz 05,Defender,-1500000.0,68.77,23.6,72.2,31.19,89.7,81.99
+1161,Aster Vranckx,19,Bundesliga,VfL Wolfsburg,midfield,-1500000.0,19.83,18.04,19.28,20.53,14.35,21.47
+1162,Daley Sinkgraven,27,La Liga,UD Las Palmas,Defender,-1500000.0,64.97,19.93,71.39,29.47,84.39,74.63
+1163,Nicolas Otamendi,34,Primeira Liga,SL Benfica,Defender,-1500000.0,73.0,55.74,52.55,63.03,90.53,82.7
+1164,Genki Haraguchi,31,Bundesliga,VfB Stuttgart,midfield,-1500000.0,30.22,22.67,39.82,31.98,18.38,26.43
+1165,Akim Zedadka,27,Ligue 1,LOSC Lille,Defender,-1500000.0,50.99,34.27,40.18,42.67,48.93,72.18
+1166,Andre Andre,32,Primeira Liga,Vitória Guimarães SC,midfield,-1600000.0,50.02,50.21,47.15,50.0,32.8,52.72
+1167,Kevin Lasagna,29,Serie A,Hellas Verona,Attack,-1700000.0,59.42,58.11,50.61,63.5,36.01,65.45
+1168,Jaime Mata,33,La Liga,Getafe CF,Attack,-1800000.0,42.57,42.46,37.91,44.12,27.82,45.78
+1169,Aaron Cresswell,32,Premier League,West Ham United,Defender,-1800000.0,79.61,48.83,77.08,60.77,90.08,90.5
+1170,William Carvalho,30,La Liga,Real Betis Balompié,midfield,-2000000.0,76.02,78.92,62.24,78.07,49.27,84.84
+1171,Gianluca Caprari,29,Serie A,AC Monza,Attack,-2000000.0,84.94,86.29,70.47,89.41,47.26,93.59
+1172,Carlos Vinicius,27,Premier League,Fulham FC,Attack,-2000000.0,64.43,74.26,47.49,66.24,33.42,69.74
+1173,Layvin Kurzawa,29,Ligue 1,Paris Saint-Germain,Defender,-2000000.0,28.12,3.61,3.08,4.06,51.35,53.47
+1174,Flavien Tait,29,Ligue 1,Stade Rennais FC,midfield,-2000000.0,71.69,69.95,64.3,75.76,49.65,76.75
+1175,Gustavo Assuncao,22,Primeira Liga,FC Famalicão,midfield,-2000000.0,53.31,64.27,40.74,50.96,38.49,57.28
+1176,Ruben Garcia,29,La Liga,CA Osasuna,Attack,-2000000.0,70.59,68.65,67.53,73.56,38.28,72.62
+1177,Juan Bernat,29,Ligue 1,Paris Saint-Germain,Defender,-2000000.0,65.16,54.68,55.33,60.02,52.56,90.64
+1178,Joshua Zirkzee,21,Serie A,Bologna FC 1909,Attack,-2000000.0,49.08,45.11,51.75,52.51,24.4,46.96
+1179,Seamus Coleman,33,Premier League,Everton FC,Defender,-2000000.0,65.8,45.54,63.83,47.39,73.83,78.16
+1180,David Zima,21,Serie A,Torino FC,Defender,-2000000.0,53.54,14.67,58.41,18.01,71.41,66.33
+1181,Mehdi Taremi,30,Primeira Liga,FC Porto,Attack,-2000000.0,80.18,85.61,67.44,83.49,43.47,84.17
+1182,Henrikh Mkhitaryan,33,Serie A,Inter Milan,midfield,-2000000.0,74.66,72.82,68.84,77.09,44.96,79.9
+1183,Davide Zappacosta,30,Serie A,Atalanta BC,Defender,-2000000.0,75.68,43.66,83.74,48.11,96.74,74.14
+1184,Francis Coquelin,31,La Liga,Villarreal CF,midfield,-2000000.0,39.6,41.19,29.46,36.23,40.39,40.57
+1185,Chris Wood,30,Premier League,Nottingham Forest,Attack,-2000000.0,40.22,45.64,30.88,40.56,26.44,43.81
+1186,Davide Faraoni,30,Serie A,Hellas Verona,Defender,-2000000.0,73.86,44.23,76.41,50.2,89.41,79.42
+1187,Pavel Kaderabek,30,Bundesliga,TSG 1899 Hoffenheim,Defender,-2000000.0,80.54,50.48,84.23,55.42,97.23,85.29
+1188,Dan Burn,30,Premier League,Newcastle United,Defender,-2000000.0,84.93,68.94,77.49,77.61,87.49,97.12
+1189,Melvin Bard,21,Ligue 1,OGC Nice,Defender,-2000000.0,76.87,57.78,55.88,67.24,96.25,86.21
+1190,Alberto Moreno,30,La Liga,Villarreal CF,Defender,-2000000.0,73.53,41.67,74.3,51.1,87.3,81.4
+1191,Gaetano Castrovilli,25,Serie A,ACF Fiorentina,midfield,-2000000.0,37.31,38.43,35.98,36.92,20.09,37.9
+1192,Sebastian Walukiewicz,22,Serie A,FC Empoli,Defender,-2000000.0,56.89,18.14,60.84,21.49,73.84,71.38
+1193,Jesus Vazquez,19,La Liga,Valencia CF,Defender,-2000000.0,58.81,16.34,63.04,25.53,76.04,70.62
+1194,Steven Berghuis,30,Eredivisie,Ajax Amsterdam,midfield,-2000000.0,74.89,71.13,76.36,77.83,48.26,74.23
+1195,Fabio Silva,20,Premier League,Wolverhampton Wanderers,Attack,-2000000.0,40.69,40.24,46.61,41.35,17.13,34.54
+1196,Ansgar Knauff,20,Bundesliga,Eintracht Frankfurt,Attack,-2000000.0,54.3,55.94,44.13,56.62,42.52,60.49
+1197,Cheikhou Kouyate,32,Premier League,Nottingham Forest,midfield,-2000000.0,48.62,54.15,36.35,47.34,39.87,53.1
+1198,Alex Fernandez,29,La Liga,Cádiz CF,midfield,-2000000.0,64.68,68.3,54.76,66.17,35.66,69.47
+1199,Andre Gomes,29,Premier League,Everton FC,midfield,-2000000.0,61.73,65.65,52.3,62.29,44.06,66.71
+1200,Mamadou Sakho,32,Ligue 1,Montpellier HSC,Defender,-2000000.0,43.85,38.88,24.46,29.34,24.61,82.57
+1201,Paulo Bernardo,20,Primeira Liga,SL Benfica,midfield,-2000000.0,36.66,35.26,29.76,31.48,43.36,36.54
+1202,Teji Savanier,30,Ligue 1,Montpellier HSC,midfield,-2000000.0,76.48,74.01,74.27,78.59,48.54,79.04
+1203,Christophe Herelle,29,Ligue 1,Stade Brestois 29,Defender,-2000000.0,42.34,27.05,26.23,31.44,24.23,84.64
+1204,Nicolas Tagliafico,29,Ligue 1,Olympique Lyon,Defender,-2000000.0,76.97,61.38,62.55,70.9,86.09,88.35
+1205,Filip Kostic,29,Serie A,Juventus FC,midfield,-2000000.0,4.93,0.0,8.32,2.74,2.2,6.46
+1206,Moussa Sissoko,32,Ligue 1,FC Nantes,midfield,-2000000.0,67.61,71.87,53.83,69.16,48.79,75.6
+1207,Anthony Elanga,20,Premier League,Manchester United,Attack,-2000000.0,40.0,34.16,44.87,42.43,20.88,38.54
+1208,Callum Wilson,30,Premier League,Newcastle United,Attack,-2000000.0,73.34,82.15,57.17,76.44,36.94,77.61
+1209,Robert Andrich,27,Bundesliga,Bayer 04 Leverkusen,midfield,-2000000.0,67.72,67.38,53.16,67.29,60.14,76.08
+1210,Raoul Bellanova,22,Serie A,Torino FC,Defender,-2000000.0,70.84,30.72,71.97,37.03,84.97,89.41
+1211,Kristijan Jakic,25,Bundesliga,Eintracht Frankfurt,midfield,-2000000.0,56.88,58.78,41.56,54.3,52.72,61.72
+1212,Andrea Petagna,27,Serie A,AC Monza,Attack,-2000000.0,71.1,73.28,58.22,75.56,39.38,77.33
+1213,Angelo Stiller,21,Bundesliga,TSG 1899 Hoffenheim,midfield,-2000000.0,47.66,50.28,41.91,48.5,37.09,49.97
+1214,Bamba Dieng,22,Ligue 1,FC Lorient,Attack,-2000000.0,35.16,38.17,29.41,35.5,21.15,37.55
+1215,Rafael Toloi,31,Serie A,Atalanta BC,Defender,-2000000.0,78.97,59.24,77.85,67.04,87.85,83.15
+1216,Tommaso Pobega,23,Serie A,AC Milan,midfield,-2000000.0,46.53,46.4,41.48,46.41,44.26,49.04
+1217,Pizzi,32,Primeira Liga,SC Braga,midfield,-2000000.0,45.92,43.81,53.09,46.36,22.95,40.4
+1218,Clement Lenglet,27,La Liga,FC Barcelona,Defender,-2000000.0,78.52,45.17,80.61,53.36,93.61,86.48
+1219,Gaetan Laborde,28,Ligue 1,OGC Nice,Attack,-2000000.0,18.09,19.96,27.45,17.12,5.46,7.81
+1220,Alexander Djiku,27,Super Lig ,Fenerbahce,Defender,-2000000.0,65.41,56.82,51.39,62.92,61.17,80.72
+1221,Jairo Riedewald,25,Premier League,Crystal Palace,midfield,-2000000.0,10.84,11.27,7.43,11.27,7.84,12.97
+1222,Giovanni Simeone,27,Serie A,SSC Napoli,Attack,-2000000.0,60.87,69.78,50.23,61.47,31.97,62.0
+1223,Ibrahima Sissoko,24,Ligue 1,RC Strasbourg Alsace,midfield,-2000000.0,59.18,56.52,52.03,61.66,52.4,66.13
+1224,Irvin Cardona,24,Bundesliga,FC Augsburg,Attack,-2000000.0,21.73,20.57,20.35,22.87,12.47,23.13
+1225,Steve Mounie,27,Ligue 1,Stade Brestois 29,Attack,-2000000.0,53.39,56.42,44.5,54.71,31.56,57.94
+1226,Eldor Shomurodov,27,Serie A,AS Roma,Attack,-2000000.0,35.86,35.22,34.08,37.27,19.59,36.86
+1227,Gerrit Holtmann,27,Bundesliga,VfL Bochum,Attack,-2000000.0,52.39,52.12,45.29,54.99,41.68,57.14
+1228,Toma Basic,25,Serie A,SS Lazio,midfield,-2000000.0,57.77,59.07,50.55,59.37,32.22,62.09
+1229,Ibrahima Konate,23,Premier League,Liverpool FC,Defender,-2000000.0,76.87,30.84,82.59,36.87,95.59,92.43
+1230,Marin Pongracic,24,Serie A,US Lecce,Defender,-2000000.0,58.17,14.43,66.53,17.59,79.53,69.01
+1231,Moses Simon,27,Ligue 1,FC Nantes,Attack,-2000000.0,79.86,81.98,68.97,83.1,45.16,85.4
+1232,Demarai Gray,26,Premier League,Everton FC,Attack,-2000000.0,77.13,75.87,67.77,80.76,53.01,84.11
+1233,Birger Meling,27,Ligue 1,Stade Rennais FC,Defender,-2000000.0,60.12,46.89,48.59,56.01,42.98,88.98
+1234,Timothy Fosu-Mensah,24,Bundesliga,Bayer 04 Leverkusen,Defender,-2000000.0,60.23,18.24,65.56,25.02,78.56,71.78
+1235,Luca Pellegrini,23,Serie A,Juventus FC,Defender,-2000000.0,50.68,10.82,46.08,34.64,59.08,62.9
+1236,Kristoffer Ajer,24,Premier League,Brentford FC,Defender,-2000000.0,61.06,14.43,73.47,17.17,86.47,67.13
+1237,Malang Sarr,23,Premier League,Chelsea FC,Defender,-2000000.0,55.44,21.64,52.39,26.71,65.39,77.27
+1238,Franco Cervi,28,La Liga,Celta de Vigo,Attack,-2000000.0,81.93,79.13,69.52,86.47,65.26,92.59
+1239,Odsonne Edouard,24,Premier League,Crystal Palace,Attack,-2000000.0,79.47,84.37,63.24,82.26,46.88,88.04
+1240,Emre Can,28,Bundesliga,Borussia Dortmund,midfield,-2000000.0,62.47,62.6,53.33,63.87,52.65,70.06
+1241,Lucas Martinez Quarta,26,Serie A,ACF Fiorentina,Defender,-2000000.0,78.72,49.03,84.23,55.27,84.23,91.14
+1242,Cengiz Under,25,Ligue 1,Olympique Marseille,Attack,-2000000.0,87.99,85.68,79.48,92.75,50.67,94.05
+1243,Rob Holding,26,Premier League,Arsenal FC,Defender,-2000000.0,59.61,31.88,57.4,28.59,70.4,78.78
+1244,Carlos Fernandez,26,La Liga,Real Sociedad,Attack,-2000000.0,55.07,54.82,47.55,57.52,28.85,60.38
+1245,Hannes Wolf,23,Bundesliga,Borussia Mönchengladbach,Attack,-2000000.0,43.97,45.32,41.45,45.0,26.94,44.1
+1246,Alexis Saelemaekers,23,Serie A,AC Milan,Attack,-2000000.0,72.56,69.13,68.19,77.34,49.98,75.57
+1247,Calum Chambers,27,Premier League,Aston Villa,Defender,-2000000.0,64.37,23.45,67.34,29.44,80.34,80.35
+1248,Jordan Teze,22,Eredivisie,PSV Eindhoven,Defender,-2000000.0,66.91,47.01,54.01,57.33,67.31,89.01
+1249,Trevoh Chalobah,23,Premier League,Chelsea FC,Defender,-2000000.0,72.48,43.37,72.44,51.11,82.44,83.9
+1250,Nordi Mukiele,24,Ligue 1,Paris Saint-Germain,Defender,-2000000.0,56.83,32.58,38.89,40.98,54.51,92.93
+1251,Timo Baumgartl,26,Eredivisie,PSV Eindhoven,Defender,-2000000.0,30.53,12.9,20.15,17.19,19.14,65.62
+1252,Gonzalo Montiel,25,La Liga,Sevilla FC,Defender,-2000000.0,82.68,48.74,82.14,60.58,95.14,92.84
+1253,Oliver Burke,25,Bundesliga,SV Werder Bremen,Attack,-2000000.0,39.74,45.13,37.38,40.58,18.13,35.86
+1254,Nadiem Amiri,25,Bundesliga,Bayer 04 Leverkusen,midfield,-2000000.0,61.85,61.91,57.7,64.41,37.58,63.39
+1255,Roland Sallai,25,Bundesliga,SC Freiburg,Attack,-2000000.0,48.18,43.1,49.19,51.76,27.09,48.69
+1256,Jonathan Ikone,24,Serie A,ACF Fiorentina,Attack,-2000000.0,77.51,77.04,65.97,84.09,41.98,82.94
+1257,Pape Gueye,23,Ligue 1,Olympique Marseille,midfield,-2000000.0,43.06,37.02,39.15,41.72,43.51,47.86
+1258,Serge Aurier,29,Premier League,Nottingham Forest,Defender,-2000000.0,71.17,46.18,71.75,49.19,81.75,81.98
+1259,Tino Kadewere,26,Ligue 1,Olympique Lyon,Attack,-2000000.0,35.35,34.9,32.86,36.98,23.88,36.66
+1260,Lucas Perrin,23,Ligue 1,RC Strasbourg Alsace,Defender,-2000000.0,59.94,45.26,43.23,52.36,55.19,86.96
+1261,Emerson,23,Premier League,West Ham United,Defender,-2000000.0,75.58,50.42,74.9,54.72,84.9,87.79
+1262,Nikola Milenkovic,24,Serie A,ACF Fiorentina,Defender,-2000000.0,70.53,51.76,64.18,54.97,74.18,88.78
+1263,Wout Weghorst,29,Premier League,Burnley FC,Attack,-2000000.0,41.33,36.48,42.85,43.83,22.16,42.16
+1264,Dani Ceballos,25,La Liga,Real Madrid,midfield,-2000000.0,73.97,65.61,74.66,78.12,51.75,77.5
+1265,Gonzalo Villar,24,Serie A,AS Roma,midfield,-2200000.0,35.29,33.9,30.04,36.43,27.26,40.79
+1266,Hugo Siquet,20,Jupiler Pro League,Cercle Brugge ,Defender,-2200000.0,25.71,1.8,1.53,2.03,49.91,49.1
+1267,Frederic Guilbert,27,Ligue 1,RC Strasbourg Alsace,Defender,-2500000.0,58.16,30.83,39.45,38.75,61.41,93.02
+1268,Federico Ceccherini,30,Serie A,Hellas Verona,Defender,-2500000.0,74.81,49.93,78.09,45.35,91.09,80.11
+1269,Maximilian Philipp,28,Bundesliga,VfL Wolfsburg,Attack,-2500000.0,9.94,4.97,7.91,6.25,19.8,5.8
+1270,Colin Dagba,23,Ligue 1,Paris Saint-Germain,Defender,-2500000.0,55.26,36.07,44.78,45.62,56.97,73.67
+1271,Kevin Akpoguma,27,Bundesliga,TSG 1899 Hoffenheim,Defender,-2500000.0,74.1,48.74,72.84,56.96,72.84,93.78
+1272,Ander Guevara,25,La Liga,Deportivo Alavés,midfield,-2500000.0,21.72,15.78,29.25,22.13,11.89,19.72
+1273,Simon Kjaer,33,Serie A,AC Milan,Defender,-2500000.0,67.84,28.86,68.45,33.35,81.45,88.1
+1274,Nedim Bajrami,23,Serie A,US Sassuolo,midfield,-2500000.0,46.04,41.36,49.85,48.41,28.02,44.55
+1275,Gerzino Nyamsi,25,Ligue 1,RC Strasbourg Alsace,Defender,-2500000.0,49.02,37.63,34.2,41.72,44.53,72.21
+1276,Mads Bech Sorensen,23,Premier League,Brentford FC,Defender,-2500000.0,64.04,18.04,74.47,21.49,87.47,72.74
+1277,Ludwig Augustinsson,28,La Liga,Sevilla FC,Defender,-2500000.0,36.91,3.97,39.25,4.06,52.25,52.1
+1278,Bram Nuytinck,32,Eredivisie,NEC Nijmegen,Defender,-2500000.0,50.87,32.46,30.1,37.39,63.33,70.31
+1279,Kevin Kampl,31,Bundesliga,RB Leipzig,midfield,-2500000.0,72.57,80.31,61.16,72.33,38.51,76.47
+1280,Sargis Adamyan,29,Bundesliga,1.FC Köln,Attack,-2500000.0,57.09,55.17,53.15,59.93,34.58,60.13
+1281,Bryan Gil,21,Premier League,Tottenham Hotspur,Attack,-3000000.0,15.49,7.11,25.22,20.19,5.75,9.42
+1282,Papu Gomez,34,La Liga,Sevilla FC,Attack,-3000000.0,48.28,43.82,51.18,50.24,24.1,47.87
+1283,Oliver Skipp,21,Premier League,Tottenham Hotspur,midfield,-3000000.0,53.54,56.99,43.46,53.39,44.02,59.75
+1284,Curtis Jones,21,Premier League,Liverpool FC,midfield,-3000000.0,48.76,49.45,47.41,48.87,49.32,46.53
+1285,Michael Frey,28,Jupiler Pro League,Royal Antwerp FC,Attack,-3000000.0,34.27,32.39,31.19,36.22,22.25,37.27
+1286,Alfonso Pedraza,26,La Liga,Villarreal CF,Defender,-3000000.0,70.65,45.51,64.29,57.29,74.29,86.75
+1287,Maxence Lacroix,22,Bundesliga,VfL Wolfsburg,Defender,-3000000.0,72.56,51.71,72.81,48.09,85.81,79.89
+1288,Marko Grujic,26,Primeira Liga,FC Porto,midfield,-3000000.0,58.61,55.21,50.72,58.32,59.07,61.83
+1289,Jacob Bruun Larsen,23,Bundesliga,TSG 1899 Hoffenheim,Attack,-3000000.0,32.62,32.41,36.92,32.56,23.52,28.58
+1290,Jean-Philippe Mateta,25,Premier League,Crystal Palace,Attack,-3000000.0,62.85,67.26,46.22,65.55,35.15,72.37
+1291,Ander Barrenetxea,20,La Liga,Real Sociedad,Attack,-3000000.0,56.46,59.47,50.25,57.86,38.46,58.24
+1292,Jean Lucas,24,Ligue 1,AS Monaco,midfield,-3000000.0,19.67,11.96,17.77,14.72,31.59,14.6
+1293,Benjamin Andre,31,Ligue 1,LOSC Lille,midfield,-3000000.0,84.34,76.69,63.63,79.75,90.2,90.71
+1294,Sasa Lukic,25,Premier League,Fulham FC,midfield,-3000000.0,26.74,24.91,23.55,27.87,20.06,30.62
+1295,Sebastian Coates,31,Primeira Liga,Sporting CP,Defender,-3000000.0,61.63,55.01,52.96,61.61,53.37,76.52
+1296,Maxim Leitsch,24,Bundesliga,1.FSV Mainz 05,Defender,-3000000.0,56.48,14.55,64.26,17.96,77.26,66.44
+1297,Ivan Rakitic,34,La Liga,Sevilla FC,midfield,-3000000.0,72.77,68.31,67.02,75.9,51.36,79.84
+1298,Fabien Centonze,26,Ligue 1,FC Nantes,Defender,-3000000.0,61.88,39.68,45.89,48.97,72.79,79.88
+1299,Tom Cairney,31,Premier League,Fulham FC,midfield,-3000000.0,79.27,77.5,74.44,82.21,46.35,82.92
+1300,Michail Antonio,32,Premier League,West Ham United,Attack,-3000000.0,75.22,79.85,58.75,79.76,40.5,82.52
+1301,Cedric Soares,30,Premier League,Arsenal FC,Defender,-3000000.0,54.87,9.02,66.48,14.54,79.48,59.0
+1302,Xeka,27,Ligue 1,Stade Rennais FC,midfield,-3000000.0,21.84,15.78,19.24,19.17,28.8,20.13
+1303,Maxwel Cornet,25,Premier League,West Ham United,Attack,-3000000.0,32.86,29.5,32.95,34.62,26.1,34.36
+1304,Alex Moreno,29,Premier League,Aston Villa,Defender,-3000000.0,73.66,25.54,82.78,32.68,95.78,83.42
+1305,Ben Chilwell,25,Premier League,Chelsea FC,Defender,-3000000.0,73.94,45.38,77.2,50.31,90.2,78.05
+1306,Ivan Perisic,33,Premier League,Tottenham Hotspur,midfield,-3000000.0,79.56,76.4,71.38,83.61,62.45,86.85
+1307,Emanuel Vignato,21,Serie A,Bologna FC 1909,Attack,-3000000.0,19.76,15.95,22.71,21.02,16.18,19.1
+1308,Unai Nunez,25,La Liga,Celta de Vigo,Defender,-3000000.0,77.07,63.28,66.89,72.35,76.89,92.16
+1309,Gianluca Mancini,26,Serie A,AS Roma,Defender,-3000000.0,75.49,63.58,65.52,71.54,75.52,89.37
+1310,Niklas Dorsch,24,Bundesliga,FC Augsburg,midfield,-3000000.0,28.59,22.54,24.69,25.86,35.89,27.91
+1311,Aissa Mandi,30,La Liga,Villarreal CF,Defender,-3000000.0,65.81,36.18,68.04,41.99,81.04,72.17
+1312,Adrien Thomasson,28,Ligue 1,RC Lens,midfield,-3000000.0,51.88,56.55,49.18,51.29,32.35,50.5
+1313,Thomas Partey,29,Premier League,Arsenal FC,midfield,-3000000.0,76.69,78.21,64.63,78.65,57.3,85.27
+1314,Ruben Aguilar,29,Ligue 1,AS Monaco,Defender,-3000000.0,46.24,34.38,38.17,41.71,31.6,70.71
+1315,Maximilian Arnold,28,Bundesliga,VfL Wolfsburg,midfield,-3000000.0,74.55,74.88,64.29,76.95,60.31,82.07
+1316,Jerry St. Juste,25,Primeira Liga,Sporting CP,Defender,-3000000.0,51.9,41.91,46.73,46.3,35.58,72.66
+1317,Darwin Machis,29,La Liga,Cádiz CF,Attack,-3000000.0,28.62,23.29,34.27,30.62,14.35,26.32
+1318,Vladimir Coufal,29,Premier League,West Ham United,Defender,-3000000.0,75.65,46.89,77.55,57.47,77.55,90.01
+1319,Jorge Cuenca,22,La Liga,Villarreal CF,Defender,-3000000.0,55.27,16.23,59.3,20.04,72.3,69.45
+1320,Tyrick Mitchell,22,Premier League,Crystal Palace,Defender,-3000000.0,82.38,63.15,76.34,73.54,86.34,93.31
+1321,Mattia De Sciglio,29,Serie A,Juventus FC,Defender,-3000000.0,69.72,28.86,71.83,35.3,84.83,86.91
+1322,Domingos Duarte,27,La Liga,Getafe CF,Defender,-3000000.0,72.82,54.25,69.29,62.13,79.29,80.57
+1323,Juanmi,29,La Liga,Real Betis Balompié,Attack,-3000000.0,52.79,59.65,42.6,53.76,30.06,55.13
+1324,Alex Sandro,31,Serie A,Juventus FC,Defender,-3000000.0,80.3,43.29,84.99,53.07,97.99,85.15
+1325,Dimitri Payet,35,Ligue 1,Olympique Marseille,midfield,-3200000.0,64.69,58.58,72.52,68.56,30.49,59.11
+1326,Alessandro Florenzi,31,Serie A,AC Milan,Defender,-3500000.0,53.24,9.31,60.93,18.19,73.93,59.9
+1327,Oscar Mingueza,23,La Liga,Celta de Vigo,Defender,-3500000.0,71.56,36.07,79.24,43.93,89.24,73.82
+1328,Willy Boly,31,Premier League,Nottingham Forest,Defender,-3500000.0,62.38,18.14,70.82,21.95,83.82,72.93
+1329,Pedro Neto,22,Premier League,Wolverhampton Wanderers,Attack,-4000000.0,45.38,38.6,48.93,49.05,29.39,44.94
+1330,Igor,24,Serie A,ACF Fiorentina,Defender,-4000000.0,73.55,46.89,69.01,54.83,79.01,91.34
+1331,Morgan Sanson,27,Premier League,Aston Villa,midfield,-4000000.0,45.07,40.72,46.06,46.34,36.53,47.18
+1332,Pablo Rosario,25,Ligue 1,OGC Nice,midfield,-4000000.0,69.73,67.72,58.86,73.15,51.96,79.18
+1333,Stephy Mavididi,24,Ligue 1,Montpellier HSC,Attack,-4000000.0,63.1,63.32,56.06,66.3,42.8,66.73
+1334,Jarrod Bowen,25,Premier League,West Ham United,Attack,-4000000.0,87.62,88.42,73.19,92.56,51.57,96.32
+1335,Kieran Trippier,31,Premier League,Newcastle United,Defender,-4000000.0,83.48,69.95,75.31,85.5,75.31,97.8
+1336,Thilo Kehrer,25,Premier League,West Ham United,Defender,-4000000.0,68.89,46.93,60.76,55.11,70.76,88.95
+1337,Victor Lindelof,28,Premier League,Manchester United,Defender,-4000000.0,72.53,34.27,71.43,39.34,84.43,94.92
+1338,Suso,28,La Liga,Sevilla FC,Attack,-4000000.0,65.45,59.02,70.07,70.03,38.53,62.67
+1339,Lucas Vazquez,31,La Liga,Real Madrid,Defender,-4000000.0,68.76,52.25,67.03,51.9,77.03,78.75
+1340,Florent Mollet,30,Ligue 1,FC Nantes,midfield,-4000000.0,49.13,44.17,54.07,50.6,28.42,47.67
+1341,Jordan Amavi,28,Ligue 1,Olympique Marseille,Defender,-4000000.0,24.17,7.21,12.15,11.12,10.41,62.99
+1342,Renato Tapia,27,La Liga,Celta de Vigo,midfield,-4000000.0,62.27,61.05,49.92,64.52,48.98,73.61
+1343,Roberto Gagliardini,28,Serie A,AC Monza,midfield,-4000000.0,44.34,40.72,41.07,45.75,34.97,49.79
+1344,Angel Di Maria,34,Primeira Liga,SL Benfica,Attack,-4000000.0,67.63,61.75,71.93,71.07,32.19,65.76
+1345,Razvan Marin,26,Serie A,FC Empoli,midfield,-4000000.0,77.55,75.98,69.79,80.1,52.71,84.31
+1346,Ryan Fraser,28,Premier League,Newcastle United,Attack,-4000000.0,20.16,15.95,24.82,20.9,14.83,18.98
+1347,Luca Waldschmidt,26,Bundesliga,1.FC Köln,Attack,-4000000.0,43.79,54.8,34.35,42.27,22.9,43.76
+1348,Felipe,33,Premier League,Nottingham Forest,Defender,-4000000.0,44.99,3.61,55.34,4.98,68.34,51.32
+1349,Cesar Azpilicueta,32,La Liga,Atlético de Madrid,Defender,-4000000.0,69.11,43.33,65.39,51.79,75.39,83.85
+1350,Matt Targett,26,Premier League,Newcastle United,Defender,-4000000.0,67.12,28.86,65.41,37.49,78.41,87.2
+1351,Davy Klaassen,29,Eredivisie,Ajax Amsterdam,midfield,-4000000.0,78.47,84.37,66.49,79.57,45.88,83.46
+1352,James Tarkowski,29,Premier League,Everton FC,Defender,-4000000.0,80.9,68.29,70.12,76.4,80.12,96.96
+1353,Mateo Kovacic,28,Premier League,Manchester City,midfield,-4000000.0,64.55,60.83,60.71,66.73,42.36,69.92
+1354,Owen Wijndal,22,Eredivisie,Ajax Amsterdam,Defender,-4000000.0,51.73,34.43,47.18,44.76,44.55,70.45
+1355,Adrien Tameze,28,Serie A,Hellas Verona,midfield,-4000000.0,81.06,81.23,63.73,85.03,60.75,94.25
+1356,Bertrand Traore,26,Premier League,Aston Villa,Attack,-4000000.0,21.6,28.39,20.01,19.23,11.75,18.78
+1357,Marvin Friedrich,26,Bundesliga,Borussia Mönchengladbach,Defender,-4000000.0,73.59,44.43,78.86,46.06,91.86,77.59
+1358,Danilo Pereira,30,Ligue 1,Paris Saint-Germain,midfield,-4000000.0,73.72,77.12,53.42,74.24,59.81,83.7
+1359,Andrej Kramaric,31,Bundesliga,TSG 1899 Hoffenheim,Attack,-4000000.0,76.39,79.7,66.78,79.13,38.39,79.94
+1360,Emil Forsberg,30,Bundesliga,RB Leipzig,midfield,-4000000.0,70.8,76.31,59.35,71.91,38.91,75.62
+1361,Marco Reus,33,Bundesliga,Borussia Dortmund,midfield,-4000000.0,62.21,62.95,59.31,63.4,34.2,63.19
+1362,Gabriel Paulista,31,La Liga,Valencia CF,Defender,-4500000.0,73.19,39.15,81.29,41.52,94.29,75.68
+1363,Alfred Duncan,29,Serie A,ACF Fiorentina,midfield,-4500000.0,60.72,59.91,56.49,63.34,39.07,63.15
+1364,Leonardo Bonucci,35,Serie A,Juventus FC,Defender,-4500000.0,62.86,37.37,58.12,32.54,71.12,84.82
+1365,Christian Gunter,29,Bundesliga,SC Freiburg,Defender,-4500000.0,82.59,59.66,80.51,72.78,93.51,83.56
+1366,Pau Torres,25,Premier League,Aston Villa,Defender,-5000000.0,77.49,62.99,71.56,69.44,81.56,87.38
+1367,Philipp Max,28,Bundesliga,Eintracht Frankfurt,Defender,-5000000.0,55.21,16.69,55.51,27.12,68.51,69.71
+1368,Jonathan Tah,26,Bundesliga,Bayer 04 Leverkusen,Defender,-5000000.0,72.71,61.9,61.83,65.98,79.33,83.63
+1369,Youssef En-Nesyri,25,La Liga,Sevilla FC,Attack,-5000000.0,70.41,76.26,54.33,73.2,38.79,77.86
+1370,Cristiano Biraghi,29,Serie A,ACF Fiorentina,Defender,-5000000.0,78.5,61.59,72.37,74.95,82.37,84.29
+1371,Jose Luis Palomino,32,Serie A,Atalanta BC,Defender,-5000000.0,69.57,32.52,74.47,31.48,87.47,83.82
+1372,Sergio Canales,31,La Liga,Real Betis Balompié,midfield,-5000000.0,75.97,72.84,72.56,78.25,46.3,80.22
+1373,John McGinn,27,Premier League,Aston Villa,midfield,-5000000.0,78.22,75.97,67.07,82.03,63.79,87.81
+1374,Matheus Cunha,23,Premier League,Wolverhampton Wanderers,Attack,-5000000.0,27.55,23.55,30.63,29.27,13.7,26.76
+1375,Xaver Schlager,24,Bundesliga,RB Leipzig,midfield,-5000000.0,53.5,57.64,43.43,52.41,47.13,56.81
+1376,Sergi Canos,25,Premier League,Brentford FC,Attack,-5000000.0,16.08,9.02,28.21,16.84,6.64,10.23
+1377,Matteo Politano,28,Serie A,SSC Napoli,Attack,-5000000.0,68.71,61.05,73.11,73.2,40.79,67.49
+1378,Kyle Walker,32,Premier League,Manchester City,Defender,-5000000.0,73.53,46.93,68.95,55.41,81.95,87.81
+1379,Toni Kroos,32,La Liga,Real Madrid,midfield,-5000000.0,73.72,69.31,72.58,75.68,48.59,77.33
+1380,Andrea Pinamonti,23,Serie A,US Sassuolo,Attack,-5000000.0,72.4,74.51,58.68,75.3,40.18,81.12
+1381,Merih Demiral,24,Serie A,Atalanta BC,Defender,-5000000.0,77.21,55.68,75.7,55.22,85.7,91.77
+1382,Manuel Locatelli,24,Serie A,Juventus FC,midfield,-5000000.0,73.38,70.4,60.04,76.13,64.16,82.83
+1383,Ilaix Moriba,19,Bundesliga,RB Leipzig,midfield,-5000000.0,57.91,52.17,55.09,59.98,44.96,64.38
+1384,Ryan Gravenberch,20,Bundesliga,Bayern Munich,midfield,-5000000.0,58.16,52.02,59.84,61.03,36.38,59.74
+1385,Alvaro Morata,29,La Liga,Atlético de Madrid,Attack,-5000000.0,83.47,90.68,65.11,87.63,44.38,90.47
+1386,Romain Faivre,24,Ligue 1,FC Lorient,midfield,-5000000.0,28.32,20.57,39.48,29.81,14.02,23.44
+1387,Lucas Hernandez,26,Ligue 1,Paris Saint-Germain,Defender,-5000000.0,31.93,10.82,14.56,13.69,37.15,62.3
+1388,Jeremie Boga,25,Serie A,Atalanta BC,Attack,-5000000.0,64.66,57.74,75.05,68.52,29.25,57.33
+1389,Nikola Vlasic,24,Premier League,West Ham United,midfield,-5000000.0,81.37,80.4,74.92,84.17,50.01,85.98
+1390,Jordan Henderson,32,Premier League,Liverpool FC,midfield,-5000000.0,80.37,76.85,71.48,84.49,50.51,88.65
+1391,Jonjo Shelvey,30,Premier League,Nottingham Forest,midfield,-5000000.0,4.62,4.51,3.02,4.51,4.19,5.29
+1392,Marquinhos,28,Ligue 1,Paris Saint-Germain,Defender,-5000000.0,67.59,62.47,52.94,66.35,57.92,83.61
+1393,Sebastien Haller,28,Bundesliga,Borussia Dortmund,Attack,-5000000.0,50.37,57.5,45.59,51.93,23.08,46.48
+1394,Paulo Dybala,28,Serie A,AS Roma,Attack,-5000000.0,66.29,63.56,70.39,68.1,34.74,63.11
+1395,Mohamed Elneny,30,Premier League,Arsenal FC,midfield,-5000000.0,11.09,9.02,6.0,9.01,15.77,10.54
+1396,Denis Suarez,28,La Liga,Villarreal CF,midfield,-5000000.0,44.26,38.48,46.6,46.38,32.11,45.59
+1397,Leandro Paredes,28,Ligue 1,Paris Saint-Germain,midfield,-5000000.0,62.67,57.52,63.63,64.77,38.96,64.75
+1398,Piotr Zielinski,28,Serie A,SSC Napoli,midfield,-5000000.0,90.77,85.35,89.69,94.9,51.47,93.12
+1399,Guillermo Maripan,28,Ligue 1,AS Monaco,Defender,-5000000.0,60.49,53.36,41.64,52.24,48.59,87.78
+1400,Emile Smith Rowe,22,Premier League,Arsenal FC,midfield,-5000000.0,34.51,24.91,48.09,36.77,15.96,28.27
+1401,Ilkay Gundogan,31,La Liga,FC Barcelona,midfield,-5000000.0,75.25,77.26,68.06,77.53,44.11,78.15
+1402,Thomas Delaney,30,La Liga,Sevilla FC,midfield,-5000000.0,14.4,11.27,13.54,13.3,16.94,13.82
+1403,Raphael Guerreiro,28,Bundesliga,Bayern Munich,Defender,-5000000.0,75.44,52.92,65.71,63.72,83.21,89.1
+1404,Edmond Tapsoba,23,Bundesliga,Bayer 04 Leverkusen,Defender,-5000000.0,73.41,57.89,70.89,67.41,70.89,84.43
+1405,Djene,30,La Liga,Getafe CF,Defender,-5000000.0,75.08,57.75,68.48,67.72,78.48,85.62
+1406,Sofiane Diop,22,Ligue 1,OGC Nice,Attack,-5000000.0,55.82,50.14,58.07,59.53,32.23,55.54
+1407,Davide Calabria,25,Serie A,AC Milan,Defender,-5000000.0,72.58,45.92,75.39,53.49,75.39,86.05
+1408,Joshua Kimmich,27,Bundesliga,Bayern Munich,midfield,-5000000.0,82.47,80.89,78.89,83.84,68.95,86.27
+1409,Diego Demme,30,Serie A,SSC Napoli,midfield,-5000000.0,17.42,13.53,21.25,19.49,8.86,15.43
+1410,Mitchel Bakker,22,Serie A,Atalanta BC,Defender,-5000000.0,77.58,56.6,72.83,59.38,85.83,92.28
+1411,Gerard Deulofeu,28,Serie A,Udinese Calcio,Attack,-5000000.0,47.92,38.38,62.78,51.24,24.46,39.3
+1412,Japhet Tanganga,23,Premier League,Tottenham Hotspur,Defender,-5000000.0,39.77,5.41,43.33,6.08,56.33,53.32
+1413,Gian Marco Ferrari,30,Serie A,US Sassuolo,Defender,-5000000.0,82.45,63.07,83.3,66.82,96.3,83.37
+1414,Hirving Lozano,27,Serie A,SSC Napoli,Attack,-5000000.0,76.24,73.4,69.54,80.8,44.29,81.22
+1415,Kevin Mbabu,27,Premier League,Fulham FC,Defender,-5500000.0,44.96,9.02,45.7,16.3,58.7,59.13
+1416,Portu,30,La Liga,Getafe CF,Attack,-5500000.0,77.28,74.6,65.17,82.1,51.57,87.27
+1417,Jamaal Lascelles,28,Premier League,Newcastle United,Defender,-5500000.0,47.83,10.82,50.82,12.99,63.82,63.67
+1418,Lucas Alario,29,Bundesliga,Eintracht Frankfurt,Attack,-5500000.0,46.8,47.84,41.16,49.51,24.09,48.69
+1419,Willian Jose,30,La Liga,Real Betis Balompié,Attack,-6000000.0,61.76,64.09,48.46,64.89,36.44,69.59
+1420,Divock Origi,27,Serie A,AC Milan,Attack,-6000000.0,61.33,63.05,51.05,64.11,36.61,67.11
+1421,Takumi Minamino,27,Ligue 1,AS Monaco,Attack,-6000000.0,45.31,41.72,46.89,47.29,25.84,45.35
+1422,Lukas Nmecha,23,Bundesliga,VfL Wolfsburg,Attack,-6000000.0,40.96,44.5,38.84,40.73,28.26,39.75
+1423,Geoffrey Kondogbia,29,Ligue 1,Olympique Marseille,midfield,-6000000.0,48.11,42.83,35.92,45.74,51.98,51.88
+1424,Omar Alderete,25,La Liga,Getafe CF,Defender,-6000000.0,75.45,46.18,77.7,51.15,87.7,85.24
+1425,Rick Karsdorp,27,Serie A,AS Roma,Defender,-6000000.0,69.17,21.64,78.85,28.41,91.85,77.57
+1426,Mauro Arambarri,26,La Liga,Getafe CF,midfield,-6000000.0,32.47,27.11,33.34,33.29,18.96,36.12
+1427,Aritz Elustondo,28,La Liga,Real Sociedad,Defender,-6000000.0,76.81,43.29,79.75,50.12,92.75,84.62
+1428,Pol Lirola,24,Ligue 1,Olympique Marseille,Defender,-6000000.0,51.14,60.38,34.99,28.14,34.34,74.84
+1429,Reinier,20,La Liga,Real Madrid,midfield,-6000000.0,45.76,49.14,42.91,45.31,23.38,45.67
+1430,Nicolo Zaniolo,23,Super Lig ,Galatasaray,midfield,-6000000.0,33.13,30.12,35.79,33.81,18.32,32.81
+1431,Daley Blind,32,La Liga,Girona FC,Defender,-6000000.0,39.86,5.69,41.0,11.49,54.0,52.93
+1432,Moise Kean,22,Serie A,Juventus FC,Attack,-6000000.0,66.75,70.49,56.68,68.33,35.64,71.49
+1433,Kurt Zouma,27,Premier League,West Ham United,Defender,-6000000.0,72.1,48.19,71.94,49.74,84.94,81.8
+1434,Joel Matip,30,Premier League,Liverpool FC,Defender,-6000000.0,66.68,31.96,70.5,29.02,83.5,80.75
+1435,Dusan Tadic,33,Eredivisie,Ajax Amsterdam,Attack,-6000000.0,91.0,85.28,99.0,93.81,50.78,85.9
+1436,Rafa Mir,25,La Liga,Sevilla FC,Attack,-6000000.0,58.05,64.15,44.36,59.28,32.59,64.41
+1437,Lukas Klostermann,26,Bundesliga,RB Leipzig,Defender,-6000000.0,64.68,25.32,67.29,29.2,80.29,81.92
+1438,David Raum,24,Bundesliga,RB Leipzig,Defender,-6000000.0,73.05,48.89,60.77,61.77,78.27,91.4
+1439,Hugo Duro,22,La Liga,Valencia CF,Attack,-6000000.0,65.82,67.44,50.99,69.26,40.37,75.61
+1440,Joao Pedro,29,Super Lig ,Fenerbahce,Attack,-6000000.0,31.19,29.31,27.46,32.33,23.96,35.66
+1441,Dan-Axel Zagadou,23,Bundesliga,VfB Stuttgart,Defender,-6500000.0,64.79,29.05,61.96,34.62,74.96,87.63
+1442,Paulinho,29,Primeira Liga,Sporting CP,Attack,-6500000.0,53.06,54.82,46.9,54.81,35.29,55.71
+1443,Marcao,26,La Liga,Sevilla FC,Defender,-6500000.0,45.71,7.21,51.96,8.11,64.96,57.82
+1444,Marcos Alonso,31,La Liga,FC Barcelona,Defender,-7000000.0,74.27,48.54,77.4,49.03,90.4,80.24
+1445,Erik Lamela,30,La Liga,Sevilla FC,Attack,-7000000.0,77.4,78.24,67.69,80.74,44.84,82.94
+1446,Kieran Tierney,25,Premier League,Arsenal FC,Defender,-7000000.0,80.87,46.97,83.15,56.83,96.15,87.37
+1447,Scott McTominay,25,Premier League,Manchester United,midfield,-7000000.0,55.03,56.39,45.83,56.01,44.5,61.91
+1448,Nelson Semedo,28,Premier League,Wolverhampton Wanderers,Defender,-7000000.0,82.39,63.12,76.02,73.66,86.02,93.88
+1449,Amine Gouiri,22,Ligue 1,Stade Rennais FC,Attack,-7000000.0,10.86,5.43,20.82,11.92,4.45,5.29
+1450,Iker Muniain,29,La Liga,Athletic Bilbao,midfield,-7000000.0,75.66,65.73,81.54,80.24,39.29,75.13
+1451,Nicolas Pepe,27,Premier League,Arsenal FC,Attack,-7000000.0,46.11,44.9,45.76,48.35,34.79,45.45
+1452,Ridle Baku,24,Bundesliga,VfL Wolfsburg,Defender,-7000000.0,80.94,65.85,75.26,71.08,92.76,84.65
+1453,Ludovic Ajorque,28,Bundesliga,1.FSV Mainz 05,Attack,-7000000.0,43.23,48.22,39.56,42.35,21.1,42.78
+1454,Karl Toko Ekambi,29,Ligue 1,Olympique Lyon,Attack,-7000000.0,47.56,47.86,46.61,48.97,26.04,46.8
+1455,Hans Hateboer,28,Serie A,Atalanta BC,Defender,-7000000.0,69.02,32.53,68.94,35.72,81.94,89.48
+1456,Yussuf Poulsen,28,Bundesliga,RB Leipzig,Attack,-7000000.0,47.23,48.99,44.31,48.99,24.89,46.61
+1457,Myron Boadu,21,Ligue 1,AS Monaco,Attack,-7000000.0,33.86,48.01,29.49,29.56,15.28,28.36
+1458,Alassane Plea,29,Bundesliga,Borussia Mönchengladbach,Attack,-7000000.0,69.19,66.03,63.81,73.5,39.03,73.41
+1459,Alvaro Odriozola,26,La Liga,Real Madrid,Defender,-7000000.0,39.8,3.61,39.07,17.95,52.07,50.12
+1460,Amadou Haidara,24,Bundesliga,RB Leipzig,midfield,-7000000.0,71.62,73.69,59.58,74.11,45.12,79.08
+1461,Ben Godfrey,24,Premier League,Everton FC,Defender,-7000000.0,62.64,21.64,66.77,25.83,79.77,78.2
+1462,Weston McKennie,23,Serie A,Juventus FC,midfield,-7000000.0,35.59,38.74,31.39,35.58,28.59,36.65
+1463,Berat Djimsiti,29,Serie A,Atalanta BC,Defender,-7000000.0,66.06,41.48,62.53,48.18,72.53,80.99
+1464,Musa Barrow,23,Serie A,Bologna FC 1909,Attack,-7000000.0,74.98,73.5,66.87,79.12,44.94,80.43
+1465,Jonathan Burkardt,22,Bundesliga,1.FSV Mainz 05,Attack,-7000000.0,30.8,26.19,37.03,32.49,14.75,27.5
+1466,Manuel Lazzari,28,Serie A,SS Lazio,Defender,-7500000.0,72.39,48.77,64.52,58.22,74.52,92.29
+1467,Ander Herrera,32,La Liga,Athletic Bilbao,midfield,-7500000.0,42.02,36.25,43.7,43.07,26.76,45.06
+1468,Nemanja Maksimovic,27,La Liga,Getafe CF,midfield,-8000000.0,64.37,63.46,50.12,66.14,54.02,73.87
+1469,Abdou Diallo,26,Ligue 1,Paris Saint-Germain,Defender,-8000000.0,30.33,23.22,17.21,16.08,13.25,64.78
+1470,Tyrone Mings,29,Premier League,Aston Villa,Defender,-8000000.0,84.78,67.1,83.48,70.57,96.48,88.57
+1471,Hugo Ekitike,20,Ligue 1,Paris Saint-Germain,Attack,-8000000.0,59.07,59.79,51.84,62.81,32.66,61.82
+1472,Zeki Celik,25,Serie A,AS Roma,Defender,-8000000.0,70.13,41.53,66.9,52.27,76.9,84.45
+1473,Florian Neuhaus,25,Bundesliga,Borussia Mönchengladbach,midfield,-8000000.0,54.82,52.15,52.11,57.14,32.95,57.88
+1474,Tanguy Ndombele,25,Premier League,Tottenham Hotspur,midfield,-8000000.0,68.09,68.62,57.73,70.51,39.45,75.49
+1475,Sergino Dest,21,La Liga,FC Barcelona,Defender,-8000000.0,53.93,12.76,58.58,21.5,71.58,64.07
+1476,Luka Jovic,24,Serie A,ACF Fiorentina,Attack,-8000000.0,72.48,74.81,61.68,75.99,37.71,77.45
+1477,Giovani Lo Celso,26,Premier League,Tottenham Hotspur,midfield,-8000000.0,57.58,51.79,63.57,59.17,41.63,55.79
+1478,Marash Kumbulla,22,Serie A,AS Roma,Defender,-8000000.0,49.62,10.82,53.29,13.55,66.29,65.34
+1479,Antonio Rudiger,29,La Liga,Real Madrid,Defender,-8000000.0,70.82,59.96,62.09,66.35,72.09,82.76
+1480,Arkadiusz Milik,28,Serie A,Juventus FC,Attack,-8000000.0,63.33,68.92,50.71,63.85,33.3,69.85
+1481,Marcos Acuna,30,La Liga,Sevilla FC,Defender,-8000000.0,79.07,58.47,79.93,65.87,89.93,80.55
+1482,Thorgan Hazard,29,Bundesliga,Borussia Dortmund,Attack,-8000000.0,41.79,29.6,47.23,39.22,45.54,35.16
+1483,Danny Ings,30,Premier League,West Ham United,Attack,-8000000.0,43.35,48.86,35.63,44.15,22.47,44.75
+1484,Gianluca Scamacca,23,Premier League,West Ham United,Attack,-8000000.0,39.24,40.53,36.48,39.61,25.41,40.33
+1485,Eric Garcia,21,La Liga,FC Barcelona,Defender,-8000000.0,71.6,47.29,72.52,47.91,85.52,80.43
+1486,Yusuf Yazici,25,Ligue 1,LOSC Lille,midfield,-8000000.0,21.0,18.54,38.63,19.14,5.44,7.68
+1487,Dele Alli,26,Premier League,Everton FC,midfield,-8000000.0,2.49,2.25,1.51,2.25,2.9,2.56
+1488,Youcef Atal,26,Ligue 1,OGC Nice,Defender,-8000000.0,62.76,34.37,49.82,44.23,65.36,91.63
+1489,Mario Pasalic,27,Serie A,Atalanta BC,midfield,-8000000.0,74.91,78.92,63.31,76.81,40.94,80.61
+1490,Charles De Ketelaere,21,Serie A,AC Milan,midfield,-8000000.0,75.24,70.02,71.03,79.41,46.51,80.5
+1491,Kerem Demirbay,29,Bundesliga,Bayer 04 Leverkusen,midfield,-9000000.0,61.02,61.89,56.05,62.17,48.46,63.98
+1492,Koke,30,La Liga,Atlético de Madrid,midfield,-9000000.0,74.82,72.18,64.56,78.27,55.63,84.27
+1493,Ihlas Bebou,28,Bundesliga,TSG 1899 Hoffenheim,Attack,-9000000.0,49.47,53.7,44.2,52.25,40.93,47.74
+1494,Mason Holgate,25,Premier League,Everton FC,Defender,-9000000.0,50.9,12.62,51.16,19.08,64.16,69.21
+1495,Jeff Reine-Adelaide,24,Ligue 1,Olympique Lyon,midfield,-9000000.0,16.62,11.27,23.76,17.6,11.87,13.22
+1496,Florian Grillitsch,26,Bundesliga,TSG 1899 Hoffenheim,midfield,-9500000.0,27.27,20.29,31.86,27.08,25.03,25.09
+1497,Serge Gnabry,27,Bundesliga,Bayern Munich,Attack,-10000000.0,83.74,85.85,74.41,88.54,50.09,86.15
+1498,Roman Yaremchuk,26,Jupiler Pro League,Club Brugge KV,Attack,-10000000.0,19.16,2.25,47.51,23.67,2.9,2.56
+1499,Abdoulaye Doucoure,29,Premier League,Everton FC,midfield,-10000000.0,62.01,67.94,53.51,61.12,37.98,65.47
+1500,Renan Lodi,24,La Liga,Atlético de Madrid,Defender,-10000000.0,76.25,48.74,72.38,57.64,82.38,92.61
+1501,Sasa Kalajdzic,25,Premier League,Wolverhampton Wanderers,Attack,-10000000.0,16.0,4.97,30.86,15.72,9.62,7.79
+1502,Tammy Abraham,24,Serie A,AS Roma,Attack,-10000000.0,87.86,91.84,72.02,92.32,45.92,95.27
+1503,Eric Dier,28,Premier League,Tottenham Hotspur,Defender,-10000000.0,81.55,62.91,81.58,66.93,94.58,83.12
+1504,Josip Brekalo,24,Serie A,ACF Fiorentina,Attack,-10000000.0,16.24,11.5,23.07,17.42,7.84,12.97
+1505,Antonin Barak,27,Serie A,ACF Fiorentina,midfield,-10000000.0,68.26,68.99,57.49,71.07,39.5,75.49
+1506,Lucas Digne,29,Premier League,Aston Villa,Defender,-10000000.0,72.03,54.25,64.26,58.25,74.26,91.34
+1507,Georginio Wijnaldum,31,Ligue 1,Paris Saint-Germain,midfield,-10000000.0,35.38,35.32,34.77,38.01,17.28,33.41
+1508,Leonardo Spinazzola,29,Serie A,AS Roma,Defender,-10000000.0,74.82,49.49,71.49,58.09,84.49,85.21
+1509,Tomas Soucek,27,Premier League,West Ham United,midfield,-10000000.0,80.29,82.65,63.3,82.87,61.66,92.33
+1510,Wissam Ben Yedder,31,Ligue 1,AS Monaco,Attack,-10000000.0,76.1,84.8,60.86,77.58,40.07,81.16
+1511,Stefan Savic,31,La Liga,Atlético de Madrid,Defender,-10000000.0,70.48,37.92,74.52,43.75,84.52,79.15
+1512,Sardar Azmoun,27,Bundesliga,Bayer 04 Leverkusen,Attack,-10000000.0,56.77,57.95,52.39,58.94,27.95,57.78
+1513,Kasper Dolberg,24,Jupiler Pro League,RSC Anderlecht,Attack,-10000000.0,31.75,34.72,28.69,31.69,25.65,31.88
+1514,Manu Trigueros,30,La Liga,Villarreal CF,midfield,-10000000.0,51.98,49.75,45.1,54.36,35.37,58.72
+1515,Philippe Coutinho,30,Premier League,Aston Villa,Attack,-10000000.0,47.78,46.18,44.88,49.67,37.05,50.38
+1516,Antoine Griezmann,31,La Liga,Atlético de Madrid,Attack,-10000000.0,94.47,93.79,88.31,99.0,53.43,96.77
+1517,Marcos Llorente,27,La Liga,Atlético de Madrid,midfield,-10000000.0,53.71,50.11,52.65,54.87,47.76,57.2
+1518,Diogo Jota,25,Premier League,Liverpool FC,Attack,-10000000.0,54.68,59.41,48.06,55.92,34.95,55.33
+1519,Thomas Muller,32,Bundesliga,Bayern Munich,Attack,-10000000.0,69.09,68.41,68.87,71.63,36.54,67.44
+1520,Gelson Martins,27,Ligue 1,AS Monaco,Attack,-10000000.0,30.37,22.92,39.42,32.48,19.19,26.67
+1521,Marco Verratti,29,Ligue 1,Paris Saint-Germain,midfield,-10000000.0,69.35,63.31,64.45,71.97,61.92,77.68
+1522,Timo Werner,26,Bundesliga,RB Leipzig,Attack,-10000000.0,64.28,68.77,54.11,66.98,34.77,67.27
+1523,Michael Keane,29,Premier League,Everton FC,Defender,-10000000.0,59.43,23.3,63.11,24.62,76.11,73.88
+1524,Moussa Diaby,23,Bundesliga,Bayer 04 Leverkusen,Attack,-10000000.0,80.1,80.22,70.91,86.29,44.3,82.97
+1525,Fikayo Tomori,24,Serie A,AC Milan,Defender,-10000000.0,75.69,62.37,70.73,66.59,80.73,84.71
+1526,Luis Alberto,29,Serie A,SS Lazio,midfield,-10000000.0,85.08,83.7,79.69,87.71,52.01,89.23
+1527,Lorenzo Pellegrini,26,Serie A,AS Roma,midfield,-10000000.0,78.6,72.98,77.69,81.78,53.69,81.95
+1528,Callum Hudson-Odoi,21,Premier League,Chelsea FC,Attack,-10000000.0,36.48,29.41,43.84,39.15,20.42,33.52
+1529,Alex Telles,29,Premier League,Manchester United,Defender,-10500000.0,79.96,46.96,79.66,58.88,92.66,88.63
+1530,Ante Rebic,28,Serie A,AC Milan,Attack,-11000000.0,56.02,56.51,52.07,57.58,29.37,57.93
+1531,Joaquin Correa,27,Serie A,Inter Milan,Attack,-11000000.0,63.26,64.3,58.6,65.57,33.06,64.57
+1532,Rafael Borre,26,Bundesliga,Eintracht Frankfurt,Attack,-11000000.0,73.34,72.51,62.04,77.64,39.68,81.18
+1533,Pablo Sarabia,30,Premier League,Wolverhampton Wanderers,Attack,-11000000.0,34.82,30.48,40.7,35.18,24.81,32.91
+1534,Borna Sosa,24,Bundesliga,VfB Stuttgart,Defender,-11000000.0,73.64,49.19,66.5,60.14,84.0,83.92
+1535,Hakim Ziyech,29,Premier League,Chelsea FC,Attack,-12000000.0,46.61,38.55,53.32,49.53,26.67,45.02
+1536,Remo Freuler,30,Premier League,Nottingham Forest,midfield,-12000000.0,61.12,60.92,48.05,63.54,48.66,71.35
+1537,Ciro Immobile,32,Serie A,SS Lazio,Attack,-12000000.0,73.44,76.32,62.73,77.05,43.02,77.67
+1538,Houssem Aouar,24,Serie A,AS Roma,midfield,-12000000.0,39.7,38.11,39.59,41.48,22.8,39.64
+1539,Presnel Kimpembe,26,Ligue 1,Paris Saint-Germain,Defender,-12000000.0,38.35,18.04,17.08,20.78,40.87,73.71
+1540,Julian Draxler,28,Ligue 1,Paris Saint-Germain,Attack,-12000000.0,30.95,25.64,42.71,31.94,17.21,23.49
+1541,Andrea Belotti,28,Serie A,AS Roma,Attack,-12000000.0,68.8,68.03,57.01,73.05,40.44,77.13
+1542,Raul Jimenez,31,Premier League,Wolverhampton Wanderers,Attack,-12000000.0,34.58,32.39,32.8,36.79,23.17,36.34
+1543,Julian Weigl,26,Bundesliga,Borussia Mönchengladbach,midfield,-12000000.0,54.09,49.85,39.72,52.16,54.64,59.7
+1544,Lucas Ocampos,28,La Liga,Sevilla FC,Attack,-13000000.0,45.28,44.17,40.78,46.7,28.65,49.49
+1545,Renato Sanches,24,Ligue 1,Paris Saint-Germain,midfield,-13000000.0,54.51,57.35,48.45,55.29,31.45,56.93
+1546,Naby Keita,27,Bundesliga,SV Werder Bremen,midfield,-13000000.0,23.35,15.78,34.63,23.96,11.78,19.04
+1547,Raphael Varane,29,Premier League,Manchester United,Defender,-13000000.0,70.54,41.67,70.35,48.25,83.35,80.21
+1548,Leander Dendoncker,27,Premier League,Aston Villa,midfield,-13000000.0,14.76,7.45,15.65,10.51,22.26,10.61
+1549,Davinson Sanchez,26,Premier League,Tottenham Hotspur,Defender,-13000000.0,76.21,30.78,83.01,35.54,96.01,90.29
+1550,Ruslan Malinovskyi,29,Ligue 1,Olympique Marseille,midfield,-13000000.0,41.07,34.9,49.6,42.34,25.22,37.44
+1551,Robin Gosens,28,Serie A,Inter Milan,midfield,-13000000.0,75.34,76.52,66.56,77.59,51.8,80.69
+1552,Joan Jordan,28,La Liga,Sevilla FC,midfield,-13000000.0,52.03,49.88,44.29,53.69,41.79,60.27
+1553,Kevin Volland,30,Ligue 1,AS Monaco,Attack,-14000000.0,43.09,47.42,39.92,43.39,22.11,41.62
+1554,Kai Havertz,23,Premier League,Arsenal FC,midfield,-15000000.0,79.77,83.3,65.11,82.1,46.57,88.57
+1555,Dusan Vlahovic,22,Serie A,Juventus FC,Attack,-15000000.0,62.64,67.45,51.23,64.81,35.1,67.09
+1556,David Alaba,30,La Liga,Real Madrid,Defender,-15000000.0,71.74,42.92,74.2,47.8,87.2,77.74
+1557,Neymar,30,Ligue 1,Paris Saint-Germain,Attack,-15000000.0,61.2,62.77,69.8,59.71,34.25,52.54
+1558,Jorginho,30,Premier League,Arsenal FC,midfield,-15000000.0,44.92,39.05,38.87,43.28,50.18,47.17
+1559,Joao Cancelo,28,Premier League,Manchester City,Defender,-15000000.0,67.56,34.27,64.42,40.65,74.42,90.74
+1560,Yannick Carrasco,28,La Liga,Atlético de Madrid,Attack,-15000000.0,83.39,82.93,73.55,88.6,55.06,88.5
+1561,Robert Lewandowski,33,La Liga,FC Barcelona,Attack,-15000000.0,81.31,88.15,67.05,83.74,45.48,86.29
+1562,Dominic Calvert-Lewin,25,Premier League,Everton FC,Attack,-15000000.0,39.96,38.9,35.17,43.69,21.33,42.08
+1563,Marco Asensio,26,Ligue 1,Paris Saint-Germain,Attack,-15000000.0,78.19,78.08,74.59,82.6,42.13,77.47
+1564,Trent Alexander-Arnold,23,Premier League,Liverpool FC,Defender,-15000000.0,80.97,67.44,73.08,82.9,73.08,94.81
+1565,Mason Mount,23,Premier League,Manchester United,midfield,-15000000.0,58.5,57.48,55.13,60.31,43.53,61.07
+1566,Ferland Mendy,27,La Liga,Real Madrid,Defender,-15000000.0,73.68,30.66,76.04,38.83,89.04,90.81
+1567,Jose Maria Gimenez,27,La Liga,Atlético de Madrid,Defender,-15000000.0,76.03,52.87,72.33,56.7,82.33,92.78
+1568,Luis Muriel,31,Serie A,Atalanta BC,Attack,-15000000.0,73.93,67.12,76.73,77.78,37.18,74.1
+1569,Angel Correa,27,La Liga,Atlético de Madrid,Attack,-15000000.0,85.01,88.98,73.2,88.87,43.87,89.0
+1570,Riyad Mahrez,31,Premier League,Manchester City,Attack,-15000000.0,77.39,71.89,78.49,82.83,43.16,76.35
+1571,Inigo Martinez,31,La Liga,FC Barcelona,Defender,-15000000.0,64.93,29.76,67.09,30.33,80.09,82.22
+1572,Ferran Torres,22,La Liga,FC Barcelona,Attack,-15000000.0,77.66,78.66,67.01,80.93,41.14,84.06
+1573,Milan Skriniar,27,Ligue 1,Paris Saint-Germain,Defender,-15000000.0,50.4,36.18,34.39,41.69,48.45,75.27
+1574,Raheem Sterling,27,Premier League,Chelsea FC,Attack,-15000000.0,67.75,69.58,60.12,70.53,41.26,70.76
+1575,Saul Niguez,27,La Liga,Atlético de Madrid,midfield,-15000000.0,71.2,75.47,56.48,72.36,57.38,79.59
+1576,Kevin De Bruyne,31,Premier League,Manchester City,midfield,-15000000.0,85.1,77.4,92.16,89.73,45.85,81.1
+1577,Sergio Reguilon,25,Premier League,Tottenham Hotspur,Defender,-15000000.0,61.04,18.14,63.89,28.22,76.89,75.17
+1578,Christian Pulisic,23,Serie A,AC Milan,Attack,-17000000.0,55.78,54.88,50.12,58.68,32.4,59.44
+1579,Goncalo Guedes,25,Premier League,Wolverhampton Wanderers,Attack,-17000000.0,35.7,29.24,44.46,40.05,22.64,29.07
+1580,Domenico Berardi,27,Serie A,US Sassuolo,Attack,-17000000.0,67.92,63.39,70.0,71.77,35.37,66.53
+1581,Harry Maguire,29,Premier League,Manchester United,Defender,-18000000.0,64.93,27.05,64.77,31.93,77.77,85.25
+1582,Thomas Lemar,26,La Liga,Atlético de Madrid,midfield,-18000000.0,65.19,63.09,60.53,68.54,38.85,68.6
+1583,Fabinho,28,Premier League,Liverpool FC,midfield,-18000000.0,80.22,79.06,64.56,83.8,56.01,93.47
+1584,Angelino,25,Super Lig ,Galatasaray,Defender,-18000000.0,71.64,57.92,70.27,72.03,60.47,83.78
+1585,Aymeric Laporte,28,Premier League,Manchester City,Defender,-20000000.0,61.98,19.93,67.65,25.4,80.65,74.22
+1586,Mikel Oyarzabal,25,La Liga,Real Sociedad,Attack,-20000000.0,54.12,57.48,46.6,55.36,30.51,57.04
+1587,Diego Carlos,29,Premier League,Aston Villa,Defender,-20000000.0,37.27,3.61,39.54,6.71,52.54,50.29
+1588,Nabil Fekir,29,La Liga,Real Betis Balompié,midfield,-20000000.0,44.53,35.27,56.14,47.23,19.77,39.47
+1589,Joao Felix,22,La Liga,Atlético de Madrid,Attack,-20000000.0,41.26,40.91,40.57,42.56,23.3,41.01
+1590,Gerard Moreno,30,La Liga,Villarreal CF,Attack,-20000000.0,53.98,55.34,52.13,55.44,28.8,52.99
+1591,Franck Kessie,25,La Liga,FC Barcelona,midfield,-20000000.0,63.47,64.68,52.79,65.99,39.54,70.43
+1592,Virgil van Dijk,31,Premier League,Liverpool FC,Defender,-20000000.0,79.14,60.55,79.14,64.54,92.14,80.76
+1593,Duvan Zapata,31,Serie A,Atalanta BC,Attack,-20000000.0,59.36,57.39,54.02,63.82,33.35,62.22
+1594,Leon Goretzka,27,Bundesliga,Bayern Munich,midfield,-20000000.0,64.82,63.76,55.88,66.09,59.78,69.66
+1595,Arnaut Danjuma,25,La Liga,Villarreal CF,Attack,-25000000.0,24.0,27.5,25.13,22.78,11.12,20.58
+1596,Patrik Schick,26,Bundesliga,Bayer 04 Leverkusen,Attack,-25000000.0,35.47,36.16,36.27,36.19,17.11,33.26
+1597,Federico Chiesa,24,Serie A,Juventus FC,Attack,-25000000.0,54.91,49.74,57.88,59.19,29.48,52.84
+1598,Andrew Robertson,28,Premier League,Liverpool FC,Defender,-25000000.0,75.83,59.58,65.81,74.91,75.81,86.8
+1599,Mohamed Salah,30,Premier League,Liverpool FC,Attack,-25000000.0,91.36,94.3,79.53,95.45,50.07,96.16
+1600,Carlos Soler,25,Ligue 1,Paris Saint-Germain,midfield,-25000000.0,63.86,72.23,54.53,63.91,40.78,64.76
+1601,Ansu Fati,19,La Liga,FC Barcelona,Attack,-25000000.0,84.27,86.0,71.44,89.05,44.78,90.59
+1602,Romelu Lukaku,29,Premier League,Chelsea FC,Attack,-30000000.0,63.86,65.05,61.19,67.42,31.39,61.77
+1603,Jadon Sancho,22,Premier League,Manchester United,Attack,-30000000.0,68.42,72.37,66.35,70.35,35.67,64.6
+1604,Sadio Mane,30,Bundesliga,Bayern Munich,Attack,-45000000.0,62.66,61.97,60.27,66.28,30.29,62.11

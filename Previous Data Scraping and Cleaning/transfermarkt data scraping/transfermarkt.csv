@@ -1,0 +1,2133 @@
+Player,Club,Age,Position,Nation,Value
+Erling Haaland,Manchester City,22,Attack,Norway,180000000.0
+Vinicius Junior,Real Madrid,22,Attack,Brazil,150000000.0
+Jude Bellingham,Borussia Dortmund,19,midfield,England,120000000.0
+Bukayo Saka,Arsenal FC,21,Attack,England,120000000.0
+Victor Osimhen,SSC Napoli,24,Attack,Nigeria,120000000.0
+Jamal Musiala,Bayern Munich,20,midfield,Germany,110000000.0
+Phil Foden,Manchester City,23,Attack,England,110000000.0
+Federico Valverde,Real Madrid,24,midfield,Uruguay,100000000.0
+Pedri,FC Barcelona,20,midfield,Spain,100000000.0
+Rodrygo,Real Madrid,22,Attack,Brazil,100000000.0
+Rafael Leão,AC Milan,24,Attack,Portugal,90000000.0
+Gavi,FC Barcelona,18,midfield,Spain,90000000.0
+Rodri,Manchester City,27,midfield,Spain,90000000.0
+Harry Kane,Tottenham Hotspur,29,Attack,England,90000000.0
+Declan Rice,West Ham United,24,midfield,England,90000000.0
+Martin Ødegaard,Arsenal FC,24,midfield,Norway,90000000.0
+Florian Wirtz,Bayer 04 Leverkusen,20,midfield,Germany,85000000.0
+Khvicha Kvaratskhelia,SSC Napoli,22,Attack,Georgia,85000000.0
+Lautaro Martínez,Inter Milan,25,Attack,Argentina,85000000.0
+Eduardo Camavinga,Real Madrid,20,midfield,France,85000000.0
+Aurélien Tchouaméni,Real Madrid,23,midfield,France,85000000.0
+Randal Kolo Muani,Eintracht Frankfurt,24,Attack,France,80000000.0
+Christopher Nkunku,RB Leipzig,25,Attack,France,80000000.0
+Gabriel Martinelli,Arsenal FC,22,Attack,Brazil,80000000.0
+Enzo Fernández,Chelsea FC,22,midfield,Argentina,80000000.0
+Marcus Rashford,Manchester United,25,Attack,England,80000000.0
+Bernardo Silva,Manchester City,28,midfield,Portugal,80000000.0
+Rúben Dias,Manchester City,26,Defender,Portugal,80000000.0
+Luis Díaz,Liverpool FC,26,Attack,Colombia,75000000.0
+Josko Gvardiol,RB Leipzig,21,Defender,Croatia,75000000.0
+Joshua Kimmich,Bayern Munich,28,midfield,Germany,75000000.0
+Matthijs de Ligt,Bayern Munich,23,Defender,Netherlands,75000000.0
+Bruno Fernandes,Manchester United,28,midfield,Portugal,75000000.0
+Nicolò Barella,Inter Milan,26,midfield,Italy,75000000.0
+Gabriel Jesus,Arsenal FC,26,Attack,Brazil,75000000.0
+Frenkie de Jong,FC Barcelona,26,midfield,Netherlands,75000000.0
+Jack Grealish,Manchester City,27,Attack,England,75000000.0
+Alphonso Davies,Bayern Munich,22,Defender,Canada,70000000.0
+Bruno Guimarães,Newcastle United,25,midfield,Brazil,70000000.0
+Ronald Araújo,FC Barcelona,24,Defender,Uruguay,70000000.0
+Kevin De Bruyne,Manchester City,31,midfield,Belgium,70000000.0
+Alexander Isak,Newcastle United,23,Attack,Sweden,70000000.0
+Éder Militão,Real Madrid,25,Defender,Brazil,70000000.0
+Dusan Vlahovic,Juventus FC,23,Attack,Serbia,70000000.0
+Mohamed Salah,Liverpool FC,31,Attack,Egypt,65000000.0
+Trent Alexander-Arnold,Liverpool FC,24,Defender,England,65000000.0
+Darwin Núñez,Liverpool FC,24,Attack,Uruguay,65000000.0
+Leroy Sané,Bayern Munich,27,Attack,Germany,65000000.0
+Kingsley Coman,Bayern Munich,27,Attack,France,65000000.0
+William Saliba,Arsenal FC,22,Defender,France,65000000.0
+Reece James,Chelsea FC,23,Defender,England,65000000.0
+Dayot Upamecano,Bayern Munich,24,Defender,France,60000000.0
+Jules Koundé,FC Barcelona,24,Defender,France,60000000.0
+Ousmane Dembélé,FC Barcelona,26,Attack,France,60000000.0
+Raphinha,FC Barcelona,26,Attack,Brazil,60000000.0
+Antony,Manchester United,23,Attack,Brazil,60000000.0
+Mason Mount,Chelsea FC,24,midfield,England,60000000.0
+Theo Hernández,AC Milan,25,Defender,France,60000000.0
+Alessandro Bastoni,Inter Milan,24,Defender,Italy,60000000.0
+Cristian Romero,Tottenham Hotspur,25,Defender,Argentina,60000000.0
+James Maddison,Leicester City,26,midfield,England,60000000.0
+Min-jae Kim,SSC Napoli,26,Defender,"Korea, South",60000000.0
+Julián Álvarez,Manchester City,23,Attack,Argentina,60000000.0
+Kai Havertz,Chelsea FC,24,Attack,Germany,55000000.0
+Serge Gnabry,Bayern Munich,27,Attack,Germany,55000000.0
+Gabriel Magalhães,Arsenal FC,25,Defender,Brazil,55000000.0
+Ben White,Arsenal FC,25,Defender,England,55000000.0
+Wesley Fofana,Chelsea FC,22,Defender,France,55000000.0
+Raheem Sterling,Chelsea FC,28,Attack,England,55000000.0
+Cody Gakpo,Liverpool FC,24,Attack,Netherlands,55000000.0
+João Cancelo,Bayern Munich,29,Defender,Portugal,50000000.0
+Dominik Szoboszlai,RB Leipzig,22,midfield,Hungary,50000000.0
+Moussa Diaby,Bayer 04 Leverkusen,23,Attack,France,50000000.0
+Dejan Kulusevski,Tottenham Hotspur,23,Attack,Sweden,50000000.0
+Alejandro Balde,FC Barcelona,19,Defender,Spain,50000000.0
+Sandro Tonali,AC Milan,23,midfield,Italy,50000000.0
+Heung-min Son,Tottenham Hotspur,30,Attack,"Korea, South",50000000.0
+Lisandro Martínez,Manchester United,25,Defender,Argentina,50000000.0
+Mykhaylo Mudryk,Chelsea FC,22,Attack,Ukraine,50000000.0
+Mikel Merino,Real Sociedad,27,midfield,Spain,50000000.0
+Diogo Jota,Liverpool FC,26,Attack,Portugal,50000000.0
+Milan Skriniar,Inter Milan,28,Defender,Slovakia,50000000.0
+Sergej Milinković-Savić,SS Lazio,28,midfield,Serbia,50000000.0
+João Félix,Chelsea FC,23,Attack,Portugal,50000000.0
+Richarlison,Tottenham Hotspur,26,Attack,Brazil,48000000.0
+Lucas Hernández,Bayern Munich,27,Defender,France,45000000.0
+Leon Goretzka,Bayern Munich,28,midfield,Germany,45000000.0
+Lucas Paquetá,West Ham United,25,midfield,Brazil,45000000.0
+Mike Maignan,AC Milan,27,Goalkeeper,France,45000000.0
+Amadou Onana,Everton FC,21,midfield,Belgium,45000000.0
+Pau Torres,Villarreal CF,26,Defender,Spain,45000000.0
+Thibaut Courtois,Real Madrid,31,Goalkeeper,Belgium,45000000.0
+Matheus Nunes,Wolverhampton Wanderers,24,midfield,Portugal,45000000.0
+Sven Botman,Newcastle United,23,Defender,Netherlands,45000000.0
+Pierre-Emile Höjbjerg,Tottenham Hotspur,27,midfield,Denmark,45000000.0
+Rasmus Højlund,Atalanta BC,20,Attack,Denmark,45000000.0
+Jadon Sancho,Manchester United,23,Attack,England,45000000.0
+Fabinho,Liverpool FC,29,midfield,Brazil,42000000.0
+Luke Shaw,Manchester United,27,Defender,England,42000000.0
+Joelinton,Newcastle United,26,midfield,Brazil,42000000.0
+Oleksandr Zinchenko,Arsenal FC,26,Defender,Ukraine,42000000.0
+Jacob Ramsey,Aston Villa,22,midfield,England,42000000.0
+Nathan Aké,Manchester City,28,Defender,Netherlands,42000000.0
+Hakan Calhanoglu,Inter Milan,29,midfield,Turkey,40000000.0
+Stanislav Lobotka,SSC Napoli,28,midfield,Slovakia,40000000.0
+Jeremie Frimpong,Bayer 04 Leverkusen,22,Defender,Netherlands,40000000.0
+Nico Schlotterbeck,Borussia Dortmund,23,Defender,Germany,40000000.0
+Julian Brandt,Borussia Dortmund,27,midfield,Germany,40000000.0
+Karim Adeyemi,Borussia Dortmund,21,Attack,Germany,40000000.0
+Benjamin Pavard,Bayern Munich,27,Defender,France,40000000.0
+Dani Olmo,RB Leipzig,25,midfield,Spain,40000000.0
+Manu Koné,Borussia Mönchengladbach,22,midfield,France,40000000.0
+Rodrigo de Paul,Atlético de Madrid,29,midfield,Argentina,40000000.0
+Ismaël Bennacer,AC Milan,25,midfield,Algeria,40000000.0
+Yéremy Pino,Villarreal CF,20,Attack,Spain,40000000.0
+Ollie Watkins,Aston Villa,27,Attack,England,40000000.0
+Giorgio Scalvini,Atalanta BC,19,Defender,Italy,40000000.0
+Casemiro,Manchester United,31,midfield,Brazil,40000000.0
+Adrien Rabiot,Juventus FC,28,midfield,France,40000000.0
+Federico Chiesa,Juventus FC,25,Attack,Italy,40000000.0
+Rúben Neves,Wolverhampton Wanderers,26,midfield,Portugal,40000000.0
+Andrew Robertson,Liverpool FC,29,Defender,Scotland,40000000.0
+Douglas Luiz,Aston Villa,25,midfield,Brazil,40000000.0
+Benoît Badiashile,Chelsea FC,22,Defender,France,40000000.0
+Romelu Lukaku,Inter Milan,30,Attack,Belgium,40000000.0
+Pedro Porro,Tottenham Hotspur,23,Defender,Spain,40000000.0
+Eberechi Eze,Crystal Palace,24,midfield,England,40000000.0
+João Palhinha,Fulham FC,27,midfield,Portugal,40000000.0
+Fikayo Tomori,AC Milan,25,Defender,England,40000000.0
+John Stones,Manchester City,29,Defender,England,40000000.0
+Ederson,Manchester City,29,Goalkeeper,Brazil,40000000.0
+David Alaba,Real Madrid,31,Defender,Austria,40000000.0
+Diogo Dalot,Manchester United,24,Defender,Portugal,40000000.0
+Bremer,Juventus FC,26,Defender,Brazil,40000000.0
+Tammy Abraham,AS Roma,25,Attack,England,40000000.0
+Frank Anguissa,SSC Napoli,27,midfield,Cameroon,40000000.0
+Mikel Oyarzabal,Real Sociedad,26,Attack,Spain,40000000.0
+Andreas Christensen,FC Barcelona,27,Defender,Denmark,40000000.0
+Martín Zubimendi,Real Sociedad,24,midfield,Spain,40000000.0
+Morgan Gibbs-White,Nottingham Forest,23,midfield,England,40000000.0
+Rodrigo Bentancur,Tottenham Hotspur,26,midfield,Uruguay,40000000.0
+Aaron Ramsdale,Arsenal FC,25,Goalkeeper,England,40000000.0
+Brennan Johnson,Nottingham Forest,22,midfield,Wales,38000000.0
+James Ward-Prowse,Southampton FC,28,midfield,England,38000000.0
+Joe Willock,Newcastle United,23,midfield,England,38000000.0
+Mateo Kovacic,Chelsea FC,29,midfield,Croatia,38000000.0
+Ibrahima Konaté,Liverpool FC,24,Defender,France,38000000.0
+Jarrod Bowen,West Ham United,26,Attack,England,38000000.0
+Michael Olise,Crystal Palace,21,Attack,France,38000000.0
+Manuel Akanji,Manchester City,27,Defender,Switzerland,38000000.0
+Niklas Süle,Borussia Dortmund,27,Defender,Germany,35000000.0
+Gregor Kobel,Borussia Dortmund,25,Goalkeeper,Switzerland,35000000.0
+Nayef Aguerd,West Ham United,27,Defender,Morocco,35000000.0
+Piero Hincapié,Bayer 04 Leverkusen,21,Defender,Ecuador,35000000.0
+Anthony Gordon,Newcastle United,22,Attack,England,35000000.0
+André Onana,Inter Milan,27,Goalkeeper,Cameroon,35000000.0
+Ivan Toney,Brentford FC,27,Attack,England,35000000.0
+Jan Oblak,Atlético de Madrid,30,Goalkeeper,Slovenia,35000000.0
+Piotr Zielinski,SSC Napoli,29,midfield,Poland,35000000.0
+Giacomo Raspadori,SSC Napoli,23,Attack,Italy,35000000.0
+Bryan Mbeumo,Brentford FC,23,Attack,Cameroon,35000000.0
+Federico Dimarco,Inter Milan,25,Defender,Italy,35000000.0
+Ansu Fati,FC Barcelona,20,Attack,Spain,35000000.0
+Marc-André ter Stegen,FC Barcelona,31,Goalkeeper,Germany,35000000.0
+Cheick Doucouré,Crystal Palace,23,midfield,Mali,35000000.0
+Marc Guéhi,Crystal Palace,22,Defender,England,35000000.0
+Nahuel Molina,Atlético de Madrid,25,Defender,Argentina,35000000.0
+Thomas Partey,Arsenal FC,30,midfield,Ghana,35000000.0
+Emile Smith Rowe,Arsenal FC,22,midfield,England,35000000.0
+Tomas Soucek,West Ham United,28,midfield,Czech Republic,35000000.0
+Harvey Elliott,Liverpool FC,20,midfield,England,35000000.0
+Virgil van Dijk,Liverpool FC,31,Defender,Netherlands,35000000.0
+Nicolò Fagioli,Juventus FC,22,midfield,Italy,35000000.0
+Robin Le Normand,Real Sociedad,26,Defender,Spain,35000000.0
+Marc Cucurella,Chelsea FC,24,Defender,Spain,35000000.0
+Ben Chilwell,Chelsea FC,26,Defender,England,35000000.0
+Raphaël Varane,Manchester United,30,Defender,France,35000000.0
+Marcos Llorente,Atlético de Madrid,28,midfield,Spain,35000000.0
+Leandro Trossard,Arsenal FC,28,Attack,Belgium,35000000.0
+Harvey Barnes,Leicester City,25,Attack,England,35000000.0
+Lorenzo Pellegrini,AS Roma,27,midfield,Italy,35000000.0
+Alisson,Liverpool FC,30,Goalkeeper,Brazil,35000000.0
+José María Giménez,Atlético de Madrid,28,Defender,Uruguay,35000000.0
+Marcus Thuram,Borussia Mönchengladbach,25,Attack,France,32000000.0
+Roméo Lavia,Southampton FC,19,midfield,Belgium,32000000.0
+Allan Saint-Maximin,Newcastle United,26,Attack,France,32000000.0
+Kalvin Phillips,Manchester City,27,midfield,England,32000000.0
+Antonio Rüdiger,Real Madrid,30,Defender,Germany,32000000.0
+Conor Gallagher,Chelsea FC,23,midfield,England,32000000.0
+Miguel Almirón,Newcastle United,29,Attack,Paraguay,32000000.0
+Max Kilman,Wolverhampton Wanderers,26,Defender,England,30000000.0
+Edmond Tapsoba,Bayer 04 Leverkusen,24,Defender,Burkina Faso,30000000.0
+Boubacar Kamara,Aston Villa,23,midfield,France,30000000.0
+Ángel Correa,Atlético de Madrid,28,Attack,Argentina,30000000.0
+Teun Koopmeiners,Atalanta BC,25,midfield,Netherlands,30000000.0
+Robert Lewandowski,FC Barcelona,34,Attack,Poland,30000000.0
+Nico Williams,Athletic Bilbao,20,Attack,Spain,30000000.0
+Pierre Kalulu,AC Milan,23,Defender,France,30000000.0
+Ryan Gravenberch,Bayern Munich,21,midfield,Netherlands,30000000.0
+Oihan Sancet,Athletic Bilbao,23,midfield,Spain,30000000.0
+Nicolas Jackson,Villarreal CF,22,Attack,Senegal,30000000.0
+Mattia Zaccagni,SS Lazio,28,Attack,Italy,30000000.0
+Joachim Andersen,Crystal Palace,27,Defender,Denmark,30000000.0
+Gabri Veiga,Celta de Vigo,21,midfield,Spain,30000000.0
+Ferran Torres,FC Barcelona,23,Attack,Spain,30000000.0
+Roger Ibañez,AS Roma,24,Defender,Brazil,30000000.0
+Nicolás González,ACF Fiorentina,25,Attack,Argentina,30000000.0
+Paulo Dybala,AS Roma,29,Attack,Argentina,30000000.0
+Micky van de Ven,VfL Wolfsburg,22,Defender,Netherlands,30000000.0
+Ademola Lookman,Atalanta BC,25,Attack,Nigeria,30000000.0
+José Gayà,Valencia CF,28,Defender,Spain,30000000.0
+Sofyan Amrabat,ACF Fiorentina,26,midfield,Morocco,30000000.0
+David Raya,Brentford FC,27,Goalkeeper,Spain,30000000.0
+Noni Madueke,Chelsea FC,21,Attack,England,30000000.0
+Youssoufa Moukoko,Borussia Dortmund,18,Attack,Germany,30000000.0
+Manuel Locatelli,Juventus FC,25,midfield,Italy,30000000.0
+Sébastien Haller,Borussia Dortmund,29,Attack,Cote d'Ivoire,30000000.0
+Konrad Laimer,RB Leipzig,26,midfield,Austria,28000000.0
+Noussair Mazraoui,Bayern Munich,25,Defender,Morocco,28000000.0
+Evan Ndicka,Eintracht Frankfurt,23,Defender,Cote d'Ivoire,28000000.0
+Donyell Malen,Borussia Dortmund,24,Attack,Netherlands,28000000.0
+Jesper Lindström,Eintracht Frankfurt,23,midfield,Denmark,28000000.0
+Emiliano Buendía,Aston Villa,26,Attack,Argentina,28000000.0
+Rico Henry,Brentford FC,25,Defender,England,28000000.0
+Emiliano Martínez,Aston Villa,30,Goalkeeper,Argentina,28000000.0
+Aleksandar Mitrović,Fulham FC,28,Attack,Serbia,28000000.0
+Guido Rodríguez,Real Betis Balompié,29,midfield,Argentina,28000000.0
+Denzel Dumfries,Inter Milan,27,midfield,Netherlands,28000000.0
+Leon Bailey,Aston Villa,25,Attack,Jamaica,28000000.0
+Armando Broja,Chelsea FC,21,Attack,Albania,28000000.0
+Pedro Neto,Wolverhampton Wanderers,23,Attack,Portugal,28000000.0
+Alex Iwobi,Everton FC,27,midfield,Nigeria,28000000.0
+Danilo,Nottingham Forest,22,midfield,Brazil,28000000.0
+John McGinn,Aston Villa,28,midfield,Scotland,27000000.0
+Daichi Kamada,Eintracht Frankfurt,26,midfield,Japan,27000000.0
+Eljif Elmas,SSC Napoli,23,midfield,North Macedonia,26000000.0
+Vitaliy Mykolenko,Everton FC,24,Defender,Ukraine,25000000.0
+Dominic Calvert-Lewin,Everton FC,26,Attack,England,25000000.0
+Eddie Nketiah,Arsenal FC,24,Attack,England,25000000.0
+Takehiro Tomiyasu,Arsenal FC,24,Defender,Japan,25000000.0
+Timo Werner,RB Leipzig,27,Attack,Germany,25000000.0
+Giovanni Reyna,Borussia Dortmund,20,midfield,United States,25000000.0
+Patrik Schick,Bayer 04 Leverkusen,27,Attack,Czech Republic,25000000.0
+Fábio Vieira,Arsenal FC,23,midfield,Portugal,25000000.0
+Mohamed Simakan,RB Leipzig,23,Defender,France,25000000.0
+Sadio Mané,Bayern Munich,31,Attack,Senegal,25000000.0
+Marcelo Brozovic,Inter Milan,30,midfield,Croatia,25000000.0
+Franck Kessié,FC Barcelona,26,midfield,Cote d'Ivoire,25000000.0
+Kieran Tierney,Arsenal FC,26,Defender,Scotland,25000000.0
+Brais Méndez,Real Sociedad,26,midfield,Spain,25000000.0
+Youri Tielemans,Leicester City,26,midfield,Belgium,25000000.0
+Arnaut Danjuma,Tottenham Hotspur,26,Attack,Netherlands,25000000.0
+Kiernan Dewsbury-Hall,Leicester City,24,midfield,England,25000000.0
+Yannick Carrasco,Atlético de Madrid,29,Attack,Belgium,25000000.0
+Aymeric Laporte,Manchester City,29,Defender,Spain,25000000.0
+Antoine Griezmann,Atlético de Madrid,32,Attack,France,25000000.0
+Karim Benzema,Real Madrid,35,Attack,France,25000000.0
+Ferland Mendy,Real Madrid,28,Defender,France,25000000.0
+Álex Remiro,Real Sociedad,28,Goalkeeper,Spain,25000000.0
+Matty Cash,Aston Villa,25,Defender,Poland,25000000.0
+Jorginho,Arsenal FC,31,midfield,Italy,25000000.0
+Takefusa Kubo,Real Sociedad,22,Attack,Japan,25000000.0
+Wilfred Ndidi,Leicester City,26,midfield,Nigeria,25000000.0
+Marco Asensio,Real Madrid,27,Attack,Spain,25000000.0
+Alejandro Garnacho,Manchester United,18,Attack,Argentina,25000000.0
+Samuel Chukwueze,Villarreal CF,24,Attack,Nigeria,25000000.0
+Timothy Castagne,Leicester City,27,Defender,Belgium,25000000.0
+Aaron Wan-Bissaka,Manchester United,25,Defender,England,25000000.0
+Kevin Schade,Brentford FC,21,Attack,Germany,25000000.0
+Scott McTominay,Manchester United,26,midfield,Scotland,25000000.0
+Reinildo Mandava,Atlético de Madrid,29,Defender,Mozambique,25000000.0
+Tetê,Leicester City,23,Attack,Brazil,25000000.0
+Ruben Loftus-Cheek,Chelsea FC,27,midfield,England,25000000.0
+Tino Livramento,Southampton FC,20,Defender,England,25000000.0
+Enes Ünal,Getafe CF,26,Attack,Turkey,25000000.0
+Giovanni Di Lorenzo,SSC Napoli,29,Defender,Italy,25000000.0
+Destiny Udogie,Udinese Calcio,20,Defender,Italy,25000000.0
+Amir Rrahmani,SSC Napoli,29,Defender,Kosovo,25000000.0
+Matheus Cunha,Wolverhampton Wanderers,24,Attack,Brazil,25000000.0
+Dango Ouattara,AFC Bournemouth,21,Attack,Burkina Faso,25000000.0
+Beto,Udinese Calcio,25,Attack,Portugal,25000000.0
+Hirving Lozano,SSC Napoli,27,Attack,Mexico,25000000.0
+Saïd Benrahma,West Ham United,27,Attack,Algeria,25000000.0
+Sean Longstaff,Newcastle United,25,midfield,England,25000000.0
+Brenden Aaronson,Leeds United,22,midfield,United States,25000000.0
+Christian Pulisic,Chelsea FC,24,Attack,United States,25000000.0
+Kyle Walker-Peters,Southampton FC,26,Defender,England,25000000.0
+Davide Frattesi,US Sassuolo,23,midfield,Italy,25000000.0
+Jakub Kiwior,Arsenal FC,23,Defender,Poland,25000000.0
+Perr Schuurs,Torino FC,23,Defender,Netherlands,25000000.0
+Giorgi Mamardashvili,Valencia CF,22,Goalkeeper,Georgia,25000000.0
+Unai Simón,Athletic Bilbao,26,Goalkeeper,Spain,25000000.0
+Iñaki Williams,Athletic Bilbao,29,Attack,Ghana,25000000.0
+Juan Foyth,Villarreal CF,25,Defender,Argentina,25000000.0
+Boulaye Dia,US Salernitana 1919,26,Attack,Senegal,25000000.0
+Taiwo Awoniyi,Nottingham Forest,25,Attack,Nigeria,25000000.0
+Ezri Konsa,Aston Villa,25,Defender,England,25000000.0
+Aaron Hickey,Brentford FC,21,Defender,Scotland,25000000.0
+Christoph Baumgartner,TSG 1899 Hoffenheim,23,midfield,Austria,24000000.0
+Gianluca Scamacca,West Ham United,24,Attack,Italy,22000000.0
+Curtis Jones,Liverpool FC,22,midfield,England,22000000.0
+Thomas Lemar,Atlético de Madrid,27,midfield,France,22000000.0
+Christian Eriksen,Manchester United,31,midfield,Denmark,22000000.0
+Hamed Junior Traorè,AFC Bournemouth,23,midfield,Cote d'Ivoire,22000000.0
+Kamaldeen Sulemana,Southampton FC,21,Attack,Ghana,22000000.0
+Viktor Tsygankov,Girona FC,25,Attack,Ukraine,22000000.0
+Tyrell Malacia,Manchester United,23,Defender,Netherlands,22000000.0
+Tyrone Mings,Aston Villa,30,Defender,England,22000000.0
+Jack Harrison,Leeds United,26,Attack,England,22000000.0
+Charles De Ketelaere,AC Milan,22,midfield,Belgium,22000000.0
+Nathan Collins,Wolverhampton Wanderers,22,Defender,Ireland,22000000.0
+Mathias Jensen,Brentford FC,27,midfield,Denmark,22000000.0
+Luis Sinisterra,Leeds United,24,Attack,Colombia,22000000.0
+Tyrick Mitchell,Crystal Palace,23,Defender,England,22000000.0
+Kurt Zouma,West Ham United,28,Defender,France,22000000.0
+Jordan Pickford,Everton FC,29,Goalkeeper,England,22000000.0
+Tanguy Ndombélé,SSC Napoli,26,midfield,France,22000000.0
+Pablo Fornals,West Ham United,27,midfield,Spain,22000000.0
+Nicolò Casale,SS Lazio,25,Defender,Italy,22000000.0
+Marcos Senesi,AFC Bournemouth,26,Defender,Argentina,22000000.0
+Kang-in Lee,RCD Mallorca,22,midfield,"Korea, South",22000000.0
+Wilfried Zaha,Crystal Palace,30,Attack,Cote d'Ivoire,22000000.0
+Rayan Aït-Nouri,Wolverhampton Wanderers,22,Defender,Algeria,22000000.0
+Filip Kostic,Juventus FC,30,midfield,Serbia,22000000.0
+Djibril Sow,Eintracht Frankfurt,26,midfield,Switzerland,22000000.0
+Xaver Schlager,RB Leipzig,25,midfield,Austria,22000000.0
+Exequiel Palacios,Bayer 04 Leverkusen,24,midfield,Argentina,22000000.0
+Joe Gomez,Liverpool FC,26,Defender,England,22000000.0
+Demarai Gray,Everton FC,26,Attack,Jamaica,20000000.0
+Dwight McNeil,Everton FC,23,Attack,England,20000000.0
+Boubakary Soumaré,Leicester City,24,midfield,France,20000000.0
+Ramy Bensebaini,Borussia Mönchengladbach,28,Defender,Algeria,20000000.0
+Raphaël Guerreiro,Borussia Dortmund,29,Defender,Portugal,20000000.0
+Philipp Lienhart,SC Freiburg,26,Defender,Austria,20000000.0
+Jonathan Tah,Bayer 04 Leverkusen,27,Defender,Germany,20000000.0
+Mathys Tel,Bayern Munich,18,Attack,France,20000000.0
+Amine Adli,Bayer 04 Leverkusen,23,Attack,France,20000000.0
+Wout Faes,Leicester City,25,Defender,Belgium,20000000.0
+Diego Carlos,Aston Villa,30,Defender,Brazil,20000000.0
+Álex Baena,Villarreal CF,21,midfield,Spain,20000000.0
+Nick Pope,Newcastle United,31,Goalkeeper,England,20000000.0
+Marcel Sabitzer,Manchester United,29,midfield,Austria,20000000.0
+David García,CA Osasuna,29,Defender,Spain,20000000.0
+Samuele Ricci,Torino FC,21,midfield,Italy,20000000.0
+Borja Iglesias,Real Betis Balompié,30,Attack,Spain,20000000.0
+Daniel Podence,Wolverhampton Wanderers,27,Attack,Portugal,20000000.0
+Fred,Manchester United,30,midfield,Brazil,20000000.0
+Gerard Moreno,Villarreal CF,31,Attack,Spain,20000000.0
+Nabil Fekir,Real Betis Balompié,29,midfield,France,20000000.0
+Harry Maguire,Manchester United,30,Defender,England,20000000.0
+James Justin,Leicester City,25,Defender,England,20000000.0
+Merih Demiral,Atalanta BC,25,Defender,Turkey,20000000.0
+Dodô,ACF Fiorentina,24,Defender,Brazil,20000000.0
+Emerson Royal,Tottenham Hotspur,24,Defender,Brazil,20000000.0
+Illan Meslier,Leeds United,23,Goalkeeper,France,20000000.0
+Brahim Díaz,AC Milan,23,midfield,Spain,20000000.0
+Álvaro Morata,Atlético de Madrid,30,Attack,Spain,20000000.0
+Malick Thiaw,AC Milan,21,Defender,Germany,20000000.0
+Davide Calabria,AC Milan,26,Defender,Italy,20000000.0
+Armel Bella-Kotchap,Southampton FC,21,Defender,Germany,20000000.0
+Mario Hermoso,Atlético de Madrid,28,Defender,Spain,20000000.0
+Ché Adams,Southampton FC,26,Attack,Scotland,20000000.0
+Neco Williams,Nottingham Forest,22,Defender,Wales,20000000.0
+Renan Lodi,Nottingham Forest,25,Defender,Brazil,20000000.0
+Arthur Cabral,ACF Fiorentina,25,Attack,Brazil,20000000.0
+Vitaly Janelt,Brentford FC,25,midfield,Germany,20000000.0
+Éderson,Atalanta BC,23,midfield,Brazil,20000000.0
+Mario Pasalic,Atalanta BC,28,midfield,Croatia,20000000.0
+Dominic Solanke,AFC Bournemouth,25,Attack,England,20000000.0
+Rico Lewis,Manchester City,18,Defender,England,20000000.0
+Riyad Mahrez,Manchester City,32,Attack,Algeria,20000000.0
+Ilkay Gündogan,Manchester City,32,midfield,Germany,20000000.0
+Nicola Zalewski,AS Roma,21,midfield,Poland,20000000.0
+André Almeida,Valencia CF,23,midfield,Portugal,20000000.0
+Granit Xhaka,Arsenal FC,30,midfield,Switzerland,20000000.0
+Philip Billing,AFC Bournemouth,27,midfield,Denmark,20000000.0
+Jefferson Lerma,AFC Bournemouth,28,midfield,Colombia,20000000.0
+Youssef En-Nesyri,Sevilla FC,26,Attack,Morocco,20000000.0
+Ilya Zabarnyi,AFC Bournemouth,20,Defender,Ukraine,20000000.0
+Bryan Cristante,AS Roma,28,midfield,Italy,20000000.0
+Ivan Ilic,Torino FC,22,midfield,Serbia,19000000.0
+Nico Elvedi,Borussia Mönchengladbach,26,Defender,Switzerland,18000000.0
+Ritsu Doan,SC Freiburg,25,Attack,Japan,18000000.0
+Mattias Svanberg,VfL Wolfsburg,24,midfield,Sweden,18000000.0
+Patrick Wimmer,VfL Wolfsburg,22,Attack,Austria,18000000.0
+Odilon Kossounou,Bayer 04 Leverkusen,22,Defender,Cote d'Ivoire,18000000.0
+Adam Hlozek,Bayer 04 Leverkusen,20,Attack,Czech Republic,18000000.0
+Matthias Ginter,SC Freiburg,29,Defender,Germany,18000000.0
+João Gomes,Wolverhampton Wanderers,22,midfield,Brazil,18000000.0
+Mathías Olivera,SSC Napoli,25,Defender,Uruguay,18000000.0
+Yunus Musah,Valencia CF,20,midfield,United States,18000000.0
+Armand Laurienté,US Sassuolo,24,Attack,France,18000000.0
+Luis Alberto,SS Lazio,30,midfield,Spain,18000000.0
+Kepa Arrizabalaga,Chelsea FC,28,Goalkeeper,Spain,18000000.0
+Trevoh Chalobah,Chelsea FC,23,Defender,England,18000000.0
+Georginio Rutter,Leeds United,21,Attack,France,18000000.0
+Lloyd Kelly,AFC Bournemouth,24,Defender,England,18000000.0
+Thilo Kehrer,West Ham United,26,Defender,Germany,18000000.0
+Mohammed Salisu,Southampton FC,24,Defender,Ghana,18000000.0
+Robin Koch,Leeds United,26,Defender,Germany,18000000.0
+Alessio Romagnoli,SS Lazio,28,Defender,Italy,18000000.0
+Yves Bissouma,Tottenham Hotspur,26,midfield,Mali,18000000.0
+Moussa Niakhaté,Nottingham Forest,27,Defender,Senegal,18000000.0
+Denis Zakaria,Chelsea FC,26,midfield,Switzerland,18000000.0
+Gianluca Mancini,AS Roma,27,Defender,Italy,18000000.0
+Wilfried Gnonto,Leeds United,19,Attack,Italy,18000000.0
+Moise Kean,Juventus FC,23,Attack,Italy,18000000.0
+Yoane Wissa,Brentford FC,26,Attack,DR Congo,18000000.0
+Dean Henderson,Manchester United,26,Goalkeeper,England,18000000.0
+James Tarkowski,Everton FC,30,Defender,England,18000000.0
+Pascal Struijk,Leeds United,23,Defender,Netherlands,18000000.0
+Domenico Berardi,US Sassuolo,28,Attack,Italy,18000000.0
+Alex Meret,SSC Napoli,26,Goalkeeper,Italy,18000000.0
+José Sá,Wolverhampton Wanderers,30,Goalkeeper,Portugal,18000000.0
+Anthony Elanga,Manchester United,21,Attack,Sweden,18000000.0
+Manor Solomon,Fulham FC,23,Attack,Israel,18000000.0
+Nikola Milenkovic,ACF Fiorentina,25,Defender,Serbia,18000000.0
+Eric Dier,Tottenham Hotspur,29,Defender,England,18000000.0
+Tyler Adams,Leeds United,24,midfield,United States,18000000.0
+Konstantinos Tsimikas,Liverpool FC,27,Defender,Greece,18000000.0
+Harrison Reed,Fulham FC,28,midfield,England,18000000.0
+Weston McKennie,Leeds United,24,midfield,United States,18000000.0
+Victor Lindelöf,Manchester United,28,Defender,Sweden,18000000.0
+Andreas Pereira,Fulham FC,27,midfield,Brazil,18000000.0
+Nicolò Rovella,AC Monza,21,midfield,Italy,18000000.0
+Roberto Firmino,Liverpool FC,31,Attack,Brazil,18000000.0
+Issa Diop,Fulham FC,26,Defender,France,18000000.0
+Ryan Sessegnon,Tottenham Hotspur,23,midfield,England,18000000.0
+Kelechi Iheanacho,Leicester City,26,Attack,Nigeria,18000000.0
+Patson Daka,Leicester City,24,Attack,Zambia,18000000.0
+Umar Sadiq,Real Sociedad,26,Attack,Nigeria,18000000.0
+Danilho Doekhi,1.FC Union Berlin,24,Defender,Netherlands,17000000.0
+Sheraldo Becker,1.FC Union Berlin,28,Attack,Suriname,17000000.0
+Amadou Haidara,RB Leipzig,25,midfield,Mali,17000000.0
+Maxence Lacroix,VfL Wolfsburg,23,Defender,France,17000000.0
+Marcus Tavernier,AFC Bournemouth,24,midfield,England,17000000.0
+Nicolás Domínguez,Bologna FC 1909,24,midfield,Argentina,17000000.0
+Nikola Vlasic,Torino FC,25,midfield,Croatia,17000000.0
+Koke,Atlético de Madrid,31,midfield,Spain,16000000.0
+Tosin Adarabioyo,Fulham FC,25,Defender,England,16000000.0
+Nathan Patterson,Everton FC,21,Defender,Scotland,16000000.0
+Sergi Darder,RCD Espanyol Barcelona,29,midfield,Spain,16000000.0
+Guglielmo Vicario,FC Empoli,26,Goalkeeper,Italy,16000000.0
+Callum Wilson,Newcastle United,31,Attack,England,16000000.0
+Fábio Carvalho,Liverpool FC,20,midfield,Portugal,16000000.0
+Kristoffer Ajer,Brentford FC,25,Defender,Norway,16000000.0
+Christian Nörgaard,Brentford FC,29,midfield,Denmark,16000000.0
+Samuel Lino,Valencia CF,23,Attack,Brazil,16000000.0
+Orel Mangala,Nottingham Forest,25,midfield,Belgium,16000000.0
+Jonathan Ikoné,ACF Fiorentina,25,Attack,France,16000000.0
+Harry Wilson,Fulham FC,26,Attack,Wales,16000000.0
+Hakim Ziyech,Chelsea FC,30,Attack,Morocco,16000000.0
+Josh Dasilva,Brentford FC,24,midfield,England,16000000.0
+Konstantinos Mavropanos,VfB Stuttgart,25,Defender,Greece,15000000.0
+Tuta,Eintracht Frankfurt,23,Defender,Brazil,15000000.0
+Callum Hudson-Odoi,Bayer 04 Leverkusen,22,Attack,England,15000000.0
+Anton Stach,1.FSV Mainz 05,24,midfield,Germany,15000000.0
+Diogo Leite,1.FC Union Berlin,24,Defender,Portugal,15000000.0
+Benjamin Henrichs,RB Leipzig,26,Defender,Germany,15000000.0
+Felix Nmecha,VfL Wolfsburg,22,midfield,Germany,15000000.0
+André Silva,RB Leipzig,27,Attack,Portugal,15000000.0
+Álex Berenguer,Athletic Bilbao,27,Attack,Spain,15000000.0
+Aimar Oroz,CA Osasuna,21,midfield,Spain,15000000.0
+Gavin Bazunu,Southampton FC,21,Goalkeeper,Ireland,15000000.0
+N'Golo Kanté,Chelsea FC,32,midfield,France,15000000.0
+Pape Matar Sarr,Tottenham Hotspur,20,midfield,Senegal,15000000.0
+Morten Hjulmand,US Lecce,24,midfield,Denmark,15000000.0
+Leander Dendoncker,Aston Villa,28,midfield,Belgium,15000000.0
+Yeray Álvarez,Athletic Bilbao,28,Defender,Spain,15000000.0
+Maxime López,US Sassuolo,25,midfield,France,15000000.0
+Iván Fresneda,Real Valladolid CF,18,Defender,Spain,15000000.0
+Crysencio Summerville,Leeds United,21,Attack,Netherlands,15000000.0
+Odsonne Edouard,Crystal Palace,25,Attack,France,15000000.0
+Carlos Alcaraz,Southampton FC,20,midfield,Argentina,15000000.0
+Caglar Söyüncü,Leicester City,27,Defender,Turkey,15000000.0
+Arnau Martínez,Girona FC,20,Defender,Spain,15000000.0
+Harry Souttar,Leicester City,24,Defender,Australia,15000000.0
+Alexis Saelemaekers,AC Milan,24,Attack,Belgium,15000000.0
+Sergio Canales,Real Betis Balompié,32,midfield,Spain,15000000.0
+Ciro Immobile,SS Lazio,33,Attack,Italy,15000000.0
+Luiz Henrique,Real Betis Balompié,22,Attack,Brazil,15000000.0
+Matteo Politano,SSC Napoli,29,Attack,Italy,15000000.0
+Sasa Kalajdzic,Wolverhampton Wanderers,25,Attack,Austria,15000000.0
+Robin Gosens,Inter Milan,28,midfield,Germany,15000000.0
+Carney Chukwuemeka,Chelsea FC,19,midfield,England,15000000.0
+Ben Davies,Tottenham Hotspur,30,Defender,Wales,15000000.0
+Giovanni Simeone,SSC Napoli,27,Attack,Argentina,15000000.0
+Matteo Pessina,AC Monza,26,midfield,Italy,15000000.0
+Paul Pogba,Juventus FC,30,midfield,France,15000000.0
+Nélson Semedo,Wolverhampton Wanderers,29,Defender,Portugal,15000000.0
+Anthony Martial,Manchester United,27,Attack,France,15000000.0
+Fabio Miretti,Juventus FC,19,midfield,Italy,15000000.0
+Taty Castellanos,Girona FC,24,Attack,Argentina,15000000.0
+Bryan Gil,Sevilla FC,22,Attack,Spain,15000000.0
+Fran Beltrán,Celta de Vigo,24,midfield,Spain,15000000.0
+Toni Kroos,Real Madrid,33,midfield,Germany,15000000.0
+Jacob Murphy,Newcastle United,28,Attack,England,15000000.0
+Arthur Melo,Liverpool FC,26,midfield,Brazil,15000000.0
+Abde Ezzalzouli,CA Osasuna,21,Attack,Morocco,15000000.0
+Albert Sambi Lokonga,Arsenal FC,23,midfield,Belgium,15000000.0
+Thiago,Liverpool FC,32,midfield,Spain,15000000.0
+Lucas Digne,Aston Villa,29,Defender,France,15000000.0
+Vedat Muriqi,RCD Mallorca,29,Attack,Kosovo,15000000.0
+Alfonso Pedraza,Villarreal CF,27,Defender,Spain,15000000.0
+Álex Moreno,Aston Villa,30,Defender,Spain,15000000.0
+Tommaso Baldanzi,FC Empoli,20,midfield,Italy,15000000.0
+Cole Palmer,Manchester City,21,midfield,England,15000000.0
+Luiz Felipe,Real Betis Balompié,26,Defender,Italy,15000000.0
+Rui Silva,Real Betis Balompié,29,Goalkeeper,Portugal,15000000.0
+Andrea Pinamonti,US Sassuolo,24,Attack,Italy,15000000.0
+Antonee Robinson,Fulham FC,25,Defender,United States,15000000.0
+Kenny Tete,Fulham FC,27,Defender,Netherlands,15000000.0
+Carlos Augusto,AC Monza,24,Defender,Brazil,15000000.0
+Igor Zubeldia,Real Sociedad,26,Defender,Spain,15000000.0
+Davinson Sánchez,Tottenham Hotspur,27,Defender,Colombia,15000000.0
+Oliver Skipp,Tottenham Hotspur,22,midfield,England,15000000.0
+Felipe Anderson,SS Lazio,30,Attack,Brazil,15000000.0
+Kalidou Koulibaly,Chelsea FC,32,Defender,Senegal,15000000.0
+Maximilian Wöber,Leeds United,25,Defender,Austria,14000000.0
+Jérémie Boga,Atalanta BC,26,Attack,Cote d'Ivoire,14000000.0
+Ethan Pinnock,Brentford FC,30,Defender,Jamaica,14000000.0
+Giovani Lo Celso,Villarreal CF,27,midfield,Argentina,14000000.0
+Tommaso Pobega,AC Milan,23,midfield,Italy,14000000.0
+Dani Vivian,Athletic Bilbao,23,Defender,Spain,14000000.0
+William Carvalho,Real Betis Balompié,31,midfield,Portugal,14000000.0
+James Garner,Everton FC,22,midfield,England,14000000.0
+Hugo Guillamón,Valencia CF,23,midfield,Spain,14000000.0
+Justin Kluivert,Valencia CF,24,Attack,Netherlands,14000000.0
+Aritz Elustondo,Real Sociedad,29,Defender,Spain,14000000.0
+Jan Bednarek,Southampton FC,27,Defender,Poland,14000000.0
+Maximilian Arnold,VfL Wolfsburg,29,midfield,Germany,14000000.0
+Jonas Wind,VfL Wolfsburg,24,Attack,Denmark,14000000.0
+Stefan Posch,Bologna FC 1909,26,Defender,Austria,14000000.0
+Joakim Maehle,Atalanta BC,26,Defender,Denmark,14000000.0
+Memphis Depay,Atlético de Madrid,29,Attack,Netherlands,14000000.0
+Lazar Samardžić,Udinese Calcio,21,midfield,Serbia,14000000.0
+Pablo Sarabia,Wolverhampton Wanderers,31,Attack,Spain,14000000.0
+David Raum,RB Leipzig,25,Defender,Germany,14000000.0
+Jamie Bynoe-Gittens,Borussia Dortmund,18,Attack,England,14000000.0
+Serhou Guirassy,VfB Stuttgart,27,Attack,Guinea,14000000.0
+Emre Can,Borussia Dortmund,29,midfield,Germany,14000000.0
+Leandro Barreiro,1.FSV Mainz 05,23,midfield,Luxembourg,14000000.0
+Geoffrey Kondogbia,Atlético de Madrid,30,midfield,Central African Republic,14000000.0
+Rasmus Kristensen,Leeds United,25,Defender,Denmark,13000000.0
+Sergio Gómez,Manchester City,22,Defender,Spain,13000000.0
+Jonny Otto,Wolverhampton Wanderers,29,Defender,Spain,13000000.0
+Donny van de Beek,Manchester United,26,midfield,Netherlands,13000000.0
+David de Gea,Manchester United,32,Goalkeeper,Spain,13000000.0
+Marco Carnesecchi,US Cremonese,22,Goalkeeper,Italy,13000000.0
+Salih Özcan,Borussia Dortmund,25,midfield,Turkey,13000000.0
+Kyle Walker,Manchester City,33,Defender,England,13000000.0
+Mikkel Damsgaard,Brentford FC,22,Attack,Denmark,13000000.0
+Matt Targett,Newcastle United,27,Defender,England,13000000.0
+Paul Onuachu,Southampton FC,29,Attack,Nigeria,13000000.0
+Ben Godfrey,Everton FC,25,Defender,England,13000000.0
+Stefan Bajcetic,Liverpool FC,18,midfield,Spain,13000000.0
+Niclas Füllkrug,SV Werder Bremen,30,Attack,Germany,13000000.0
+Ellyes Skhiri,1.FC Köln,28,midfield,Tunisia,13000000.0
+Jonas Hofmann,Borussia Mönchengladbach,30,Attack,Germany,13000000.0
+Julian Ryerson,Borussia Dortmund,25,Defender,Norway,13000000.0
+Ridle Baku,VfL Wolfsburg,25,Defender,Germany,13000000.0
+Lukas Nmecha,VfL Wolfsburg,24,Attack,Germany,12000000.0
+Mario Götze,Eintracht Frankfurt,31,midfield,Germany,12000000.0
+Ko Itakura,Borussia Mönchengladbach,26,Defender,Japan,12000000.0
+Jakub Kaminski,VfL Wolfsburg,21,Attack,Poland,12000000.0
+Josip Stanisic,Bayern Munich,23,Defender,Croatia,12000000.0
+Borna Sosa,VfB Stuttgart,25,Defender,Croatia,12000000.0
+Mergim Berisha,FC Augsburg,25,Attack,Germany,12000000.0
+Joe Scally,Borussia Mönchengladbach,20,Defender,United States,12000000.0
+Sardar Azmoun,Bayer 04 Leverkusen,28,Attack,Iran,12000000.0
+Angeliño,TSG 1899 Hoffenheim,26,Defender,Spain,12000000.0
+Florian Neuhaus,Borussia Mönchengladbach,26,midfield,Germany,12000000.0
+Thomas Müller,Bayern Munich,33,Attack,Germany,12000000.0
+Kiliann Sildillia,SC Freiburg,21,Defender,France,12000000.0
+Dodi Lukébakio,Hertha BSC,25,Attack,Belgium,12000000.0
+Josip Juranovic,1.FC Union Berlin,27,Defender,Croatia,12000000.0
+Mahmoud Dahoud,Borussia Dortmund,27,midfield,Germany,12000000.0
+Vincenzo Grifo,SC Freiburg,30,Attack,Italy,12000000.0
+Lukas Klostermann,RB Leipzig,27,Defender,Germany,12000000.0
+Ermedin Demirovic,FC Augsburg,25,Attack,Bosnia-Herzegovina,12000000.0
+Romain Perraud,Southampton FC,25,Defender,France,12000000.0
+Lucas Ocampos,Sevilla FC,28,Attack,Argentina,12000000.0
+Bono,Sevilla FC,32,Goalkeeper,Morocco,12000000.0
+Jhon Lucumí,Bologna FC 1909,25,Defender,Colombia,12000000.0
+Joe Worrall,Nottingham Forest,26,Defender,England,12000000.0
+Joaquín Correa,Inter Milan,28,Attack,Argentina,12000000.0
+Aleksey Miranchuk,Torino FC,27,midfield,Russia,12000000.0
+Stephane Singo,Torino FC,22,Defender,Cote d'Ivoire,12000000.0
+Wout Weghorst,Manchester United,30,Attack,Netherlands,12000000.0
+Riccardo Orsolini,Bologna FC 1909,26,Attack,Italy,12000000.0
+Juanmi,Real Betis Balompié,30,Attack,Spain,12000000.0
+Gonzalo Montiel,Sevilla FC,26,Defender,Argentina,12000000.0
+Daniel James,Leeds United,25,Attack,Wales,12000000.0
+Lewis Ferguson,Bologna FC 1909,23,midfield,Scotland,12000000.0
+Caoimhín Kelleher,Liverpool FC,24,Goalkeeper,Ireland,12000000.0
+Joel Matip,Liverpool FC,31,Defender,Cameroon,12000000.0
+Rodrigo Riquelme,Girona FC,23,Attack,Spain,12000000.0
+Naby Keïta,Liverpool FC,28,midfield,Guinea,12000000.0
+Loïc Badé,Sevilla FC,23,Defender,France,12000000.0
+El Bilal Touré,UD Almería,21,Attack,Mali,12000000.0
+Emerson,West Ham United,28,Defender,Italy,12000000.0
+Diego Llorente,AS Roma,29,Defender,Spain,12000000.0
+Ivan Provedel,SS Lazio,29,Goalkeeper,Italy,12000000.0
+Maxwel Cornet,West Ham United,26,Attack,Cote d'Ivoire,12000000.0
+Edouard Mendy,Chelsea FC,31,Goalkeeper,Senegal,12000000.0
+Alexander Sørloth,Real Sociedad,27,Attack,Norway,12000000.0
+Hee-chan Hwang,Wolverhampton Wanderers,27,Attack,"Korea, South",12000000.0
+Daniel Amartey,Leicester City,28,Defender,Ghana,12000000.0
+Daniel Carvajal,Real Madrid,31,Defender,Spain,12000000.0
+Christian Kouamé,ACF Fiorentina,25,Attack,Cote d'Ivoire,12000000.0
+Jhon Durán,Aston Villa,19,Attack,Colombia,12000000.0
+Luke Thomas,Leicester City,22,Defender,England,12000000.0
+Bertrand Traoré,Aston Villa,27,Attack,Burkina Faso,12000000.0
+Jerdy Schouten,Bologna FC 1909,26,midfield,Netherlands,12000000.0
+Sasa Lukic,Fulham FC,26,midfield,Serbia,12000000.0
+Isi Palazón,Rayo Vallecano,28,Attack,Spain,12000000.0
+Bernd Leno,Fulham FC,31,Goalkeeper,Germany,12000000.0
+Dani Ceballos,Real Madrid,26,midfield,Spain,12000000.0
+Jon Moncayola,CA Osasuna,25,midfield,Spain,12000000.0
+Victor Kristiansen,Leicester City,20,Defender,Denmark,12000000.0
+Federico Gatti,Juventus FC,25,Defender,Italy,12000000.0
+Fran García,Rayo Vallecano,23,Defender,Spain,12000000.0
+Danny Ings,West Ham United,30,Attack,England,12000000.0
+Reiss Nelson,Arsenal FC,23,Attack,England,12000000.0
+Keane Lewis-Potter,Brentford FC,22,Attack,England,12000000.0
+Leandro Paredes,Juventus FC,28,midfield,Argentina,12000000.0
+Conor Coady,Everton FC,30,Defender,England,12000000.0
+Mohamed-Ali Cho,Real Sociedad,19,Attack,France,12000000.0
+David Brooks,AFC Bournemouth,25,Attack,Wales,12000000.0
+Kristjan Asllani,Inter Milan,21,midfield,Albania,12000000.0
+Javi Galán,Celta de Vigo,28,Defender,Spain,12000000.0
+Abdoulaye Doucouré,Everton FC,30,midfield,Mali,12000000.0
+Jörgen Strand Larsen,Celta de Vigo,23,Attack,Norway,11000000.0
+Kieran Trippier,Newcastle United,32,Defender,England,11000000.0
+Joe Aribo,Southampton FC,26,midfield,Nigeria,11000000.0
+Duje Caleta-Car,Southampton FC,26,Defender,Croatia,11000000.0
+Robert Andrich,Bayer 04 Leverkusen,28,midfield,Germany,11000000.0
+Musa Barrow,Bologna FC 1909,24,Attack,The Gambia,11000000.0
+Ryan Yates,Nottingham Forest,25,midfield,England,11000000.0
+Eric García,FC Barcelona,22,Defender,Spain,10000000.0
+Sergio Reguilón,Atlético de Madrid,26,Defender,Spain,10000000.0
+Marten de Roon,Atalanta BC,32,midfield,Netherlands,10000000.0
+Fabian Schär,Newcastle United,31,Defender,Switzerland,10000000.0
+Jaka Bijol,Udinese Calcio,24,Defender,Slovenia,10000000.0
+Dan Burn,Newcastle United,31,Defender,England,10000000.0
+Saúl Ñíguez,Atlético de Madrid,28,midfield,Spain,10000000.0
+Danilo Cataldi,SS Lazio,28,midfield,Italy,10000000.0
+Matheus Henrique,US Sassuolo,25,midfield,Brazil,10000000.0
+Predrag Rajkovic,RCD Mallorca,27,Goalkeeper,Serbia,10000000.0
+Pape Gueye,Sevilla FC,24,midfield,Senegal,10000000.0
+Manu Sánchez,CA Osasuna,22,Defender,Spain,10000000.0
+Máximo Perrone,Manchester City,20,midfield,Argentina,10000000.0
+Moi Gómez,CA Osasuna,29,Attack,Spain,10000000.0
+Rodrigo Becão,Udinese Calcio,27,Defender,Brazil,10000000.0
+Nehuén Pérez,Udinese Calcio,23,Defender,Argentina,10000000.0
+Caleb Okoli,Atalanta BC,21,Defender,Italy,10000000.0
+Michael Keane,Everton FC,30,Defender,England,10000000.0
+Abdou Diallo,RB Leipzig,27,Defender,Senegal,10000000.0
+Luka Modric,Real Madrid,37,midfield,Croatia,10000000.0
+Willi Orbán,RB Leipzig,30,Defender,Hungary,10000000.0
+Marius Wolf,Borussia Dortmund,28,Defender,Germany,10000000.0
+Hiroki Ito,VfB Stuttgart,24,Defender,Japan,10000000.0
+Ozan Kabak,TSG 1899 Hoffenheim,23,Defender,Turkey,10000000.0
+Mark Flekken,SC Freiburg,30,Goalkeeper,Netherlands,10000000.0
+Julian Weigl,Borussia Mönchengladbach,27,midfield,Germany,10000000.0
+Roland Sallai,SC Freiburg,26,Attack,Hungary,10000000.0
+Rani Khedira,1.FC Union Berlin,29,midfield,Germany,10000000.0
+Jonathan Burkardt,1.FSV Mainz 05,22,Attack,Germany,10000000.0
+Ben Johnson,West Ham United,23,Defender,England,10000000.0
+Ryan Christie,AFC Bournemouth,28,midfield,Scotland,10000000.0
+Adam Armstrong,Southampton FC,26,Attack,England,10000000.0
+Yerry Mina,Everton FC,28,Defender,Colombia,10000000.0
+Dejan Ljubicic,1.FC Köln,25,midfield,Austria,10000000.0
+Sékou Mara,Southampton FC,20,Attack,France,10000000.0
+Jordan Henderson,Liverpool FC,33,midfield,England,10000000.0
+Scott McKenna,Nottingham Forest,26,Defender,Scotland,10000000.0
+Adama Traoré,Wolverhampton Wanderers,27,Attack,Spain,10000000.0
+Marc Roca,Leeds United,26,midfield,Spain,10000000.0
+Junior Firpo,Leeds United,26,Defender,Dominican Republic,10000000.0
+Lewis Cook,AFC Bournemouth,26,midfield,England,10000000.0
+Chris Richards,Crystal Palace,23,Defender,United States,10000000.0
+Gustavo Scarpa,Nottingham Forest,29,midfield,Brazil,10000000.0
+Ricardo Pereira,Leicester City,29,Defender,Portugal,10000000.0
+Mario Lemina,Wolverhampton Wanderers,29,midfield,Gabon,10000000.0
+Neal Maupay,Everton FC,26,Attack,France,10000000.0
+Philippe Coutinho,Aston Villa,31,Attack,Brazil,10000000.0
+Gaetano Castrovilli,ACF Fiorentina,26,midfield,Italy,10000000.0
+Maximilian Eggestein,SC Freiburg,26,midfield,Germany,10000000.0
+Rade Krunic,AC Milan,29,midfield,Bosnia-Herzegovina,10000000.0
+Junior Dina Ebimbe,Eintracht Frankfurt,22,midfield,France,10000000.0
+Miguel Gutiérrez,Girona FC,21,Defender,Spain,10000000.0
+Fabiano Parisi,FC Empoli,22,Defender,Italy,10000000.0
+Antonin Barak,ACF Fiorentina,28,midfield,Czech Republic,10000000.0
+Wojciech Szczesny,Juventus FC,33,Goalkeeper,Poland,10000000.0
+Sergio Camello,Rayo Vallecano,22,Attack,Spain,10000000.0
+Lucas Boyé,Elche CF,27,Attack,Argentina,10000000.0
+Alessandro Buongiorno,Torino FC,24,Defender,Italy,10000000.0
+Gabriel Strefezza,US Lecce,26,Attack,Brazil,10000000.0
+Lewis Hall,Chelsea FC,18,Defender,England,10000000.0
+Berat Djimsiti,Atalanta BC,30,Defender,Albania,10000000.0
+Harry Winks,UC Sampdoria,27,midfield,England,10000000.0
+Sandi Lovric,Udinese Calcio,25,midfield,Slovenia,10000000.0
+Iñigo Martínez,Athletic Bilbao,32,Defender,Spain,10000000.0
+Rafa Mir,Sevilla FC,26,Attack,Spain,10000000.0
+Gerard Deulofeu,Udinese Calcio,29,Attack,Spain,10000000.0
+Leonardo Spinazzola,AS Roma,30,Defender,Italy,10000000.0
+Antonio Sanabria,Torino FC,27,Attack,Paraguay,10000000.0
+Clément Lenglet,Tottenham Hotspur,28,Defender,France,10000000.0
+Andrea Petagna,AC Monza,27,Attack,Italy,10000000.0
+Rolando Mandragora,ACF Fiorentina,25,midfield,Italy,10000000.0
+Sergiño Dest,AC Milan,22,Defender,United States,10000000.0
+Igor,ACF Fiorentina,25,Defender,Brazil,10000000.0
+Edoardo Bove,AS Roma,21,midfield,Italy,10000000.0
+Mady Camara,AS Roma,26,midfield,Guinea,10000000.0
+David Datro Fofana,Chelsea FC,20,Attack,Cote d'Ivoire,10000000.0
+Aleix García,Girona FC,25,midfield,Spain,10000000.0
+Zeki Celik,AS Roma,26,Defender,Turkey,10000000.0
+Marcos Acuña,Sevilla FC,31,Defender,Argentina,10000000.0
+Nico González,Valencia CF,21,midfield,Spain,10000000.0
+Lucas Martínez Quarta,ACF Fiorentina,27,Defender,Argentina,10000000.0
+Naouirou Ahamada,Crystal Palace,21,midfield,France,10000000.0
+Jonas Omlin,Borussia Mönchengladbach,29,Goalkeeper,Switzerland,9000000.0
+Eric Martel,1.FC Köln,21,midfield,Germany,9000000.0
+Ludovic Ajorque,1.FSV Mainz 05,29,Attack,France,9000000.0
+Lucas Tousart,Hertha BSC,26,midfield,France,9000000.0
+Mitchel Bakker,Bayer 04 Leverkusen,23,Defender,Netherlands,9000000.0
+Rafael Borré,Eintracht Frankfurt,27,Attack,Colombia,9000000.0
+Stefan Ortega,Manchester City,30,Goalkeeper,Germany,9000000.0
+Joshua Zirkzee,Bologna FC 1909,22,Attack,Netherlands,9000000.0
+Erik Lamela,Sevilla FC,31,Attack,Argentina,9000000.0
+Joan Jordán,Sevilla FC,28,midfield,Spain,9000000.0
+Chimy Ávila,CA Osasuna,29,Attack,Argentina,9000000.0
+Jaidon Anthony,AFC Bournemouth,23,Attack,England,9000000.0
+Patrick Bamford,Leeds United,29,Attack,England,9000000.0
+Ethan Ampadu,Spezia Calcio,22,Defender,Wales,9000000.0
+Mason Holgate,Everton FC,26,Defender,England,9000000.0
+Antoine Semenyo,AFC Bournemouth,23,Attack,Ghana,9000000.0
+Brandon Soppy,Atalanta BC,21,Defender,France,9000000.0
+Mauro Arambarri,Getafe CF,27,midfield,Uruguay,9000000.0
+Carles Aleñá,Getafe CF,25,midfield,Spain,9000000.0
+Edgar González,Real Betis Balompié,26,Defender,Spain,9000000.0
+Andoni Gorosabel,Real Sociedad,26,Defender,Spain,9000000.0
+Samuel Iling Junior,Juventus FC,19,Attack,England,9000000.0
+Unai Vencedor,Athletic Bilbao,22,midfield,Spain,9000000.0
+Óliver Torres,Sevilla FC,28,midfield,Spain,9000000.0
+Flynn Downes,West Ham United,24,midfield,England,9000000.0
+Iker Muniain,Athletic Bilbao,30,midfield,Spain,9000000.0
+Tom Davies,Everton FC,24,midfield,England,9000000.0
+Borja Mayoral,Getafe CF,26,Attack,Spain,9000000.0
+Vladimir Coufal,West Ham United,30,Defender,Czech Republic,9000000.0
+Gabriel Slonina,Chelsea FC,19,Goalkeeper,United States,9000000.0
+Mohamed Elyounoussi,Southampton FC,28,Attack,Norway,9000000.0
+Kevin Trapp,Eintracht Frankfurt,32,Goalkeeper,Germany,8500000.0
+Timo Hübers,1.FC Köln,26,Defender,Germany,8500000.0
+Felix Uduokhai,FC Augsburg,25,Defender,Germany,8500000.0
+Aster Vranckx,AC Milan,20,midfield,Belgium,8500000.0
+Anthony Caci,1.FSV Mainz 05,25,Defender,France,8500000.0
+Julien Duranville,Borussia Dortmund,17,Attack,Belgium,8500000.0
+Sebastiaan Bornauw,VfL Wolfsburg,24,Defender,Belgium,8500000.0
+Erhan Masovic,VfL Bochum,24,Defender,Serbia,8000000.0
+Josha Vagnoman,VfB Stuttgart,22,Defender,Germany,8000000.0
+Andrej Kramaric,TSG 1899 Hoffenheim,32,Attack,Croatia,8000000.0
+Silas,VfB Stuttgart,24,Attack,DR Congo,8000000.0
+Dennis Geiger,TSG 1899 Hoffenheim,25,midfield,Germany,8000000.0
+Aurélio Buta,Eintracht Frankfurt,26,Defender,Portugal,8000000.0
+Koen Casteels,VfL Wolfsburg,31,Goalkeeper,Belgium,8000000.0
+Ansgar Knauff,Eintracht Frankfurt,21,Attack,Germany,8000000.0
+Alassane Plea,Borussia Mönchengladbach,30,Attack,France,8000000.0
+Michael Gregoritsch,SC Freiburg,29,Attack,Austria,8000000.0
+Daniel-Kofi Kyereh,SC Freiburg,27,midfield,Ghana,8000000.0
+Chris Wood,Nottingham Forest,31,Attack,New Zealand,8000000.0
+Remo Freuler,Nottingham Forest,31,midfield,Switzerland,8000000.0
+Nicolò Cambiaghi,FC Empoli,22,Attack,Italy,8000000.0
+Mário Rui,SSC Napoli,32,Defender,Portugal,8000000.0
+Tecatito,Sevilla FC,30,Attack,Mexico,8000000.0
+Ángel Di María,Juventus FC,35,Attack,Argentina,8000000.0
+Frank Onyeka,Brentford FC,25,midfield,Nigeria,8000000.0
+Matt Turner,Arsenal FC,29,Goalkeeper,United States,8000000.0
+Moussa Djenepo,Southampton FC,25,Attack,Mali,8000000.0
+Adam Marusic,SS Lazio,30,Defender,Montenegro,8000000.0
+Juan Musso,Atalanta BC,29,Goalkeeper,Argentina,8000000.0
+Federico Baschirotto,US Lecce,26,Defender,Italy,8000000.0
+Razvan Marin,FC Empoli,27,midfield,Romania,8000000.0
+Elliot Anderson,Newcastle United,20,midfield,Scotland,8000000.0
+Stefan de Vrij,Inter Milan,31,Defender,Netherlands,8000000.0
+Michele Di Gregorio,AC Monza,25,Goalkeeper,Italy,8000000.0
+Serge Aurier,Nottingham Forest,30,Defender,Cote d'Ivoire,8000000.0
+Sergio Herrera,CA Osasuna,30,Goalkeeper,Spain,8000000.0
+Luis Suárez,UD Almería,25,Attack,Colombia,8000000.0
+Rodri Sánchez,Real Betis Balompié,23,midfield,Spain,8000000.0
+Stefano Sensi,AC Monza,27,midfield,Italy,8000000.0
+Flavius Daniliuc,US Salernitana 1919,22,Defender,Austria,8000000.0
+Lorenzo Pirola,US Salernitana 1919,21,Defender,Italy,8000000.0
+Conan Ledesma,Cádiz CF,30,Goalkeeper,Argentina,8000000.0
+Alejandro Catena,Rayo Vallecano,28,Defender,Spain,8000000.0
+M'Bala Nzola,Spezia Calcio,26,Attack,Angola,8000000.0
+Raúl de Tomás,Rayo Vallecano,28,Attack,Spain,8000000.0
+Agustín Álvarez,US Sassuolo,22,Attack,Uruguay,8000000.0
+Jesse Lingard,Nottingham Forest,30,midfield,England,8000000.0
+Emmanuel Dennis,Nottingham Forest,25,Attack,Nigeria,8000000.0
+Marcos Antônio,SS Lazio,23,midfield,Brazil,8000000.0
+Simone Pafundi,Udinese Calcio,17,midfield,Italy,8000000.0
+Yacine Adli,AC Milan,22,midfield,France,8000000.0
+Matías Viña,AFC Bournemouth,25,Defender,Uruguay,8000000.0
+Marash Kumbulla,AS Roma,23,Defender,Albania,8000000.0
+Chris Mepham,AFC Bournemouth,25,Defender,Wales,8000000.0
+Ainsley Maitland-Niles,Arsenal FC,25,midfield,England,8000000.0
+Thierry Correia,Valencia CF,24,Defender,Portugal,8000000.0
+Santiago Bueno,Girona FC,24,Defender,Uruguay,8000000.0
+Andrea Cambiaso,Bologna FC 1909,23,Defender,Italy,8000000.0
+Josh Doig,Hellas Verona,21,Defender,Scotland,8000000.0
+David Soria,Getafe CF,30,Goalkeeper,Spain,8000000.0
+Javi Puado,RCD Espanyol Barcelona,25,Attack,Spain,8000000.0
+Andrea Belotti,AS Roma,29,Attack,Italy,8000000.0
+Rob Holding,Arsenal FC,27,Defender,England,8000000.0
+Pablo Maffeo,RCD Mallorca,25,Defender,Spain,8000000.0
+Lucas Vázquez,Real Madrid,31,Defender,Spain,8000000.0
+Samuel Edozie,Southampton FC,20,Attack,England,8000000.0
+Duván Zapata,Atalanta BC,32,Attack,Colombia,8000000.0
+Chris Smalling,AS Roma,33,Defender,England,8000000.0
+Arkadiusz Milik,Juventus FC,29,Attack,Poland,8000000.0
+Riccardo Sottil,ACF Fiorentina,24,Attack,Italy,8000000.0
+Calum Chambers,Aston Villa,28,Defender,England,8000000.0
+Luka Jovic,ACF Fiorentina,25,Attack,Serbia,8000000.0
+Lucas Torró,CA Osasuna,28,midfield,Spain,8000000.0
+Óscar Rodríguez,Celta de Vigo,24,midfield,Spain,8000000.0
+César Montes,RCD Espanyol Barcelona,26,Defender,Mexico,8000000.0
+Cyle Larin,Real Valladolid CF,28,Attack,Canada,8000000.0
+Alphonse Areola,West Ham United,30,Goalkeeper,France,8000000.0
+Georginio Wijnaldum,AS Roma,32,midfield,Netherlands,8000000.0
+Gianluca Caprari,AC Monza,29,Attack,Italy,8000000.0
+Joseph Aidoo,Celta de Vigo,27,Defender,Ghana,8000000.0
+Tanguy Nianzou,Sevilla FC,21,Defender,France,7500000.0
+Marvin Ducksch,SV Werder Bremen,29,Attack,Germany,7500000.0
+Andreas Hanche-Olsen,1.FSV Mainz 05,26,Defender,Norway,7500000.0
+Christian Günter,SC Freiburg,30,Defender,Germany,7500000.0
+Nedim Bajrami,US Sassuolo,24,midfield,Albania,7500000.0
+Alex Telles,Sevilla FC,30,Defender,Brazil,7500000.0
+Santi Comesaña,Rayo Vallecano,26,midfield,Spain,7500000.0
+Marcão,Sevilla FC,27,Defender,Brazil,7500000.0
+Manuel Lazzari,SS Lazio,29,Defender,Italy,7500000.0
+Arne Engels,FC Augsburg,19,midfield,Belgium,7500000.0
+Kristian Thorstvedt,US Sassuolo,24,midfield,Norway,7500000.0
+Sergio Akieme,UD Almería,25,Defender,Spain,7500000.0
+Moritz Jenz,FC Schalke 04,24,Defender,Germany,7500000.0
+Aïssa Laïdouni,1.FC Union Berlin,26,midfield,Tunisia,7000000.0
+Marvin Schwäbe,1.FC Köln,28,Goalkeeper,Germany,7000000.0
+Manuel Neuer,Bayern Munich,37,Goalkeeper,Germany,7000000.0
+Emil Forsberg,RB Leipzig,31,midfield,Sweden,7000000.0
+Yussuf Poulsen,RB Leipzig,29,Attack,Denmark,7000000.0
+Marco Friedl,SV Werder Bremen,25,Defender,Austria,7000000.0
+Niklas Dorsch,FC Augsburg,25,midfield,Germany,7000000.0
+Enzo Millot,VfB Stuttgart,20,midfield,France,7000000.0
+Tiago Tomás,VfB Stuttgart,21,Attack,Portugal,7000000.0
+Alex Kral,FC Schalke 04,25,midfield,Czech Republic,7000000.0
+Jordan,1.FC Union Berlin,27,Attack,United States,7000000.0
+Tom Krauß,FC Schalke 04,22,midfield,Germany,7000000.0
+Kasper Dolberg,TSG 1899 Hoffenheim,25,Attack,Denmark,7000000.0
+Janik Haberer,1.FC Union Berlin,29,midfield,Germany,7000000.0
+Grischa Prömel,TSG 1899 Hoffenheim,28,midfield,Germany,7000000.0
+Marco Reus,Borussia Dortmund,34,midfield,Germany,7000000.0
+Aarón Martín,1.FSV Mainz 05,26,Defender,Spain,7000000.0
+Kristijan Jakic,Eintracht Frankfurt,26,midfield,Croatia,7000000.0
+Ihlas Bebou,TSG 1899 Hoffenheim,29,Attack,Togo,7000000.0
+Dennis Praet,Leicester City,29,midfield,Belgium,7000000.0
+Domagoj Bradaric,US Salernitana 1919,23,Defender,Croatia,7000000.0
+Rick Karsdorp,AS Roma,28,Defender,Netherlands,7000000.0
+Juan Larios,Southampton FC,19,Defender,Spain,7000000.0
+Ibrahima Diallo,Southampton FC,24,midfield,France,7000000.0
+Alex Oxlade-Chamberlain,Liverpool FC,29,midfield,England,7000000.0
+Michail Antonio,West Ham United,33,Attack,Jamaica,7000000.0
+Brandon Williams,Manchester United,22,Defender,England,7000000.0
+Krzysztof Piatek,US Salernitana 1919,27,Attack,Poland,7000000.0
+Lucas Robertone,UD Almería,26,midfield,Argentina,7000000.0
+Jeffrey Schlupp,Crystal Palace,30,midfield,Ghana,7000000.0
+Walace,Udinese Calcio,28,midfield,Brazil,7000000.0
+Juan Miranda,Real Betis Balompié,23,Defender,Spain,7000000.0
+Jean-Philippe Mateta,Crystal Palace,25,Attack,France,7000000.0
+Martín Satriano,FC Empoli,22,Attack,Uruguay,7000000.0
+Luca Pellegrini,SS Lazio,24,Defender,Italy,7000000.0
+Bobby De Cordova-Reid,Fulham FC,30,midfield,Jamaica,7000000.0
+Ivan Perisic,Tottenham Hotspur,34,midfield,Croatia,7000000.0
+Davide Zappacosta,Atalanta BC,31,Defender,Italy,7000000.0
+Japhet Tanganga,Tottenham Hotspur,24,Defender,England,7000000.0
+Abner,Real Betis Balompié,23,Defender,Brazil,7000000.0
+Leo Östigard,SSC Napoli,23,Defender,Norway,7000000.0
+Dion Beljo,FC Augsburg,21,Attack,Croatia,6500000.0
+Jan Thielmann,1.FC Köln,21,Attack,Germany,6500000.0
+Rubén Vargas,FC Augsburg,24,Attack,Switzerland,6500000.0
+Luca Netz,Borussia Mönchengladbach,20,Defender,Germany,6500000.0
+Arne Maier,FC Augsburg,24,midfield,Germany,6500000.0
+Robert Skov,TSG 1899 Hoffenheim,27,midfield,Denmark,6500000.0
+Nikola Moro,Bologna FC 1909,25,midfield,Croatia,6500000.0
+Simone Bastoni,Spezia Calcio,26,midfield,Italy,6500000.0
+Wataru Endo,VfB Stuttgart,30,midfield,Japan,6500000.0
+Nemanja Maksimovic,Getafe CF,28,midfield,Serbia,6000000.0
+Vini Souza,RCD Espanyol Barcelona,24,midfield,Brazil,6000000.0
+Álvaro Rodríguez,Real Madrid,18,Attack,Uruguay,6000000.0
+Raúl Jiménez,Wolverhampton Wanderers,32,Attack,Mexico,6000000.0
+Adrien Tamèze,Hellas Verona,29,midfield,Cameroon,6000000.0
+Kerem Demirbay,Bayer 04 Leverkusen,29,midfield,Germany,6000000.0
+Linton Maina,1.FC Köln,24,Attack,Germany,6000000.0
+Amos Pieper,SV Werder Bremen,25,Defender,Germany,6000000.0
+Nadiem Amiri,Bayer 04 Leverkusen,26,midfield,Germany,6000000.0
+Mitchell Weiser,SV Werder Bremen,29,Defender,Germany,6000000.0
+Mats Hummels,Borussia Dortmund,34,Defender,Germany,6000000.0
+Omar Marmoush,VfL Wolfsburg,24,Attack,Egypt,6000000.0
+Yannick Gerhardt,VfL Wolfsburg,29,midfield,Germany,6000000.0
+Marlon,AC Monza,27,Defender,Brazil,6000000.0
+Giulian Biancone,Nottingham Forest,23,Defender,France,6000000.0
+Toma Basic,SS Lazio,26,midfield,Croatia,6000000.0
+Ander Barrenetxea,Real Sociedad,21,Attack,Spain,6000000.0
+Roberto Pereyra,Udinese Calcio,32,midfield,Argentina,6000000.0
+Álvaro García,Rayo Vallecano,30,Attack,Spain,6000000.0
+Largie Ramazani,UD Almería,22,Attack,Belgium,6000000.0
+Lázaro,UD Almería,21,Attack,Brazil,6000000.0
+Mikel Vesga,Athletic Bilbao,30,midfield,Spain,6000000.0
+Rafael Tolói,Atalanta BC,32,Defender,Italy,6000000.0
+Jamal Lewis,Newcastle United,25,Defender,Northern Ireland,6000000.0
+Dani Parejo,Villarreal CF,34,midfield,Spain,6000000.0
+Emil Audero,UC Sampdoria,26,Goalkeeper,Italy,6000000.0
+Samu Castillejo,Valencia CF,28,Attack,Spain,6000000.0
+Hugo Bueno,Wolverhampton Wanderers,20,Defender,Spain,6000000.0
+Stefan Savic,Atlético de Madrid,32,Defender,Montenegro,6000000.0
+Willian José,Real Betis Balompié,31,Attack,Brazil,6000000.0
+Ante Budimir,CA Osasuna,31,Attack,Croatia,6000000.0
+Mohamed Elneny,Arsenal FC,30,midfield,Egypt,6000000.0
+Nacho Fernández,Real Madrid,33,Defender,Spain,6000000.0
+Facundo Pellistri,Manchester United,21,Attack,Uruguay,6000000.0
+Danny Ward,Leicester City,30,Goalkeeper,Wales,6000000.0
+Hans Hateboer,Atalanta BC,29,Defender,Netherlands,6000000.0
+Ante Rebic,AC Milan,29,Attack,Croatia,6000000.0
+Ayoze Pérez,Real Betis Balompié,29,Attack,Spain,6000000.0
+Henrikh Mkhitaryan,Inter Milan,34,midfield,Armenia,6000000.0
+Aihen Muñoz,Real Sociedad,25,Defender,Spain,6000000.0
+Divock Origi,AC Milan,28,Attack,Belgium,6000000.0
+Jordan Zemura,AFC Bournemouth,23,Defender,Zimbabwe,6000000.0
+Renato Tapia,Celta de Vigo,27,midfield,Peru,6000000.0
+Sam Johnstone,Crystal Palace,30,Goalkeeper,England,6000000.0
+Mouctar Diakhaby,Valencia CF,26,Defender,Guinea,6000000.0
+Toti,Wolverhampton Wanderers,24,Defender,Portugal,6000000.0
+Matteo Lovato,US Salernitana 1919,23,Defender,Italy,6000000.0
+Dany Mota,AC Monza,25,Attack,Portugal,6000000.0
+Jon Pacheco,Real Sociedad,22,Defender,Spain,6000000.0
+Unai Núñez,Celta de Vigo,26,Defender,Spain,6000000.0
+Eldor Shomurodov,Spezia Calcio,27,Attack,Uzbekistan,6000000.0
+Rodrigo,Leeds United,32,Attack,Spain,6000000.0
+Suso,Sevilla FC,29,Attack,Spain,6000000.0
+Lucas Moura,Tottenham Hotspur,30,Attack,Brazil,6000000.0
+Carlos Vinícius,Fulham FC,28,Attack,Brazil,6000000.0
+Iago Aspas,Celta de Vigo,35,Attack,Spain,6000000.0
+Ryan Fraser,Newcastle United,29,Attack,Scotland,6000000.0
+Joan González,US Lecce,21,midfield,Spain,6000000.0
+Joselu,RCD Espanyol Barcelona,33,Attack,Spain,6000000.0
+Brian Oliván,RCD Espanyol Barcelona,29,Defender,Spain,6000000.0
+Nico Melamed,RCD Espanyol Barcelona,22,Attack,Spain,6000000.0
+Mads Roerslev,Brentford FC,24,Defender,Denmark,6000000.0
+Luís Maximiano,SS Lazio,24,Goalkeeper,Portugal,6000000.0
+Isak Hien,Hellas Verona,24,Defender,Sweden,6000000.0
+Manuel Lanzini,West Ham United,30,midfield,Argentina,6000000.0
+Rubén García,CA Osasuna,29,Attack,Spain,6000000.0
+Alessandro Zanoli,UC Sampdoria,22,Defender,Italy,6000000.0
+Milos Veljkovic,SV Werder Bremen,27,Defender,Serbia,5500000.0
+Iago,FC Augsburg,26,Defender,Brazil,5500000.0
+Reece Oxford,FC Augsburg,24,Defender,England,5500000.0
+Julian Chabot,1.FC Köln,25,Defender,Germany,5500000.0
+Edimilson Fernandes,1.FSV Mainz 05,27,midfield,Switzerland,5500000.0
+Chidera Ejuke,Hertha BSC,25,Attack,Nigeria,5500000.0
+Frederik Rönnow,1.FC Union Berlin,30,Goalkeeper,Denmark,5500000.0
+Stanley Nsoki,TSG 1899 Hoffenheim,24,Defender,France,5500000.0
+Morten Thorsby,1.FC Union Berlin,27,midfield,Norway,5500000.0
+Giulio Maggiore,US Salernitana 1919,25,midfield,Italy,5500000.0
+Niklas Stark,SV Werder Bremen,28,Defender,Germany,5500000.0
+Rogério,US Sassuolo,25,Defender,Brazil,5500000.0
+Marcus Ingvartsen,1.FSV Mainz 05,27,Attack,Denmark,5500000.0
+Daniel Iversen,Leicester City,25,Goalkeeper,Denmark,5000000.0
+Matteo Cancellieri,SS Lazio,21,Attack,Italy,5000000.0
+Emil Holm,Spezia Calcio,23,Defender,Sweden,5000000.0
+Óscar Valentín,Rayo Vallecano,28,midfield,Spain,5000000.0
+Jordan Ayew,Crystal Palace,31,Attack,Ghana,5000000.0
+Sam Surridge,Nottingham Forest,24,Attack,England,5000000.0
+Matteo Gabbia,AC Milan,23,Defender,Italy,5000000.0
+César Azpilicueta,Chelsea FC,33,Defender,Spain,5000000.0
+Valentín Carboni,Inter Milan,18,midfield,Argentina,5000000.0
+Sam Greenwood,Leeds United,21,midfield,England,5000000.0
+Monchu,Real Valladolid CF,23,midfield,Spain,5000000.0
+Will Hughes,Crystal Palace,28,midfield,England,5000000.0
+Raoul Bellanova,Inter Milan,23,Defender,Italy,5000000.0
+Gonzalo Plata,Real Valladolid CF,22,Attack,Ecuador,5000000.0
+Gastón Álvarez,Getafe CF,23,Defender,Uruguay,5000000.0
+Patric,SS Lazio,30,Defender,Spain,5000000.0
+Jonjo Shelvey,Nottingham Forest,31,midfield,England,5000000.0
+Eric Maxim Choupo-Moting,Bayern Munich,34,Attack,Cameroon,5000000.0
+Florian Kainz,1.FC Köln,30,Attack,Austria,5000000.0
+András Schäfer,1.FC Union Berlin,24,midfield,Hungary,5000000.0
+Jessic Ngankam,Hertha BSC,22,Attack,Germany,5000000.0
+Marco Richter,Hertha BSC,25,Attack,Germany,5000000.0
+Yann Sommer,Bayern Munich,34,Goalkeeper,Switzerland,5000000.0
+Nathan Ngoumou,Borussia Mönchengladbach,23,Attack,France,5000000.0
+Lucas Höler,SC Freiburg,28,Attack,Germany,5000000.0
+Kevin Paredes,VfL Wolfsburg,20,midfield,United States,5000000.0
+Robin Knoche,1.FC Union Berlin,31,Defender,Germany,5000000.0
+Thomas Meunier,Borussia Dortmund,31,Defender,Belgium,5000000.0
+Denis Huseinbasic,1.FC Köln,21,midfield,Germany,5000000.0
+Angelo Stiller,TSG 1899 Hoffenheim,22,midfield,Germany,5000000.0
+Jens Stage,SV Werder Bremen,26,midfield,Denmark,5000000.0
+Robin Zentner,1.FSV Mainz 05,28,Goalkeeper,Germany,5000000.0
+Omar Richards,Nottingham Forest,25,Defender,England,5000000.0
+Péter Gulácsi,RB Leipzig,33,Goalkeeper,Hungary,5000000.0
+Paul Jaeckel,1.FC Union Berlin,24,Defender,Germany,5000000.0
+Nelson Weiper,1.FSV Mainz 05,18,Attack,Germany,5000000.0
+Stephan El Shaarawy,AS Roma,30,Attack,Italy,5000000.0
+Sepp van den Berg,FC Schalke 04,21,Defender,Netherlands,5000000.0
+Elseid Hysaj,SS Lazio,29,Defender,Albania,5000000.0
+Axel Witsel,Atlético de Madrid,34,midfield,Belgium,5000000.0
+Jorge Cuenca,Villarreal CF,23,Defender,Spain,5000000.0
+Álvaro Odriozola,Real Madrid,27,Defender,Spain,5000000.0
+Marco Silvestri,Udinese Calcio,32,Goalkeeper,Italy,5000000.0
+Eden Hazard,Real Madrid,32,Attack,Belgium,5000000.0
+Nacho Vidal,CA Osasuna,28,Defender,Spain,5000000.0
+Felix Afena-Gyan,US Cremonese,20,Attack,Ghana,5000000.0
+Pablo Barrios,Atlético de Madrid,20,midfield,Spain,5000000.0
+Mislav Orsic,Southampton FC,30,Attack,Croatia,5000000.0
+Patrick Ciurria,AC Monza,28,Attack,Italy,5000000.0
+Yangel Herrera,Girona FC,25,midfield,Venezuela,5000000.0
+Oriol Romeu,Girona FC,31,midfield,Spain,5000000.0
+Cyriel Dessers,US Cremonese,28,Attack,Nigeria,5000000.0
+Pablo Marí,AC Monza,29,Defender,Spain,5000000.0
+Marko Arnautovic,Bologna FC 1909,34,Attack,Austria,5000000.0
+Julen Agirrezabala,Athletic Bilbao,22,Goalkeeper,Spain,5000000.0
+Lassana Coulibaly,US Salernitana 1919,27,midfield,Mali,5000000.0
+Martin Erlic,US Sassuolo,25,Defender,Croatia,5000000.0
+Lorenzo Colombo,US Lecce,21,Attack,Italy,5000000.0
+Marcos Alonso,FC Barcelona,32,Defender,Spain,5000000.0
+David Zima,Torino FC,22,Defender,Czech Republic,5000000.0
+Aitor Ruibal,Real Betis Balompié,27,Defender,Spain,5000000.0
+Youssouf Sabaly,Real Betis Balompié,30,Defender,Senegal,5000000.0
+Wladimiro Falcone,US Lecce,28,Goalkeeper,Italy,5000000.0
+Boubacar Traoré,Wolverhampton Wanderers,21,midfield,Mali,5000000.0
+Germán Pezzella,Real Betis Balompié,32,Defender,Argentina,5000000.0
+Cenk Özkacar,Valencia CF,22,Defender,Turkey,5000000.0
+Josip Brekalo,ACF Fiorentina,25,Attack,Croatia,5000000.0
+Valentino Lazaro,Torino FC,27,Defender,Austria,5000000.0
+Samú Costa,UD Almería,22,midfield,Portugal,5000000.0
+Carles Pérez,Celta de Vigo,25,Attack,Spain,5000000.0
+Andriy Lunin,Real Madrid,24,Goalkeeper,Ukraine,5000000.0
+Matt Doherty,Atlético de Madrid,31,Defender,Ireland,5000000.0
+Calvin Ramsay,Liverpool FC,19,Defender,Scotland,5000000.0
+Sergio Busquets,FC Barcelona,34,midfield,Spain,5000000.0
+Sergi Roberto,FC Barcelona,31,Defender,Spain,5000000.0
+Jordi Alba,FC Barcelona,34,Defender,Spain,5000000.0
+Idrissa Gueye,Everton FC,33,midfield,Senegal,5000000.0
+Domingos Duarte,Getafe CF,28,Defender,Portugal,5000000.0
+Luis Muriel,Atalanta BC,32,Attack,Colombia,5000000.0
+Cristiano Biraghi,ACF Fiorentina,30,Defender,Italy,5000000.0
+Rui Patrício,AS Roma,35,Goalkeeper,Portugal,5000000.0
+Adrià Pedrosa,RCD Espanyol Barcelona,25,Defender,Spain,5000000.0
+Martin Braithwaite,RCD Espanyol Barcelona,32,Attack,Denmark,5000000.0
+Djené,Getafe CF,31,Defender,Togo,5000000.0
+Denis Suárez,RCD Espanyol Barcelona,29,midfield,Spain,5000000.0
+Pasquale Mazzocchi,US Salernitana 1919,27,Defender,Italy,4800000.0
+Paxten Aaronson,Eintracht Frankfurt,19,midfield,United States,4500000.0
+Stuart Armstrong,Southampton FC,31,midfield,Scotland,4500000.0
+Waldemar Anton,VfB Stuttgart,26,Defender,Germany,4500000.0
+Romano Schmid,SV Werder Bremen,23,midfield,Austria,4500000.0
+Pierluigi Gollini,SSC Napoli,28,Goalkeeper,Italy,4500000.0
+Suat Serdar,Hertha BSC,26,midfield,Germany,4500000.0
+Jeremy Toljan,US Sassuolo,28,Defender,Germany,4500000.0
+Enzo Ebosse,Udinese Calcio,24,Defender,Cameroon,4500000.0
+Gianluca Gaetano,SSC Napoli,23,midfield,Italy,4500000.0
+Jamaal Lascelles,Newcastle United,29,Defender,England,4500000.0
+Matías Vecino,SS Lazio,31,midfield,Uruguay,4500000.0
+Bartlomiej Dragowski,Spezia Calcio,25,Goalkeeper,Poland,4500000.0
+Junior Messias,AC Milan,32,Attack,Brazil,4500000.0
+Youssef Maleh,US Lecce,24,midfield,Morocco,4500000.0
+Ruan Tressoldi,US Sassuolo,24,Defender,Brazil,4500000.0
+Kike Pérez,Real Valladolid CF,26,midfield,Spain,4500000.0
+Martin Valjent,RCD Mallorca,27,Defender,Slovakia,4500000.0
+Oliver Abildgaard,Hellas Verona,27,midfield,Denmark,4500000.0
+Marin Pongracic,US Lecce,25,Defender,Croatia,4000000.0
+Ramón Terrats,Villarreal CF,22,midfield,Spain,4000000.0
+Iñaki Peña,FC Barcelona,24,Goalkeeper,Spain,4000000.0
+Thomas Henry,Hellas Verona,28,Attack,France,4000000.0
+Samuel Umtiti,US Lecce,29,Defender,France,4000000.0
+Valentin Gendrey,US Lecce,23,Defender,France,4000000.0
+Manu Trigueros,Villarreal CF,31,midfield,Spain,4000000.0
+Diego Coppola,Hellas Verona,19,Defender,Italy,4000000.0
+Rémi Oudin,US Lecce,26,Attack,France,4000000.0
+Lorenzo Montipò,Hellas Verona,27,Goalkeeper,Italy,4000000.0
+Oliver Christensen,Hertha BSC,24,Goalkeeper,Denmark,4000000.0
+Yannik Keitel,SC Freiburg,23,midfield,Germany,4000000.0
+Noah Weißhaupt,SC Freiburg,21,Attack,Germany,4000000.0
+Marvin Friedrich,Borussia Mönchengladbach,27,Defender,Germany,4000000.0
+Paulo Otávio,VfL Wolfsburg,28,Defender,Brazil,4000000.0
+Patrick Osterhage,VfL Bochum,23,midfield,Germany,4000000.0
+Atakan Karazor,VfB Stuttgart,26,midfield,Germany,4000000.0
+Jae-sung Lee,1.FSV Mainz 05,30,midfield,"Korea, South",4000000.0
+Takuma Asano,VfL Bochum,28,Attack,Japan,4000000.0
+Hrvoje Smolcic,Eintracht Frankfurt,22,Defender,Croatia,4000000.0
+Rodrigo Zalazar,FC Schalke 04,23,midfield,Uruguay,4000000.0
+Oliver Baumann,TSG 1899 Hoffenheim,33,Goalkeeper,Germany,4000000.0
+Chris Führich,VfB Stuttgart,25,Attack,Germany,4000000.0
+Jannik Vestergaard,Leicester City,30,Defender,Denmark,4000000.0
+Lameck Banda,US Lecce,22,Attack,Zambia,4000000.0
+Simone Verdi,Hellas Verona,30,midfield,Italy,4000000.0
+Kieffer Moore,AFC Bournemouth,30,Attack,Wales,4000000.0
+Hugo Duro,Valencia CF,23,Attack,Spain,4000000.0
+Ivan Rakitic,Sevilla FC,35,midfield,Croatia,4000000.0
+Joe Rothwell,AFC Bournemouth,28,midfield,England,4000000.0
+Haris Seferovic,Celta de Vigo,31,Attack,Switzerland,4000000.0
+Stole Dimitrievski,Rayo Vallecano,29,Goalkeeper,North Macedonia,4000000.0
+Andrea Colpani,AC Monza,24,midfield,Italy,4000000.0
+Alfred Duncan,ACF Fiorentina,30,midfield,Ghana,4000000.0
+Florian Lejeune,Rayo Vallecano,32,Defender,France,4000000.0
+Karim Rekik,Sevilla FC,28,Defender,Netherlands,4000000.0
+Nemanja Matic,AS Roma,34,midfield,Serbia,4000000.0
+José Ángel Carmona,Elche CF,21,Defender,Spain,4000000.0
+Mërgim Vojvoda,Torino FC,28,Defender,Kosovo,4000000.0
+Mattia Perin,Juventus FC,30,Goalkeeper,Italy,4000000.0
+Rúben Vinagre,Everton FC,24,Defender,Portugal,4000000.0
+Federico Bonazzoli,US Salernitana 1919,26,Attack,Italy,4000000.0
+Antonio Raíllo,RCD Mallorca,31,Defender,Spain,4000000.0
+Nemanja Gudelj,Sevilla FC,31,midfield,Serbia,4000000.0
+Omar Alderete,Getafe CF,26,Defender,Paraguay,4000000.0
+Michel Aebischer,Bologna FC 1909,26,midfield,Switzerland,4000000.0
+Shola Shoretire,Manchester United,19,Attack,England,4000000.0
+Andreaw Gravillon,Torino FC,25,Defender,Guadeloupe,4000000.0
+Edin Dzeko,Inter Milan,37,Attack,Bosnia-Herzegovina,4000000.0
+Matteo Darmian,Inter Milan,33,Defender,Italy,4000000.0
+Alessio Zerbin,SSC Napoli,24,Attack,Italy,4000000.0
+Isaac Success,Udinese Calcio,27,Attack,Nigeria,4000000.0
+Koni De Winter,FC Empoli,21,Defender,Belgium,4000000.0
+Kike Barja,CA Osasuna,26,Attack,Spain,4000000.0
+Keylor Navas,Nottingham Forest,36,Goalkeeper,Costa Rica,4000000.0
+Marko Dmitrović,Sevilla FC,31,Goalkeeper,Serbia,4000000.0
+Roberto Gagliardini,Inter Milan,29,midfield,Italy,4000000.0
+Francesco Acerbi,Inter Milan,35,Defender,Italy,4000000.0
+Iván Balliu,Rayo Vallecano,31,Defender,Albania,4000000.0
+Olivier Giroud,AC Milan,36,Attack,France,4000000.0
+Gonzalo Melero,UD Almería,29,midfield,Spain,4000000.0
+Álex Fernández,Cádiz CF,30,midfield,Spain,4000000.0
+Luis Milla,Getafe CF,28,midfield,Spain,4000000.0
+Manu Morlanes,RCD Mallorca,24,midfield,Spain,4000000.0
+Juan Cuadrado,Juventus FC,35,midfield,Colombia,4000000.0
+Tino Kadewere,RCD Mallorca,27,Attack,Zimbabwe,4000000.0
+Edu Expósito,RCD Espanyol Barcelona,26,midfield,Spain,4000000.0
+Nathaniel Phillips,Liverpool FC,26,Defender,England,4000000.0
+David Silva,Real Sociedad,37,midfield,Spain,4000000.0
+Pierre-Emerick Aubameyang,Chelsea FC,34,Attack,Gabon,4000000.0
+David Okereke,US Cremonese,25,Attack,Nigeria,4000000.0
+Théo Bongonda,Cádiz CF,27,Attack,DR Congo,4000000.0
+Emirhan Ilkhan,UC Sampdoria,19,midfield,Turkey,4000000.0
+Matteo Ruggeri,Atalanta BC,20,Defender,Italy,4000000.0
+Yan Couto,Girona FC,21,Defender,Brazil,4000000.0
+Ilaix Moriba,Valencia CF,20,midfield,Guinea,4000000.0
+Nemanja Radonjic,Torino FC,27,Attack,Serbia,4000000.0
+Ellis Simms,Everton FC,22,Attack,England,4000000.0
+Matías Soulé,Juventus FC,20,Attack,Argentina,4000000.0
+Mert Müldür,US Sassuolo,24,Defender,Turkey,4000000.0
+Tonny Vilhena,US Salernitana 1919,28,midfield,Netherlands,3800000.0
+Charles Pickel,US Cremonese,26,midfield,Switzerland,3800000.0
+Kelvin Amian,Spezia Calcio,25,Defender,France,3800000.0
+Georgios Kyriakopoulos,Bologna FC 1909,27,Defender,Greece,3800000.0
+Johan Vásquez,US Cremonese,24,Defender,Mexico,3600000.0
+Harry Toffolo,Nottingham Forest,27,Defender,England,3500000.0
+Ardian Ismajli,FC Empoli,26,Defender,Albania,3500000.0
+Juan Jesus,SSC Napoli,32,Defender,Brazil,3500000.0
+Paul Akouokou,Real Betis Balompié,25,midfield,Cote d'Ivoire,3500000.0
+Ola Solbakken,AS Roma,24,Attack,Norway,3500000.0
+Erik Botheim,US Salernitana 1919,23,Attack,Norway,3500000.0
+Eray Cömert,Valencia CF,25,Defender,Switzerland,3500000.0
+Unai López,Rayo Vallecano,27,midfield,Spain,3500000.0
+Srdjan Babic,UD Almería,27,Defender,Serbia,3500000.0
+Alfonso Espino,Cádiz CF,31,Defender,Uruguay,3500000.0
+Thomas Strakosha,Brentford FC,28,Goalkeeper,Albania,3500000.0
+Filippo Bandinelli,FC Empoli,28,midfield,Italy,3500000.0
+Roberto Piccoli,FC Empoli,22,Attack,Italy,3500000.0
+Munir El Haddadi,Getafe CF,27,Attack,Morocco,3500000.0
+Dimitrios Nikolaou,Spezia Calcio,24,Defender,Greece,3500000.0
+Szymon Zurkowski,Spezia Calcio,25,midfield,Poland,3500000.0
+Juan Iglesias,Getafe CF,24,Defender,Spain,3500000.0
+Festy Ebosele,Udinese Calcio,20,Defender,Ireland,3500000.0
+Jacopo Fazzini,FC Empoli,20,midfield,Italy,3500000.0
+Lyanco,Southampton FC,26,Defender,Brazil,3500000.0
+Luca Kilian,1.FC Köln,23,Defender,Germany,3500000.0
+Ivo Grbic,Atlético de Madrid,27,Goalkeeper,Croatia,3500000.0
+Gerard Gumbau,Elche CF,28,midfield,Spain,3500000.0
+José Copete,RCD Mallorca,23,Defender,Spain,3500000.0
+Ronaël Pierre-Gabriel,RCD Espanyol Barcelona,25,Defender,France,3500000.0
+Junior Sambia,US Salernitana 1919,26,Defender,France,3500000.0
+Emanuele Valeri,US Cremonese,24,Defender,Italy,3500000.0
+Florian Thauvin,Udinese Calcio,30,Attack,France,3500000.0
+Soualiho Meïté,US Cremonese,29,midfield,France,3500000.0
+Portu,Getafe CF,31,Attack,Spain,3500000.0
+Koray Günter,UC Sampdoria,28,Defender,Germany,3500000.0
+Yann Karamoh,Torino FC,24,Attack,Cote d'Ivoire,3500000.0
+Lukasz Skorupski,Bologna FC 1909,32,Goalkeeper,Poland,3500000.0
+Simon Kjaer,AC Milan,34,Defender,Denmark,3500000.0
+Ricardo Rodríguez,Torino FC,30,Defender,Switzerland,3500000.0
+Pietro Pellegri,Torino FC,22,Attack,Italy,3500000.0
+Karol Linetty,Torino FC,28,midfield,Poland,3500000.0
+Vanja Milinković-Savić,Torino FC,26,Goalkeeper,Serbia,3500000.0
+Kevin Akpoguma,TSG 1899 Hoffenheim,28,Defender,Nigeria,3500000.0
+Fodé Ballo-Touré,AC Milan,26,Defender,Senegal,3500000.0
+Jack Stephens,Southampton FC,29,Defender,England,3500000.0
+Ola Aina,Torino FC,26,Defender,Nigeria,3500000.0
+Dominik Kohr,1.FSV Mainz 05,29,midfield,Germany,3500000.0
+Lee Buchanan,SV Werder Bremen,22,Defender,England,3500000.0
+Mads Pedersen,FC Augsburg,26,Defender,Denmark,3500000.0
+Márton Dárdai,Hertha BSC,21,Defender,Germany,3500000.0
+Nicolas Cozza,VfL Wolfsburg,24,Defender,France,3500000.0
+Tom Rothe,Borussia Dortmund,18,Defender,Germany,3500000.0
+Marcel Halstenberg,RB Leipzig,31,Defender,Germany,3500000.0
+Woo-yeong Jeong,SC Freiburg,23,Attack,"Korea, South",3500000.0
+Noah Atubolu,SC Freiburg,21,Goalkeeper,Germany,3500000.0
+Tom Bischof,TSG 1899 Hoffenheim,18,midfield,Germany,3500000.0
+Kelvin Yeboah,FC Augsburg,23,Attack,Italy,3500000.0
+Elvis Rexhbecaj,FC Augsburg,25,midfield,Germany,3500000.0
+Marc Oliver Kempf,Hertha BSC,28,Defender,Germany,3500000.0
+Robert Gumny,FC Augsburg,25,Defender,Poland,3500000.0
+Kevin Kampl,RB Leipzig,32,midfield,Slovenia,3500000.0
+Silvan Widmer,1.FSV Mainz 05,30,Defender,Switzerland,3500000.0
+Jonas Hector,1.FC Köln,33,Defender,Germany,3500000.0
+Karim Onisiwo,1.FSV Mainz 05,31,Attack,Austria,3500000.0
+Steffen Tigges,1.FC Köln,24,Attack,Germany,3500000.0
+Maximilian Bauer,FC Augsburg,23,Defender,Germany,3500000.0
+Emil Bohinen,US Salernitana 1919,24,midfield,Norway,3400000.0
+Ondrej Duda,Hellas Verona,28,midfield,Slovakia,3400000.0
+Salvatore Esposito,Spezia Calcio,22,midfield,Italy,3300000.0
+Oier Zarraga,Athletic Bilbao,24,midfield,Spain,3000000.0
+Étienne Capoue,Villarreal CF,34,midfield,France,3000000.0
+Daniel Maldini,Spezia Calcio,21,midfield,Italy,3000000.0
+Koffi Djidji,Torino FC,30,Defender,Cote d'Ivoire,3000000.0
+Francis Coquelin,Villarreal CF,32,midfield,France,3000000.0
+Selim Amallah,Real Valladolid CF,26,midfield,Morocco,3000000.0
+José Luis Morales,Villarreal CF,35,Attack,Spain,3000000.0
+Carlos Fernández,Real Sociedad,27,Attack,Spain,3000000.0
+Sebastian Walukiewicz,FC Empoli,23,Defender,Poland,3000000.0
+Darwin Machís,Real Valladolid CF,30,Attack,Venezuela,3000000.0
+Iñigo Lekue,Athletic Bilbao,30,Defender,Spain,3000000.0
+Diego Rico,Real Sociedad,30,Defender,Spain,3000000.0
+Alberto Moreno,Villarreal CF,30,Defender,Spain,3000000.0
+Kevin Agudelo,Spezia Calcio,24,midfield,Colombia,3000000.0
+Fabio Depaoli,Hellas Verona,26,Defender,Italy,3000000.0
+Davide Faraoni,Hellas Verona,31,Defender,Italy,3000000.0
+Pablo Torre,FC Barcelona,20,midfield,Spain,3000000.0
+Shandon Baptiste,Brentford FC,25,midfield,Grenada,3000000.0
+Daniele Verde,Spezia Calcio,27,Attack,Italy,3000000.0
+Pawel Dawidowicz,Hellas Verona,28,Defender,Poland,3000000.0
+Emil Krafth,Newcastle United,28,Defender,Sweden,3000000.0
+Giangiacomo Magnani,Hellas Verona,27,Defender,Italy,3000000.0
+Michaël Cuisance,UC Sampdoria,23,midfield,France,3000000.0
+Álex Collado,Elche CF,24,Attack,Spain,3000000.0
+Mattia De Sciglio,Juventus FC,30,Defender,Italy,3000000.0
+Alex Sandro,Juventus FC,32,Defender,Brazil,3000000.0
+Liam Cooper,Leeds United,31,Defender,Scotland,3000000.0
+Álvaro Aguado,Real Valladolid CF,27,midfield,Spain,3000000.0
+Luca de la Torre,Celta de Vigo,25,midfield,United States,3000000.0
+Jesús Navas,Sevilla FC,37,Defender,Spain,3000000.0
+Paulo Gazzaniga,Girona FC,31,Goalkeeper,Argentina,3000000.0
+Diego Demme,SSC Napoli,31,midfield,Germany,3000000.0
+Edinson Cavani,Valencia CF,36,Attack,Uruguay,3000000.0
+Martin Hongla,Real Valladolid CF,25,midfield,Cameroon,3000000.0
+Keidi Bare,RCD Espanyol Barcelona,25,midfield,Albania,3000000.0
+Sebastiano Luperto,FC Empoli,26,Defender,Italy,3000000.0
+Iddrisu Baba,RCD Mallorca,27,midfield,Ghana,3000000.0
+Robert Navarro,Real Sociedad,21,midfield,Spain,3000000.0
+Luka Romero,SS Lazio,18,Attack,Argentina,3000000.0
+Iñigo Ruiz de Galarreta,RCD Mallorca,29,midfield,Spain,3000000.0
+Mario Gila,SS Lazio,22,Defender,Spain,3000000.0
+Jesús Vázquez,Valencia CF,20,Defender,Spain,3000000.0
+Adama Soumaoro,Bologna FC 1909,31,Defender,France,3000000.0
+Przemyslaw Wisniewski,Spezia Calcio,24,Defender,Poland,3000000.0
+Álex Sola,Real Sociedad,24,Defender,Spain,3000000.0
+Williot Swedberg,Celta de Vigo,19,midfield,Sweden,3000000.0
+Franco Cervi,Celta de Vigo,29,Attack,Argentina,3000000.0
+Óscar Plano,Real Valladolid CF,32,Attack,Spain,3000000.0
+Édgar Badía,Elche CF,31,Goalkeeper,Spain,3000000.0
+Papu Gómez,Sevilla FC,35,Attack,Argentina,3000000.0
+Kaio Jorge,Juventus FC,21,Attack,Brazil,3000000.0
+Hugo Mallo,Celta de Vigo,32,Defender,Spain,3000000.0
+Fernando,Sevilla FC,35,midfield,Brazil,3000000.0
+Cristian Volpato,AS Roma,19,midfield,Italy,3000000.0
+Joaquín Sosa,Bologna FC 1909,21,Defender,Uruguay,3000000.0
+Aitor Fernández,CA Osasuna,32,Goalkeeper,Spain,3000000.0
+Óscar Gil,RCD Espanyol Barcelona,25,Defender,Spain,3000000.0
+Jon Morcillo,Athletic Bilbao,24,Attack,Spain,3000000.0
+Willian,Fulham FC,34,Attack,Brazil,3000000.0
+Joaquín Fernández,Real Valladolid CF,27,Defender,Spain,3000000.0
+Noah Mbamba,Bayer 04 Leverkusen,18,midfield,Belgium,3000000.0
+Timo Baumgartl,1.FC Union Berlin,27,Defender,Germany,3000000.0
+Daley Blind,Bayern Munich,33,Defender,Netherlands,3000000.0
+Jérôme Roussillon,1.FC Union Berlin,30,Defender,Guadeloupe,3000000.0
+Ivan Ordets,VfL Bochum,30,Defender,Ukraine,3000000.0
+Jamie Leweling,1.FC Union Berlin,22,Attack,Germany,3000000.0
+Nathanaël Mbuku,FC Augsburg,21,Attack,France,3000000.0
+Jiri Pavlenka,SV Werder Bremen,31,Goalkeeper,Czech Republic,3000000.0
+Ilia Gruev,SV Werder Bremen,23,midfield,Bulgaria,3000000.0
+Jonjoe Kenny,Hertha BSC,26,Defender,England,3000000.0
+Paul Wanner,Bayern Munich,17,midfield,Germany,3000000.0
+Omar Mascarell,Elche CF,30,midfield,Spain,3000000.0
+Munas Dabbur,TSG 1899 Hoffenheim,31,Attack,Israel,3000000.0
+Benno Schmitz,1.FC Köln,28,Defender,Germany,3000000.0
+Hannes Wolf,Borussia Mönchengladbach,24,Attack,Austria,3000000.0
+Jacob Bruun Larsen,TSG 1899 Hoffenheim,24,Attack,Denmark,3000000.0
+Philipp Max,Eintracht Frankfurt,29,Defender,Germany,3000000.0
+Keven Schlotterbeck,VfL Bochum,26,Defender,Germany,3000000.0
+Kenneth Schmidt,SC Freiburg,21,Defender,Germany,3000000.0
+Marius Bülter,FC Schalke 04,30,Attack,Germany,3000000.0
+Wilfried Kanga,Hertha BSC,25,Attack,Cote d'Ivoire,3000000.0
+Stefan Lainer,Borussia Mönchengladbach,30,Defender,Austria,3000000.0
+Kevin Stöger,VfL Bochum,29,midfield,Austria,3000000.0
+Bartol Franjic,VfL Wolfsburg,23,midfield,Croatia,3000000.0
+Jeffrey Gouweleeuw,FC Augsburg,31,Defender,Netherlands,3000000.0
+Pavel Kaderabek,TSG 1899 Hoffenheim,31,Defender,Czech Republic,3000000.0
+Juanmi Latasa,Getafe CF,22,Attack,Spain,3000000.0
+Cédric Soares,Fulham FC,31,Defender,Portugal,3000000.0
+Pere Milla,Elche CF,30,Attack,Spain,3000000.0
+Dennis Hadzikadunic,RCD Mallorca,24,Defender,Bosnia-Herzegovina,3000000.0
+Aïssa Mandi,Villarreal CF,31,Defender,Algeria,3000000.0
+Johan Mojica,Villarreal CF,30,Defender,Colombia,3000000.0
+Hugo Lloris,Tottenham Hotspur,36,Goalkeeper,France,3000000.0
+Arkadiusz Reca,Spezia Calcio,28,Defender,Poland,3000000.0
+Javi Sánchez,Real Valladolid CF,26,Defender,Spain,3000000.0
+Óscar Trejo,Rayo Vallecano,35,midfield,Argentina,3000000.0
+Pathé Ciss,Rayo Vallecano,29,midfield,Senegal,3000000.0
+Alessio Cragno,AC Monza,28,Goalkeeper,Italy,3000000.0
+Jairo Riedewald,Crystal Palace,26,midfield,Netherlands,3000000.0
+Luca Waldschmidt,VfL Wolfsburg,27,Attack,Germany,3000000.0
+Kaiky,UD Almería,19,Defender,Brazil,3000000.0
+Rodrigo Ely,UD Almería,29,Defender,Brazil,3000000.0
+Marek Rodak,Fulham FC,26,Goalkeeper,Slovakia,3000000.0
+Layvin Kurzawa,Fulham FC,30,Defender,France,3000000.0
+Alejandro Pozo,UD Almería,24,Defender,Spain,3000000.0
+Emanuel Aiwu,US Cremonese,22,Defender,Austria,3000000.0
+Iván Martín,Girona FC,24,midfield,Spain,3000000.0
+Lautaro Blanco,Elche CF,24,Defender,Argentina,2800000.0
+Leonardo Bittencourt,SV Werder Bremen,29,midfield,Germany,2800000.0
+Philipp Förster,VfL Bochum,28,midfield,Germany,2800000.0
+Philipp Hofmann,VfL Bochum,30,Attack,Germany,2800000.0
+Kevin Bonifazi,Bologna FC 1909,27,Defender,Italy,2800000.0
+Gonzalo Villar,Getafe CF,25,midfield,Spain,2800000.0
+Abdou Harroui,US Sassuolo,25,midfield,Morocco,2700000.0
+Demba Seck,Torino FC,22,Attack,Senegal,2700000.0
+Bruno Amione,UC Sampdoria,21,Defender,Argentina,2700000.0
+Paul Seguin,1.FC Union Berlin,28,midfield,Germany,2500000.0
+Daley Sinkgraven,Bayer 04 Leverkusen,27,Defender,Netherlands,2500000.0
+Lukas Kübler,SC Freiburg,30,Defender,Germany,2500000.0
+Eduardo Quaresma,TSG 1899 Hoffenheim,21,Defender,Portugal,2500000.0
+Davie Selke,1.FC Köln,28,Attack,Germany,2500000.0
+Faride Alidou,Eintracht Frankfurt,21,Attack,Germany,2500000.0
+Lucas Alario,Eintracht Frankfurt,30,Attack,Argentina,2500000.0
+Finn Ole Becker,TSG 1899 Hoffenheim,23,midfield,Germany,2500000.0
+Alexander Hack,1.FSV Mainz 05,29,Defender,Germany,2500000.0
+Finn Dahmen,1.FSV Mainz 05,25,Goalkeeper,Germany,2500000.0
+Irvin Cardona,FC Augsburg,25,Attack,France,2500000.0
+Christopher Lenz,Eintracht Frankfurt,28,Defender,Germany,2500000.0
+Gerrit Holtmann,VfL Bochum,28,Attack,Philippines,2500000.0
+Almamy Touré,Eintracht Frankfurt,27,Defender,Mali,2500000.0
+Fredrik Jensen,FC Augsburg,25,midfield,Finland,2500000.0
+Christoph Kramer,Borussia Mönchengladbach,32,midfield,Germany,2500000.0
+Janis Blaswich,RB Leipzig,32,Goalkeeper,Germany,2500000.0
+Dan-Axel Zagadou,VfB Stuttgart,24,Defender,France,2500000.0
+Nicolas Höfler,SC Freiburg,33,midfield,Germany,2500000.0
+Niklas Schmidt,SV Werder Bremen,25,midfield,Germany,2500000.0
+Lukas Hradecky,Bayer 04 Leverkusen,33,Goalkeeper,Finland,2500000.0
+Tanguy Coulibaly,VfB Stuttgart,22,Attack,France,2500000.0
+Kevin Vogt,TSG 1899 Hoffenheim,31,Defender,Germany,2500000.0
+Raimonds Krollis,Spezia Calcio,21,Attack,Latvia,2500000.0
+Gabriel Paulista,Valencia CF,32,Defender,Brazil,2500000.0
+Rubén Peña,CA Osasuna,31,Defender,Spain,2500000.0
+Álvaro Fernández,RCD Espanyol Barcelona,25,Goalkeeper,Spain,2500000.0
+Fernando Pacheco,RCD Espanyol Barcelona,31,Goalkeeper,Spain,2500000.0
+Giuseppe Pezzella,US Lecce,25,Defender,Italy,2500000.0
+Óscar Mingueza,Celta de Vigo,24,Defender,Spain,2500000.0
+Ander Herrera,Athletic Bilbao,33,midfield,Spain,2500000.0
+Pontus Jansson,Brentford FC,32,Defender,Sweden,2500000.0
+Juan Cruz,CA Osasuna,30,Defender,Spain,2500000.0
+Javi Hernández,Girona FC,25,Defender,Spain,2500000.0
+Unai García,CA Osasuna,31,Defender,Spain,2500000.0
+Kiko Femenía,Villarreal CF,32,Defender,Spain,2500000.0
+Raúl Albiol,Villarreal CF,37,Defender,Spain,2500000.0
+Ander Guevara,Real Sociedad,25,midfield,Spain,2500000.0
+Jamie Vardy,Leicester City,36,Attack,England,2500000.0
+Mariano Díaz,Real Madrid,29,Attack,Dominican Republic,2500000.0
+Leandro Cabrera,RCD Espanyol Barcelona,32,Defender,Uruguay,2500000.0
+José Gragera,RCD Espanyol Barcelona,23,midfield,Spain,2500000.0
+José Carlos Lazo,RCD Espanyol Barcelona,27,Attack,Spain,2500000.0
+Ludwig Augustinsson,RCD Mallorca,29,Defender,Sweden,2500000.0
+Neto,AFC Bournemouth,33,Goalkeeper,Brazil,2500000.0
+Antonio Sánchez,RCD Mallorca,26,midfield,Spain,2500000.0
+Javier Manquillo,Newcastle United,29,Defender,Spain,2500000.0
+Víctor Chust,Cádiz CF,23,Defender,Spain,2500000.0
+Fali,Cádiz CF,29,Defender,Spain,2500000.0
+Jaime Seoane,Getafe CF,26,midfield,Spain,2500000.0
+Adrián Embarba,UD Almería,31,Attack,Spain,2500000.0
+Lucas Olaza,Real Valladolid CF,28,Defender,Uruguay,2500000.0
+Marcos André,Valencia CF,26,Attack,Brazil,2500000.0
+Dimitri Foulquier,Valencia CF,30,Defender,Guadeloupe,2500000.0
+Toni Lato,Valencia CF,25,Defender,Spain,2500000.0
+Roque Mesa,Real Valladolid CF,34,midfield,Spain,2500000.0
+Joseba Zaldua,Cádiz CF,31,Defender,Spain,2500000.0
+Willy Boly,Nottingham Forest,32,Defender,Cote d'Ivoire,2500000.0
+Toni Villa,Girona FC,28,Attack,Spain,2500000.0
+Alexis Blin,US Lecce,26,midfield,France,2500000.0
+Juan Cabal,Hellas Verona,22,Defender,Colombia,2500000.0
+José Luis Palomino,Atalanta BC,33,Defender,Argentina,2500000.0
+Ignacio Pussetto,UC Sampdoria,27,Attack,Argentina,2500000.0
+Luca Ranieri,ACF Fiorentina,24,Defender,Italy,2500000.0
+Liam Henderson,FC Empoli,27,midfield,Scotland,2500000.0
+Abdelhamid Sabiri,UC Sampdoria,26,midfield,Morocco,2500000.0
+Luca D'Andrea,US Sassuolo,18,Attack,Italy,2500000.0
+Roberto Soriano,Bologna FC 1909,32,midfield,Italy,2500000.0
+Mehdi Léris,UC Sampdoria,25,midfield,Algeria,2500000.0
+Antonino Gallo,US Lecce,23,Defender,Italy,2500000.0
+Emil Konradsen Ceide,US Sassuolo,21,Attack,Norway,2500000.0
+Giacomo Bonaventura,ACF Fiorentina,33,midfield,Italy,2500000.0
+Nampalys Mendy,Leicester City,31,midfield,Senegal,2500000.0
+Assan Ceesay,US Lecce,29,Attack,The Gambia,2500000.0
+Tyronne Ebuehi,FC Empoli,27,Defender,Nigeria,2500000.0
+Tiemoué Bakayoko,AC Milan,28,midfield,France,2500000.0
+Darko Lazovic,Hellas Verona,32,midfield,Serbia,2500000.0
+Ezequiel Ponce,Elche CF,26,Attack,Argentina,2500000.0
+Tete Morente,Elche CF,26,Attack,Spain,2500000.0
+Raúl Guti,Elche CF,26,midfield,Spain,2500000.0
+Raúl García,Athletic Bilbao,36,Attack,Spain,2500000.0
+William Troost-Ekong,US Salernitana 1919,29,Defender,Nigeria,2500000.0
+Adam Masina,Udinese Calcio,29,Defender,Morocco,2500000.0
+Dylan Bronn,US Salernitana 1919,28,Defender,Tunisia,2500000.0
+Kingsley Ehizibue,Udinese Calcio,28,Defender,Netherlands,2500000.0
+Choco Lozano,Cádiz CF,30,Attack,Honduras,2500000.0
+Samuele Birindelli,AC Monza,23,Defender,Italy,2300000.0
+Pablo Galdames,US Cremonese,26,midfield,Chile,2300000.0
+Petar Stojanovic,FC Empoli,27,Defender,Slovenia,2300000.0
+Christopher Antwi-Adjei,VfL Bochum,29,Attack,Ghana,2200000.0
+Maxim Leitsch,1.FSV Mainz 05,25,Defender,Germany,2000000.0
+Sebastian Rode,Eintracht Frankfurt,32,midfield,Germany,2000000.0
+Merlin Röhl,SC Freiburg,20,midfield,Germany,2000000.0
+Nathaniel Clyne,Crystal Palace,32,Defender,England,2000000.0
+Manuel De Luca,UC Sampdoria,24,Attack,Italy,2000000.0
+Fabrizio Angileri,Getafe CF,29,Defender,Argentina,2000000.0
+Arnau Tenas,FC Barcelona,22,Goalkeeper,Spain,2000000.0
+Jesús Vallejo,Real Madrid,26,Defender,Spain,2000000.0
+Nadir Zortea,US Sassuolo,24,Defender,Italy,2000000.0
+Hans Nicolussi Caviglia,US Salernitana 1919,23,midfield,Italy,2000000.0
+Jonny Evans,Leicester City,35,Defender,Northern Ireland,2000000.0
+Zlatan Ibrahimović,AC Milan,41,Attack,Sweden,2000000.0
+Gorka Guruzeta,Athletic Bilbao,26,Attack,Spain,2000000.0
+Jordan Amavi,Getafe CF,29,Defender,France,2000000.0
+Yuri Berchiche,Athletic Bilbao,33,Defender,Spain,2000000.0
+Joe Hodge,Wolverhampton Wanderers,20,midfield,Ireland,2000000.0
+Dani García,Athletic Bilbao,33,midfield,Spain,2000000.0
+Gian Marco Ferrari,US Sassuolo,31,Defender,Italy,2000000.0
+Rubén Alcaraz,Cádiz CF,32,midfield,Spain,2000000.0
+Luka Milivojevic,Crystal Palace,32,midfield,Serbia,2000000.0
+Cheikhou Kouyaté,Nottingham Forest,33,midfield,Senegal,2000000.0
+Gonzalo Escalante,Cádiz CF,30,midfield,Argentina,2000000.0
+Felipe,Nottingham Forest,34,Defender,Brazil,2000000.0
+Fede San Emeterio,Cádiz CF,26,midfield,Spain,2000000.0
+Sergi Guardiola,Cádiz CF,32,Attack,Spain,2000000.0
+Brian Ocampo,Cádiz CF,24,Attack,Uruguay,2000000.0
+Liberato Cacace,FC Empoli,22,Defender,New Zealand,2000000.0
+Rubén Sobrino,Cádiz CF,31,Attack,Spain,2000000.0
+Roger Martí,Cádiz CF,32,Attack,Spain,2000000.0
+Caden Clark,RB Leipzig,20,midfield,United States,2000000.0
+Stefan Bell,1.FSV Mainz 05,31,Defender,Germany,2000000.0
+Aymen Barkok,1.FSV Mainz 05,25,midfield,Morocco,2000000.0
+Cyril Ngonge,Hellas Verona,23,Attack,Belgium,2000000.0
+Leonardo Sernicola,US Cremonese,25,Defender,Italy,2000000.0
+Giacomo Quagliata,US Cremonese,23,Defender,Italy,2000000.0
+Fernando Calero,RCD Espanyol Barcelona,27,Defender,Spain,2000000.0
+Sergi Gómez,RCD Espanyol Barcelona,31,Defender,Spain,2000000.0
+Neeskens Kebano,Fulham FC,31,Attack,DR Congo,2000000.0
+Tom Cairney,Fulham FC,32,midfield,Scotland,2000000.0
+Pietro Terracciano,ACF Fiorentina,33,Goalkeeper,Italy,2000000.0
+David López,Girona FC,33,Defender,Spain,2000000.0
+Riccardo Saponara,ACF Fiorentina,31,midfield,Italy,2000000.0
+Michael Frey,FC Schalke 04,28,Attack,Switzerland,2000000.0
+Shane Duffy,Fulham FC,31,Defender,Ireland,2000000.0
+Aleksa Terzic,ACF Fiorentina,23,Defender,Serbia,2000000.0
+Jack Stacey,AFC Bournemouth,27,Defender,England,2000000.0
+Giovanni González,RCD Mallorca,28,Defender,Uruguay,2000000.0
+Lorenzo Venuti,ACF Fiorentina,28,Defender,Italy,2000000.0
+Amath Ndiaye,RCD Mallorca,26,Attack,Senegal,2000000.0
+Radamel Falcao,Rayo Vallecano,37,Attack,Colombia,2000000.0
+Tommaso Augello,UC Sampdoria,28,Defender,Italy,2000000.0
+Chumi,UD Almería,24,Defender,Spain,2000000.0
+Reinier,Girona FC,21,midfield,Brazil,2000000.0
+Manolo Gabbiadini,UC Sampdoria,31,Attack,Italy,2000000.0
+Houboulang Mendes,UD Almería,25,Defender,Guinea-Bissau,2000000.0
+Daniele Rugani,Juventus FC,28,Defender,Italy,2000000.0
+Iván Villar,Celta de Vigo,25,Goalkeeper,Spain,2000000.0
+Teden Mengi,Manchester United,21,Defender,England,2000000.0
+Kristoffer Askildsen,US Lecce,22,midfield,Norway,2000000.0
+Arnau Puigmal,UD Almería,22,midfield,Spain,2000000.0
+Agustín Marchesín,Celta de Vigo,35,Goalkeeper,Argentina,2000000.0
+Ronaldo Vieira,Torino FC,24,midfield,England,2000000.0
+Jawad El Yamiq,Real Valladolid CF,31,Defender,Morocco,2000000.0
+Sam Lammers,UC Sampdoria,26,Attack,Netherlands,2000000.0
+Matija Sarkic,Wolverhampton Wanderers,25,Goalkeeper,Montenegro,2000000.0
+Sergio León,Real Valladolid CF,34,Attack,Spain,2000000.0
+Daniel Bentley,Wolverhampton Wanderers,29,Goalkeeper,England,2000000.0
+Craig Dawson,Wolverhampton Wanderers,33,Defender,England,2000000.0
+Emmanuel Gyasi,Spezia Calcio,29,Attack,Ghana,2000000.0
+Thiago Silva,Chelsea FC,38,Defender,Brazil,2000000.0
+Rhys Williams,Liverpool FC,22,Defender,England,2000000.0
+Gonçalo Paciência,Celta de Vigo,28,Attack,Portugal,2000000.0
+James Bree,Southampton FC,25,Defender,England,2000000.0
+Filip Uremovic,Hertha BSC,26,Defender,Croatia,2000000.0
+Oscar Fraulo,Borussia Mönchengladbach,19,midfield,Denmark,2000000.0
+Bouna Sarr,Bayern Munich,31,Defender,Senegal,2000000.0
+Thomas Delaney,TSG 1899 Hoffenheim,31,midfield,Denmark,2000000.0
+Dimitrios Limnios,1.FC Köln,25,Attack,Greece,2000000.0
+Kevin Behrens,1.FC Union Berlin,32,Attack,Germany,2000000.0
+Juan José Perea,VfB Stuttgart,23,Attack,Colombia,2000000.0
+Asier Illarramendi,Real Sociedad,33,midfield,Spain,2000000.0
+Maximilian Philipp,SV Werder Bremen,29,Attack,Germany,2000000.0
+John Anthony Brooks,TSG 1899 Hoffenheim,30,Defender,United States,2000000.0
+Éder Balanta,FC Schalke 04,30,midfield,Colombia,2000000.0
+Timothy Fosu-Mensah,Bayer 04 Leverkusen,25,Defender,Netherlands,2000000.0
+Josuha Guilavogui,VfL Wolfsburg,32,midfield,France,2000000.0
+Kilian Fischer,VfL Wolfsburg,22,Defender,Germany,2000000.0
+Maximilian Mittelstädt,Hertha BSC,26,Defender,Germany,2000000.0
+Darko Brasanac,CA Osasuna,31,midfield,Serbia,2000000.0
+Thomas Ouwejan,FC Schalke 04,26,Defender,Netherlands,2000000.0
+Ben Mee,Brentford FC,33,Defender,England,2000000.0
+Chiquinho,Wolverhampton Wanderers,23,Attack,Portugal,2000000.0
+Cristhian Stuani,Girona FC,36,Attack,Uruguay,2000000.0
+Mattia Caldara,Spezia Calcio,29,Defender,Italy,2000000.0
+Fernando Martínez,UD Almería,33,Goalkeeper,Spain,2000000.0
+Diego Valencia,US Salernitana 1919,23,Attack,Chile,2000000.0
+Pol Lirola,Elche CF,25,Defender,Spain,2000000.0
+Mohamed Fares,SS Lazio,27,midfield,Algeria,2000000.0
+Alberto Grassi,FC Empoli,28,midfield,Italy,2000000.0
+Nicolás Fernández Mercau,Elche CF,23,Defender,Argentina,2000000.0
+Diego Costa,Wolverhampton Wanderers,34,Attack,Spain,2000000.0
+Stefan Mitrovic,Getafe CF,33,Defender,Serbia,2000000.0
+Emanuel Vignato,FC Empoli,22,Attack,Italy,2000000.0
+Saman Ghoddos,Brentford FC,29,midfield,Iran,2000000.0
+Mark Travers,AFC Bournemouth,24,Goalkeeper,Ireland,2000000.0
+Alessandro Florenzi,AC Milan,32,Defender,Italy,2000000.0
+Beñat Turrientes,Real Sociedad,21,midfield,Spain,2000000.0
+Nicolas Haas,FC Empoli,27,midfield,Switzerland,2000000.0
+Grigoris Kastanos,US Salernitana 1919,25,midfield,Cyprus,1800000.0
+Steve Cook,Nottingham Forest,32,Defender,England,1800000.0
+Alexander Callens,Girona FC,31,Defender,Peru,1800000.0
+Kristoffer Klaesson,Leeds United,22,Goalkeeper,Norway,1800000.0
+Óscar de Marcos,Athletic Bilbao,34,Defender,Spain,1800000.0
+Lisandro Magallán,Elche CF,29,Defender,Argentina,1800000.0
+Adolfo Gaich,Hellas Verona,24,Attack,Argentina,1800000.0
+Ebrima Darboe,AS Roma,22,midfield,The Gambia,1800000.0
+Filip Djuricic,UC Sampdoria,31,midfield,Serbia,1800000.0
+Randy Nteka,Elche CF,25,midfield,France,1800000.0
+Federico Di Francesco,US Lecce,29,Attack,Italy,1800000.0
+Filippo Ranocchia,AC Monza,22,midfield,Italy,1800000.0
+Luke Ayling,Leeds United,31,Defender,England,1800000.0
+Kevin Lasagna,Hellas Verona,30,Attack,Italy,1800000.0
+Léo Baptistão,UD Almería,30,Attack,Brazil,1800000.0
+André Ayew,Nottingham Forest,33,Attack,Ghana,1800000.0
+Luka Lochoshvili,US Cremonese,25,Defender,Georgia,1800000.0
+Kike García,CA Osasuna,33,Attack,Spain,1800000.0
+Ander Capa,Athletic Bilbao,31,Defender,Spain,1800000.0
+Danny da Costa,1.FSV Mainz 05,29,Defender,Germany,1800000.0
+Danilo Soares,VfL Bochum,31,Defender,Brazil,1800000.0
+Cédric Brunner,FC Schalke 04,29,Defender,Switzerland,1800000.0
+Pierre Kunde,VfL Bochum,27,midfield,Cameroon,1700000.0
+Luca Pfeiffer,VfB Stuttgart,26,Attack,Germany,1700000.0
+Marko Pjaca,FC Empoli,28,Attack,Croatia,1700000.0
+Pietro Ceccaroni,US Lecce,27,Defender,Italy,1600000.0
+Bartosz Bereszynski,SSC Napoli,30,Defender,Poland,1600000.0
+Ryan Fredericks,AFC Bournemouth,30,Defender,England,1500000.0
+Mattia Valoti,AC Monza,29,midfield,Italy,1500000.0
+José Machín,AC Monza,26,midfield,Equatorial Guinea,1500000.0
+Daniel Samek,US Lecce,19,midfield,Czech Republic,1500000.0
+Francesco Caputo,FC Empoli,35,Attack,Italy,1500000.0
+Phil Jones,Manchester United,31,Defender,England,1500000.0
+Ángel Algobia,Getafe CF,24,midfield,Spain,1500000.0
+Valery Fernández,Girona FC,23,Attack,Spain,1500000.0
+Luis Pérez,Real Valladolid CF,28,Defender,Spain,1500000.0
+Sergio Escudero,Real Valladolid CF,33,Defender,Spain,1500000.0
+Leonardo Buta,Udinese Calcio,21,Defender,Portugal,1500000.0
+Francisco Portillo,UD Almería,33,Attack,Spain,1500000.0
+Marco Benassi,US Cremonese,28,midfield,Italy,1500000.0
+Guillermo Ochoa,US Salernitana 1919,37,Goalkeeper,Mexico,1500000.0
+Jean-Daniel Akpa Akpro,FC Empoli,30,midfield,Cote d'Ivoire,1500000.0
+Domen Crnigoj,US Salernitana 1919,27,midfield,Slovenia,1500000.0
+Grégoire Defrel,US Sassuolo,32,Attack,France,1500000.0
+Juanpe,Girona FC,32,Defender,Spain,1500000.0
+Norbert Gyomber,US Salernitana 1919,30,Defender,Slovakia,1500000.0
+Luca Caldirola,AC Monza,32,Defender,Italy,1500000.0
+Yayah Kallon,Hellas Verona,21,Attack,Sierra Leone,1500000.0
+Robin Olsen,Aston Villa,33,Goalkeeper,Sweden,1500000.0
+João Moutinho,Spezia Calcio,25,Defender,Portugal,1500000.0
+Zanka,Brentford FC,33,Defender,Denmark,1500000.0
+James Milner,Liverpool FC,37,midfield,England,1500000.0
+Ibrahim Sulemana,Hellas Verona,20,midfield,Ghana,1500000.0
+Iza Carcelén,Cádiz CF,30,Defender,Spain,1500000.0
+Viktor Kovalenko,Spezia Calcio,27,midfield,Ukraine,1500000.0
+Nicola Sansone,Bologna FC 1909,31,Attack,Italy,1500000.0
+Chris Ramos,Cádiz CF,26,Attack,Spain,1500000.0
+Fraser Forster,Tottenham Hotspur,35,Goalkeeper,England,1500000.0
+Bernardo Espinosa,Girona FC,33,Defender,Colombia,1500000.0
+Filip Jörgensen,Villarreal CF,21,Goalkeeper,Denmark,1500000.0
+Salvi Sánchez,Rayo Vallecano,32,Attack,Spain,1500000.0
+Álex Centelles,UD Almería,23,Defender,Spain,1500000.0
+Abdul Mumin,Rayo Vallecano,25,Defender,Ghana,1500000.0
+Filippo Terracciano,Hellas Verona,20,midfield,Italy,1500000.0
+Dani Gómez,RCD Espanyol Barcelona,24,Attack,Spain,1500000.0
+Dominik Greif,RCD Mallorca,26,Goalkeeper,Slovakia,1500000.0
+Antonio Candreva,US Salernitana 1919,36,midfield,Italy,1500000.0
+Martin Dúbravka,Newcastle United,34,Goalkeeper,Slovakia,1500000.0
+Matija Nastasic,RCD Mallorca,30,Defender,Serbia,1500000.0
+Ajdin Hrustic,Hellas Verona,26,midfield,Australia,1500000.0
+Federico Ceccherini,Hellas Verona,31,Defender,Italy,1500000.0
+Kenedy,Real Valladolid CF,27,Attack,Brazil,1500000.0
+Aleix Vidal,RCD Espanyol Barcelona,33,Attack,Spain,1500000.0
+Mile Svilar,AS Roma,23,Goalkeeper,Serbia,1500000.0
+Augusto Solari,Celta de Vigo,31,Attack,Argentina,1500000.0
+Jack Butland,Manchester United,30,Goalkeeper,England,1500000.0
+Enzo Roco,Elche CF,30,Defender,Chile,1500000.0
+Pablo Ibáñez,CA Osasuna,24,midfield,Spain,1500000.0
+Diego González,Elche CF,28,Defender,Spain,1500000.0
+Leonardo Bonucci,Juventus FC,36,Defender,Italy,1500000.0
+Andros Townsend,Everton FC,31,Attack,England,1500000.0
+Carlos Clerc,Elche CF,31,Defender,Spain,1500000.0
+Marco Sportiello,Atalanta BC,31,Goalkeeper,Italy,1500000.0
+Pedro,SS Lazio,35,Attack,Spain,1500000.0
+Joaquín,Real Betis Balompié,41,Attack,Spain,1500000.0
+Andrés Guardado,Real Betis Balompié,36,midfield,Mexico,1500000.0
+Danilo D'Ambrosio,Inter Milan,34,Defender,Italy,1500000.0
+Stuart Dallas,Leeds United,32,Defender,Northern Ireland,1500000.0
+Dani Martín,Real Betis Balompié,24,Goalkeeper,Spain,1500000.0
+Marcus Bettinelli,Chelsea FC,31,Goalkeeper,England,1500000.0
+Pep Chavarría,Rayo Vallecano,25,Defender,Spain,1500000.0
+Benjamin Tahirovic,AS Roma,20,midfield,Bosnia-Herzegovina,1500000.0
+Mehmet Aydin,FC Schalke 04,21,Defender,Turkey,1500000.0
+Ivan Sunjic,Hertha BSC,26,midfield,Croatia,1500000.0
+Jean-Paul Boëtius,Hertha BSC,29,midfield,Netherlands,1500000.0
+Gil Dias,VfB Stuttgart,26,Attack,Portugal,1500000.0
+David Colina,FC Augsburg,22,Defender,Croatia,1500000.0
+Marcel Lotka,Borussia Dortmund,22,Goalkeeper,Poland,1500000.0
+Pascal Stenzel,VfB Stuttgart,27,Defender,Germany,1500000.0
+Stevan Jovetic,Hertha BSC,33,Attack,Montenegro,1500000.0
+Florian Müller,VfB Stuttgart,25,Goalkeeper,Germany,1500000.0
+Felix Passlack,Borussia Dortmund,25,Defender,Germany,1500000.0
+Nils Petersen,SC Freiburg,34,Attack,Germany,1500000.0
+Fabian Bredlow,VfB Stuttgart,28,Goalkeeper,Germany,1500000.0
+Agustín Rogel,Hertha BSC,25,Defender,Uruguay,1500000.0
+Milos Pantovic,1.FC Union Berlin,26,midfield,Serbia,1500000.0
+Manuel Gulde,SC Freiburg,32,Defender,Germany,1500000.0
+Nikolas Nartey,VfB Stuttgart,23,midfield,Denmark,1500000.0
+Timo Horn,1.FC Köln,30,Goalkeeper,Germany,1500000.0
+Karim Bellarabi,Bayer 04 Leverkusen,33,Attack,Germany,1500000.0
+Anthony Jung,SV Werder Bremen,31,Defender,Germany,1500000.0
+Tim Lemperle,1.FC Köln,21,Attack,Germany,1500000.0
+Delano Burgzorg,1.FSV Mainz 05,24,Attack,Netherlands,1500000.0
+Mark Uth,1.FC Köln,31,Attack,Germany,1500000.0
+Nikola Soldo,1.FC Köln,22,Defender,Croatia,1500000.0
+Patrick Herrmann,Borussia Mönchengladbach,32,Attack,Germany,1500000.0
+Patrick Pentz,Bayer 04 Leverkusen,26,Goalkeeper,Austria,1500000.0
+Yvandro Borges Sanches,Borussia Mönchengladbach,19,Attack,Luxembourg,1500000.0
+Justin Che,TSG 1899 Hoffenheim,19,Defender,United States,1500000.0
+Umut Tohumcu,TSG 1899 Hoffenheim,18,midfield,Germany,1500000.0
+Lilian Egloff,VfB Stuttgart,20,midfield,Germany,1500000.0
+Robert Wagner,SC Freiburg,19,midfield,Germany,1400000.0
+Kenan Karaman,FC Schalke 04,29,Attack,Turkey,1400000.0
+Tolgay Arslan,Udinese Calcio,32,midfield,Germany,1400000.0
+Paolo Ghiglione,US Cremonese,26,Defender,Italy,1300000.0
+Mattia Destro,FC Empoli,32,Attack,Italy,1300000.0
+Mehdi Bourabia,Spezia Calcio,31,midfield,Morocco,1300000.0
+Jorge Meré,Cádiz CF,26,Defender,Spain,1200000.0
+Henning Matriciani,FC Schalke 04,23,Defender,Germany,1200000.0
+Levin Öztunali,1.FC Union Berlin,27,midfield,Germany,1200000.0
+Mathias Olesen,1.FC Köln,22,midfield,Luxembourg,1200000.0
+Dominique Heintz,VfL Bochum,29,Defender,Germany,1200000.0
+Kristian Pedersen,1.FC Köln,28,Defender,Denmark,1200000.0
+André Hahn,FC Augsburg,32,Attack,Germany,1200000.0
+Leo Greiml,FC Schalke 04,21,Defender,Austria,1200000.0
+Niklas Tauer,FC Schalke 04,22,midfield,Germany,1200000.0
+Jordi Osei-Tutu,VfL Bochum,24,Defender,England,1200000.0
+Andrey Lunev,Bayer 04 Leverkusen,31,Goalkeeper,Russia,1200000.0
+Tobias Mohr,FC Schalke 04,27,midfield,Germany,1200000.0
+Tim Skarke,FC Schalke 04,26,Attack,Germany,1200000.0
+Deyovaisio Zeefuik,Hellas Verona,25,Defender,Netherlands,1200000.0
+Alex McCarthy,Southampton FC,33,Goalkeeper,England,1200000.0
+Joel Ward,Crystal Palace,33,Defender,England,1200000.0
+Konstantinos Stafylidis,VfL Bochum,29,Defender,Greece,1200000.0
+Santiago Arzamendia,Cádiz CF,25,Defender,Paraguay,1200000.0
+Iñigo Eguaras,UD Almería,31,midfield,Spain,1200000.0
+Frank Tsadjout,US Cremonese,23,Attack,Italy,1200000.0
+Abdón Prats,RCD Mallorca,30,Attack,Spain,1200000.0
+Aaron Cresswell,West Ham United,33,Defender,England,1200000.0
+Adam Smith,AFC Bournemouth,32,Defender,England,1200000.0
+César de la Hoz,UD Almería,31,midfield,Spain,1200000.0
+Jaime Mata,Getafe CF,34,Attack,Spain,1200000.0
+Adam Forshaw,Leeds United,31,midfield,England,1200000.0
+Nathan Ferguson,Crystal Palace,22,Defender,England,1200000.0
+Helibelton Palacios,Elche CF,30,Defender,Colombia,1200000.0
+Iván Alejo,Cádiz CF,28,Attack,Spain,1200000.0
+Loris Karius,Newcastle United,30,Goalkeeper,Germany,1200000.0
+Martín Montoya,Real Betis Balompié,32,Defender,Spain,1200000.0
+Víctor Ruiz,Real Betis Balompié,34,Defender,Spain,1200000.0
+Dani Rodríguez,RCD Mallorca,35,midfield,Spain,1200000.0
+Jaume Costa,RCD Mallorca,35,Defender,Spain,1200000.0
+Simon Zoller,VfL Bochum,32,Attack,Germany,1100000.0
+Abdoulaye Kamara,Borussia Dortmund,18,midfield,France,1000000.0
+Marlon Mustapha,1.FSV Mainz 05,22,Attack,Austria,1000000.0
+Lennart Grill,1.FC Union Berlin,24,Goalkeeper,Germany,1000000.0
+Dzenan Pejcinovic,VfL Wolfsburg,18,Attack,Germany,1000000.0
+Andrés Martín,Rayo Vallecano,23,Attack,Spain,1000000.0
+Nico Schulz,Borussia Dortmund,30,Defender,Germany,1000000.0
+Arijon Ibrahimovic,Bayern Munich,17,midfield,Germany,1000000.0
+Alexander Meyer,Borussia Dortmund,32,Goalkeeper,Germany,1000000.0
+Sebastian Rudy,TSG 1899 Hoffenheim,33,midfield,Germany,1000000.0
+Niko Gießelmann,1.FC Union Berlin,31,Defender,Germany,1000000.0
+Saidy Janko,VfL Bochum,27,Defender,The Gambia,1000000.0
+Moritz Broschinski,VfL Bochum,22,Attack,Germany,1000000.0
+Muhammed Damar,TSG 1899 Hoffenheim,19,midfield,Germany,1000000.0
+Mateu Morey Bauzà,Borussia Dortmund,23,Defender,Spain,1000000.0
+Eren Dinkci,SV Werder Bremen,21,Attack,Germany,1000000.0
+Marvin Plattenhardt,Hertha BSC,31,Defender,Germany,1000000.0
+Soumaïla Coulibaly,Borussia Dortmund,19,Defender,France,1000000.0
+Lars Stindl,Borussia Mönchengladbach,34,midfield,Germany,1000000.0
+Genki Haraguchi,VfB Stuttgart,32,midfield,Japan,1000000.0
+Tomas Koubek,FC Augsburg,30,Goalkeeper,Czech Republic,1000000.0
+Jere Uronen,FC Schalke 04,28,Defender,Finland,1000000.0
+Felix Agu,SV Werder Bremen,23,Defender,Germany,1000000.0
+Sargis Adamyan,1.FC Köln,30,Attack,Armenia,1000000.0
+Fabio Chiarodia,SV Werder Bremen,18,Defender,Italy,1000000.0
+Florian Dietz,1.FC Köln,24,Attack,Germany,1000000.0
+Manuel Riemann,VfL Bochum,34,Goalkeeper,Germany,1000000.0
+Renato Veiga,FC Augsburg,19,midfield,Portugal,1000000.0
+Kingsley Schindler,1.FC Köln,29,midfield,Ghana,1000000.0
+Marko Milovanovic,UD Almería,19,Attack,Serbia,1000000.0
+Kevin Vázquez,Celta de Vigo,30,Defender,Spain,1000000.0
+Paul Dummett,Newcastle United,31,Defender,Wales,1000000.0
+Charalampos Lykogiannis,Bologna FC 1909,29,Defender,Greece,1000000.0
+Miguel Rodríguez,Celta de Vigo,20,Attack,Spain,1000000.0
+Franco Carboni,AC Monza,20,Defender,Argentina,1000000.0
+Tim Ream,Fulham FC,35,Defender,United States,1000000.0
+Luke Plange,Crystal Palace,20,Attack,England,1000000.0
+Jesé,UC Sampdoria,30,Attack,Spain,1000000.0
+Matty Longstaff,Newcastle United,23,midfield,England,1000000.0
+Harrison Ashby,Newcastle United,21,Defender,Scotland,1000000.0
+Lucas Rosa,Real Valladolid CF,23,Defender,Brazil,1000000.0
+Sergio Asenjo,Real Valladolid CF,33,Goalkeeper,Spain,1000000.0
+Seamus Coleman,Everton FC,34,Defender,Ireland,1000000.0
+Jayden Braaf,Hellas Verona,20,Attack,Netherlands,1000000.0
+Jordi Masip,Real Valladolid CF,34,Goalkeeper,Spain,1000000.0
+José Pozo,Rayo Vallecano,27,midfield,Spain,1000000.0
+Damián Suárez,Getafe CF,35,Defender,Uruguay,1000000.0
+Zidane Iqbal,Manchester United,20,midfield,Iraq,1000000.0
+Luis Hernández,Cádiz CF,34,Defender,Spain,1000000.0
+Milan Djuric,Hellas Verona,33,Attack,Bosnia-Herzegovina,1000000.0
+Vicente Guaita,Crystal Palace,36,Goalkeeper,Spain,1000000.0
+Alex Ferrari,US Cremonese,28,Defender,Italy,1000000.0
+Riccardo Marchizza,US Sassuolo,25,Defender,Italy,1000000.0
+Matt Ritchie,Newcastle United,33,midfield,Scotland,1000000.0
+Joel Robles,Leeds United,33,Goalkeeper,Spain,1000000.0
+Fidel,Elche CF,33,Attack,Spain,1000000.0
+Theo Walcott,Southampton FC,34,Attack,England,1000000.0
+Andrea Consigli,US Sassuolo,36,Goalkeeper,Italy,1000000.0
+John Donald,Elche CF,22,Defender,Spain,1000000.0
+Álvaro Negredo,Cádiz CF,37,Attack,Spain,1000000.0
+Borja García,Girona FC,32,midfield,Spain,1000000.0
+Claudio Bravo,Real Betis Balompié,40,Goalkeeper,Chile,1000000.0
+Dalbert,Inter Milan,29,Defender,Brazil,1000000.0
+Aitor Paredes,Athletic Bilbao,23,Defender,Spain,1000000.0
+Jaume Doménech,Valencia CF,32,Goalkeeper,Spain,1000000.0
+Pablo Marín,Real Sociedad,19,midfield,Spain,1000000.0
+Josan,Elche CF,33,Attack,Spain,1000000.0
+Nicola Murru,UC Sampdoria,28,Defender,Italy,1000000.0
+Ángel Rodríguez,RCD Mallorca,36,Attack,Spain,1000000.0
+Cristhian Mosquera,Valencia CF,19,Defender,Spain,1000000.0
+Luigi Sepe,US Salernitana 1919,32,Goalkeeper,Italy,1000000.0
+Jeison Murillo,UC Sampdoria,31,Defender,Colombia,1000000.0
+Pedro Bigas,Elche CF,33,Defender,Spain,1000000.0
+Aridane Hernández,CA Osasuna,34,Defender,Spain,1000000.0
+Bram Nuytinck,UC Sampdoria,33,Defender,Netherlands,1000000.0
+Fabio Quagliarella,UC Sampdoria,40,Attack,Italy,3233.0
+Daniele Montevago,UC Sampdoria,20,Attack,Italy,3232.0
+Lorenzo Malagrida,UC Sampdoria,19,midfield,Italy,3224.0
+Gerard Yepes,UC Sampdoria,20,midfield,Spain,3220.0
+Flavio Paoletti,UC Sampdoria,20,midfield,Italy,3219.0
+Tomás Rincón,UC Sampdoria,35,midfield,Venezuela,3218.0
+Andrea Conti,UC Sampdoria,29,Defender,Italy,3216.0
+Marios Oikonomou,UC Sampdoria,30,Defender,Greece,3212.0
+Nicola Ravaglia,UC Sampdoria,34,Goalkeeper,Italy,3207.0
+Martin Turk,UC Sampdoria,19,Goalkeeper,Slovenia,3206.0
+Daniel Ciofani,US Cremonese,37,Attack,Italy,3204.0
+Dennis Politic,US Cremonese,23,Attack,Romania,3199.0
+Cristian Buonaiuto,US Cremonese,30,Attack,Italy,3198.0
+Christian Acella,US Cremonese,20,midfield,Italy,3197.0
+Michele Castagnetti,US Cremonese,33,midfield,Italy,3193.0
+Matteo Bianchetti,US Cremonese,30,Defender,Italy,3187.0
+Vlad Chiriches,US Cremonese,33,Defender,Romania,3186.0
+Dorian Ciezkowski,US Cremonese,22,Goalkeeper,Poland,3181.0
+Gianluca Saro,US Cremonese,23,Goalkeeper,Italy,3180.0
+Mouhamadou Sarr,US Cremonese,26,Goalkeeper,Senegal,3179.0
+Miguel Veloso,Hellas Verona,37,midfield,Portugal,3165.0
+Alessandro Berardi,Hellas Verona,32,Goalkeeper,Italy,3151.0
+Simone Perilli,Hellas Verona,28,Goalkeeper,Italy,3150.0
+Julius Beck,Spezia Calcio,18,midfield,Denmark,3140.0
+Jacopo Sala,Spezia Calcio,31,midfield,Italy,3139.0
+Tio Cipot,Spezia Calcio,20,midfield,Slovenia,3138.0
+Albin Ekdal,Spezia Calcio,33,midfield,Sweden,3135.0
+Salva Ferrer,Spezia Calcio,25,Defender,Spain,3132.0
+Federico Marchetti,Spezia Calcio,40,Goalkeeper,Italy,3123.0
+Petar Zovko,Spezia Calcio,21,Goalkeeper,Bosnia-Herzegovina,3122.0
+Jeroen Zoet,Spezia Calcio,32,Goalkeeper,Netherlands,3121.0
+Joel Voelkerling Persson,US Lecce,20,Attack,Sweden,3119.0
+Medon Berisha,US Lecce,19,midfield,Albania,3112.0
+Thórir Jóhann Helgason,US Lecce,22,midfield,Iceland,3111.0
+Mats Lemmens,US Lecce,21,Defender,Belgium,3104.0
+Tommaso Cassandro,US Lecce,23,Defender,Italy,3103.0
+Alessandro Tuia,US Lecce,33,Defender,Italy,3099.0
+Kastriot Dermaku,US Lecce,31,Defender,Albania,3098.0
+Simone Romagnoli,US Lecce,33,Defender,Italy,3097.0
+Jasper Samooja,US Lecce,19,Goalkeeper,Finland,3092.0
+Marco Bleve,US Lecce,27,Goalkeeper,Italy,3091.0
+Federico Brancolini,US Lecce,21,Goalkeeper,Italy,3090.0
+Antonio Pio Iervolino,US Salernitana 1919,20,midfield,Italy,3082.0
+Federico Fazio,US Salernitana 1919,36,Defender,Argentina,3071.0
+Vincenzo Fiorillo,US Salernitana 1919,33,Goalkeeper,Italy,3064.0
+Duccio Degli Innocenti,FC Empoli,20,midfield,Italy,3047.0
+Lorenzo Tonelli,FC Empoli,33,Defender,Italy,3041.0
+Gabriele Guarino,FC Empoli,19,Defender,Italy,3040.0
+Samir Ujkani,FC Empoli,34,Goalkeeper,Kosovo,3035.0
+Lovro Stubljar,FC Empoli,18,Goalkeeper,Slovenia,3034.0
+Samuele Perisan,FC Empoli,25,Goalkeeper,Italy,3033.0
+Pedro Obiang,US Sassuolo,31,midfield,Equatorial Guinea,3022.0
+Filippo Romagna,US Sassuolo,26,Defender,Italy,3012.0
+Gianluca Pegolo,US Sassuolo,42,Goalkeeper,Italy,3008.0
+Alessandro Russo,US Sassuolo,22,Goalkeeper,Italy,3007.0
+Ilija Nestorovski,Udinese Calcio,33,Attack,North Macedonia,3005.0
+Vivaldo,Udinese Calcio,18,Attack,Portugal,3004.0
+Marvin Zeegelaar,Udinese Calcio,32,Defender,Netherlands,2991.0
+Axel Guessand,Udinese Calcio,18,Defender,France,2987.0
+James Abankwah,Udinese Calcio,19,Defender,Ireland,2986.0
+Edoardo Piana,Udinese Calcio,19,Goalkeeper,Italy,2981.0
+Daniele Padelli,Udinese Calcio,37,Goalkeeper,Italy,2980.0
+Mirko Maric,AC Monza,28,Attack,Croatia,2978.0
+Christian Gytkjaer,AC Monza,33,Attack,Denmark,2977.0
+Marco D'Alessandro,AC Monza,32,Attack,Italy,2973.0
+Samuele Vignato,AC Monza,19,midfield,Italy,2971.0
+Andrea Barberis,AC Monza,29,midfield,Italy,2964.0
+Giulio Donati,AC Monza,33,Defender,Italy,2962.0
+Luca Marrone,AC Monza,33,Defender,Italy,2958.0
+Valentin Antov,AC Monza,22,Defender,Bulgaria,2957.0
+Eugenio Lamanna,AC Monza,33,Goalkeeper,Italy,2953.0
+Alessandro Sorrentino,AC Monza,21,Goalkeeper,Italy,2952.0
+Brian Bayeye,Torino FC,22,midfield,France,2942.0
+Michel Adopo,Torino FC,22,midfield,France,2941.0
+Gvidas Gineitis,Torino FC,19,midfield,Lithuania,2940.0
+Matteo Fiorenza,Torino FC,20,Goalkeeper,Italy,2925.0
+Luca Gemello,Torino FC,22,Goalkeeper,Italy,2924.0
+Etrit Berisha,Torino FC,34,Goalkeeper,Albania,2923.0
+Antonio Raimondo,Bologna FC 1909,19,Attack,Italy,2921.0
+Kingsley Michael,Bologna FC 1909,23,midfield,Nigeria,2914.0
+Niklas Pyyhtiä,Bologna FC 1909,19,midfield,Finland,2913.0
+Kacper Urbanski,Bologna FC 1909,18,midfield,Poland,2909.0
+Gary Medel,Bologna FC 1909,35,midfield,Chile,2908.0
+Lorenzo De Silvestri,Bologna FC 1909,35,Defender,Italy,2905.0
+Wisdom Amey,Bologna FC 1909,17,Defender,Togo,2900.0
+Nicola Bagnolini,Bologna FC 1909,19,Goalkeeper,Italy,2895.0
+Francesco Bardi,Bologna FC 1909,31,Goalkeeper,Italy,2894.0
+Federico Ravaglia,Bologna FC 1909,23,Goalkeeper,Italy,2893.0
+Alessandro Bianco,ACF Fiorentina,20,midfield,Italy,2882.0
+Salvatore Sirigu,ACF Fiorentina,36,Goalkeeper,Italy,2868.0
+Michele Cerofolini,ACF Fiorentina,24,Goalkeeper,Italy,2867.0
+Enzo Barrenechea,Juventus FC,22,midfield,Argentina,2851.0
+Carlo Pinsoglio,Juventus FC,33,Goalkeeper,Italy,2841.0
+Ante Coric,AS Roma,26,midfield,Croatia,2833.0
+William Bianda,AS Roma,23,Defender,France,2819.0
+Pietro Boer,AS Roma,21,Goalkeeper,Italy,2813.0
+Lukas Vorlicky,Atalanta BC,21,Attack,Czech Republic,2806.0
+Simone Muratore,Atalanta BC,25,midfield,Italy,2803.0
+Francesco Rossi,Atalanta BC,32,Goalkeeper,Italy,2788.0
+Antonio Mirante,AC Milan,39,Goalkeeper,Italy,2759.0
+Devis Vásquez,AC Milan,25,Goalkeeper,Colombia,2758.0
+Ciprian Tatarusanu,AC Milan,37,Goalkeeper,Romania,2757.0
+Mattia Zanotti,Inter Milan,20,Defender,Italy,2742.0
+Alessandro Fontanarosa,Inter Milan,20,Defender,Italy,2737.0
+Alex Cordaz,Inter Milan,40,Goalkeeper,Italy,2731.0
+Samir Handanovic,Inter Milan,38,Goalkeeper,Slovenia,2730.0
+Marco Bertini,SS Lazio,20,midfield,Italy,2716.0
+Stefan Radu,SS Lazio,36,Defender,Romania,2711.0
+Marius Adamonis,SS Lazio,26,Goalkeeper,Lithuania,2705.0
+Karim Zedadka,SSC Napoli,23,midfield,Algeria,2694.0
+Davide Marfella,SSC Napoli,23,Goalkeeper,Italy,2679.0
+Hubert Idasiak,SSC Napoli,21,Goalkeeper,Poland,2678.0
+Pape Cheikh,Elche CF,25,midfield,Senegal,2109.0
+Gonzalo Verdú,Elche CF,34,Defender,Spain,2099.0
+Axel Werner,Elche CF,27,Goalkeeper,Argentina,2093.0
+Omar El Hilali,RCD Espanyol Barcelona,19,Defender,Morocco,2078.0
+Rubén Sánchez,RCD Espanyol Barcelona,22,Defender,Spain,2077.0
+Simo Keddari,RCD Espanyol Barcelona,18,Defender,Spain,2072.0
+Joan García,RCD Espanyol Barcelona,22,Goalkeeper,Spain,2067.0
+Iván Sánchez,Real Valladolid CF,30,Attack,Spain,2062.0
+Anuar,Real Valladolid CF,28,midfield,Morocco,2056.0
+Dyego Sousa,UD Almería,33,Attack,Portugal,2040.0
+Diego Fuoli,UD Almería,25,Goalkeeper,Spain,2017.0
+Diego Mariño,UD Almería,33,Goalkeeper,Spain,2016.0
+Youba Diarra,Cádiz CF,25,midfield,Mali,2004.0
+José Mari,Cádiz CF,35,midfield,Spain,2000.0
+Jon Ander Garrido,Cádiz CF,33,midfield,Spain,1999.0
+Raúl Parra,Cádiz CF,23,Defender,Spain,1998.0
+Juan Cala,Cádiz CF,33,Defender,Spain,1993.0
+Momo Mbaye,Cádiz CF,24,Defender,Senegal,1992.0
+David Gil,Cádiz CF,29,Goalkeeper,Spain,1987.0
+Kiko Casilla,Getafe CF,36,Goalkeeper,Spain,1963.0
+Diego Conde,Getafe CF,24,Goalkeeper,Spain,1962.0
+Cristian Rivero,Valencia CF,25,Goalkeeper,Spain,1939.0
+Iago Herrerín,Valencia CF,35,Goalkeeper,Spain,1938.0
+Carlos Domínguez,Celta de Vigo,22,Defender,Spain,1918.0
+Mario Hernández,Rayo Vallecano,24,Defender,Spain,1899.0
+Mario Suárez,Rayo Vallecano,36,Defender,Spain,1895.0
+Esteban Saveljich,Rayo Vallecano,32,Defender,Montenegro,1894.0
+Diego López,Rayo Vallecano,41,Goalkeeper,Spain,1890.0
+Miguel Ángel Morro,Rayo Vallecano,22,Goalkeeper,Spain,1889.0
+Ibrahima Kébé,Girona FC,22,midfield,Mali,1852.0
+Toni Fuidias,Girona FC,22,Goalkeeper,Spain,1841.0
+Juan Carlos,Girona FC,35,Goalkeeper,Spain,1840.0
+Clément Grenier,RCD Mallorca,32,midfield,France,1831.0
+Josep Gayá,RCD Mallorca,22,Defender,Spain,1822.0
+Leo Román,RCD Mallorca,22,Goalkeeper,Spain,1816.0
+Mikel Balenziaga,Athletic Bilbao,35,Defender,Spain,1797.0
+Ander Iru,Athletic Bilbao,24,Goalkeeper,Spain,1791.0
+Diego Moreno,CA Osasuna,22,Defender,Spain,1776.0
+Pepe Reina,Villarreal CF,40,Goalkeeper,Spain,1719.0
+Martín Merquelanz,Real Sociedad,28,Attack,Spain,1712.0
+Andoni Zubiaurre,Real Sociedad,26,Goalkeeper,Spain,1692.0
+Dan Nlundulu,Southampton FC,24,Attack,England,1127.0
+Nathan Tella,Southampton FC,23,Attack,England,1121.0
+Will Smallbone,Southampton FC,23,midfield,Ireland,1114.0
+Willy Caballero,Southampton FC,41,Goalkeeper,Argentina,1097.0
+Tyler Roberts,Leeds United,24,Attack,Wales,1094.0
+Joe Gelhardt,Leeds United,21,Attack,England,1092.0
+Ian Poveda,Leeds United,23,Attack,England,1089.0
+Jamie Shackleton,Leeds United,23,midfield,England,1080.0
+Cody Drameh,Leeds United,21,Defender,England,1074.0
+Leo Fuhr Hjelde,Leeds United,19,Defender,Norway,1070.0
+Charlie Cresswell,Leeds United,20,Defender,England,1068.0
+George Hirst,Leicester City,24,Attack,England,1062.0
+Marc Albrighton,Leicester City,33,midfield,England,1055.0
+Hamza Choudhury,Leicester City,25,midfield,England,1050.0
+Ryan Bertrand,Leicester City,33,Defender,England,1044.0
+Alex Smithies,Leicester City,33,Goalkeeper,England,1035.0
+Ibrahim Maza,Hertha BSC,17,Attack,Germany,1035.0
+Derry Scherhant,Hertha BSC,20,Attack,Germany,1034.0
+Florian Niederlechner,Hertha BSC,32,Attack,Germany,1033.0
+Kelian Nsona,Hertha BSC,21,Attack,France,1029.0
+Kevin-Prince Boateng,Hertha BSC,36,midfield,Ghana,1025.0
+Tolga Cigerci,Hertha BSC,31,midfield,Turkey,1022.0
+Julian Eitschberger,Hertha BSC,19,Defender,Germany,1019.0
+Peter Pekarik,Hertha BSC,36,Defender,Slovakia,1018.0
+Lukas Ullrich,Hertha BSC,19,Defender,Germany,1016.0
+Andy Lonergan,Everton FC,39,Goalkeeper,England,1010.0
+Asmir Begovic,Everton FC,36,Goalkeeper,Bosnia-Herzegovina,1009.0
+Rune Jarstein,Hertha BSC,38,Goalkeeper,Norway,1009.0
+Tjark Ernst,Hertha BSC,20,Goalkeeper,Germany,1008.0
+Lyle Taylor,Nottingham Forest,33,Attack,Montserrat,1007.0
+Sebastian Polter,FC Schalke 04,32,Attack,Germany,1006.0
+Simon Terodde,FC Schalke 04,35,Attack,Germany,1005.0
+Josh Bowler,Nottingham Forest,24,Attack,England,1002.0
+Alex Mighten,Nottingham Forest,21,Attack,England,1001.0
+Dominick Drexler,FC Schalke 04,33,midfield,Germany,1000.0
+Soichiro Kozuki,FC Schalke 04,22,midfield,Japan,997.0
+Nassim Boujellab,FC Schalke 04,24,midfield,Morocco,996.0
+Harry Arter,Nottingham Forest,33,midfield,Ireland,995.0
+Danny Latza,FC Schalke 04,33,midfield,Germany,995.0
+Cafú,Nottingham Forest,30,midfield,Portugal,994.0
+Jack Colback,Nottingham Forest,33,midfield,England,989.0
+Ibrahima Cissé,FC Schalke 04,22,Defender,Mali,986.0
+Timothée Kolodziejczak,FC Schalke 04,31,Defender,France,985.0
+Marcin Kaminski,FC Schalke 04,31,Defender,Poland,984.0
+Maya Yoshida,FC Schalke 04,34,Defender,Japan,983.0
+Michael Langer,FC Schalke 04,38,Goalkeeper,Austria,978.0
+Justin Heekeren,FC Schalke 04,22,Goalkeeper,Germany,977.0
+Jonathan Panzo,Nottingham Forest,22,Defender,England,977.0
+Ralf Fährmann,FC Schalke 04,34,Goalkeeper,Germany,976.0
+Alexander Schwolow,FC Schalke 04,31,Goalkeeper,Germany,975.0
+Alou Kuol,VfB Stuttgart,21,Attack,Australia,974.0
+Thomas Kastanaras,VfB Stuttgart,20,Attack,Germany,973.0
+Adnan Kanuric,Nottingham Forest,22,Goalkeeper,Bosnia-Herzegovina,973.0
+Jordan Smith,Nottingham Forest,28,Goalkeeper,England,972.0
+Wayne Hennessey,Nottingham Forest,36,Goalkeeper,Wales,971.0
+Christian Saydee,AFC Bournemouth,21,Attack,England,969.0
+Jamal Lowe,AFC Bournemouth,28,Attack,Jamaica,965.0
+Laurin Ulrich,VfB Stuttgart,18,midfield,Germany,964.0
+Ömer Beyaz,VfB Stuttgart,19,midfield,Turkey,963.0
+Junior Stanislas,AFC Bournemouth,33,Attack,England,962.0
+Gavin Kilkenny,AFC Bournemouth,23,midfield,Ireland,957.0
+Ben Pearson,AFC Bournemouth,28,midfield,England,956.0
+Antonis Aidonis,VfB Stuttgart,22,Defender,Germany,953.0
+Florian Schock,VfB Stuttgart,22,Goalkeeper,Germany,948.0
+Dennis Seimen,VfB Stuttgart,17,Goalkeeper,Germany,947.0
+Will Dennis,AFC Bournemouth,22,Goalkeeper,England,942.0
+Darren Randolph,AFC Bournemouth,36,Goalkeeper,Ireland,941.0
+Daniel Caligiuri,FC Augsburg,35,Attack,Italy,939.0
+Noah Joel Sarenren Bazee,FC Augsburg,26,Attack,Germany,938.0
+Julian Baumgartlinger,FC Augsburg,35,midfield,Austria,930.0
+Tobias Strobl,FC Augsburg,33,midfield,Germany,929.0
+Conor Coventry,West Ham United,23,midfield,Ireland,928.0
+Aaron Zehnter,FC Augsburg,18,Defender,Germany,925.0
+Angelo Ogbonna,West Ham United,35,Defender,Italy,921.0
+Lukasz Fabianski,West Ham United,38,Goalkeeper,Poland,917.0
+Benjamin Leneis,FC Augsburg,24,Goalkeeper,Germany,917.0
+Daniel Klein,FC Augsburg,22,Goalkeeper,Germany,916.0
+Rafal Gikiewicz,FC Augsburg,35,Goalkeeper,Poland,915.0
+Silvère Ganvoula,VfL Bochum,26,Attack,Congo,913.0
+Luke Cundle,Wolverhampton Wanderers,21,midfield,England,904.0
+Anthony Losilla,VfL Bochum,37,midfield,France,902.0
+Jacek Goralski,VfL Bochum,30,midfield,Poland,901.0
+Cristian Gamboa,VfL Bochum,33,Defender,Costa Rica,900.0
+Ki-Jana Hoever,Wolverhampton Wanderers,21,Defender,Netherlands,897.0
+Mohammed Tolba,VfL Bochum,18,Defender,Germany,895.0
+Vasilios Lampropoulos,VfL Bochum,33,Defender,Greece,894.0
+Paul Grave,VfL Bochum,22,Goalkeeper,Germany,889.0
+Louie Moulden,Wolverhampton Wanderers,21,Goalkeeper,England,888.0
+Michael Esser,VfL Bochum,35,Goalkeeper,Germany,888.0
+Marko Johansson,VfL Bochum,24,Goalkeeper,Sweden,887.0
+Jean Manuel Mbom,SV Werder Bremen,23,midfield,Germany,878.0
+Dikeni Salifou,SV Werder Bremen,20,midfield,Togo,876.0
+Christian Groß,SV Werder Bremen,34,midfield,Germany,875.0
+Louis Lord,SV Werder Bremen,19,Goalkeeper,Germany,864.0
+Abdul-Rahman Baba,Chelsea FC,28,Defender,Ghana,864.0
+Dudu,SV Werder Bremen,24,Goalkeeper,Germany,863.0
+Mio Backhaus,SV Werder Bremen,19,Goalkeeper,Germany,862.0
+Michael Zetterer,SV Werder Bremen,27,Goalkeeper,Germany,861.0
+Fisnik Asllani,TSG 1899 Hoffenheim,20,Attack,Germany,859.0
+Malcolm Ebiowei,Crystal Palace,19,Attack,England,847.0
+James McArthur,Crystal Palace,35,midfield,Scotland,842.0
+Ermin Bicakcic,TSG 1899 Hoffenheim,33,Defender,Bosnia-Herzegovina,839.0
+James Tomkins,Crystal Palace,34,Defender,England,833.0
+Nahuel Noll,TSG 1899 Hoffenheim,20,Goalkeeper,Germany,832.0
+Luca Philipp,TSG 1899 Hoffenheim,22,Goalkeeper,Germany,831.0
+Philipp Pentke,TSG 1899 Hoffenheim,38,Goalkeeper,Germany,830.0
+Remi Matthews,Crystal Palace,29,Goalkeeper,England,828.0
+Maximilian Schmid,1.FC Köln,20,Attack,Germany,828.0
+Joe Whitworth,Crystal Palace,19,Goalkeeper,England,827.0
+Sebastian Andersson,1.FC Köln,31,Attack,Sweden,827.0
+Rodrigo Muniz,Fulham FC,22,Attack,Brazil,824.0
+Anthony Knockaert,Fulham FC,31,Attack,France,821.0
+Justin Diehl,1.FC Köln,18,Attack,Germany,820.0
+Joshua Schwirten,1.FC Köln,21,midfield,Germany,815.0
+Tyrese Francois,Fulham FC,22,midfield,Australia,814.0
+Georg Strauch,1.FC Köln,22,midfield,Germany,811.0
+Steven Sessegnon,Fulham FC,23,Defender,England,809.0
+Rijad Smajic,1.FC Köln,19,Defender,Bosnia-Herzegovina,804.0
+Elias Bakatukanda,1.FC Köln,19,Defender,Germany,803.0
+Halil Dervisoglu,Brentford FC,23,Attack,Turkey,798.0
+Matthias Köbbing,1.FC Köln,26,Goalkeeper,Germany,798.0
+Julian Roloff,1.FC Köln,22,Goalkeeper,Germany,797.0
+Tariqe Fosu,Brentford FC,27,Attack,Ghana,794.0
+Conor Noß,Borussia Mönchengladbach,22,midfield,Ireland,787.0
+Fin Stevens,Brentford FC,20,Defender,Wales,783.0
+Simon Walde,Borussia Mönchengladbach,18,Defender,Germany,780.0
+Charlie Goode,Brentford FC,27,Defender,England,779.0
+Mamadou Doucouré,Borussia Mönchengladbach,25,Defender,France,775.0
+Tony Jantschke,Borussia Mönchengladbach,33,Defender,Germany,774.0
+Ellery Balcombe,Brentford FC,23,Goalkeeper,England,773.0
+Matthew Cox,Brentford FC,20,Goalkeeper,England,772.0
+Tobias Sippel,Borussia Mönchengladbach,35,Goalkeeper,Germany,770.0
+Jan Olschowsky,Borussia Mönchengladbach,21,Goalkeeper,Germany,769.0
+Brajan Gruda,1.FSV Mainz 05,19,Attack,Germany,761.0
+Eniss Shabani,1.FSV Mainz 05,20,midfield,Germany,758.0
+Philipp Schulz,1.FSV Mainz 05,18,Defender,Germany,748.0
+Brandon Austin,Tottenham Hotspur,24,Goalkeeper,England,748.0
+Alfie Whiteman,Tottenham Hotspur,24,Goalkeeper,England,747.0
+Keinan Davis,Aston Villa,25,Attack,England,744.0
+Lasse Rieß,1.FSV Mainz 05,21,Goalkeeper,Germany,743.0
+Cameron Archer,Aston Villa,21,Attack,England,742.0
+Jaden Philogene,Aston Villa,21,Attack,England,738.0
+Tim Iroegbunam,Aston Villa,19,midfield,England,735.0
+Marvelous Nakamba,Aston Villa,29,midfield,Zimbabwe,731.0
+Ashley Young,Aston Villa,37,Defender,England,728.0
+Kortney Hause,Aston Villa,27,Defender,England,724.0
+Niklas Klinger,VfL Wolfsburg,27,Goalkeeper,Germany,719.0
+Viljami Sinisalo,Aston Villa,21,Goalkeeper,Finland,719.0
+Jed Steer,Aston Villa,30,Goalkeeper,England,718.0
+Philipp Schulze,VfL Wolfsburg,20,Goalkeeper,Germany,718.0
+Pavao Pervan,VfL Wolfsburg,35,Goalkeeper,Austria,717.0
+Nacho Ferri,Eintracht Frankfurt,18,Attack,Spain,715.0
+Mehdi Loune,Eintracht Frankfurt,19,midfield,Germany,704.0
+Marcel Wenig,Eintracht Frankfurt,19,midfield,Germany,703.0
+Timothy Chandler,Eintracht Frankfurt,33,Defender,United States,699.0
+Jan Schröder,Eintracht Frankfurt,20,Defender,Germany,697.0
+Dario Gebuhr,Eintracht Frankfurt,20,Defender,Germany,694.0
+Makoto Hasebe,Eintracht Frankfurt,39,Defender,Japan,693.0
+Simon Simoni,Eintracht Frankfurt,18,Goalkeeper,Albania,688.0
+Adrián,Liverpool FC,36,Goalkeeper,Spain,688.0
+Jens Grahl,Eintracht Frankfurt,34,Goalkeeper,Germany,687.0
+Diant Ramaj,Eintracht Frankfurt,21,Goalkeeper,Germany,686.0
+Jeff Hendrick,Newcastle United,31,midfield,Ireland,674.0
+Joshua Eze,Bayer 04 Leverkusen,20,midfield,Germany,673.0
+Ayman Azhil,Bayer 04 Leverkusen,22,midfield,Morocco,672.0
+Isaac Hayden,Newcastle United,28,midfield,England,671.0
+Niklas Lomb,Bayer 04 Leverkusen,29,Goalkeeper,Germany,661.0
+Kell Watts,Newcastle United,23,Defender,England,661.0
+Ciaran Clark,Newcastle United,33,Defender,Ireland,660.0
+Mark Gillespie,Newcastle United,31,Goalkeeper,England,656.0
+Karl Darlow,Newcastle United,32,Goalkeeper,England,655.0
+Amad Diallo,Manchester United,20,Attack,Cote d'Ivoire,647.0
+Jonathan Schmid,SC Freiburg,33,Defender,France,643.0
+Hannibal,Manchester United,20,midfield,Tunisia,641.0
+Kimberly Ezekwem,SC Freiburg,22,Defender,Germany,640.0
+Kobbie Mainoo,Manchester United,18,midfield,England,639.0
+Benjamin Uphoff,SC Freiburg,29,Goalkeeper,Germany,634.0
+Sven Michel,1.FC Union Berlin,32,Attack,Germany,631.0
+Álvaro Fernandez,Manchester United,20,Defender,Spain,629.0
+Tim Maciejewski,1.FC Union Berlin,22,Attack,Germany,626.0
+Kevin Möhwald,1.FC Union Berlin,29,midfield,Germany,624.0
+Axel Tuanzebe,Manchester United,25,Defender,England,623.0
+Tom Heaton,Manchester United,37,Goalkeeper,England,618.0
+Christopher Trimmel,1.FC Union Berlin,36,Defender,Austria,616.0
+Marquinhos,Arsenal FC,20,Attack,Brazil,611.0
+Jakob Busk,1.FC Union Berlin,29,Goalkeeper,Denmark,607.0
+Auston Trusty,Arsenal FC,24,Defender,United States,593.0
+Sanoussy Ba,RB Leipzig,19,Defender,Germany,590.0
+Timo Schlieck,RB Leipzig,17,Goalkeeper,Germany,583.0
+Jonas Nickisch,RB Leipzig,19,Goalkeeper,Germany,582.0
+Oskar Preil,RB Leipzig,19,Goalkeeper,Germany,581.0
+Örjan Nyland,RB Leipzig,32,Goalkeeper,Norway,580.0
+Anthony Modeste,Borussia Dortmund,35,Attack,France,577.0
+Göktan Gürpüz,Borussia Dortmund,20,midfield,Turkey,570.0
+Scott Carson,Manchester City,37,Goalkeeper,England,567.0
+Zack Steffen,Manchester City,28,Goalkeeper,United States,566.0
+Antonios Papadopoulos,Borussia Dortmund,23,Defender,Germany,553.0
+Luca Unbehaun,Borussia Dortmund,22,Goalkeeper,Germany,548.0
+Johannes Schenk,Bayern Munich,20,Goalkeeper,Germany,521.0
+Sven Ulreich,Bayern Munich,34,Goalkeeper,Germany,520.0

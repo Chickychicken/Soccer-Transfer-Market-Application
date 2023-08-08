@@ -1,0 +1,1075 @@
+Player,Club,Age,Position,Nation,Value
+Gianluigi Donnarumma,Paris Saint-Germain,24,Goalkeeper,Italy,45.00m
+Sergio Rico,Paris Saint-Germain,29,Goalkeeper,Spain,3.00m
+Lucas Lavallée,Paris Saint-Germain,20,Goalkeeper,France,300k
+Alexandre Letellier,Paris Saint-Germain,32,Goalkeeper,France,300k
+Marquinhos,Paris Saint-Germain,29,Defender,Brazil,65.00m
+Presnel Kimpembe,Paris Saint-Germain,27,Defender,France,28.00m
+El Chadaille Bitshiabu,Paris Saint-Germain,18,Defender,France,7.00m
+Sergio Ramos,Paris Saint-Germain,37,Defender,Spain,4.50m
+Nuno Mendes,Paris Saint-Germain,21,Defender,Portugal,65.00m
+Juan Bernat,Paris Saint-Germain,30,Defender,Spain,10.00m
+Serif Nhaga,Paris Saint-Germain,17,Defender,Portugal,150k
+Achraf Hakimi,Paris Saint-Germain,24,Defender,Morocco,65.00m
+Nordi Mukiele,Paris Saint-Germain,25,Defender,France,18.00m
+Timothée Pembélé,Paris Saint-Germain,20,Defender,France,5.00m
+Danilo Pereira,Paris Saint-Germain,31,midfield,Portugal,10.00m
+Vitinha,Paris Saint-Germain,23,midfield,Portugal,42.00m
+Marco Verratti,Paris Saint-Germain,30,midfield,Italy,40.00m
+Fabián Ruiz,Paris Saint-Germain,27,midfield,Spain,32.00m
+Carlos Soler,Paris Saint-Germain,26,midfield,Spain,25.00m
+Warren Zaïre-Emery,Paris Saint-Germain,17,midfield,France,20.00m
+Renato Sanches,Paris Saint-Germain,25,midfield,Portugal,15.00m
+Ismaël Gharbi,Paris Saint-Germain,19,midfield,Spain,5.00m
+Neymar,Paris Saint-Germain,31,Attack,Brazil,60.00m
+Lionel Messi,Paris Saint-Germain,36,Attack,Argentina,35.00m
+Kylian Mbappé,Paris Saint-Germain,24,Attack,France,180.00m
+Hugo Ekitiké,Paris Saint-Germain,21,Attack,France,20.00m
+Ilyes Housni,Paris Saint-Germain,18,Attack,France,3.50m
+Dogan Alemdar,Stade Rennais FC,20,Goalkeeper,Turkey,4.00m
+Steve Mandanda,Stade Rennais FC,38,Goalkeeper,France,1.00m
+Elias Damergy,Stade Rennais FC,20,Goalkeeper,Tunisia,150k
+Romain Salin,Stade Rennais FC,38,Goalkeeper,France,150k
+Arthur Theate,Stade Rennais FC,23,Defender,Belgium,22.00m
+Warmed Omari,Stade Rennais FC,23,Defender,France,9.00m
+Joe Rodon,Stade Rennais FC,25,Defender,Wales,7.00m
+Jeanuël Belocian,Stade Rennais FC,18,Defender,France,7.00m
+Christopher Wooh,Stade Rennais FC,21,Defender,Cameroon,6.00m
+Adrien Truffert,Stade Rennais FC,21,Defender,France,18.00m
+Birger Meling,Stade Rennais FC,28,Defender,Norway,5.00m
+Hamari Traoré,Stade Rennais FC,31,Defender,Mali,10.00m
+Djed Spence,Stade Rennais FC,22,Defender,England,10.00m
+Lorenz Assignon,Stade Rennais FC,23,Defender,France,5.00m
+Guéla Doué,Stade Rennais FC,20,Defender,Cote d'Ivoire,300k
+Baptiste Santamaria,Stade Rennais FC,28,midfield,France,14.00m
+Lesley Ugochukwu,Stade Rennais FC,19,midfield,France,9.00m
+Lovro Majer,Stade Rennais FC,25,midfield,Croatia,20.00m
+Flavien Tait,Stade Rennais FC,30,midfield,France,6.00m
+Xeka,Stade Rennais FC,28,midfield,Portugal,6.00m
+Benjamin Bourigeaud,Stade Rennais FC,29,midfield,France,18.00m
+Désiré Doué,Stade Rennais FC,18,midfield,France,15.00m
+Martin Terrier,Stade Rennais FC,26,Attack,France,30.00m
+Karl Toko Ekambi,Stade Rennais FC,30,Attack,Cameroon,8.00m
+Ibrahim Salah,Stade Rennais FC,21,Attack,Morocco,3.00m
+Jérémy Doku,Stade Rennais FC,21,Attack,Belgium,28.00m
+Amine Gouiri,Stade Rennais FC,23,Attack,France,35.00m
+Arnaud Kalimuendo,Stade Rennais FC,21,Attack,France,22.00m
+Alexander Nübel,AS Monaco,26,Goalkeeper,Germany,8.00m
+Thomas Didillon,AS Monaco,27,Goalkeeper,France,1.00m
+Yann Lienard,AS Monaco,20,Goalkeeper,France,200k
+Axel Disasi,AS Monaco,25,Defender,France,30.00m
+Guillermo Maripán,AS Monaco,29,Defender,Chile,10.00m
+Malang Sarr,AS Monaco,24,Defender,France,6.00m
+Chrislain Matsima,AS Monaco,21,Defender,France,6.00m
+Yllan Okou,AS Monaco,20,Defender,France,300k
+Caio Henrique,AS Monaco,25,Defender,Brazil,20.00m
+Ismail Jakobs,AS Monaco,23,Defender,Senegal,6.00m
+Vanderson,AS Monaco,22,Defender,Brazil,20.00m
+Ruben Aguilar,AS Monaco,30,Defender,France,7.00m
+Mohamed Camara,AS Monaco,23,midfield,Mali,30.00m
+Soungoutou Magassa,AS Monaco,19,midfield,France,800k
+Youssouf Fofana,AS Monaco,24,midfield,France,25.00m
+Eliot Matazo,AS Monaco,21,midfield,Belgium,7.00m
+Jean Lucas,AS Monaco,25,midfield,Brazil,5.00m
+Aleksandr Golovin,AS Monaco,27,midfield,Russia,28.00m
+Eliesse Ben Seghir,AS Monaco,18,midfield,France,18.00m
+Maghnes Akliouche,AS Monaco,21,midfield,France,6.00m
+Takumi Minamino,AS Monaco,28,Attack,Japan,6.00m
+Krépin Diatta,AS Monaco,24,Attack,Senegal,15.00m
+Gelson Martins,AS Monaco,28,Attack,Portugal,5.00m
+Breel Embolo,AS Monaco,26,Attack,Switzerland,20.00m
+Wissam Ben Yedder,AS Monaco,32,Attack,France,15.00m
+Kevin Volland,AS Monaco,30,Attack,Germany,8.00m
+Myron Boadu,AS Monaco,22,Attack,Netherlands,7.00m
+Pau López,Olympique Marseille,28,Goalkeeper,Spain,14.00m
+Rubén Blanco,Olympique Marseille,27,Goalkeeper,Spain,4.00m
+Simon Ngapandouetnbu,Olympique Marseille,20,Goalkeeper,Cameroon,400k
+Chancel Mbemba,Olympique Marseille,28,Defender,DR Congo,20.00m
+Samuel Gigot,Olympique Marseille,29,Defender,France,10.00m
+Leonardo Balerdi,Olympique Marseille,24,Defender,Argentina,10.00m
+Eric Bailly,Olympique Marseille,29,Defender,Cote d'Ivoire,5.00m
+Nuno Tavares,Olympique Marseille,23,Defender,Portugal,18.00m
+Sead Kolasinac,Olympique Marseille,30,Defender,Bosnia-Herzegovina,8.00m
+Jonathan Clauss,Olympique Marseille,30,Defender,France,14.00m
+Issa Kaboré,Olympique Marseille,22,Defender,Burkina Faso,7.00m
+Jordan Veretout,Olympique Marseille,30,midfield,France,16.00m
+Bartug Elmaz,Olympique Marseille,20,midfield,Turkey,300k
+Mattéo Guendouzi,Olympique Marseille,24,midfield,France,25.00m
+Valentin Rongier,Olympique Marseille,28,midfield,France,22.00m
+Azzedine Ounahi,Olympique Marseille,23,midfield,Morocco,12.00m
+Ruslan Malinovskyi,Olympique Marseille,30,midfield,Ukraine,15.00m
+Amine Harit,Olympique Marseille,26,midfield,Morocco,12.00m
+Dimitri Payet,Olympique Marseille,36,midfield,France,1.80m
+Cengiz Ünder,Olympique Marseille,25,Attack,Turkey,20.00m
+Vitinha,Olympique Marseille,23,Attack,Portugal,18.00m
+Alexis Sánchez,Olympique Marseille,34,Attack,Chile,4.00m
+Anthony Lopes,Olympique Lyon,32,Goalkeeper,Portugal,8.00m
+Rémy Riou,Olympique Lyon,35,Goalkeeper,France,400k
+Kayne Bonnevie,Olympique Lyon,21,Goalkeeper,France,200k
+Castello Lukeba,Olympique Lyon,20,Defender,France,25.00m
+Sinaly Diomandé,Olympique Lyon,22,Defender,Cote d'Ivoire,9.00m
+Dejan Lovren,Olympique Lyon,33,Defender,Croatia,2.50m
+Jérôme Boateng,Olympique Lyon,34,Defender,Germany,800k
+Nicolás Tagliafico,Olympique Lyon,30,Defender,Argentina,9.00m
+Henrique Silva,Olympique Lyon,29,Defender,Brazil,1.00m
+Malo Gusto,Olympique Lyon,20,Defender,France,25.00m
+Saël Kumbedi,Olympique Lyon,18,Defender,France,12.00m
+Johann Lepenant,Olympique Lyon,20,midfield,France,10.00m
+Thiago Mendes,Olympique Lyon,31,midfield,Brazil,5.00m
+Maxence Caqueret,Olympique Lyon,23,midfield,France,25.00m
+Corentin Tolisso,Olympique Lyon,28,midfield,France,14.00m
+Houssem Aouar,Olympique Lyon,24,midfield,Algeria,13.00m
+Mohamed El Arouch,Olympique Lyon,19,midfield,France,2.00m
+Rayan Cherki,Olympique Lyon,19,midfield,France,30.00m
+Jeffinho,Olympique Lyon,23,Attack,Brazil,8.00m
+Bradley Barcola,Olympique Lyon,20,Attack,France,18.00m
+Alexandre Lacazette,Olympique Lyon,32,Attack,France,14.00m
+Moussa Dembélé,Olympique Lyon,26,Attack,France,12.00m
+Amin Sarr,Olympique Lyon,22,Attack,Sweden,8.00m
+Lucas Chevalier,LOSC Lille,21,Goalkeeper,France,10.00m
+Benoît Costil,LOSC Lille,35,Goalkeeper,France,1.00m
+Adam Jakubech,LOSC Lille,26,Goalkeeper,Slovakia,300k
+Tiago Djaló,LOSC Lille,23,Defender,Portugal,16.00m
+Leny Yoro,LOSC Lille,17,Defender,France,10.00m
+Alexsandro,LOSC Lille,23,Defender,Brazil,5.00m
+José Fonte,LOSC Lille,39,Defender,Portugal,600k
+Gabriel Gudmundsson,LOSC Lille,24,Defender,Sweden,4.50m
+Ismaily,LOSC Lille,33,Defender,Brazil,2.50m
+Bafodé Diakité,LOSC Lille,22,Defender,France,10.00m
+Benjamin André,LOSC Lille,32,midfield,France,9.00m
+Jonas Martin,LOSC Lille,33,midfield,France,1.50m
+André Gomes,LOSC Lille,29,midfield,Portugal,16.00m
+Carlos Baleba,LOSC Lille,19,midfield,Cameroon,5.00m
+Angel Gomes,LOSC Lille,22,midfield,England,16.00m
+Rémy Cabella,LOSC Lille,33,midfield,France,5.00m
+Jonathan Bamba,LOSC Lille,27,Attack,Cote d'Ivoire,20.00m
+Alan Virginius,LOSC Lille,20,Attack,France,4.00m
+Timothy Weah,LOSC Lille,23,Attack,United States,14.00m
+Edon Zhegrova,LOSC Lille,24,Attack,Kosovo,8.00m
+Adam Ounas,LOSC Lille,26,Attack,Algeria,7.00m
+Jonathan David,LOSC Lille,23,Attack,Canada,60.00m
+Mohamed Bayo,LOSC Lille,25,Attack,Guinea,6.00m
+Kasper Schmeichel,OGC Nice,36,Goalkeeper,Denmark,2.00m
+Marcin Bulka,OGC Nice,23,Goalkeeper,Poland,2.00m
+Teddy Boulhendi,OGC Nice,22,Goalkeeper,Algeria,150k
+Jean-Clair Todibo,OGC Nice,23,Defender,France,30.00m
+Youssouf Ndayishimiye,OGC Nice,24,Defender,Burundi,12.00m
+Mattia Viti,OGC Nice,21,Defender,Italy,7.00m
+Dante,OGC Nice,39,Defender,Brazil,600k
+Melvin Bard,OGC Nice,22,Defender,France,7.00m
+Ayoub Amraoui,OGC Nice,19,Defender,Morocco,2.50m
+Joe Bryan,OGC Nice,29,Defender,England,2.20m
+Jordan Lotomba,OGC Nice,24,Defender,Switzerland,8.00m
+Youcef Atal,OGC Nice,27,Defender,Algeria,7.00m
+Antoine Mendy,OGC Nice,19,Defender,France,1.00m
+Pablo Rosario,OGC Nice,26,midfield,Netherlands,6.00m
+Alexis Beka Beka,OGC Nice,22,midfield,France,4.50m
+Reda Belahyane,OGC Nice,19,midfield,France,300k
+Khéphren Thuram,OGC Nice,22,midfield,France,40.00m
+Hicham Boudaoui,OGC Nice,23,midfield,Algeria,8.00m
+Ross Barkley,OGC Nice,29,midfield,England,6.00m
+Aaron Ramsey,OGC Nice,32,midfield,Wales,2.50m
+Daouda Traoré,OGC Nice,16,midfield,France,100k
+Sofiane Diop,OGC Nice,23,Attack,France,15.00m
+Billal Brahimi,OGC Nice,23,Attack,Algeria,7.00m
+Nicolas Pépé,OGC Nice,28,Attack,Cote d'Ivoire,18.00m
+Badredine Bouanani,OGC Nice,18,Attack,Algeria,6.00m
+Terem Moffi,OGC Nice,24,Attack,Nigeria,20.00m
+Gaëtan Laborde,OGC Nice,29,Attack,France,16.00m
+Brice Samba,RC Lens,29,Goalkeeper,France,13.00m
+Wuilker Fariñez,RC Lens,25,Goalkeeper,Venezuela,3.50m
+Jean-Louis Leca,RC Lens,37,Goalkeeper,France,200k
+Yannick Pandor,RC Lens,22,Goalkeeper,Comoros,150k
+Kevin Danso,RC Lens,24,Defender,Austria,22.00m
+Facundo Medina,RC Lens,24,Defender,Argentina,22.00m
+Jonathan Gradit,RC Lens,30,Defender,France,5.00m
+Steven Fortes,RC Lens,31,Defender,Cape Verde,400k
+Adrien Louveau,RC Lens,23,Defender,France,100k
+Deiver Machado,RC Lens,29,Defender,Colombia,4.00m
+Massadio Haidara,RC Lens,30,Defender,Mali,3.00m
+Ismaël Boura,RC Lens,22,Defender,France,1.00m
+Julien Le Cardinal,RC Lens,25,Defender,France,2.00m
+Salis Abdul Samed,RC Lens,23,midfield,Ghana,18.00m
+Jean Onana,RC Lens,23,midfield,Cameroon,6.00m
+Lukasz Poreba,RC Lens,23,midfield,Poland,2.00m
+Seko Fofana,RC Lens,28,midfield,Cote d'Ivoire,32.00m
+Mamadou Camara,RC Lens,20,midfield,Senegal,250k
+Yaya Fofana,RC Lens,19,midfield,Mali,150k
+Przemyslaw Frankowski,RC Lens,28,midfield,Poland,9.00m
+Jimmy Cabot,RC Lens,29,midfield,France,3.50m
+Angelo Fulgini,RC Lens,26,midfield,France,9.00m
+David Costa,RC Lens,22,midfield,Portugal,8.00m
+Adrien Thomasson,RC Lens,29,midfield,France,6.00m
+Alexis Claude-Maurice,RC Lens,25,midfield,France,4.50m
+Loïs Openda,RC Lens,23,Attack,Belgium,35.00m
+Adam Buksa,RC Lens,26,Attack,Poland,5.00m
+Florian Sotoca,RC Lens,32,Attack,France,4.00m
+Wesley Saïd,RC Lens,28,Attack,France,2.00m
+Rémy Labeau Lascary,RC Lens,20,Attack,Guadeloupe,500k
+Benjamin Lecomte,Montpellier HSC,32,Goalkeeper,France,4.00m
+Dimitry Bertaud,Montpellier HSC,25,Goalkeeper,France,1.50m
+Bingourou Kamara,Montpellier HSC,26,Goalkeeper,Senegal,800k
+Matis Carvalho,Montpellier HSC,24,Goalkeeper,Portugal,300k
+Maxime Estève,Montpellier HSC,21,Defender,France,7.00m
+Kiki Kouyaté,Montpellier HSC,26,Defender,Mali,5.00m
+Christopher Jullien,Montpellier HSC,30,Defender,France,3.50m
+Mamadou Sakho,Montpellier HSC,33,Defender,France,2.50m
+Pedro Mendes,Montpellier HSC,32,Defender,Portugal,1.80m
+Faitout Maouassa,Montpellier HSC,24,Defender,France,6.00m
+Issiaga Sylla,Montpellier HSC,29,Defender,Guinea,2.50m
+Théo Sainte-Luce,Montpellier HSC,24,Defender,France,2.00m
+Thibault Tamas,Montpellier HSC,22,Defender,France,150k
+Falaye Sacko,Montpellier HSC,28,Defender,Mali,4.00m
+Enzo Tchato,Montpellier HSC,20,Defender,Cameroon,2.50m
+Mathías Suárez,Montpellier HSC,27,Defender,Uruguay,300k
+Joris Chotard,Montpellier HSC,21,midfield,France,9.00m
+Jordan Ferri,Montpellier HSC,31,midfield,France,5.00m
+Khalil Fayad,Montpellier HSC,19,midfield,France,4.50m
+Léo Leroy,Montpellier HSC,23,midfield,France,1.20m
+Téji Savanier,Montpellier HSC,31,midfield,France,10.00m
+Stephy Mavididi,Montpellier HSC,25,Attack,England,6.00m
+Béni Makouana,Montpellier HSC,20,Attack,Congo,600k
+Arnaud Nordin,Montpellier HSC,25,Attack,France,7.00m
+Elye Wahi,Montpellier HSC,20,Attack,France,35.00m
+Wahbi Khazri,Montpellier HSC,32,Attack,Tunisia,2.50m
+Valère Germain,Montpellier HSC,33,Attack,France,1.50m
+Yanis Guermouche,Montpellier HSC,22,Attack,Algeria,150k
+Alban Lafont,FC Nantes,24,Goalkeeper,France,16.00m
+Rémy Descamps,FC Nantes,27,Goalkeeper,France,700k
+Denis Petric,FC Nantes,35,Goalkeeper,Slovenia,150k
+João Victor,FC Nantes,24,Defender,Brazil,7.00m
+Andrei Girotto,FC Nantes,31,Defender,Brazil,4.00m
+Jean-Charles Castelletto,FC Nantes,28,Defender,Cameroon,3.50m
+Nicolas Pallois,FC Nantes,35,Defender,France,900k
+Robin Voisine,FC Nantes,21,Defender,France,150k
+Quentin Merlin,FC Nantes,21,Defender,France,7.00m
+Jaouen Hadjam,FC Nantes,20,Defender,Algeria,2.00m
+Charles Traoré,FC Nantes,31,Defender,Mali,600k
+Fabien Centonze,FC Nantes,27,Defender,France,4.00m
+Sébastien Corchia,FC Nantes,32,Defender,France,1.00m
+Pedro Chirivella,FC Nantes,26,midfield,Spain,6.00m
+Lohann Doucet,FC Nantes,20,midfield,France,700k
+Samuel Moutoussamy,FC Nantes,26,midfield,DR Congo,5.00m
+Moussa Sissoko,FC Nantes,33,midfield,France,2.50m
+Ludovic Blas,FC Nantes,25,midfield,France,20.00m
+Florent Mollet,FC Nantes,31,midfield,France,2.00m
+Gor Manvelyan,FC Nantes,21,midfield,France,400k
+Samuel Yépié Yépié,FC Nantes,20,midfield,France,150k
+Moses Simon,FC Nantes,27,Attack,Nigeria,8.00m
+Marcus Coco,FC Nantes,27,Attack,France,1.20m
+Andy Delort,FC Nantes,31,Attack,Algeria,7.00m
+Mostafa Mohamed,FC Nantes,25,Attack,Egypt,6.00m
+Evann Guessand,FC Nantes,21,Attack,France,4.50m
+Ignatius Ganago,FC Nantes,24,Attack,Cameroon,4.00m
+Yehvann Diouf,Stade Reims,23,Goalkeeper,France,8.00m
+Alexandre Olliero,Stade Reims,27,Goalkeeper,France,600k
+Nicolas Penneteau,Stade Reims,42,Goalkeeper,France,100k
+Florent Duparchy,Stade Reims,23,Goalkeeper,France,100k
+Emmanuel Agbadou,Stade Reims,26,Defender,Cote d'Ivoire,7.50m
+Cheick Keita,Stade Reims,20,Defender,France,1.50m
+Yunis Abdelhamid,Stade Reims,35,Defender,Morocco,700k
+Thibault De Smet,Stade Reims,25,Defender,Belgium,3.00m
+Thomas Foket,Stade Reims,28,Defender,Belgium,5.00m
+Maxime Busi,Stade Reims,23,Defender,Belgium,2.50m
+Marshall Munetsi,Stade Reims,27,midfield,Zimbabwe,9.00m
+Azor Matusiwa,Stade Reims,25,midfield,Netherlands,7.50m
+Jens Cajuste,Stade Reims,23,midfield,Sweden,6.00m
+Dion Lopy,Stade Reims,21,midfield,Senegal,4.00m
+Samuel Koeberlé,Stade Reims,18,midfield,France,250k
+Valentin Atangana Edoa,Stade Reims,17,midfield,France,250k
+Kamory Doumbia,Stade Reims,20,midfield,Mali,2.50m
+Alexis Flips,Stade Reims,23,Attack,France,6.00m
+Arbër Zeneli,Stade Reims,28,Attack,Kosovo,3.50m
+Myziane Maolida,Stade Reims,24,Attack,France,1.50m
+Mitchell van Bergen,Stade Reims,23,Attack,Netherlands,1.20m
+Junya Ito,Stade Reims,30,Attack,Japan,10.00m
+Folarin Balogun,Stade Reims,21,Attack,United States,30.00m
+Kaj Sierhuis,Stade Reims,25,Attack,Netherlands,1.20m
+Noah Jean Holm,Stade Reims,22,Attack,Norway,700k
+Matz Sels,RC Strasbourg Alsace,31,Goalkeeper,Belgium,7.00m
+Eiji Kawashima,RC Strasbourg Alsace,40,Goalkeeper,Japan,150k
+Robin Risser,RC Strasbourg Alsace,18,Goalkeeper,France,150k
+Alexandre Pierre,RC Strasbourg Alsace,22,Goalkeeper,Haiti,100k
+Alexander Djiku,RC Strasbourg Alsace,28,Defender,Ghana,8.00m
+Ismaël Doukouré,RC Strasbourg Alsace,19,Defender,France,6.00m
+Gerzino Nyamsi,RC Strasbourg Alsace,26,Defender,France,5.00m
+Lucas Perrin,RC Strasbourg Alsace,24,Defender,France,3.00m
+Maxime Le Marchand,RC Strasbourg Alsace,33,Defender,France,1.00m
+Franci Bouebari,RC Strasbourg Alsace,19,Defender,France,250k
+Eduard Sobol,RC Strasbourg Alsace,28,Defender,Ukraine,2.50m
+Thomas Delaine,RC Strasbourg Alsace,31,Defender,France,1.20m
+Colin Dagba,RC Strasbourg Alsace,24,Defender,France,4.50m
+Frédéric Guilbert,RC Strasbourg Alsace,28,Defender,France,4.50m
+Habib Diarra,RC Strasbourg Alsace,19,midfield,France,10.00m
+Ibrahima Sissoko,RC Strasbourg Alsace,25,midfield,France,6.00m
+Jean-Eudes Aholou,RC Strasbourg Alsace,29,midfield,Cote d'Ivoire,2.50m
+Jean-Ricner Bellegarde,RC Strasbourg Alsace,25,midfield,France,10.00m
+Morgan Sanson,RC Strasbourg Alsace,28,midfield,France,6.00m
+Sanjin Prcic,RC Strasbourg Alsace,29,midfield,Bosnia-Herzegovina,3.00m
+Dimitri Liénard,RC Strasbourg Alsace,35,midfield,France,500k
+Yuito Suzuki,RC Strasbourg Alsace,21,midfield,Japan,600k
+Nordine Kandil,RC Strasbourg Alsace,21,midfield,Morocco,400k
+Habib Diallo,RC Strasbourg Alsace,28,Attack,Senegal,18.00m
+Kévin Gameiro,RC Strasbourg Alsace,36,Attack,France,1.20m
+Lebo Mothiba,RC Strasbourg Alsace,27,Attack,South Africa,1.20m
+Yvon Mvogo,FC Lorient,29,Goalkeeper,Switzerland,3.50m
+Julian Pollersbeck,FC Lorient,28,Goalkeeper,Germany,500k
+Vito Mannone,FC Lorient,35,Goalkeeper,Italy,300k
+Teddy Bartouche,FC Lorient,26,Goalkeeper,France,150k
+Montassar Talbi,FC Lorient,25,Defender,Tunisia,8.00m
+Julien Laporte,FC Lorient,29,Defender,France,2.50m
+Bamo Meïté,FC Lorient,21,Defender,Cote d'Ivoire,2.50m
+Maxime Wackers,FC Lorient,25,Defender,France,150k
+Darlin Yongwa,FC Lorient,22,Defender,Cameroon,1.20m
+Vincent Le Goff,FC Lorient,33,Defender,France,1.00m
+Gédéon Kalulu,FC Lorient,25,Defender,DR Congo,5.00m
+Igor Silva,FC Lorient,26,Defender,Brazil,1.50m
+Laurent Abergel,FC Lorient,30,midfield,France,3.00m
+Bonke Innocent,FC Lorient,27,midfield,Nigeria,2.00m
+Jean-Victor Makengo,FC Lorient,25,midfield,France,10.00m
+Ayman Kari,FC Lorient,18,midfield,France,1.00m
+Romain Faivre,FC Lorient,24,midfield,France,10.00m
+Théo Le Bris,FC Lorient,20,midfield,France,3.00m
+Enzo Le Fée,FC Lorient,23,midfield,France,20.00m
+Julien Ponceau,FC Lorient,22,midfield,France,2.50m
+Adil Aouchiche,FC Lorient,20,midfield,France,2.20m
+Yoann Cathline,FC Lorient,20,Attack,France,2.00m
+Stéphane Diarra,FC Lorient,24,Attack,Cote d'Ivoire,2.50m
+Bamba Dieng,FC Lorient,23,Attack,Senegal,8.00m
+Ibrahima Koné,FC Lorient,24,Attack,Mali,4.00m
+Siriné Doucouré,FC Lorient,21,Attack,France,500k
+Maxime Dupé,FC Toulouse,30,Goalkeeper,France,2.50m
+Kjetil Haug,FC Toulouse,25,Goalkeeper,Norway,400k
+Thomas Himeur,FC Toulouse,22,Goalkeeper,France,150k
+Anthony Rouault,FC Toulouse,22,Defender,France,10.00m
+Rasmus Nicolaisen,FC Toulouse,26,Defender,Denmark,6.00m
+Logan Costa,FC Toulouse,22,Defender,Cape Verde,1.20m
+Kévin Keben,FC Toulouse,19,Defender,Cameroon,400k
+Gabriel Suazo,FC Toulouse,25,Defender,Chile,2.50m
+Oliver Zandén,FC Toulouse,21,Defender,Sweden,1.00m
+Moussa Diarra,FC Toulouse,22,Defender,Mali,800k
+Mikkel Desler,FC Toulouse,28,Defender,Denmark,2.50m
+Warren Kamanzi,FC Toulouse,22,Defender,Norway,1.20m
+Stijn Spierings,FC Toulouse,27,midfield,Netherlands,6.00m
+Branco van den Boomen,FC Toulouse,27,midfield,Netherlands,12.00m
+Brecht Dejaegere,FC Toulouse,32,midfield,Belgium,1.80m
+Vincent Sierro,FC Toulouse,27,midfield,Switzerland,1.50m
+Theocharis Tsingaras,FC Toulouse,22,midfield,Greece,1.20m
+Denis Genreau,FC Toulouse,24,midfield,Australia,1.50m
+Farès Chaïbi,FC Toulouse,20,Attack,Algeria,10.00m
+Veljko Birmancevic,FC Toulouse,25,Attack,Serbia,3.00m
+Rafael Ratão,FC Toulouse,27,Attack,Brazil,2.50m
+Zakaria Aboukhlal,FC Toulouse,23,Attack,Morocco,9.00m
+Thijs Dallinga,FC Toulouse,22,Attack,Netherlands,12.00m
+Rhys Healey,FC Toulouse,28,Attack,England,2.50m
+Ado Onaiwu,FC Toulouse,27,Attack,Japan,1.50m
+Saïd Hamulic,FC Toulouse,22,Attack,Bosnia-Herzegovina,1.50m
+Gauthier Gallon,ESTAC Troyes,30,Goalkeeper,France,2.00m
+Mateusz Lis,ESTAC Troyes,26,Goalkeeper,Poland,900k
+Jessy Moulin,ESTAC Troyes,37,Goalkeeper,France,200k
+Jackson Porozo,ESTAC Troyes,22,Defender,Ecuador,3.00m
+Erik Palmer-Brown,ESTAC Troyes,26,Defender,United States,2.50m
+Yoann Salmier,ESTAC Troyes,30,Defender,French Guiana,2.00m
+Tanguy Zoukrou,ESTAC Troyes,20,Defender,France,1.00m
+Adil Rami,ESTAC Troyes,37,Defender,France,250k
+Eric N'Jo,ESTAC Troyes,19,Defender,France,200k
+Yasser Larouci,ESTAC Troyes,22,Defender,France,3.50m
+Abdu Conté,ESTAC Troyes,25,Defender,Portugal,2.00m
+Thierno Baldé,ESTAC Troyes,21,Defender,France,4.00m
+Andreas Bruus,ESTAC Troyes,24,Defender,Denmark,2.00m
+Lucien Agoumé,ESTAC Troyes,21,midfield,France,7.00m
+Rominigue Kouamé,ESTAC Troyes,26,midfield,Mali,4.50m
+Florian Tardieu,ESTAC Troyes,31,midfield,France,2.00m
+Xavier Chavalerin,ESTAC Troyes,32,midfield,France,1.50m
+Ante Palaversa,ESTAC Troyes,23,midfield,Croatia,700k
+Jeff Reine-Adélaïde,ESTAC Troyes,25,midfield,France,5.00m
+Alexis Tibidi,ESTAC Troyes,19,Attack,France,2.00m
+Papa Ndiaga Yade,ESTAC Troyes,23,Attack,Senegal,1.20m
+Levi Lumeka,ESTAC Troyes,24,Attack,England,200k
+Wilson Odobert,ESTAC Troyes,18,Attack,France,6.00m
+Rony Lopes,ESTAC Troyes,27,Attack,Portugal,4.00m
+Renaud Ripart,ESTAC Troyes,30,Attack,France,2.50m
+Mama Baldé,ESTAC Troyes,27,Attack,Guinea-Bissau,8.00m
+Iké Ugbo,ESTAC Troyes,24,Attack,Canada,3.00m
+Mykola Kukharevych,ESTAC Troyes,21,Attack,Ukraine,500k
+Marco Bizot,Stade Brestois 29,32,Goalkeeper,Netherlands,3.50m
+Joaquín Blázquez,Stade Brestois 29,22,Goalkeeper,Argentina,400k
+Grégoire Coudert,Stade Brestois 29,24,Goalkeeper,France,150k
+Lilian Brassier,Stade Brestois 29,23,Defender,France,5.00m
+Brendan Chardonnet,Stade Brestois 29,28,Defender,France,5.00m
+Achraf Dari,Stade Brestois 29,24,Defender,Morocco,2.00m
+Christophe Hérelle,Stade Brestois 29,30,Defender,Martinique,2.00m
+Josué Escartin,Stade Brestois 29,20,Defender,France,150k
+Jean-Kévin Duverne,Stade Brestois 29,25,Defender,France,4.00m
+Bradley Locko,Stade Brestois 29,21,Defender,France,2.50m
+Kenny Lala,Stade Brestois 29,31,Defender,France,1.50m
+Noah Fadiga,Stade Brestois 29,23,Defender,Senegal,1.20m
+Pierre Lees-Melou,Stade Brestois 29,30,midfield,France,4.00m
+Haris Belkebla,Stade Brestois 29,29,midfield,Algeria,3.00m
+Mahdi Camara,Stade Brestois 29,24,midfield,France,3.00m
+Hugo Magnetti,Stade Brestois 29,25,midfield,France,2.00m
+Félix Lemaréchal,Stade Brestois 29,19,midfield,France,1.00m
+Romain Del Castillo,Stade Brestois 29,27,midfield,France,3.00m
+Mathias Pereira Lage,Stade Brestois 29,26,midfield,France,2.00m
+Jérémy Le Douaron,Stade Brestois 29,25,Attack,France,4.50m
+Franck Honorat,Stade Brestois 29,26,Attack,France,10.00m
+Alberth Elis,Stade Brestois 29,27,Attack,Honduras,2.50m
+Karamoko Dembélé,Stade Brestois 29,20,Attack,England,500k
+Taïryk Arconte,Stade Brestois 29,19,Attack,France,500k
+Steve Mounié,Stade Brestois 29,28,Attack,Benin,5.00m
+Loïc Rémy,Stade Brestois 29,36,Attack,France,150k
+Ionut Radu,AJ Auxerre,26,Goalkeeper,Romania,3.50m
+Donovan Léon,AJ Auxerre,30,Goalkeeper,French Guiana,500k
+Théo De Percin,AJ Auxerre,22,Goalkeeper,Martinique,150k
+Vincenzo Cozzella,AJ Auxerre,21,Goalkeeper,Italy,100k
+Isaak Touré,AJ Auxerre,20,Defender,France,6.00m
+Jubal,AJ Auxerre,29,Defender,Brazil,2.00m
+Théo Pellenard,AJ Auxerre,29,Defender,France,1.00m
+Julian Jeanvier,AJ Auxerre,31,Defender,Guinea,800k
+Denys Bain,AJ Auxerre,29,Defender,France,500k
+Gideon Mensah,AJ Auxerre,24,Defender,Ghana,2.50m
+Kenji-Van Boto,AJ Auxerre,27,Defender,Madagascar,400k
+Akim Zedadka,AJ Auxerre,28,Defender,Algeria,2.50m
+Han-Noah Massengo,AJ Auxerre,21,midfield,France,5.00m
+Elisha Owusu,AJ Auxerre,25,midfield,Ghana,2.00m
+Birama Touré,AJ Auxerre,31,midfield,Mali,1.80m
+Rayan Raveloson,AJ Auxerre,26,midfield,Madagascar,1.80m
+Ousoumane Camara,AJ Auxerre,24,midfield,France,150k
+Natanaël Bouekou,AJ Auxerre,21,midfield,France,100k
+Kays Ruiz-Atil,AJ Auxerre,20,midfield,Morocco,800k
+Gaëtan Perrin,AJ Auxerre,27,midfield,France,1.20m
+Hamza Sakhi,AJ Auxerre,27,midfield,Morocco,2.00m
+Youssouf M'Changama,AJ Auxerre,32,midfield,Comoros,900k
+Mathias Autret,AJ Auxerre,32,midfield,France,800k
+Kévin Danois,AJ Auxerre,19,midfield,France,100k
+Siriki Dembélé,AJ Auxerre,26,Attack,Scotland,2.00m
+Rémy Dugimont,AJ Auxerre,36,Attack,France,100k
+Gauthier Hein,AJ Auxerre,26,Attack,France,2.00m
+Lassine Sinayoko,AJ Auxerre,23,Attack,Mali,1.20m
+Matthis Abline,AJ Auxerre,20,Attack,France,4.50m
+M'Baye Niang,AJ Auxerre,28,Attack,Senegal,2.50m
+Nuno Da Costa,AJ Auxerre,32,Attack,Cape Verde,1.00m
+Ousmane Camara,AJ Auxerre,21,Attack,Guinea,150k
+Idjessi Metsoko,AJ Auxerre,21,Attack,Togo,100k
+Paul Bernardoni,Angers SCO,26,Goalkeeper,France,2.50m
+Yahia Fofana,Angers SCO,22,Goalkeeper,France,2.00m
+Melvin Zinga,Angers SCO,21,Goalkeeper,France,100k
+Théo Borne,Angers SCO,20,Goalkeeper,France,100k
+Cédric Hountondji,Angers SCO,29,Defender,Benin,2.00m
+Miha Blazic,Angers SCO,30,Defender,Slovenia,1.80m
+Ousmane Camara,Angers SCO,20,Defender,France,1.50m
+Souleyman Doumbia,Angers SCO,26,Defender,Cote d'Ivoire,2.50m
+Faouzi Ghoulam,Angers SCO,32,Defender,Algeria,900k
+Yan Valery,Angers SCO,24,Defender,Tunisia,2.00m
+Halid Sabanovic,Angers SCO,23,Defender,Bosnia-Herzegovina,700k
+Abdoulaye Bamba,Angers SCO,33,Defender,Cote d'Ivoire,400k
+Ali Kalla,Angers SCO,25,Defender,France,100k
+Batista Mendy,Angers SCO,23,midfield,France,3.00m
+Zinédine Ould Khaled,Angers SCO,23,midfield,France,200k
+Nabil Bentaleb,Angers SCO,28,midfield,Algeria,7.00m
+Yassin Belkhdim,Angers SCO,21,midfield,Morocco,100k
+Pierrick Capelle,Angers SCO,36,midfield,France,250k
+Himad Abdelli,Angers SCO,23,midfield,Algeria,2.50m
+Jean-Mattéo Bahoya,Angers SCO,18,midfield,France,1.50m
+Waniss Taïbi,Angers SCO,21,midfield,France,500k
+Farid El Melali,Angers SCO,25,Attack,Algeria,600k
+Jason Mbock,Angers SCO,23,Attack,France,150k
+Abdallah Sima,Angers SCO,22,Attack,Senegal,6.00m
+Sada Thioub,Angers SCO,28,Attack,Senegal,1.20m
+Ibrahima Niane,Angers SCO,24,Attack,Senegal,3.00m
+Adrien Hunou,Angers SCO,29,Attack,France,2.50m
+Amine Salama,Angers SCO,22,Attack,France,1.50m
+Loïs Diony,Angers SCO,30,Attack,France,900k
+Ulrick Eneme-Ella,Angers SCO,22,Attack,Gabon,200k
+Mory Diaw,Clermont Foot 63,30,Goalkeeper,Senegal,2.00m
+Ouparine Djoco,Clermont Foot 63,25,Goalkeeper,France,500k
+Lucas Margueron,Clermont Foot 63,22,Goalkeeper,France,150k
+Alidu Seidu,Clermont Foot 63,23,Defender,Ghana,7.00m
+Mateusz Wieteska,Clermont Foot 63,26,Defender,Poland,3.00m
+Maximiliano Caufriez,Clermont Foot 63,26,Defender,Belgium,2.50m
+Cheick Oumar Konaté,Clermont Foot 63,19,Defender,Mali,1.00m
+Florent Ogier,Clermont Foot 63,34,Defender,France,450k
+Souleymane Cissé,Clermont Foot 63,20,Defender,France,100k
+Neto Borges,Clermont Foot 63,26,Defender,Brazil,4.00m
+Baïla Diallo,Clermont Foot 63,22,Defender,Senegal,200k
+Mehdi Zeffane,Clermont Foot 63,31,Defender,Algeria,450k
+Oliver Kamdem,Clermont Foot 63,20,Defender,France,100k
+Yohann Magnin,Clermont Foot 63,26,midfield,France,2.50m
+Maxime Gonalons,Clermont Foot 63,34,midfield,France,900k
+Johan Gastien,Clermont Foot 63,35,midfield,France,700k
+Yanis Massolin,Clermont Foot 63,20,midfield,France,250k
+Jim Allevinah,Clermont Foot 63,28,midfield,Gabon,2.00m
+Muhammed Cham,Clermont Foot 63,22,midfield,Austria,6.00m
+Saîf-Eddine Khaoui,Clermont Foot 63,28,midfield,Tunisia,2.00m
+Aïman Maurer,Clermont Foot 63,18,midfield,Morocco,800k
+Elbasan Rashani,Clermont Foot 63,30,Attack,Kosovo,2.00m
+Jérémie Bela,Clermont Foot 63,30,Attack,Angola,1.50m
+Grejohn Kyei,Clermont Foot 63,27,Attack,France,2.50m
+Komnen Andric,Clermont Foot 63,27,Attack,Serbia,1.80m
+Benjamin Leroy,AC Ajaccio,34,Goalkeeper,France,500k
+François-Joseph Sollacaro,AC Ajaccio,29,Goalkeeper,France,300k
+Ghjuvanni Quilichini,AC Ajaccio,20,Goalkeeper,France,150k
+Oumar Gonzalez,AC Ajaccio,25,Defender,Cameroon,2.50m
+Clément Vidal,AC Ajaccio,23,Defender,France,1.80m
+Fernand Mayembo,AC Ajaccio,27,Defender,Congo,600k
+Cédric Avinel,AC Ajaccio,36,Defender,Guadeloupe,250k
+Ismaël Diallo,AC Ajaccio,26,Defender,Cote d'Ivoire,1.50m
+Youssouf Koné,AC Ajaccio,27,Defender,Mali,1.50m
+Chaker Alhadhur,AC Ajaccio,31,Defender,Comoros,150k
+Mickaël Alphonse,AC Ajaccio,33,Defender,Guadeloupe,250k
+Mohamed Youssouf,AC Ajaccio,35,Defender,Comoros,200k
+Vincent Marchetti,AC Ajaccio,25,midfield,France,2.50m
+Thomas Mangani,AC Ajaccio,36,midfield,France,400k
+Mathieu Coutadeur,AC Ajaccio,37,midfield,France,200k
+Alassane N'Diaye,AC Ajaccio,32,midfield,France,150k
+Yanis Cimignani,AC Ajaccio,21,midfield,France,1.20m
+Michaël Barreto,AC Ajaccio,32,midfield,France,400k
+Florian Chabrolle,AC Ajaccio,25,midfield,France,200k
+Youcef Belaïli,AC Ajaccio,31,Attack,Algeria,1.50m
+Kevin Spadanuda,AC Ajaccio,26,Attack,Switzerland,700k
+Jean Botué,AC Ajaccio,20,Attack,Burkina Faso,400k
+Cyrille Bayala,AC Ajaccio,27,Attack,Burkina Faso,900k
+Riad Nouri,AC Ajaccio,38,Attack,France,200k
+Ruan Levine,AC Ajaccio,24,Attack,Brazil,100k
+Mounaïm El Idrissy,AC Ajaccio,24,Attack,France,2.00m
+Moussa Djitté,AC Ajaccio,23,Attack,Senegal,1.50m
+Moussa Soumano,AC Ajaccio,17,Attack,France,900k
+Romain Hamouma,AC Ajaccio,36,Attack,France,400k
+Yoann Touzghar,AC Ajaccio,36,Attack,Tunisia,300k
+Gianluigi Donnarumma,Paris Saint-Germain,24,Goalkeeper,Italy,45.00m
+Sergio Rico,Paris Saint-Germain,29,Goalkeeper,Spain,3.00m
+Lucas Lavallée,Paris Saint-Germain,20,Goalkeeper,France,300k
+Alexandre Letellier,Paris Saint-Germain,32,Goalkeeper,France,300k
+Marquinhos,Paris Saint-Germain,29,Defender,Brazil,65.00m
+Presnel Kimpembe,Paris Saint-Germain,27,Defender,France,28.00m
+El Chadaille Bitshiabu,Paris Saint-Germain,18,Defender,France,7.00m
+Sergio Ramos,Paris Saint-Germain,37,Defender,Spain,4.50m
+Nuno Mendes,Paris Saint-Germain,21,Defender,Portugal,65.00m
+Juan Bernat,Paris Saint-Germain,30,Defender,Spain,10.00m
+Serif Nhaga,Paris Saint-Germain,17,Defender,Portugal,150k
+Achraf Hakimi,Paris Saint-Germain,24,Defender,Morocco,65.00m
+Nordi Mukiele,Paris Saint-Germain,25,Defender,France,18.00m
+Timothée Pembélé,Paris Saint-Germain,20,Defender,France,5.00m
+Danilo Pereira,Paris Saint-Germain,31,midfield,Portugal,10.00m
+Vitinha,Paris Saint-Germain,23,midfield,Portugal,42.00m
+Marco Verratti,Paris Saint-Germain,30,midfield,Italy,40.00m
+Fabián Ruiz,Paris Saint-Germain,27,midfield,Spain,32.00m
+Carlos Soler,Paris Saint-Germain,26,midfield,Spain,25.00m
+Warren Zaïre-Emery,Paris Saint-Germain,17,midfield,France,20.00m
+Renato Sanches,Paris Saint-Germain,25,midfield,Portugal,15.00m
+Ismaël Gharbi,Paris Saint-Germain,19,midfield,Spain,5.00m
+Neymar,Paris Saint-Germain,31,Attack,Brazil,60.00m
+Lionel Messi,Paris Saint-Germain,36,Attack,Argentina,35.00m
+Kylian Mbappé,Paris Saint-Germain,24,Attack,France,180.00m
+Hugo Ekitiké,Paris Saint-Germain,21,Attack,France,20.00m
+Ilyes Housni,Paris Saint-Germain,18,Attack,France,3.50m
+Brice Samba,RC Lens,29,Goalkeeper,France,13.00m
+Wuilker Fariñez,RC Lens,25,Goalkeeper,Venezuela,3.50m
+Jean-Louis Leca,RC Lens,37,Goalkeeper,France,200k
+Yannick Pandor,RC Lens,22,Goalkeeper,Comoros,150k
+Kevin Danso,RC Lens,24,Defender,Austria,22.00m
+Facundo Medina,RC Lens,24,Defender,Argentina,22.00m
+Jonathan Gradit,RC Lens,30,Defender,France,5.00m
+Steven Fortes,RC Lens,31,Defender,Cape Verde,400k
+Adrien Louveau,RC Lens,23,Defender,France,100k
+Deiver Machado,RC Lens,29,Defender,Colombia,4.00m
+Massadio Haidara,RC Lens,30,Defender,Mali,3.00m
+Ismaël Boura,RC Lens,22,Defender,France,1.00m
+Julien Le Cardinal,RC Lens,25,Defender,France,2.00m
+Salis Abdul Samed,RC Lens,23,midfield,Ghana,18.00m
+Jean Onana,RC Lens,23,midfield,Cameroon,6.00m
+Lukasz Poreba,RC Lens,23,midfield,Poland,2.00m
+Seko Fofana,RC Lens,28,midfield,Cote d'Ivoire,32.00m
+Mamadou Camara,RC Lens,20,midfield,Senegal,250k
+Yaya Fofana,RC Lens,19,midfield,Mali,150k
+Przemyslaw Frankowski,RC Lens,28,midfield,Poland,9.00m
+Jimmy Cabot,RC Lens,29,midfield,France,3.50m
+Angelo Fulgini,RC Lens,26,midfield,France,9.00m
+David Costa,RC Lens,22,midfield,Portugal,8.00m
+Adrien Thomasson,RC Lens,29,midfield,France,6.00m
+Alexis Claude-Maurice,RC Lens,25,midfield,France,4.50m
+Loïs Openda,RC Lens,23,Attack,Belgium,35.00m
+Adam Buksa,RC Lens,26,Attack,Poland,5.00m
+Florian Sotoca,RC Lens,32,Attack,France,4.00m
+Wesley Saïd,RC Lens,28,Attack,France,2.00m
+Rémy Labeau Lascary,RC Lens,20,Attack,Guadeloupe,500k
+Pau López,Olympique Marseille,28,Goalkeeper,Spain,14.00m
+Rubén Blanco,Olympique Marseille,27,Goalkeeper,Spain,4.00m
+Simon Ngapandouetnbu,Olympique Marseille,20,Goalkeeper,Cameroon,400k
+Chancel Mbemba,Olympique Marseille,28,Defender,DR Congo,20.00m
+Samuel Gigot,Olympique Marseille,29,Defender,France,10.00m
+Leonardo Balerdi,Olympique Marseille,24,Defender,Argentina,10.00m
+Eric Bailly,Olympique Marseille,29,Defender,Cote d'Ivoire,5.00m
+Nuno Tavares,Olympique Marseille,23,Defender,Portugal,18.00m
+Sead Kolasinac,Olympique Marseille,30,Defender,Bosnia-Herzegovina,8.00m
+Jonathan Clauss,Olympique Marseille,30,Defender,France,14.00m
+Issa Kaboré,Olympique Marseille,22,Defender,Burkina Faso,7.00m
+Jordan Veretout,Olympique Marseille,30,midfield,France,16.00m
+Bartug Elmaz,Olympique Marseille,20,midfield,Turkey,300k
+Mattéo Guendouzi,Olympique Marseille,24,midfield,France,25.00m
+Valentin Rongier,Olympique Marseille,28,midfield,France,22.00m
+Azzedine Ounahi,Olympique Marseille,23,midfield,Morocco,12.00m
+Ruslan Malinovskyi,Olympique Marseille,30,midfield,Ukraine,15.00m
+Amine Harit,Olympique Marseille,26,midfield,Morocco,12.00m
+Dimitri Payet,Olympique Marseille,36,midfield,France,1.80m
+Cengiz Ünder,Olympique Marseille,25,Attack,Turkey,20.00m
+Vitinha,Olympique Marseille,23,Attack,Portugal,18.00m
+Alexis Sánchez,Olympique Marseille,34,Attack,Chile,4.00m
+Dogan Alemdar,Stade Rennais FC,20,Goalkeeper,Turkey,4.00m
+Steve Mandanda,Stade Rennais FC,38,Goalkeeper,France,1.00m
+Elias Damergy,Stade Rennais FC,20,Goalkeeper,Tunisia,150k
+Romain Salin,Stade Rennais FC,38,Goalkeeper,France,150k
+Arthur Theate,Stade Rennais FC,23,Defender,Belgium,22.00m
+Warmed Omari,Stade Rennais FC,23,Defender,France,9.00m
+Joe Rodon,Stade Rennais FC,25,Defender,Wales,7.00m
+Jeanuël Belocian,Stade Rennais FC,18,Defender,France,7.00m
+Christopher Wooh,Stade Rennais FC,21,Defender,Cameroon,6.00m
+Adrien Truffert,Stade Rennais FC,21,Defender,France,18.00m
+Birger Meling,Stade Rennais FC,28,Defender,Norway,5.00m
+Hamari Traoré,Stade Rennais FC,31,Defender,Mali,10.00m
+Djed Spence,Stade Rennais FC,22,Defender,England,10.00m
+Lorenz Assignon,Stade Rennais FC,23,Defender,France,5.00m
+Guéla Doué,Stade Rennais FC,20,Defender,Cote d'Ivoire,300k
+Baptiste Santamaria,Stade Rennais FC,28,midfield,France,14.00m
+Lesley Ugochukwu,Stade Rennais FC,19,midfield,France,9.00m
+Lovro Majer,Stade Rennais FC,25,midfield,Croatia,20.00m
+Flavien Tait,Stade Rennais FC,30,midfield,France,6.00m
+Xeka,Stade Rennais FC,28,midfield,Portugal,6.00m
+Benjamin Bourigeaud,Stade Rennais FC,29,midfield,France,18.00m
+Désiré Doué,Stade Rennais FC,18,midfield,France,15.00m
+Martin Terrier,Stade Rennais FC,26,Attack,France,30.00m
+Karl Toko Ekambi,Stade Rennais FC,30,Attack,Cameroon,8.00m
+Ibrahim Salah,Stade Rennais FC,21,Attack,Morocco,3.00m
+Jérémy Doku,Stade Rennais FC,21,Attack,Belgium,28.00m
+Amine Gouiri,Stade Rennais FC,23,Attack,France,35.00m
+Arnaud Kalimuendo,Stade Rennais FC,21,Attack,France,22.00m
+Lucas Chevalier,LOSC Lille,21,Goalkeeper,France,10.00m
+Benoît Costil,LOSC Lille,35,Goalkeeper,France,1.00m
+Adam Jakubech,LOSC Lille,26,Goalkeeper,Slovakia,300k
+Tiago Djaló,LOSC Lille,23,Defender,Portugal,16.00m
+Leny Yoro,LOSC Lille,17,Defender,France,10.00m
+Alexsandro,LOSC Lille,23,Defender,Brazil,5.00m
+José Fonte,LOSC Lille,39,Defender,Portugal,600k
+Gabriel Gudmundsson,LOSC Lille,24,Defender,Sweden,4.50m
+Ismaily,LOSC Lille,33,Defender,Brazil,2.50m
+Bafodé Diakité,LOSC Lille,22,Defender,France,10.00m
+Benjamin André,LOSC Lille,32,midfield,France,9.00m
+Jonas Martin,LOSC Lille,33,midfield,France,1.50m
+André Gomes,LOSC Lille,29,midfield,Portugal,16.00m
+Carlos Baleba,LOSC Lille,19,midfield,Cameroon,5.00m
+Angel Gomes,LOSC Lille,22,midfield,England,16.00m
+Rémy Cabella,LOSC Lille,33,midfield,France,5.00m
+Jonathan Bamba,LOSC Lille,27,Attack,Cote d'Ivoire,20.00m
+Alan Virginius,LOSC Lille,20,Attack,France,4.00m
+Timothy Weah,LOSC Lille,23,Attack,United States,14.00m
+Edon Zhegrova,LOSC Lille,24,Attack,Kosovo,8.00m
+Adam Ounas,LOSC Lille,26,Attack,Algeria,7.00m
+Jonathan David,LOSC Lille,23,Attack,Canada,60.00m
+Mohamed Bayo,LOSC Lille,25,Attack,Guinea,6.00m
+Alexander Nübel,AS Monaco,26,Goalkeeper,Germany,8.00m
+Thomas Didillon,AS Monaco,27,Goalkeeper,France,1.00m
+Yann Lienard,AS Monaco,20,Goalkeeper,France,200k
+Axel Disasi,AS Monaco,25,Defender,France,30.00m
+Guillermo Maripán,AS Monaco,29,Defender,Chile,10.00m
+Malang Sarr,AS Monaco,24,Defender,France,6.00m
+Chrislain Matsima,AS Monaco,21,Defender,France,6.00m
+Yllan Okou,AS Monaco,20,Defender,France,300k
+Caio Henrique,AS Monaco,25,Defender,Brazil,20.00m
+Ismail Jakobs,AS Monaco,23,Defender,Senegal,6.00m
+Vanderson,AS Monaco,22,Defender,Brazil,20.00m
+Ruben Aguilar,AS Monaco,30,Defender,France,7.00m
+Mohamed Camara,AS Monaco,23,midfield,Mali,30.00m
+Soungoutou Magassa,AS Monaco,19,midfield,France,800k
+Youssouf Fofana,AS Monaco,24,midfield,France,25.00m
+Eliot Matazo,AS Monaco,21,midfield,Belgium,7.00m
+Jean Lucas,AS Monaco,25,midfield,Brazil,5.00m
+Aleksandr Golovin,AS Monaco,27,midfield,Russia,28.00m
+Eliesse Ben Seghir,AS Monaco,18,midfield,France,18.00m
+Maghnes Akliouche,AS Monaco,21,midfield,France,6.00m
+Takumi Minamino,AS Monaco,28,Attack,Japan,6.00m
+Krépin Diatta,AS Monaco,24,Attack,Senegal,15.00m
+Gelson Martins,AS Monaco,28,Attack,Portugal,5.00m
+Breel Embolo,AS Monaco,26,Attack,Switzerland,20.00m
+Wissam Ben Yedder,AS Monaco,32,Attack,France,15.00m
+Kevin Volland,AS Monaco,30,Attack,Germany,8.00m
+Myron Boadu,AS Monaco,22,Attack,Netherlands,7.00m
+Anthony Lopes,Olympique Lyon,32,Goalkeeper,Portugal,8.00m
+Rémy Riou,Olympique Lyon,35,Goalkeeper,France,400k
+Kayne Bonnevie,Olympique Lyon,21,Goalkeeper,France,200k
+Castello Lukeba,Olympique Lyon,20,Defender,France,25.00m
+Sinaly Diomandé,Olympique Lyon,22,Defender,Cote d'Ivoire,9.00m
+Dejan Lovren,Olympique Lyon,33,Defender,Croatia,2.50m
+Jérôme Boateng,Olympique Lyon,34,Defender,Germany,800k
+Nicolás Tagliafico,Olympique Lyon,30,Defender,Argentina,9.00m
+Henrique Silva,Olympique Lyon,29,Defender,Brazil,1.00m
+Malo Gusto,Olympique Lyon,20,Defender,France,25.00m
+Saël Kumbedi,Olympique Lyon,18,Defender,France,12.00m
+Johann Lepenant,Olympique Lyon,20,midfield,France,10.00m
+Thiago Mendes,Olympique Lyon,31,midfield,Brazil,5.00m
+Maxence Caqueret,Olympique Lyon,23,midfield,France,25.00m
+Corentin Tolisso,Olympique Lyon,28,midfield,France,14.00m
+Houssem Aouar,Olympique Lyon,24,midfield,Algeria,13.00m
+Mohamed El Arouch,Olympique Lyon,19,midfield,France,2.00m
+Rayan Cherki,Olympique Lyon,19,midfield,France,30.00m
+Jeffinho,Olympique Lyon,23,Attack,Brazil,8.00m
+Bradley Barcola,Olympique Lyon,20,Attack,France,18.00m
+Alexandre Lacazette,Olympique Lyon,32,Attack,France,14.00m
+Moussa Dembélé,Olympique Lyon,26,Attack,France,12.00m
+Amin Sarr,Olympique Lyon,22,Attack,Sweden,8.00m
+Mory Diaw,Clermont Foot 63,30,Goalkeeper,Senegal,2.00m
+Ouparine Djoco,Clermont Foot 63,25,Goalkeeper,France,500k
+Lucas Margueron,Clermont Foot 63,22,Goalkeeper,France,150k
+Alidu Seidu,Clermont Foot 63,23,Defender,Ghana,7.00m
+Mateusz Wieteska,Clermont Foot 63,26,Defender,Poland,3.00m
+Maximiliano Caufriez,Clermont Foot 63,26,Defender,Belgium,2.50m
+Cheick Oumar Konaté,Clermont Foot 63,19,Defender,Mali,1.00m
+Florent Ogier,Clermont Foot 63,34,Defender,France,450k
+Souleymane Cissé,Clermont Foot 63,20,Defender,France,100k
+Neto Borges,Clermont Foot 63,26,Defender,Brazil,4.00m
+Baïla Diallo,Clermont Foot 63,22,Defender,Senegal,200k
+Mehdi Zeffane,Clermont Foot 63,31,Defender,Algeria,450k
+Oliver Kamdem,Clermont Foot 63,20,Defender,France,100k
+Yohann Magnin,Clermont Foot 63,26,midfield,France,2.50m
+Maxime Gonalons,Clermont Foot 63,34,midfield,France,900k
+Johan Gastien,Clermont Foot 63,35,midfield,France,700k
+Yanis Massolin,Clermont Foot 63,20,midfield,France,250k
+Jim Allevinah,Clermont Foot 63,28,midfield,Gabon,2.00m
+Muhammed Cham,Clermont Foot 63,22,midfield,Austria,6.00m
+Saîf-Eddine Khaoui,Clermont Foot 63,28,midfield,Tunisia,2.00m
+Aïman Maurer,Clermont Foot 63,18,midfield,Morocco,800k
+Elbasan Rashani,Clermont Foot 63,30,Attack,Kosovo,2.00m
+Jérémie Bela,Clermont Foot 63,30,Attack,Angola,1.50m
+Grejohn Kyei,Clermont Foot 63,27,Attack,France,2.50m
+Komnen Andric,Clermont Foot 63,27,Attack,Serbia,1.80m
+Kasper Schmeichel,OGC Nice,36,Goalkeeper,Denmark,2.00m
+Marcin Bulka,OGC Nice,23,Goalkeeper,Poland,2.00m
+Teddy Boulhendi,OGC Nice,22,Goalkeeper,Algeria,150k
+Jean-Clair Todibo,OGC Nice,23,Defender,France,30.00m
+Youssouf Ndayishimiye,OGC Nice,24,Defender,Burundi,12.00m
+Mattia Viti,OGC Nice,21,Defender,Italy,7.00m
+Dante,OGC Nice,39,Defender,Brazil,600k
+Melvin Bard,OGC Nice,22,Defender,France,7.00m
+Ayoub Amraoui,OGC Nice,19,Defender,Morocco,2.50m
+Joe Bryan,OGC Nice,29,Defender,England,2.20m
+Jordan Lotomba,OGC Nice,24,Defender,Switzerland,8.00m
+Youcef Atal,OGC Nice,27,Defender,Algeria,7.00m
+Antoine Mendy,OGC Nice,19,Defender,France,1.00m
+Pablo Rosario,OGC Nice,26,midfield,Netherlands,6.00m
+Alexis Beka Beka,OGC Nice,22,midfield,France,4.50m
+Reda Belahyane,OGC Nice,19,midfield,France,300k
+Khéphren Thuram,OGC Nice,22,midfield,France,40.00m
+Hicham Boudaoui,OGC Nice,23,midfield,Algeria,8.00m
+Ross Barkley,OGC Nice,29,midfield,England,6.00m
+Aaron Ramsey,OGC Nice,32,midfield,Wales,2.50m
+Daouda Traoré,OGC Nice,16,midfield,France,100k
+Sofiane Diop,OGC Nice,23,Attack,France,15.00m
+Billal Brahimi,OGC Nice,23,Attack,Algeria,7.00m
+Nicolas Pépé,OGC Nice,28,Attack,Cote d'Ivoire,18.00m
+Badredine Bouanani,OGC Nice,18,Attack,Algeria,6.00m
+Terem Moffi,OGC Nice,24,Attack,Nigeria,20.00m
+Gaëtan Laborde,OGC Nice,29,Attack,France,16.00m
+Yvon Mvogo,FC Lorient,29,Goalkeeper,Switzerland,3.50m
+Julian Pollersbeck,FC Lorient,28,Goalkeeper,Germany,500k
+Vito Mannone,FC Lorient,35,Goalkeeper,Italy,300k
+Teddy Bartouche,FC Lorient,26,Goalkeeper,France,150k
+Montassar Talbi,FC Lorient,25,Defender,Tunisia,8.00m
+Julien Laporte,FC Lorient,29,Defender,France,2.50m
+Bamo Meïté,FC Lorient,21,Defender,Cote d'Ivoire,2.50m
+Maxime Wackers,FC Lorient,25,Defender,France,150k
+Darlin Yongwa,FC Lorient,22,Defender,Cameroon,1.20m
+Vincent Le Goff,FC Lorient,33,Defender,France,1.00m
+Gédéon Kalulu,FC Lorient,25,Defender,DR Congo,5.00m
+Igor Silva,FC Lorient,26,Defender,Brazil,1.50m
+Laurent Abergel,FC Lorient,30,midfield,France,3.00m
+Bonke Innocent,FC Lorient,27,midfield,Nigeria,2.00m
+Jean-Victor Makengo,FC Lorient,25,midfield,France,10.00m
+Ayman Kari,FC Lorient,18,midfield,France,1.00m
+Romain Faivre,FC Lorient,24,midfield,France,10.00m
+Théo Le Bris,FC Lorient,20,midfield,France,3.00m
+Enzo Le Fée,FC Lorient,23,midfield,France,20.00m
+Julien Ponceau,FC Lorient,22,midfield,France,2.50m
+Adil Aouchiche,FC Lorient,20,midfield,France,2.20m
+Yoann Cathline,FC Lorient,20,Attack,France,2.00m
+Stéphane Diarra,FC Lorient,24,Attack,Cote d'Ivoire,2.50m
+Bamba Dieng,FC Lorient,23,Attack,Senegal,8.00m
+Ibrahima Koné,FC Lorient,24,Attack,Mali,4.00m
+Siriné Doucouré,FC Lorient,21,Attack,France,500k
+Yehvann Diouf,Stade Reims,23,Goalkeeper,France,8.00m
+Alexandre Olliero,Stade Reims,27,Goalkeeper,France,600k
+Nicolas Penneteau,Stade Reims,42,Goalkeeper,France,100k
+Florent Duparchy,Stade Reims,23,Goalkeeper,France,100k
+Emmanuel Agbadou,Stade Reims,26,Defender,Cote d'Ivoire,7.50m
+Cheick Keita,Stade Reims,20,Defender,France,1.50m
+Yunis Abdelhamid,Stade Reims,35,Defender,Morocco,700k
+Thibault De Smet,Stade Reims,25,Defender,Belgium,3.00m
+Thomas Foket,Stade Reims,28,Defender,Belgium,5.00m
+Maxime Busi,Stade Reims,23,Defender,Belgium,2.50m
+Marshall Munetsi,Stade Reims,27,midfield,Zimbabwe,9.00m
+Azor Matusiwa,Stade Reims,25,midfield,Netherlands,7.50m
+Jens Cajuste,Stade Reims,23,midfield,Sweden,6.00m
+Dion Lopy,Stade Reims,21,midfield,Senegal,4.00m
+Samuel Koeberlé,Stade Reims,18,midfield,France,250k
+Valentin Atangana Edoa,Stade Reims,17,midfield,France,250k
+Kamory Doumbia,Stade Reims,20,midfield,Mali,2.50m
+Alexis Flips,Stade Reims,23,Attack,France,6.00m
+Arbër Zeneli,Stade Reims,28,Attack,Kosovo,3.50m
+Myziane Maolida,Stade Reims,24,Attack,France,1.50m
+Mitchell van Bergen,Stade Reims,23,Attack,Netherlands,1.20m
+Junya Ito,Stade Reims,30,Attack,Japan,10.00m
+Folarin Balogun,Stade Reims,21,Attack,United States,30.00m
+Kaj Sierhuis,Stade Reims,25,Attack,Netherlands,1.20m
+Noah Jean Holm,Stade Reims,22,Attack,Norway,700k
+Benjamin Lecomte,Montpellier HSC,32,Goalkeeper,France,4.00m
+Dimitry Bertaud,Montpellier HSC,25,Goalkeeper,France,1.50m
+Bingourou Kamara,Montpellier HSC,26,Goalkeeper,Senegal,800k
+Matis Carvalho,Montpellier HSC,24,Goalkeeper,Portugal,300k
+Maxime Estève,Montpellier HSC,21,Defender,France,7.00m
+Kiki Kouyaté,Montpellier HSC,26,Defender,Mali,5.00m
+Christopher Jullien,Montpellier HSC,30,Defender,France,3.50m
+Mamadou Sakho,Montpellier HSC,33,Defender,France,2.50m
+Pedro Mendes,Montpellier HSC,32,Defender,Portugal,1.80m
+Faitout Maouassa,Montpellier HSC,24,Defender,France,6.00m
+Issiaga Sylla,Montpellier HSC,29,Defender,Guinea,2.50m
+Théo Sainte-Luce,Montpellier HSC,24,Defender,France,2.00m
+Thibault Tamas,Montpellier HSC,22,Defender,France,150k
+Falaye Sacko,Montpellier HSC,28,Defender,Mali,4.00m
+Enzo Tchato,Montpellier HSC,20,Defender,Cameroon,2.50m
+Mathías Suárez,Montpellier HSC,27,Defender,Uruguay,300k
+Joris Chotard,Montpellier HSC,21,midfield,France,9.00m
+Jordan Ferri,Montpellier HSC,31,midfield,France,5.00m
+Khalil Fayad,Montpellier HSC,19,midfield,France,4.50m
+Léo Leroy,Montpellier HSC,23,midfield,France,1.20m
+Téji Savanier,Montpellier HSC,31,midfield,France,10.00m
+Stephy Mavididi,Montpellier HSC,25,Attack,England,6.00m
+Béni Makouana,Montpellier HSC,20,Attack,Congo,600k
+Arnaud Nordin,Montpellier HSC,25,Attack,France,7.00m
+Elye Wahi,Montpellier HSC,20,Attack,France,35.00m
+Wahbi Khazri,Montpellier HSC,32,Attack,Tunisia,2.50m
+Valère Germain,Montpellier HSC,33,Attack,France,1.50m
+Yanis Guermouche,Montpellier HSC,22,Attack,Algeria,150k
+Maxime Dupé,FC Toulouse,30,Goalkeeper,France,2.50m
+Kjetil Haug,FC Toulouse,25,Goalkeeper,Norway,400k
+Thomas Himeur,FC Toulouse,22,Goalkeeper,France,150k
+Anthony Rouault,FC Toulouse,22,Defender,France,10.00m
+Rasmus Nicolaisen,FC Toulouse,26,Defender,Denmark,6.00m
+Logan Costa,FC Toulouse,22,Defender,Cape Verde,1.20m
+Kévin Keben,FC Toulouse,19,Defender,Cameroon,400k
+Gabriel Suazo,FC Toulouse,25,Defender,Chile,2.50m
+Oliver Zandén,FC Toulouse,21,Defender,Sweden,1.00m
+Moussa Diarra,FC Toulouse,22,Defender,Mali,800k
+Mikkel Desler,FC Toulouse,28,Defender,Denmark,2.50m
+Warren Kamanzi,FC Toulouse,22,Defender,Norway,1.20m
+Stijn Spierings,FC Toulouse,27,midfield,Netherlands,6.00m
+Branco van den Boomen,FC Toulouse,27,midfield,Netherlands,12.00m
+Brecht Dejaegere,FC Toulouse,32,midfield,Belgium,1.80m
+Vincent Sierro,FC Toulouse,27,midfield,Switzerland,1.50m
+Theocharis Tsingaras,FC Toulouse,22,midfield,Greece,1.20m
+Denis Genreau,FC Toulouse,24,midfield,Australia,1.50m
+Farès Chaïbi,FC Toulouse,20,Attack,Algeria,10.00m
+Veljko Birmancevic,FC Toulouse,25,Attack,Serbia,3.00m
+Rafael Ratão,FC Toulouse,27,Attack,Brazil,2.50m
+Zakaria Aboukhlal,FC Toulouse,23,Attack,Morocco,9.00m
+Thijs Dallinga,FC Toulouse,22,Attack,Netherlands,12.00m
+Rhys Healey,FC Toulouse,28,Attack,England,2.50m
+Ado Onaiwu,FC Toulouse,27,Attack,Japan,1.50m
+Saïd Hamulic,FC Toulouse,22,Attack,Bosnia-Herzegovina,1.50m
+Marco Bizot,Stade Brestois 29,32,Goalkeeper,Netherlands,3.50m
+Joaquín Blázquez,Stade Brestois 29,22,Goalkeeper,Argentina,400k
+Grégoire Coudert,Stade Brestois 29,24,Goalkeeper,France,150k
+Lilian Brassier,Stade Brestois 29,23,Defender,France,5.00m
+Brendan Chardonnet,Stade Brestois 29,28,Defender,France,5.00m
+Achraf Dari,Stade Brestois 29,24,Defender,Morocco,2.00m
+Christophe Hérelle,Stade Brestois 29,30,Defender,Martinique,2.00m
+Josué Escartin,Stade Brestois 29,20,Defender,France,150k
+Jean-Kévin Duverne,Stade Brestois 29,25,Defender,France,4.00m
+Bradley Locko,Stade Brestois 29,21,Defender,France,2.50m
+Kenny Lala,Stade Brestois 29,31,Defender,France,1.50m
+Noah Fadiga,Stade Brestois 29,23,Defender,Senegal,1.20m
+Pierre Lees-Melou,Stade Brestois 29,30,midfield,France,4.00m
+Haris Belkebla,Stade Brestois 29,29,midfield,Algeria,3.00m
+Mahdi Camara,Stade Brestois 29,24,midfield,France,3.00m
+Hugo Magnetti,Stade Brestois 29,25,midfield,France,2.00m
+Félix Lemaréchal,Stade Brestois 29,19,midfield,France,1.00m
+Romain Del Castillo,Stade Brestois 29,27,midfield,France,3.00m
+Mathias Pereira Lage,Stade Brestois 29,26,midfield,France,2.00m
+Jérémy Le Douaron,Stade Brestois 29,25,Attack,France,4.50m
+Franck Honorat,Stade Brestois 29,26,Attack,France,10.00m
+Alberth Elis,Stade Brestois 29,27,Attack,Honduras,2.50m
+Karamoko Dembélé,Stade Brestois 29,20,Attack,England,500k
+Taïryk Arconte,Stade Brestois 29,19,Attack,France,500k
+Steve Mounié,Stade Brestois 29,28,Attack,Benin,5.00m
+Loïc Rémy,Stade Brestois 29,36,Attack,France,150k
+Matz Sels,RC Strasbourg Alsace,31,Goalkeeper,Belgium,7.00m
+Eiji Kawashima,RC Strasbourg Alsace,40,Goalkeeper,Japan,150k
+Robin Risser,RC Strasbourg Alsace,18,Goalkeeper,France,150k
+Alexandre Pierre,RC Strasbourg Alsace,22,Goalkeeper,Haiti,100k
+Alexander Djiku,RC Strasbourg Alsace,28,Defender,Ghana,8.00m
+Ismaël Doukouré,RC Strasbourg Alsace,19,Defender,France,6.00m
+Gerzino Nyamsi,RC Strasbourg Alsace,26,Defender,France,5.00m
+Lucas Perrin,RC Strasbourg Alsace,24,Defender,France,3.00m
+Maxime Le Marchand,RC Strasbourg Alsace,33,Defender,France,1.00m
+Franci Bouebari,RC Strasbourg Alsace,19,Defender,France,250k
+Eduard Sobol,RC Strasbourg Alsace,28,Defender,Ukraine,2.50m
+Thomas Delaine,RC Strasbourg Alsace,31,Defender,France,1.20m
+Colin Dagba,RC Strasbourg Alsace,24,Defender,France,4.50m
+Frédéric Guilbert,RC Strasbourg Alsace,28,Defender,France,4.50m
+Habib Diarra,RC Strasbourg Alsace,19,midfield,France,10.00m
+Ibrahima Sissoko,RC Strasbourg Alsace,25,midfield,France,6.00m
+Jean-Eudes Aholou,RC Strasbourg Alsace,29,midfield,Cote d'Ivoire,2.50m
+Jean-Ricner Bellegarde,RC Strasbourg Alsace,25,midfield,France,10.00m
+Morgan Sanson,RC Strasbourg Alsace,28,midfield,France,6.00m
+Sanjin Prcic,RC Strasbourg Alsace,29,midfield,Bosnia-Herzegovina,3.00m
+Dimitri Liénard,RC Strasbourg Alsace,35,midfield,France,500k
+Yuito Suzuki,RC Strasbourg Alsace,21,midfield,Japan,600k
+Nordine Kandil,RC Strasbourg Alsace,21,midfield,Morocco,400k
+Habib Diallo,RC Strasbourg Alsace,28,Attack,Senegal,18.00m
+Kévin Gameiro,RC Strasbourg Alsace,36,Attack,France,1.20m
+Lebo Mothiba,RC Strasbourg Alsace,27,Attack,South Africa,1.20m
+Alban Lafont,FC Nantes,24,Goalkeeper,France,16.00m
+Rémy Descamps,FC Nantes,27,Goalkeeper,France,700k
+Denis Petric,FC Nantes,35,Goalkeeper,Slovenia,150k
+João Victor,FC Nantes,24,Defender,Brazil,7.00m
+Andrei Girotto,FC Nantes,31,Defender,Brazil,4.00m
+Jean-Charles Castelletto,FC Nantes,28,Defender,Cameroon,3.50m
+Nicolas Pallois,FC Nantes,35,Defender,France,900k
+Robin Voisine,FC Nantes,21,Defender,France,150k
+Quentin Merlin,FC Nantes,21,Defender,France,7.00m
+Jaouen Hadjam,FC Nantes,20,Defender,Algeria,2.00m
+Charles Traoré,FC Nantes,31,Defender,Mali,600k
+Fabien Centonze,FC Nantes,27,Defender,France,4.00m
+Sébastien Corchia,FC Nantes,32,Defender,France,1.00m
+Pedro Chirivella,FC Nantes,26,midfield,Spain,6.00m
+Lohann Doucet,FC Nantes,20,midfield,France,700k
+Samuel Moutoussamy,FC Nantes,26,midfield,DR Congo,5.00m
+Moussa Sissoko,FC Nantes,33,midfield,France,2.50m
+Ludovic Blas,FC Nantes,25,midfield,France,20.00m
+Florent Mollet,FC Nantes,31,midfield,France,2.00m
+Gor Manvelyan,FC Nantes,21,midfield,France,400k
+Samuel Yépié Yépié,FC Nantes,20,midfield,France,150k
+Moses Simon,FC Nantes,27,Attack,Nigeria,8.00m
+Marcus Coco,FC Nantes,27,Attack,France,1.20m
+Andy Delort,FC Nantes,31,Attack,Algeria,7.00m
+Mostafa Mohamed,FC Nantes,25,Attack,Egypt,6.00m
+Evann Guessand,FC Nantes,21,Attack,France,4.50m
+Ignatius Ganago,FC Nantes,24,Attack,Cameroon,4.00m
+Ionut Radu,AJ Auxerre,26,Goalkeeper,Romania,3.50m
+Donovan Léon,AJ Auxerre,30,Goalkeeper,French Guiana,500k
+Théo De Percin,AJ Auxerre,22,Goalkeeper,Martinique,150k
+Vincenzo Cozzella,AJ Auxerre,21,Goalkeeper,Italy,100k
+Isaak Touré,AJ Auxerre,20,Defender,France,6.00m
+Jubal,AJ Auxerre,29,Defender,Brazil,2.00m
+Théo Pellenard,AJ Auxerre,29,Defender,France,1.00m
+Julian Jeanvier,AJ Auxerre,31,Defender,Guinea,800k
+Denys Bain,AJ Auxerre,29,Defender,France,500k
+Gideon Mensah,AJ Auxerre,24,Defender,Ghana,2.50m
+Kenji-Van Boto,AJ Auxerre,27,Defender,Madagascar,400k
+Akim Zedadka,AJ Auxerre,28,Defender,Algeria,2.50m
+Han-Noah Massengo,AJ Auxerre,21,midfield,France,5.00m
+Elisha Owusu,AJ Auxerre,25,midfield,Ghana,2.00m
+Birama Touré,AJ Auxerre,31,midfield,Mali,1.80m
+Rayan Raveloson,AJ Auxerre,26,midfield,Madagascar,1.80m
+Ousoumane Camara,AJ Auxerre,24,midfield,France,150k
+Natanaël Bouekou,AJ Auxerre,21,midfield,France,100k
+Kays Ruiz-Atil,AJ Auxerre,20,midfield,Morocco,800k
+Gaëtan Perrin,AJ Auxerre,27,midfield,France,1.20m
+Hamza Sakhi,AJ Auxerre,27,midfield,Morocco,2.00m
+Youssouf M'Changama,AJ Auxerre,32,midfield,Comoros,900k
+Mathias Autret,AJ Auxerre,32,midfield,France,800k
+Kévin Danois,AJ Auxerre,19,midfield,France,100k
+Siriki Dembélé,AJ Auxerre,26,Attack,Scotland,2.00m
+Rémy Dugimont,AJ Auxerre,36,Attack,France,100k
+Gauthier Hein,AJ Auxerre,26,Attack,France,2.00m
+Lassine Sinayoko,AJ Auxerre,23,Attack,Mali,1.20m
+Matthis Abline,AJ Auxerre,20,Attack,France,4.50m
+M'Baye Niang,AJ Auxerre,28,Attack,Senegal,2.50m
+Nuno Da Costa,AJ Auxerre,32,Attack,Cape Verde,1.00m
+Ousmane Camara,AJ Auxerre,21,Attack,Guinea,150k
+Idjessi Metsoko,AJ Auxerre,21,Attack,Togo,100k
+Benjamin Leroy,AC Ajaccio,34,Goalkeeper,France,500k
+François-Joseph Sollacaro,AC Ajaccio,29,Goalkeeper,France,300k
+Ghjuvanni Quilichini,AC Ajaccio,20,Goalkeeper,France,150k
+Oumar Gonzalez,AC Ajaccio,25,Defender,Cameroon,2.50m
+Clément Vidal,AC Ajaccio,23,Defender,France,1.80m
+Fernand Mayembo,AC Ajaccio,27,Defender,Congo,600k
+Cédric Avinel,AC Ajaccio,36,Defender,Guadeloupe,250k
+Ismaël Diallo,AC Ajaccio,26,Defender,Cote d'Ivoire,1.50m
+Youssouf Koné,AC Ajaccio,27,Defender,Mali,1.50m
+Chaker Alhadhur,AC Ajaccio,31,Defender,Comoros,150k
+Mickaël Alphonse,AC Ajaccio,33,Defender,Guadeloupe,250k
+Mohamed Youssouf,AC Ajaccio,35,Defender,Comoros,200k
+Vincent Marchetti,AC Ajaccio,25,midfield,France,2.50m
+Thomas Mangani,AC Ajaccio,36,midfield,France,400k
+Mathieu Coutadeur,AC Ajaccio,37,midfield,France,200k
+Alassane N'Diaye,AC Ajaccio,32,midfield,France,150k
+Yanis Cimignani,AC Ajaccio,21,midfield,France,1.20m
+Michaël Barreto,AC Ajaccio,32,midfield,France,400k
+Florian Chabrolle,AC Ajaccio,25,midfield,France,200k
+Youcef Belaïli,AC Ajaccio,31,Attack,Algeria,1.50m
+Kevin Spadanuda,AC Ajaccio,26,Attack,Switzerland,700k
+Jean Botué,AC Ajaccio,20,Attack,Burkina Faso,400k
+Cyrille Bayala,AC Ajaccio,27,Attack,Burkina Faso,900k
+Riad Nouri,AC Ajaccio,38,Attack,France,200k
+Ruan Levine,AC Ajaccio,24,Attack,Brazil,100k
+Mounaïm El Idrissy,AC Ajaccio,24,Attack,France,2.00m
+Moussa Djitté,AC Ajaccio,23,Attack,Senegal,1.50m
+Moussa Soumano,AC Ajaccio,17,Attack,France,900k
+Romain Hamouma,AC Ajaccio,36,Attack,France,400k
+Yoann Touzghar,AC Ajaccio,36,Attack,Tunisia,300k
+Gauthier Gallon,ESTAC Troyes,30,Goalkeeper,France,2.00m
+Mateusz Lis,ESTAC Troyes,26,Goalkeeper,Poland,900k
+Jessy Moulin,ESTAC Troyes,37,Goalkeeper,France,200k
+Jackson Porozo,ESTAC Troyes,22,Defender,Ecuador,3.00m
+Erik Palmer-Brown,ESTAC Troyes,26,Defender,United States,2.50m
+Yoann Salmier,ESTAC Troyes,30,Defender,French Guiana,2.00m
+Tanguy Zoukrou,ESTAC Troyes,20,Defender,France,1.00m
+Adil Rami,ESTAC Troyes,37,Defender,France,250k
+Eric N'Jo,ESTAC Troyes,19,Defender,France,200k
+Yasser Larouci,ESTAC Troyes,22,Defender,France,3.50m
+Abdu Conté,ESTAC Troyes,25,Defender,Portugal,2.00m
+Thierno Baldé,ESTAC Troyes,21,Defender,France,4.00m
+Andreas Bruus,ESTAC Troyes,24,Defender,Denmark,2.00m
+Lucien Agoumé,ESTAC Troyes,21,midfield,France,7.00m
+Rominigue Kouamé,ESTAC Troyes,26,midfield,Mali,4.50m
+Florian Tardieu,ESTAC Troyes,31,midfield,France,2.00m
+Xavier Chavalerin,ESTAC Troyes,32,midfield,France,1.50m
+Ante Palaversa,ESTAC Troyes,23,midfield,Croatia,700k
+Jeff Reine-Adélaïde,ESTAC Troyes,25,midfield,France,5.00m
+Alexis Tibidi,ESTAC Troyes,19,Attack,France,2.00m
+Papa Ndiaga Yade,ESTAC Troyes,23,Attack,Senegal,1.20m
+Levi Lumeka,ESTAC Troyes,24,Attack,England,200k
+Wilson Odobert,ESTAC Troyes,18,Attack,France,6.00m
+Rony Lopes,ESTAC Troyes,27,Attack,Portugal,4.00m
+Renaud Ripart,ESTAC Troyes,30,Attack,France,2.50m
+Mama Baldé,ESTAC Troyes,27,Attack,Guinea-Bissau,8.00m
+Iké Ugbo,ESTAC Troyes,24,Attack,Canada,3.00m
+Mykola Kukharevych,ESTAC Troyes,21,Attack,Ukraine,500k
+Paul Bernardoni,Angers SCO,26,Goalkeeper,France,2.50m
+Yahia Fofana,Angers SCO,22,Goalkeeper,France,2.00m
+Melvin Zinga,Angers SCO,21,Goalkeeper,France,100k
+Théo Borne,Angers SCO,20,Goalkeeper,France,100k
+Cédric Hountondji,Angers SCO,29,Defender,Benin,2.00m
+Miha Blazic,Angers SCO,30,Defender,Slovenia,1.80m
+Ousmane Camara,Angers SCO,20,Defender,France,1.50m
+Souleyman Doumbia,Angers SCO,26,Defender,Cote d'Ivoire,2.50m
+Faouzi Ghoulam,Angers SCO,32,Defender,Algeria,900k
+Yan Valery,Angers SCO,24,Defender,Tunisia,2.00m
+Halid Sabanovic,Angers SCO,23,Defender,Bosnia-Herzegovina,700k
+Abdoulaye Bamba,Angers SCO,33,Defender,Cote d'Ivoire,400k
+Ali Kalla,Angers SCO,25,Defender,France,100k
+Batista Mendy,Angers SCO,23,midfield,France,3.00m
+Zinédine Ould Khaled,Angers SCO,23,midfield,France,200k
+Nabil Bentaleb,Angers SCO,28,midfield,Algeria,7.00m
+Yassin Belkhdim,Angers SCO,21,midfield,Morocco,100k
+Pierrick Capelle,Angers SCO,36,midfield,France,250k
+Himad Abdelli,Angers SCO,23,midfield,Algeria,2.50m
+Jean-Mattéo Bahoya,Angers SCO,18,midfield,France,1.50m
+Waniss Taïbi,Angers SCO,21,midfield,France,500k
+Farid El Melali,Angers SCO,25,Attack,Algeria,600k
+Jason Mbock,Angers SCO,23,Attack,France,150k
+Abdallah Sima,Angers SCO,22,Attack,Senegal,6.00m
+Sada Thioub,Angers SCO,28,Attack,Senegal,1.20m
+Ibrahima Niane,Angers SCO,24,Attack,Senegal,3.00m
+Adrien Hunou,Angers SCO,29,Attack,France,2.50m
+Amine Salama,Angers SCO,22,Attack,France,1.50m
+Loïs Diony,Angers SCO,30,Attack,France,900k
+Ulrick Eneme-Ella,Angers SCO,22,Attack,Gabon,200k

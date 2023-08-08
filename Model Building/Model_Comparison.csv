@@ -1,0 +1,6 @@
+Models,Attacker,Midfielder,Defender
+Decision Tree,11070549.96,10140349.22,6512191.82
+Random Forest,9949750.28,8731027.74,5726260.2
+ElasticNet Regression,10508535.16,8552402.28,5889581.3
+Support Vector Regression,10662392.84,8952032.04,6233440.74
+Gradient Boost,10570997.17,8961478.93,6077214.79
