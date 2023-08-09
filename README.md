@@ -74,7 +74,7 @@ Market Value 2022
 I gathered two transfer values because the statistics of the 2022-2023 season can only determine how much that value has changed since 2022. The value in 2022 is determined from the player’s performance in previous years.
 
 # Scraping Transfermarkt
-Similar to FBREF, the website doesn’t support a download option. Therefore, I implemented some functions with the Beautiful Soup library that allows me to scrape data automatically(See Notebook). The first function is team_names(). This allows me to find the name of each team that’s in each league. Next, using the function team_links(). From the names of each team in a specific league, I was able to get a list of links for these teams. Finally, the function build_df. This function iterates through the links of each team to find and scrape every single player(on that team) and their desired statistics. This process was applied to each league as well as both 2023 and 2022. However in 2022, I only scraped the player names and market values. After scraping, I combined every league’s dataframe and changed the data type of player market values from object to integer. Then,  I subtracted each player’s 2022 market values from their 2023 dataset’s market values to create the final dataset for Transfermarkt.	
+	Similar to FBREF, the website doesn’t support a download option. Therefore, I implemented some functions with the Beautiful Soup library that allows me to scrape data automatically(See Notebook). The first function is team_names(). This allows me to find the name of each team that’s in each league. Next, using the function team_links(). From the names of each team in a specific league, I was able to get a list of links for these teams. Finally, the function build_df. This function iterates through the links of each team to find and scrape every single player(on that team) and their desired statistics. This process was applied to each league as well as both 2023 and 2022. However in 2022, I only scraped the player names and market values. After scraping, I combined every league’s dataframe and changed the data type of player market values from object to integer. Then,  I subtracted each player’s 2022 market values from their 2023 dataset’s market values to create the final dataset for Transfermarkt.
 
 # Cleaning(Notebook)
 Before combining the player statistics from FBREF and Transfermarkt, I had to fix some issues and formats. First, I used the unicode encoder to remove all special characters in players’ names. After that, I noticed that on FBREF, the player’s last name was listed first, and first name was listed second. I had to swap every single player’s first and last name. Then I checked for duplicated names and dropped every single duplicated player names. For the players that played on two different teams in one season. I kept the row that played the most games and dropped the other. Finally, I combined the two datasets and obtained my final dataset. Phew!
@@ -180,5 +180,92 @@ What’s next?
 Although the model performed well, it can definitely be improved to perform at a higher level. One major obstacle that I need to pass is data scraping. The more data that I have, the more accurate my models are and the more options I have in terms of grouping players. Therefore, the first step of improvement is to develop a more efficient way to scrape data from FBREF and Transfermarkt.
 
 # Player Performance Projection
+To simplify the recommendation model, I have decided to summarize player’s statistics into 5 different performance values. They are: Shooting, Passing, Dribbling, Defending, and Physical. To develop a mathematical model that effectively evaluates the players’ performance, I combined personal knowledge, expert evaluation methods, and the reference of how Fifa made their ratings.
+
+The different statistics are first scaled from 0 to 99 then each stats is computed as the following:
+Shooting = 0.30*Shots On Target / Matches Played + 0.45*Goals / Matches Played + 0.15*Goals Per Shot + 0.05*Penalties Made / Matches Played + 0.05*'Shots From Freekicks / Matches Played
+
+Passing = 0.45*Assists / Matches Played + 0.05*Passes Completed / Matches Played + 0.025*'Progressive Passing Distance / Matches Played + 0.025*Total Passing Distance / Matches Played + 0.45*Shot-Creating Actions/90
+Dribbling = 0.40*SCA Take-ons / Matches Played + 0.40*Goal Take-ons / Matches Played + 0.10*Shot-Creating Actions/90 + 0.10*Goal-Creating Actions/90
+
+Defending = 0.20*Successful Challenge %*Challenges / Matches Played + 0.20*Tackles Won / Matches Played + 0.20*Interceptions / Matches Played + 0.15*Clearances / Matches Played + 0.20*Blocks / Matches Played - 0.05*Errors / Matches Played
+
+Physical = 0.20*Yellow Cards / Matches Played + 0.20*Red Cards / Matches Played + 0.20*Tackles / Matches Played + 0.20*Challenges / Matches Played + 0.10*SCA Defense / Matches Played + 0.10*Goal Defense / Matches Played
+
+Afterwards, I factored in the matches played to ensure players’ who played more matches would rank higher than players who played few matches but did well in all of them. Matches played are worth 40%.
 
 
+Shooting = 0.40*Matches Played + 0.60*Shooting
+Passing = 0.40*Matches Played + 0.60*Passing
+Dribbling = 0.40*Matches Played + 0.60*Dribbling
+Defending = 0.40*Matches Played + 0.60*Defending
+Physical = 0.40*Matches Played + 0.60*Physical
+
+Finally, I scaled all performance values from 0 to 99 to get the initial performance ratings.
+
+From then, after looking and evaluating many players’ ratings, I noticed that defenders’ ratings needed adjustments. I decided to scale defenders’ shooting by 0.80, dribbling by 0.90, passing by 1.05, physical by +20 if less than 75 and greater 50, and physical by +45 if less than 50. I also scaled midfielders’ passing by 1.03.
+
+From that, I added league weights to boost higher competitive leagues’ defenders since they generally have lower defense and pass ratings since they are facing stronger attackers. The leagues I scaled are the five big leagues. Premier League, La Liga, Serie A, Bundesliga, and Ligue 1. For defense ratings lower than 70 but greater than 50, I scaled them by +20. If defense ratings are less than 50, I scaled them by +48. For pass ratings, lower than 70 but greater than 50, I scaled them by +10. If pass ratings are lower than 50, I scaled them by +35.
+
+Interestingly, many of my players’ stats are really similar to their fifa ratings. Most ratings are off between 5 - 10 with some being very close 0-5 and some 10 - 15. For example, here is the Fifa 23 comparison to some of the most popular soccer stars right now. 
+Attackers:
+Erling Haaland, Kylian Mbappe
+				    
+My projections:
+Haaland: Shooting 95.93, Passing 65.11, Dribbling 84.18, Defending 41.95, Physical 88.06
+Mbappe: Shooting 90.13, Passing 77.61, Dribbling 91.75, Defending 42.61, Physical 85.70
+Lewandowski: Shooting 88.15, Passing 67.05, Dribbling 83.74, Defending 45.48, Physical 86.29
+
+Midfielders:
+Jude Bellingham, Kevin De Bruyne, Jamal Musiala
+	  	     
+My projections:
+Bellingham: Shooting 75.36, Passing 72.96, Dribbling 83.03, Defending, 72.51, Physical 81.05
+De Bruyne: Shooting 77.40, Passing 92.16, Dribbling 89.73, Defending 45.85, Physical 81.1
+Musiala: Shooting 83.75, Passing 81.57, Dribbling 90.51, Defending 46.78, Physical 84.02
+
+Defenders:
+Ruben Dias, Eder Militao, Virgil Van Dijk
+		     
+My projections:
+Dias: Shooting 45.17, Passing 78.94, Dribbling 52.2, Defending 91.94, Physical 85.45
+Militao: Shooting 67.73, Passing 79.91, Dribbling 66.71, Defending	 89.91, Physical 84.07
+Van Dijk: Shooting 60.55, Passing 79.14, Dribbling 64.54, Defending 92.14, Physical 80.76
+
+For more player statistics, check out my streamlit app here.
+
+## Projection Improvements
+Scaling each league’s players individually and then adding the coefficient of the competitiveness of each league. Right now, I don’t have enough data points to make this technique effective. I could expand the dataset by improving my scraper to include players from more leagues.
+The players in the dataset determine how the scalar works. If the dataset were to be changed, the entire project would end up different. I should select at least 60 players for each league(20 attackers, 20 midfielders, 20 defenders) that effectively represent high performance, low performance and mid performance for each position in each league.
+Collaborate with soccer experts/analysts for a better coefficient determination as well as taking more performance stats into account
+
+# Recommendation Model
+I approached this model by finding the similarities between performance vectors. Since I have 5 different performance ratings, each player’s ratings will be graphed into a vector in the 5D plane. To determine how similar the factors are, I used k-Nearest Neighbors’ Euclidean distance and cosine similarity metrics.
+
+## Euclidean Distance
+Formula:
+	
+
+What it does:
+Since euclidean distance finds the closeness of neighboring points, it determines how similar the players’ ratings are to one another. This means that the most similar player(s) will be the players at the most similar performance level.
+
+Usage:
+The player that has similar performance with Erling Haaland is Alvaro Morata. This is accurate because Morata is currently being wanted by Inter Milan, AS Roma, AC Milan and Juventus (July 2023). All big clubs.
+
+## Cosine Similarity
+Formula:
+
+
+What it does:
+Since cosine similarity measures how aligned the directions of neighboring points are, it determines how similar the players' rating’s distributions are with one another. This means that the most similar player(s) will be the players with the most similar playstyle.
+
+Usage:
+The player that has a similar playstyle with Robert Lewandowski is Dusan Vlahovic. This is accurate because Lewandowski’s former club, Bayern Munich, is keeping Vlahovic as a potential Lewandowski replacement(July 2023). Showing that like Lewandowski, Vlahovic also fits Bayern’s playing scheme.
+
+
+
+Fun Prediction
+Here is who I predict will become the next Ronaldo
+
+Kevin Paredes! He is USMNT’s new teenage star!. 20 Years Old Left Mid!
+ 		
