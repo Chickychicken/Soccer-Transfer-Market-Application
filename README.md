@@ -1,6 +1,7 @@
 # Soccer Transfer Market Application
+![Alt text](screenshots/cover.jpeg)
 
-Project by Bofei He
+Project by [Bofei He](https://www.linkedin.com/in/bofei-tony-he/)
 
 # Table of Contents
 - Introduction
@@ -14,6 +15,8 @@ Project by Bofei He
 # Introduction
 The football industry has experienced an unprecedented surge in revenue, driven by lucrative sponsorship deals, TV broadcasting contracts, and substantial investments from affluent team owners. Consequently, the soccer transfer market has witnessed an astronomical inflation of player valuations over the past decade. However, the year 2023 proved to be a defining moment when the Saudi Arabian League clubs made headlines by surpassing all prior records with astonishing offers. Among these was a groundbreaking proposal to Kylian Mbappe, a renowned football sensation, with an audacious reported annual salary of £700 million. This remarkable transfer not only set a new benchmark for player valuations but also triggered a paradigm shift, reshaping the dynamics of the entire market.
 
+![Alt text](screenshots/manager.webp)
+
 Amidst this backdrop of financial extravagance and soaring player prices, there arises an imperative for innovative solutions to navigate this ever-evolving soccer transfer landscape effectively. In response to these challenges and opportunities, we embarked on the development of a pioneering Soccer Transfer Market Application. This application aims to revolutionize how clubs, agents, and football enthusiasts interact with player data. Through this report, we delve into the design, development, and key functionalities of our Soccer Transfer Market Application, shedding light on the methodologies utilized in its creation. We aim to provide valuable insights into the transformative soccer transfer landscape, underscoring the significance of data-driven decision-making in this hypercompetitive domain, ultimately empowering stakeholders to make more informed and strategic player transfer decisions.
 
 # Obtaining Data
@@ -23,7 +26,7 @@ In this project, two sources of data was scraped and used:
 - [Transfermarkt](https://www.transfermarkt.co.uk/) - Information regarding player transfer values
 
 # [FBREF](https://fbref.com/en/)
-
+![Alt text](screenshots/fbref.png)
 FBREF is a widely popular website offering comprehensive statistical data for football matches, leagues, and players from various competitions worldwide. With an extensive database covering major domestic leagues, international tournaments, and continental games, FBREF provides in-depth player and team statistics, including goals, assists, shots, passes, tackles, interceptions, and advanced metrics like expected goals (xG) and expected assists (xA).
 
 While the website does consist of data for player performances from many leagues across the globe, the leagues that had the most comprehensive data were the Premier League, La liga, Serie A, Bundesliga, Ligue 1, Liga Portugal, Eredivisie, Süper Lig, and Jupiler Pro League. Hence, I will be gathering data from each of the 9 leagues over the 2022-2023 season.
@@ -63,6 +66,7 @@ Below is an overview of the remaining datasets:
 Since the website no longer supports an easy option to download the data, I implemented two functions with the Beautiful Soup library that allows me to scrape data automatically(See Notebook). The first function is called get_league_links(). When given the link of each league’s page, It locates and returns the link of each individual team in that league. Then, I implemented the scrape_players() function. This function iterates through each team’s link to locate and scrape out every player’s name and statistics from each of the tables highlighted above. After each league’s link was scraped, I combined and exported them into one csv file.
 
 # [Transfermarkt](https://www.transfermarkt.co.uk/)
+![Alt text](screenshots/transfermarkt.png)
 Transfermarkt is a prominent online platform for football enthusiasts, offering a comprehensive database of transfer news, player valuations, statistics, and market trends. Founded in Germany in 2000, it has become one of the largest football databases globally, providing estimated market values for players, up-to-date transfer news and rumors, detailed player and club profiles, market value development tracking, transfer history, and national team statistics. Transfermarkt serves as an invaluable resource for football fans, clubs, agents, and journalists seeking insights into player values, transfer activities, and the latest happenings in the footballing world.
 
 The information that I gathered from this website are:
@@ -79,6 +83,7 @@ I gathered two transfer values because the statistics of the 2022-2023 season ca
 Similar to FBREF, the website doesn’t support a download option. Therefore, I implemented some functions with the Beautiful Soup library that allows me to scrape data automatically(See Notebook). The first function is team_names(). This allows me to find the name of each team that’s in each league. Next, using the function team_links(). From the names of each team in a specific league, I was able to get a list of links for these teams. Finally, the function build_df. This function iterates through the links of each team to find and scrape every single player(on that team) and their desired statistics. This process was applied to each league as well as both 2023 and 2022. However in 2022, I only scraped the player names and market values. After scraping, I combined every league’s dataframe and changed the data type of player market values from object to integer. Then,  I subtracted each player’s 2022 market values from their 2023 dataset’s market values to create the final dataset for Transfermarkt.
 
 # Cleaning([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/tree/main/Cleaning))
+![Alt text](screenshots/cleaning.jpeg)
 Before combining the player statistics from FBREF and Transfermarkt, I had to fix some issues and formats. First, I used the unicode encoder to remove all special characters in players’ names. After that, I noticed that on FBREF, the player’s last name was listed first, and first name was listed second. I had to swap every single player’s first and last name. Then I checked for duplicated names and dropped every single duplicated player names. For the players that played on two different teams in one season. I kept the row that played the most games and dropped the other. Finally, I combined the two datasets and obtained my final dataset. Phew!
 
 ## Scraping and Cleaning Improvements
@@ -87,6 +92,7 @@ Some improve in scraping and cleaning include:
 - Combining the stats and matches played for duplicated players. This is hard to do because some stats are per 90 minutes or percentages so I have to recompute these stats from other stats.
 
 # Market Value Model Training and Testing
+![Alt text](screenshots/modeltrainingtesting.png)
 ## Workflow
 Given my assumption that player values are likely determined by different attributes based on their playing position, a model was built for each of the 3 positions: attackers, midfielder and defenders. In each notebook, it can be seen that a modeling workflow to predict transfer values was first created for the attacking players’ dataset. Once a workflow had been established, the same process of modeling steps and printing results was repeated for midfielders and defenders.
 
@@ -203,6 +209,7 @@ Although the models did a decent job at predicting the awards, there are many dr
 Although the model performed well, it can definitely be improved to perform at a higher level. One major obstacle that I need to pass is data scraping. The more data that I have, the more accurate my models are and the more options I have in terms of grouping players. Therefore, the first step of improvement is to develop a more efficient way to scrape data from FBREF and Transfermarkt.
 
 # Player Performance Projection([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Similarity%20Model/attribute_evaluation.ipynb))
+![Alt text](screenshots/performance.jpeg)
 To simplify the recommendation model, I have decided to summarize player’s statistics into 5 different performance values. They are: Shooting, Passing, Dribbling, Defending, and Physical.
 
 To develop a mathematical model that effectively evaluates the players’ performance, I combined personal knowledge, expert evaluation methods, and the reference of how Fifa made their ratings.
@@ -266,6 +273,7 @@ For more player statistics, check out my streamlit app here.
 3. Collaborate with soccer experts/analysts for a better coefficient determination as well as taking more performance stats into account
 
 # Recommendation Model([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Similarity%20Model/similarity.ipynb))
+![Alt text](screenshots/recommendation.jpeg)
 I approached this model by finding the similarities between performance vectors. Since I have 5 different performance ratings, each player’s ratings will be graphed into a vector in the 5D plane. To determine how similar the factors are, I used k-Nearest Neighbors’ Euclidean distance and cosine similarity metrics.
 
 ## Euclidean Distance
