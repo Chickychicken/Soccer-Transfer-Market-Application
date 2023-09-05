@@ -294,7 +294,13 @@ The player that has a similar playstyle with Robert Lewandowski is Dusan Vlahovi
 ### Fun Prediction
 Here is who I predict will become the next Ronaldo
 ![Alt text](screenshots/p_fun.png)
-Kevin Paredes! He is USMNT’s new teenage star!. 20 Years Old Left Mid!
+
+Kevin Paredes! 
+
+He is USMNT’s new teenage star! 
+
+20 Years Old Left Mid!
+
 ![Alt text](screenshots/KevinParades.png)
 
 
