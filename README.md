@@ -19,10 +19,11 @@ Amidst this backdrop of financial extravagance and soaring player prices, there 
 # Obtaining Data
 
 In this project, two sources of data was scraped and used:
-- FBREF - Detailed on-feild statistics of player performance
-- Transfermarkt - Information regarding player transfer values
+- [FBREF](https://fbref.com/en/) - Detailed on-feild statistics of player performance
+- [Transfermarkt](https://www.transfermarkt.co.uk/) - Information regarding player transfer values
 
-FBREF
+# [FBREF](https://fbref.com/en/)
+
 FBREF is a widely popular website offering comprehensive statistical data for football matches, leagues, and players from various competitions worldwide. With an extensive database covering major domestic leagues, international tournaments, and continental games, FBREF provides in-depth player and team statistics, including goals, assists, shots, passes, tackles, interceptions, and advanced metrics like expected goals (xG) and expected assists (xA).
 
 While the website does consist of data for player performances from many leagues across the globe, the leagues that had the most comprehensive data were the Premier League, La liga, Serie A, Bundesliga, Ligue 1, Liga Portugal, Eredivisie, Süper Lig, and Jupiler Pro League. Hence, I will be gathering data from each of the 9 leagues over the 2022-2023 season.
@@ -58,10 +59,10 @@ Below is an overview of the remaining datasets:
 
 - Miscellaneous Stats: Miscellaneous on-field performance information such as number of direct red cards, second yellow cards, fouls committed/drawn, offsides etc.
 
-# Scraping FBREF
+## Scraping FBREF
 Since the website no longer supports an easy option to download the data, I implemented two functions with the Beautiful Soup library that allows me to scrape data automatically(See Notebook). The first function is called get_league_links(). When given the link of each league’s page, It locates and returns the link of each individual team in that league. Then, I implemented the scrape_players() function. This function iterates through each team’s link to locate and scrape out every player’s name and statistics from each of the tables highlighted above. After each league’s link was scraped, I combined and exported them into one csv file.
 
-# Transfermarkt
+# [Transfermarkt](https://www.transfermarkt.co.uk/)
 Transfermarkt is a prominent online platform for football enthusiasts, offering a comprehensive database of transfer news, player valuations, statistics, and market trends. Founded in Germany in 2000, it has become one of the largest football databases globally, providing estimated market values for players, up-to-date transfer news and rumors, detailed player and club profiles, market value development tracking, transfer history, and national team statistics. Transfermarkt serves as an invaluable resource for football fans, clubs, agents, and journalists seeking insights into player values, transfer activities, and the latest happenings in the footballing world.
 
 The information that I gathered from this website are:
@@ -74,18 +75,18 @@ The information that I gathered from this website are:
 
 I gathered two transfer values because the statistics of the 2022-2023 season can only determine how much that value has changed since 2022. The value in 2022 is determined from the player’s performance in previous years.
 
-# Scraping Transfermarkt
+## Scraping Transfermarkt
 Similar to FBREF, the website doesn’t support a download option. Therefore, I implemented some functions with the Beautiful Soup library that allows me to scrape data automatically(See Notebook). The first function is team_names(). This allows me to find the name of each team that’s in each league. Next, using the function team_links(). From the names of each team in a specific league, I was able to get a list of links for these teams. Finally, the function build_df. This function iterates through the links of each team to find and scrape every single player(on that team) and their desired statistics. This process was applied to each league as well as both 2023 and 2022. However in 2022, I only scraped the player names and market values. After scraping, I combined every league’s dataframe and changed the data type of player market values from object to integer. Then,  I subtracted each player’s 2022 market values from their 2023 dataset’s market values to create the final dataset for Transfermarkt.
 
-# Cleaning(Notebook)
+# Cleaning([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/tree/main/Cleaning))
 Before combining the player statistics from FBREF and Transfermarkt, I had to fix some issues and formats. First, I used the unicode encoder to remove all special characters in players’ names. After that, I noticed that on FBREF, the player’s last name was listed first, and first name was listed second. I had to swap every single player’s first and last name. Then I checked for duplicated names and dropped every single duplicated player names. For the players that played on two different teams in one season. I kept the row that played the most games and dropped the other. Finally, I combined the two datasets and obtained my final dataset. Phew!
 
-# Scraping and Cleaning Improvements
+## Scraping and Cleaning Improvements
 Some improve in scraping and cleaning include:
 - Many players were bought from smaller leagues during this period. In addition, many players left bigger leagues. So I lost some data points because of this. Next time, I think I should scrape every single player in 2023 and scrape each of those players’ market value by iterating through their names instead of scraping with team links.
 - Combining the stats and matches played for duplicated players. This is hard to do because some stats are per 90 minutes or percentages so I have to recompute these stats from other stats.
 
-# Value Model Training and Testing
+# Market Value Model Training and Testing
 ## Workflow
 Given my assumption that player values are likely determined by different attributes based on their playing position, a model was built for each of the 3 positions: attackers, midfielder and defenders. In each notebook, it can be seen that a modeling workflow to predict transfer values was first created for the attacking players’ dataset. Once a workflow had been established, the same process of modeling steps and printing results was repeated for midfielders and defenders.
 
@@ -123,18 +124,18 @@ Support Vector Regression:
 
 Below are the performance of each model for each positions:
 
-Decision Tree Regression(Notebook)
+Decision Tree Regression([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/Decision_Tree.ipynb))
 ![Alt text](screenshots/DecisionTree.png)
-Random Forest Regression(Notebook)
+Random Forest Regression([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/Random_Forest.ipynb))
 ![Alt text](screenshots/RandomForest.png)
-Gradient Boost Regression(Notebook)
+Gradient Boost Regression([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/Gradient_Boost.ipynb))
 ![Alt text](screenshots/GradientBoost.png)
-Elastic Net Regression(Notebook)
+Elastic Net Regression([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/ElasticNet_Regression.ipynb))
 ![Alt text](screenshots/ElasticNet.png)
-Support Vector Regression(Notebook)
+Support Vector Regression([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/Support_Vector.ipynb))
 ![Alt text](screenshots/SupportVector.png)
 
-## Model Evaluation(Notebook)
+## Model Evaluation([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/Model_Comparison.ipynb))
 Having concluded modeling for this part of the project, the results for each model were compared to identify which model worked best to predict players’ change in transfer values with the lowest RMSE for each position.
 
 
@@ -167,7 +168,7 @@ Defenders:
 
 For all 3 positions, age approximately doubles the second highest attribute. This means that age is the biggest factor when it comes to predicting how much a player’s market transfer value has changed.
 
-## Model testing
+## Model testing([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Model%20Building/model_testing.ipynb))
 I generated 10 random players from each of the 3 positions to see how their predicted values compare to their actual values. The results are solid.
 
 Attackers
@@ -201,7 +202,7 @@ Although the models did a decent job at predicting the awards, there are many dr
 
 Although the model performed well, it can definitely be improved to perform at a higher level. One major obstacle that I need to pass is data scraping. The more data that I have, the more accurate my models are and the more options I have in terms of grouping players. Therefore, the first step of improvement is to develop a more efficient way to scrape data from FBREF and Transfermarkt.
 
-# Player Performance Projection
+# Player Performance Projection([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Similarity%20Model/attribute_evaluation.ipynb))
 To simplify the recommendation model, I have decided to summarize player’s statistics into 5 different performance values. They are: Shooting, Passing, Dribbling, Defending, and Physical.
 
 To develop a mathematical model that effectively evaluates the players’ performance, I combined personal knowledge, expert evaluation methods, and the reference of how Fifa made their ratings.
@@ -264,7 +265,7 @@ For more player statistics, check out my streamlit app here.
 2. The players in the dataset determine how the scalar works. If the dataset were to be changed, the entire project would end up different. I should select at least 60 players for each league(20 attackers, 20 midfielders, 20 defenders) that effectively represent high performance, low performance and mid performance for each position in each league.
 3. Collaborate with soccer experts/analysts for a better coefficient determination as well as taking more performance stats into account
 
-# Recommendation Model
+# Recommendation Model([Notebook](https://github.com/Chickychicken/Soccer-Transfer-Market-Application/blob/main/Similarity%20Model/similarity.ipynb))
 I approached this model by finding the similarities between performance vectors. Since I have 5 different performance ratings, each player’s ratings will be graphed into a vector in the 5D plane. To determine how similar the factors are, I used k-Nearest Neighbors’ Euclidean distance and cosine similarity metrics.
 
 ## Euclidean Distance
@@ -276,7 +277,7 @@ Since euclidean distance finds the closeness of neighboring points, it determine
 
 Usage:
 
-The player that has similar performance with Erling Haaland is Alvaro Morata. This is accurate because Morata is currently being wanted by Inter Milan, AS Roma, AC Milan and Juventus (July 2023). All big clubs.
+The player that has similar performance with Erling Haaland is Alvaro Morata. This is accurate because Morata is currently being wanted by [Inter Milan, AS Roma, AC Milan and Juventus (July 2023)](https://football-italia.net/inter-roma-milan-and-juve-target-morata-offered-new-atleti-deal/). All big clubs.
 ![Alt text](screenshots/P_Eucli.png)
 
 ## Cosine Similarity
@@ -288,7 +289,7 @@ Since cosine similarity measures how aligned the directions of neighboring point
 
 Usage:
 
-The player that has a similar playstyle with Robert Lewandowski is Dusan Vlahovic. This is accurate because Lewandowski’s former club, Bayern Munich, is keeping Vlahovic as a potential Lewandowski replacement(July 2023). Showing that like Lewandowski, Vlahovic also fits Bayern’s playing scheme.
+The player that has a similar playstyle with Robert Lewandowski is Dusan Vlahovic. This is accurate because Lewandowski’s former club, Bayern Munich, [is keeping Vlahovic as a potential Lewandowski replacement(July 2023)](https://footballtoday.com/2023/07/15/bayern-munich-keeping-tabs-on-dusan-vlahovic/). Showing that like Lewandowski, Vlahovic also fits Bayern’s playing scheme.
 ![Alt text](screenshots/P_cosine.png)
 
 ### Fun Prediction
@@ -297,7 +298,7 @@ Here is who I predict will become the next Ronaldo
 
 Kevin Paredes! 
 
-He is USMNT’s new teenage star! 
+[He is USMNT’s new teenage star!](https://www.goal.com/en-us/news/usmnt-new-teenage-bundesliga-star-his-name-kevin-paredes/blt0eca19a1b39b717d) 
 
 20 Years Old Left Mid!
 
@@ -312,3 +313,4 @@ UNDER CONSTRUCTION
 ![Alt text](screenshots/me.png)
 ### LinkedIn: https://www.linkedin.com/in/bofei-tony-he/
 ### Github: https://github.com/Chickychicken
+### Email: hbofei@gmail.com
