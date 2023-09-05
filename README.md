@@ -65,12 +65,13 @@ Since the website no longer supports an easy option to download the data, I impl
 Transfermarkt is a prominent online platform for football enthusiasts, offering a comprehensive database of transfer news, player valuations, statistics, and market trends. Founded in Germany in 2000, it has become one of the largest football databases globally, providing estimated market values for players, up-to-date transfer news and rumors, detailed player and club profiles, market value development tracking, transfer history, and national team statistics. Transfermarkt serves as an invaluable resource for football fans, clubs, agents, and journalists seeking insights into player values, transfer activities, and the latest happenings in the footballing world.
 
 The information that I gathered from this website are:
-Player Name
-Current Team
-Age
-Position
-Market Value 2023
-Market Value 2022
+- Player Name
+- Current Team
+- Age
+- Position
+- Market Value 2023
+- Market Value 2022
+
 I gathered two transfer values because the statistics of the 2022-2023 season can only determine how much that value has changed since 2022. The value in 2022 is determined from the player’s performance in previous years.
 
 # Scraping Transfermarkt
@@ -81,8 +82,8 @@ Before combining the player statistics from FBREF and Transfermarkt, I had to fi
 
 # Scraping and Cleaning Improvements
 Some improve in scraping and cleaning include:
-Many players were bought from smaller leagues during this period. In addition, many players left bigger leagues. So I lost some data points because of this. Next time, I think I should scrape every single player in 2023 and scrape each of those players’ market value by iterating through their names instead of scraping with team links.
-Combining the stats and matches played for duplicated players. This is hard to do because some stats are per 90 minutes or percentages so I have to recompute these stats from other stats.
+- Many players were bought from smaller leagues during this period. In addition, many players left bigger leagues. So I lost some data points because of this. Next time, I think I should scrape every single player in 2023 and scrape each of those players’ market value by iterating through their names instead of scraping with team links.
+- Combining the stats and matches played for duplicated players. This is hard to do because some stats are per 90 minutes or percentages so I have to recompute these stats from other stats.
 
 # Value Model Training and Testing
 ## Workflow
@@ -91,115 +92,138 @@ Given my assumption that player values are likely determined by different attrib
 ## Models
 Five different models were used to help predict players’ change in transfer values. In each model, the models were first used with their default hyperparameters. The first modeling attempt in each workflow would use the features that are most related to the players’ positions. For example, attackers include goals, shots on target, goal creating actions, and etc. Midfielders include pass completion, assists, total passing distances, and etc. Defenders include interceptions, clearances, tackles, and etc. However, all of these player groups have some attributes in common. These are age and matches played. Once the initial model was run, a second model was run by transforming and removing some variables to avoid collinearity. For transformation, I used the power transformer. For removing variables, I checked the variance inflation factor(VIF) which is a statistical measure used in regression analysis to assess multicollinearity between predictor variables. After that, I conducted a grid search with some hyperparameter tuning to find the best parameters. Finally, the model was fitted with these hyperparameters. To evaluate my model’s performance, Root Mean Square Error(RMSE) was calculated. RMSE is a common metric used to evaluate the performance of a predictive model. It is a measure of the differences between predicted values and actual (observed) values in a dataset. It calculates the square root of the average of the squared differences between predicted and actual values. 
 
+![Alt text](screenshots/RMSE.png)
+
 A lower RMSE indicates that the model's predictions are closer to the actual values, signifying better performance. Conversely, a higher RMSE suggests that the model's predictions deviate more from the actual values, indicating poorer performance.
 
 Here is a list of the models that I used:
-Decision Trees Regression
-Easy to interpret and handle non-linearity well
-Prone to overfitting
-Random Forest Regression
-Improved accuracy since it combines multiple decision trees
-Understanding the exact reasoning behind each prediction is challenging
-Gradient Boost
-Combines predictions of weak learners that reduce bias and variance to improve model performance
-Finding the right combination of hyperparameters can be challenging, and different sets of hyperparameters may result in significantly different model performances. 
-ElasticNet Regression
-Combines strengths of Lasso and Ridge regression to handle high-dimensional datasets
-Lasso helps removes irrelevant features
-Ridge helps reduce the impact of multicollinearity among features
-Improper hyperparameter tuning may lead to suboptimal results, with the model not fully exploiting the benefits of both L1 and L2 regularization.
-Support Vector Regression
-Robust to outliers since it finds hyperplane that best first the majority of data
-Model is very complex and it’s time consuming to find the optimal parameters
+
+Decision Trees Regression:
+
+- Easy to interpret and handle non-linearity well
+- Prone to overfitting
+
+Random Forest Regression:
+- Improved accuracy since it combines multiple decision trees
+- Understanding the exact reasoning behind each prediction is challenging
+
+Gradient Boost:
+- Combines predictions of weak learners that reduce bias and variance to improve model performance
+- Finding the right combination of hyperparameters can be challenging, and different sets of hyperparameters may result in significantly different model performances
+
+ElasticNet Regression:
+- Combines strengths of Lasso and Ridge regression to handle high-dimensional datasets
+    - Lasso helps removes irrelevant features
+    - Ridge helps reduce the impact of multicollinearity among features
+- Improper hyperparameter tuning may lead to suboptimal results, with the model not fully exploiting the benefits of both L1 and L2 regularization
+
+Support Vector Regression:
+- Robust to outliers since it finds hyperplane that best first the majority of data
+- Model is very complex and it’s time consuming to find the optimal parameters
 
 Below are the performance of each model for each positions:
 
-
-
 Decision Tree Regression(Notebook)
-
+![Alt text](screenshots/DecisionTree.png)
 Random Forest Regression(Notebook)
-
+![Alt text](screenshots/RandomForest.png)
 Gradient Boost Regression(Notebook)
-
-
+![Alt text](screenshots/GradientBoost.png)
 Elastic Net Regression(Notebook)
-
+![Alt text](screenshots/ElasticNet.png)
 Support Vector Regression(Notebook)
-
+![Alt text](screenshots/SupportVector.png)
 
 ## Model Evaluation(Notebook)
 Having concluded modeling for this part of the project, the results for each model were compared to identify which model worked best to predict players’ change in transfer values with the lowest RMSE for each position.
 
 
 Random Forest produced the lowest RMSE for attackers
-
+![Alt text](screenshots/RMSEA.png)
 ElasticNet produced the lowest RMSE for midfielders
-
+![Alt text](screenshots/RMSEM.png)
 Random Forest produced the lowest RMSE for defenders
+![Alt text](screenshots/RMSED.png)
+Final result
+![Alt text](screenshots/results.png)
 
 My models have an error of around 6 - 10 million euros. Although defenders’ RMSE is the lowest, defenders are cheaper compared to attackers and midfielders so therefore my models’ performances are around the same regardless of position.
 
 As for the attributes that determines the players’ change in price the most, here are the top 3 for each position:
 Attackers:
-Age
-Goal Creating Actions
-Shots on Target %
+- Age
+- Goal Creating Actions
+- Shots on Target %
+
 Midfielders:
-Age
-Total Passing Distance
-Goals
+- Age
+- Total Passing Distance
+- Goals
+
 Defenders:
-Age
-Progressive Passing Distance
-Successful Challenge %
+- Age
+- Progressive Passing Distance
+- Successful Challenge %
+
 For all 3 positions, age approximately doubles the second highest attribute. This means that age is the biggest factor when it comes to predicting how much a player’s market transfer value has changed.
 
 ## Model testing
 I generated 10 random players from each of the 3 positions to see how their predicted values compare to their actual values. The results are solid.
+
 Attackers
-
+![Alt text](screenshots/Atest.png)
 Midfielders
-
+![Alt text](screenshots/Mtest.png)
 Defenders
+![Alt text](screenshots/Dtest.png)
 
 The results are surprisingly good, especially for defenders! For the players that the predicted value deviates by more than 5 million, they are worth substantially more than the rest of the players to begin with. Since they have higher values to begin with, they have a higher bar on their performance. They are the best among the best so a bad season for them is still better than a good season for the average players. In addition, the model evaluates everyone’s performance the same. This explains why Mo Salah’s value is off by almost 25 million.
 
 ## Conclusion
 Age stands out as the most crucial factor when predicting the change in transfer value across all positions. For attackers and defenders, the Random Forest regression model proves to be the most effective in accurately forecasting value fluctuations. On the other hand, when it comes to midfielders, the ElasticNet model outperforms others in predicting their value changes.
+
 Overall, these models demonstrate decent accuracy in projecting value shifts for the majority of players. However, they may encounter challenges when dealing with star players or big names. This can be attributed to the high expectations people have for these players due to their stellar past performances. As a result, the models might not perform as well in capturing the nuances of value changes for these top-tier athletes.
 
 ## Model Improvements
 Although the models did a decent job at predicting the awards, there are many drawbacks:
-The assumption that all leagues in the competition are equally competitive is not true. This can be fixed by building a model for each league separated by positions. To gather enough data for thorough analysis to achieve this, it is essential to gather player data from multiple seasons, spanning at least five years, for each league. 
-In the modern game, player positions are not divided into only 3 categories, there are a diverse set of player roles within each position, so data will need to be divided to factor this in. This also means a lot more data must be scraped.
-Difference in performance standard for average and star players. This can be fixed by including the current transfer value of the players. A higher transfer value should mean higher performance standard while a lower transfer value should mean lower performance standard.
-Variable selection in this analysis focuses solely on the statistics that are relevant to each player's specific position. When reducing collinearity, the attributes being removed are the ones that are highly correlated with each other. This can be optimized in a more rigorous way by applying principal component analysis.
-Media Influence also plays a part. If a player is on a mainstream team or is hyped up to become the next GOAT, they are more likely to be over valued. This is hard to be factored in as the model only looks at the numbers. One potential way is to create a new column called popularity that uses sentiment analysis of top soccer news sites to evaluate a popularity score of each player.
-What’s next?
+
+1. The assumption that all leagues in the competition are equally competitive is not true. This can be fixed by building a model for each league separated by positions. To gather enough data for thorough analysis to achieve this, it is essential to gather player data from multiple seasons, spanning at least five years, for each league.
+
+2. In the modern game, player positions are not divided into only 3 categories, there are a diverse set of player roles within each position, so data will need to be divided to factor this in. This also means a lot more data must be scraped.
+
+3. Difference in performance standard for average and star players. This can be fixed by including the current transfer value of the players. A higher transfer value should mean higher performance standard while a lower transfer value should mean lower performance standard.
+
+4. Variable selection in this analysis focuses solely on the statistics that are relevant to each player's specific position. When reducing collinearity, the attributes being removed are the ones that are highly correlated with each other. This can be optimized in a more rigorous way by applying principal component analysis.
+
+5. Media Influence also plays a part. If a player is on a mainstream team or is hyped up to become the next GOAT, they are more likely to be over valued. This is hard to be factored in as the model only looks at the numbers. One potential way is to create a new column called popularity that uses sentiment analysis of top soccer news sites to evaluate a popularity score of each player.
+
+### What’s next?
+
 Although the model performed well, it can definitely be improved to perform at a higher level. One major obstacle that I need to pass is data scraping. The more data that I have, the more accurate my models are and the more options I have in terms of grouping players. Therefore, the first step of improvement is to develop a more efficient way to scrape data from FBREF and Transfermarkt.
 
 # Player Performance Projection
-To simplify the recommendation model, I have decided to summarize player’s statistics into 5 different performance values. They are: Shooting, Passing, Dribbling, Defending, and Physical. To develop a mathematical model that effectively evaluates the players’ performance, I combined personal knowledge, expert evaluation methods, and the reference of how Fifa made their ratings.
+To simplify the recommendation model, I have decided to summarize player’s statistics into 5 different performance values. They are: Shooting, Passing, Dribbling, Defending, and Physical.
+
+To develop a mathematical model that effectively evaluates the players’ performance, I combined personal knowledge, expert evaluation methods, and the reference of how Fifa made their ratings.
 
 The different statistics are first scaled from 0 to 99 then each stats is computed as the following:
-Shooting = 0.30*Shots On Target / Matches Played + 0.45*Goals / Matches Played + 0.15*Goals Per Shot + 0.05*Penalties Made / Matches Played + 0.05*'Shots From Freekicks / Matches Played
+- Shooting = 0.30*Shots On Target / Matches Played + 0.45*Goals / Matches Played + 0.15*Goals Per Shot + 0.05*Penalties Made / Matches Played + 0.05*'Shots From Freekicks / Matches Played
 
-Passing = 0.45*Assists / Matches Played + 0.05*Passes Completed / Matches Played + 0.025*'Progressive Passing Distance / Matches Played + 0.025*Total Passing Distance / Matches Played + 0.45*Shot-Creating Actions/90
-Dribbling = 0.40*SCA Take-ons / Matches Played + 0.40*Goal Take-ons / Matches Played + 0.10*Shot-Creating Actions/90 + 0.10*Goal-Creating Actions/90
+- Passing = 0.45*Assists / Matches Played + 0.05*Passes Completed / Matches Played + 0.025*'Progressive Passing Distance / Matches Played + 0.025*Total Passing Distance / Matches Played + 0.45*Shot-Creating Actions/90
 
-Defending = 0.20*Successful Challenge %*Challenges / Matches Played + 0.20*Tackles Won / Matches Played + 0.20*Interceptions / Matches Played + 0.15*Clearances / Matches Played + 0.20*Blocks / Matches Played - 0.05*Errors / Matches Played
+- Dribbling = 0.40*SCA Take-ons / Matches Played + 0.40*Goal Take-ons / Matches Played + 0.10*Shot-Creating Actions/90 + 0.10*Goal-Creating Actions/90
 
-Physical = 0.20*Yellow Cards / Matches Played + 0.20*Red Cards / Matches Played + 0.20*Tackles / Matches Played + 0.20*Challenges / Matches Played + 0.10*SCA Defense / Matches Played + 0.10*Goal Defense / Matches Played
+- Defending = 0.20*Successful Challenge %*Challenges / Matches Played + 0.20*Tackles Won / Matches Played + 0.20*Interceptions / Matches Played + 0.15*Clearances / Matches Played + 0.20*Blocks / Matches Played - 0.05*Errors / Matches Played
+
+- Physical = 0.20*Yellow Cards / Matches Played + 0.20*Red Cards / Matches Played + 0.20*Tackles / Matches Played + 0.20*Challenges / Matches Played + 0.10*SCA Defense / Matches Played + 0.10*Goal Defense / Matches Played
 
 Afterwards, I factored in the matches played to ensure players’ who played more matches would rank higher than players who played few matches but did well in all of them. Matches played are worth 40%.
 
-
-Shooting = 0.40*Matches Played + 0.60*Shooting
-Passing = 0.40*Matches Played + 0.60*Passing
-Dribbling = 0.40*Matches Played + 0.60*Dribbling
-Defending = 0.40*Matches Played + 0.60*Defending
-Physical = 0.40*Matches Played + 0.60*Physical
+- Shooting = 0.40*Matches Played + 0.60*Shooting
+- Passing = 0.40*Matches Played + 0.60*Passing
+- Dribbling = 0.40*Matches Played + 0.60*Dribbling
+- Defending = 0.40*Matches Played + 0.60*Defending
+- Physical = 0.40*Matches Played + 0.60*Physical
 
 Finally, I scaled all performance values from 0 to 99 to get the initial performance ratings.
 
@@ -207,65 +231,78 @@ From then, after looking and evaluating many players’ ratings, I noticed that 
 
 From that, I added league weights to boost higher competitive leagues’ defenders since they generally have lower defense and pass ratings since they are facing stronger attackers. The leagues I scaled are the five big leagues. Premier League, La Liga, Serie A, Bundesliga, and Ligue 1. For defense ratings lower than 70 but greater than 50, I scaled them by +20. If defense ratings are less than 50, I scaled them by +48. For pass ratings, lower than 70 but greater than 50, I scaled them by +10. If pass ratings are lower than 50, I scaled them by +35.
 
-Interestingly, many of my players’ stats are really similar to their fifa ratings. Most ratings are off between 5 - 10 with some being very close 0-5 and some 10 - 15. For example, here is the Fifa 23 comparison to some of the most popular soccer stars right now. 
-Attackers:
-Erling Haaland, Kylian Mbappe
-				    
-My projections:
-Haaland: Shooting 95.93, Passing 65.11, Dribbling 84.18, Defending 41.95, Physical 88.06
-Mbappe: Shooting 90.13, Passing 77.61, Dribbling 91.75, Defending 42.61, Physical 85.70
-Lewandowski: Shooting 88.15, Passing 67.05, Dribbling 83.74, Defending 45.48, Physical 86.29
+Interestingly, many of my players’ stats are really similar to their fifa ratings. Most ratings are off between 5 - 10 with some being very close 0-5 and some 10 - 15. For example, here is the Fifa 23 comparison to some of the most popular soccer stars right now.
 
-Midfielders:
+### Attackers:
+Erling Haaland, Kylian Mbappe, Robert Lewandowski
+![Alt text](screenshots/FifaA.png)   
+My projections:
+- Haaland: Shooting 95.93, Passing 65.11, Dribbling 84.18, Defending 41.95, Physical 88.06
+- Mbappe: Shooting 90.13, Passing 77.61, Dribbling 91.75, Defending 42.61, Physical 85.70
+- Lewandowski: Shooting 88.15, Passing 67.05, Dribbling 83.74, Defending 45.48, Physical 86.29
+
+### Midfielders:
 Jude Bellingham, Kevin De Bruyne, Jamal Musiala
-	  	     
+![Alt text](screenshots/FifaM.png)	  	     
 My projections:
-Bellingham: Shooting 75.36, Passing 72.96, Dribbling 83.03, Defending, 72.51, Physical 81.05
-De Bruyne: Shooting 77.40, Passing 92.16, Dribbling 89.73, Defending 45.85, Physical 81.1
-Musiala: Shooting 83.75, Passing 81.57, Dribbling 90.51, Defending 46.78, Physical 84.02
+- Bellingham: Shooting 75.36, Passing 72.96, Dribbling 83.03, Defending, 72.51, Physical 81.05
+- De Bruyne: Shooting 77.40, Passing 92.16, Dribbling 89.73, Defending 45.85, Physical 81.1
+- Musiala: Shooting 83.75, Passing 81.57, Dribbling 90.51, Defending 46.78, Physical 84.02
 
-Defenders:
+### Defenders:
 Ruben Dias, Eder Militao, Virgil Van Dijk
-		     
+![Alt text](screenshots/FifaD.png)		     
 My projections:
-Dias: Shooting 45.17, Passing 78.94, Dribbling 52.2, Defending 91.94, Physical 85.45
-Militao: Shooting 67.73, Passing 79.91, Dribbling 66.71, Defending	 89.91, Physical 84.07
-Van Dijk: Shooting 60.55, Passing 79.14, Dribbling 64.54, Defending 92.14, Physical 80.76
+- Dias: Shooting 45.17, Passing 78.94, Dribbling 52.2, Defending 91.94, Physical 85.45
+- Militao: Shooting 67.73, Passing 79.91, Dribbling 66.71, Defending	 89.91, Physical 84.07
+- Van Dijk: Shooting 60.55, Passing 79.14, Dribbling 64.54, Defending 92.14, Physical 80.76
 
 For more player statistics, check out my streamlit app here.
 
 ## Projection Improvements
-Scaling each league’s players individually and then adding the coefficient of the competitiveness of each league. Right now, I don’t have enough data points to make this technique effective. I could expand the dataset by improving my scraper to include players from more leagues.
-The players in the dataset determine how the scalar works. If the dataset were to be changed, the entire project would end up different. I should select at least 60 players for each league(20 attackers, 20 midfielders, 20 defenders) that effectively represent high performance, low performance and mid performance for each position in each league.
-Collaborate with soccer experts/analysts for a better coefficient determination as well as taking more performance stats into account
+1. Scaling each league’s players individually and then adding the coefficient of the competitiveness of each league. Right now, I don’t have enough data points to make this technique effective. I could expand the dataset by improving my scraper to include players from more leagues.
+2. The players in the dataset determine how the scalar works. If the dataset were to be changed, the entire project would end up different. I should select at least 60 players for each league(20 attackers, 20 midfielders, 20 defenders) that effectively represent high performance, low performance and mid performance for each position in each league.
+3. Collaborate with soccer experts/analysts for a better coefficient determination as well as taking more performance stats into account
 
 # Recommendation Model
 I approached this model by finding the similarities between performance vectors. Since I have 5 different performance ratings, each player’s ratings will be graphed into a vector in the 5D plane. To determine how similar the factors are, I used k-Nearest Neighbors’ Euclidean distance and cosine similarity metrics.
 
 ## Euclidean Distance
 Formula:
-	
-
+![Alt text](screenshots/Euclidean.png)	
 What it does:
+
 Since euclidean distance finds the closeness of neighboring points, it determines how similar the players’ ratings are to one another. This means that the most similar player(s) will be the players at the most similar performance level.
 
 Usage:
+
 The player that has similar performance with Erling Haaland is Alvaro Morata. This is accurate because Morata is currently being wanted by Inter Milan, AS Roma, AC Milan and Juventus (July 2023). All big clubs.
+![Alt text](screenshots/P_Eucli.png)
 
 ## Cosine Similarity
 Formula:
-
-
+![Alt text](screenshots/CosineSimilarity.png)
 What it does:
+
 Since cosine similarity measures how aligned the directions of neighboring points are, it determines how similar the players' rating’s distributions are with one another. This means that the most similar player(s) will be the players with the most similar playstyle.
 
 Usage:
+
 The player that has a similar playstyle with Robert Lewandowski is Dusan Vlahovic. This is accurate because Lewandowski’s former club, Bayern Munich, is keeping Vlahovic as a potential Lewandowski replacement(July 2023). Showing that like Lewandowski, Vlahovic also fits Bayern’s playing scheme.
-
-
+![Alt text](screenshots/P_cosine.png)
 
 ### Fun Prediction
 Here is who I predict will become the next Ronaldo
-
+![Alt text](screenshots/p_fun.png)
 Kevin Paredes! He is USMNT’s new teenage star!. 20 Years Old Left Mid!
- 		
+![Alt text](screenshots/KevinParades.png)
+
+
+# StreamLit App
+UNDER CONSTRUCTION
+
+# Contributor
+## Bofei He
+![Alt text](screenshots/me.png)
+### LinkedIn: https://www.linkedin.com/in/bofei-tony-he/
+### Github: https://github.com/Chickychicken
