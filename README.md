@@ -316,7 +316,7 @@ Kevin Paredes!
 
 
 # StreamLit App
-UNDER CONSTRUCTION
+### https://soccer-transfer-market-application.streamlit.app/
 
 # Contributor
 ## Bofei He
