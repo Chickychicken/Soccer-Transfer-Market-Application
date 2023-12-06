@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
 # Load Model (replace this with your actual model loading code)
 recommender_ed = joblib.load(open('./Similarity Model/recommender_ed_model.pkl', 'rb'))
 recommender_cos = joblib.load(open('./Similarity Model/recommender_cos_model.pkl', 'rb'))
