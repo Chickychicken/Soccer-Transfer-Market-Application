@@ -320,7 +320,6 @@ Kevin Paredes!
 
 # Contributor
 ## Bofei He
-![Alt text](screenshots/me.png)
 ### LinkedIn: https://www.linkedin.com/in/bofei-tony-he/
 ### Github: https://github.com/Chickychicken
 ### Email: hbofei@gmail.com
